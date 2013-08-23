@@ -11,6 +11,7 @@
 09/16/1950|Parris Island Marines|0|Citadel|56
 09/16/1950|Texas-El Paso|0|Cincinnati|32
 09/18/1950|Duquesne|14|St. Vincent's (Penn.)|14
+09/22/1950|Kent State|0|Charleston|7
 09/22/1950|Mississippi|39|Memphis|7
 09/22/1950|St. Mary's|0|Pacific|40
 09/22/1950|Wake Forest|7|Boston College|7
@@ -43,6 +44,7 @@
 09/23/1950|New Mexico State|0|Texas-El Paso|40
 09/23/1950|North Carolina State|7|North Carolina|13
 09/23/1950|Northern Arizona|0|New Mexico|78
+09/23/1950|Ohio|28|Akron|6
 09/23/1950|Oklahoma State|12|Arkansas|7
 09/23/1950|Oregon|0|UCLA|28
 09/23/1950|Oregon State|13|Michigan State|38
@@ -64,9 +66,11 @@
 09/23/1950|Western Reserve|13|West Virginia|38
 09/23/1950|William & Mary|19|Virginia Military Institute|25
 09/29/1950|Citadel|0|Miami (Florida)|21
+09/29/1950|Eastern Michigan|7|Akron|40
 09/29/1950|Georgia|7|St. Mary's|7
 09/29/1950|Iowa|20|Southern California|14
 09/29/1950|Kansas|46|Denver|6
+09/29/1950|Kent St|14|Mount Union|19
 09/29/1950|Pepperdine|27|Brigham Young|28
 09/29/1950|San Diego State|0|San Jose State|26
 09/29/1950|Syracuse|6|Temple|7
@@ -135,7 +139,7 @@
 10/07/1950|Baylor|14|Mississippi State|7
 10/07/1950|Boston College|0|Mississippi|54
 10/07/1950|Boston University|21|Duquesne|7
-10/07/1950|Bradley|14|Bowling Green State|20
+10/07/1950|Bradley|14|Bowling Green|20
 10/07/1950|Brown|21|Holy Cross|41
 10/07/1950|Colorado|21|Kansas|27
 10/07/1950|Colorado State|0|Wyoming|34
@@ -152,6 +156,7 @@
 10/07/1950|Idaho|33|Texas-El Paso|43
 10/07/1950|Iowa|7|Indiana|20
 10/07/1950|Kansas State|6|Marquette|46
+10/07/1950|Kent State|7|John Carroll|48
 10/07/1950|Louisiana College|0|Tulane|64
 10/07/1950|Louisiana State|20|Rice|35
 10/07/1950|Loyola Marymount|48|St. Mary's|0
@@ -165,6 +170,7 @@
 10/07/1950|Northern Arizona|0|Arizona State|63
 10/07/1950|Northern Iowa|8|Iowa State|26
 10/07/1950|Northwestern|22|Navy|0
+10/07/1950|Ohio|21|Butler|14
 10/07/1950|Oklahoma State|14|Drake|14
 10/07/1950|Penn State|7|Army|41
 10/07/1950|Pennsylvania|7|California|14
@@ -215,6 +221,7 @@
 10/14/1950|Holy Cross|28|Colgate|35
 10/14/1950|Kansas|33|Iowa State|21
 10/14/1950|Louisville|7|Houston|27
+10/14/1950|Marietta|0|Kent State|58
 10/14/1950|Maryland|25|Georgetown|14
 10/14/1950|Miami (Florida)|20|Purdue|14
 10/14/1950|Michigan|6|Army|27
@@ -251,6 +258,7 @@
 10/14/1950|Washington & Lee|21|Virginia|26
 10/14/1950|Washington State|14|Montana|7
 10/14/1950|Western Michigan|0|Miami (Ohio)|35
+10/14/1950|Western Reserve|0|Ohio|35
 10/14/1950|Wichita State|34|Bradley|6
 10/14/1950|William & Mary|14|Michigan State|33
 10/14/1950|Wisconsin|14|Iowa|0
@@ -290,6 +298,7 @@
 10/21/1950|New York University|0|Rutgers|42
 10/21/1950|North Carolina State|16|Maryland|13
 10/21/1950|Notre Dame|7|Indiana|20
+10/21/1950|Ohio|13|Kent State|35
 10/21/1950|Ohio State|48|Minnesota|0
 10/21/1950|Oklahoma State|7|Kansas|40
 10/21/1950|Penn State|0|Nebraska|19
@@ -319,8 +328,10 @@
 10/21/1950|Yale|0|Cornell|7
 10/22/1950|Santa Clara|55|Nevada|0
 10/27/1950|Georgia|19|Boston College|7
+10/27/1950|Northern Illinois|7|Kent State|56
 10/27/1950|South Carolina|34|George Washington|20
 10/28/1950|Army|34|Columbia|0
+10/28/1950|Bowling Green|39|Toledo|14
 10/28/1950|Catawba|14|Virginia Military Institute|13
 10/28/1950|Citadel|7|Presbyterian|0
 10/28/1950|Clemson|13|Wake Forest|12
@@ -391,6 +402,7 @@
 11/04/1950|Army|28|Pennsylvania|13
 11/04/1950|Auburn|0|Mississippi State|27
 11/04/1950|Baylor|20|Texas Christian|14
+11/04/1950|Bowling Green|6|Kent State|19
 11/04/1950|Bradley|14|Drake|42
 11/04/1950|Brigham Young|34|Utah State|13
 11/04/1950|Brown|12|Rutgers|15
@@ -420,6 +432,7 @@
 11/04/1950|North Carolina|0|Tennessee|16
 11/04/1950|North Carolina State|7|Richmond|0
 11/04/1950|Northern Arizona|7|Whittier|28
+11/04/1950|Ohio|0|Cincinnati|23
 11/04/1950|Ohio State|32|Northwestern|0
 11/04/1950|Oklahoma|27|Colorado|18
 11/04/1950|Oklahoma State|13|Tulsa|27
@@ -468,6 +481,7 @@
 11/11/1950|Illinois|21|Iowa|7
 11/11/1950|Indiana|7|Michigan|20
 11/11/1950|Kansas State|21|Nebraska|49
+11/11/1950|Kent State|19|Akron|7
 11/11/1950|Kentucky|48|Mississippi State|21
 11/11/1950|Lafayette|7|Rutgers|31
 11/11/1950|Louisiana State|33|Vanderbilt|7
@@ -479,6 +493,7 @@
 11/11/1950|North Texas|16|Houston|13
 11/11/1950|Northern Arizona|6|Western New Mexico|28
 11/11/1950|Northwestern|19|Purdue|14
+11/11/1950|Ohio|22|Buffalo|14
 11/11/1950|Oklahoma|33|Kansas|13
 11/11/1950|Oklahoma State|32|Wichita State|20
 11/11/1950|Oregon|13|Washington|27
@@ -528,6 +543,7 @@
 11/18/1950|Idaho|26|Boston University|19
 11/18/1950|Iowa State|13|Nebraska|20
 11/18/1950|Kansas|47|Kansas State|7
+11/18/1950|Kent State|7|New Hampshire|13
 11/18/1950|Marquette|7|Indiana|18
 11/18/1950|Maryland|41|West Virginia|0
 11/18/1950|Miami (Florida)|20|Florida|14
@@ -565,11 +581,13 @@
 11/18/1950|Washington|28|Southern California|13
 11/18/1950|Washington & Lee|33|Louisville|28
 11/18/1950|West Texas A&M|47|Hardin-Simmons|31
+11/18/1950|Western Michigan|7|Ohio|10
 11/18/1950|Wichita State|0|Tulsa|48
 11/18/1950|William & Mary|18|Houston|36
 11/18/1950|Wisconsin|0|Pennsylvania|20
 11/23/1950|Arkansas|13|Tulsa|28
 11/23/1950|Kansas|6|Missouri|20
+11/23/1950|Marshall|6|Ohio|14
 11/23/1950|Nevada|19|Wichita State|37
 11/23/1950|Utah State|0|Utah|46
 11/23/1950|Virginia Military Institute|27|Virginia Tech|0
@@ -656,3 +674,16 @@
 01/01/1951|Tennessee|20|Texas|14
 01/01/1951|Washington & Lee|7|Wyoming|20
 01/01/1951|West Texas A&M|14|Cincinnati|13
+
+12/31/1950|Wooster|7|Akron|34
+12/31/1950|Baldwin-Wallace|33|Akron|6
+12/31/1950|Mount Union|32|Akron|19
+12/31/1950|Geneva|12|Akron|6
+12/31/1950|Heidelberg|21|Akron|7
+12/31/1950|Carnegie Tech|26|Akron|6
+12/31/1950|Rider|0|Bowling Green|0
+12/31/1950|Eastern Kentucky|34|Bowling Green|7
+12/31/1950|Central Michigan|12|Bowling Green|0
+12/31/1950|Youngstown State|7|Bowling Green|22
+12/31/1950|Baldwin-Wallace|34|Bowling Green|34
+12/31/1950|Bowling Green|0|Central Michigan|12
