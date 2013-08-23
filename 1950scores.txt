@@ -96,6 +96,7 @@
 09/30/1950|Lafayette|0|Cornell|27
 09/30/1950|Marquette|6|Wisconsin|28
 09/30/1950|McMurry|19|West Texas A&M|41
+09/30/1950|Miami (Ohio)|54|Bowling Green|6
 09/30/1950|Michigan State|14|Michigan|7
 09/30/1950|Minnesota|13|Washington|28
 09/30/1950|Mississippi|0|Kentucky|27
@@ -189,6 +190,7 @@
 10/07/1950|West Texas A&M|28|Texas Tech|13
 10/07/1950|Western Reserve|6|Colgate|47
 10/07/1950|Wisconsin|7|Illinois|6
+10/07/1950|Xavier|7|Miami (Ohio)|0
 10/08/1950|Nevada|6|San Francisco|66
 10/13/1950|Fordham|26|Boston College|6
 10/13/1950|Furman|6|Alabama|34
@@ -248,6 +250,7 @@
 10/14/1950|Washington|35|Oregon State|6
 10/14/1950|Washington & Lee|21|Virginia|26
 10/14/1950|Washington State|14|Montana|7
+10/14/1950|Western Michigan|0|Miami (Ohio)|35
 10/14/1950|Wichita State|34|Bradley|6
 10/14/1950|William & Mary|14|Michigan State|33
 10/14/1950|Wisconsin|14|Iowa|0
@@ -280,6 +283,7 @@
 10/21/1950|Lehigh|16|Dartmouth|14
 10/21/1950|Loyola Marymount|35|Pacific|33
 10/21/1950|Marquette|6|Michigan State|34
+10/21/1950|Miami (Ohio)|42|Butler|7
 10/21/1950|Mississippi|20|Tulane|27
 10/21/1950|Montana|33|Montana State|0
 10/21/1950|New Mexico Military|7|New Mexico State|27
@@ -340,6 +344,7 @@
 10/28/1950|Marquette|21|Santa Clara|14
 10/28/1950|Maryland|26|Duke|14
 10/28/1950|Miami (Florida)|28|Pittsburgh|0
+10/28/1950|Miami (Ohio)|28|Ohio|20
 10/28/1950|Michigan|7|Minnesota|7
 10/28/1950|Michigan State|36|Notre Dame|33
 10/28/1950|Mississippi State|7|Alabama|14
@@ -450,6 +455,7 @@
 11/11/1950|Colorado|19|Missouri|21
 11/11/1950|Columbia|7|Dartmouth|14
 11/11/1950|Davidson|7|North Carolina State|15
+11/11/1950|Dayton|12|Miami (Ohio)|27
 11/11/1950|Drake|35|Iowa State|21
 11/11/1950|Florida|0|Georgia|6
 11/11/1950|Fresno State|0|Loyola Marymount|28
@@ -525,6 +531,7 @@
 11/18/1950|Marquette|7|Indiana|18
 11/18/1950|Maryland|41|West Virginia|0
 11/18/1950|Miami (Florida)|20|Florida|14
+11/18/1950|Miami (Ohio)|69|Western Reserve|14
 11/18/1950|Michigan State|19|Pittsburgh|0
 11/18/1950|Mississippi|0|Tennessee|35
 11/18/1950|Mississippi State|13|Louisiana State|7
@@ -594,6 +601,7 @@
 11/25/1950|Kansas State|0|Oklahoma State|41
 11/25/1950|Kentucky|0|Tennessee|7
 11/25/1950|Loyola Marymount|26|Santa Clara|28
+11/25/1950|Miami (Ohio)|28|Cincinnati|0
 11/25/1950|Michigan|9|Ohio State|3
 11/25/1950|Minnesota|0|Wisconsin|14
 11/25/1950|Nebraska|35|Oklahoma|49
