@@ -1,0 +1,9 @@
+09/21/1940|Detroit Tech|0|Akron|0
+09/28/1940|Akron|0|Colgate|44
+10/04/1940|Western Reserve|6|Akron|0
+10/12/1940|Illinois Wesleyan|16|Akron|6
+10/19/1940|Akron|7|Wayne State|7
+10/25/1940|Akron|7|Baldwin-Wallace|13
+11/02/1940|Youngstown State|13|Akron|0
+11/09/1940|Kent State|7|Akron|23
+11/21/1940|John Carroll|0|Akron|47
