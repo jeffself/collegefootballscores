@@ -102,6 +102,7 @@
 09/30/1950|Davidson|20|Furman|32
 09/30/1950|Detroit Mercy|34|Wayne State|0
 09/30/1950|Duquesne|14|Florida|27
+09/30/1950|Florida State|26|Troy|7
 09/30/1950|Georgetown|14|Penn State|34
 09/30/1950|Hampden-Sydney|38|East Carolina|26
 09/30/1950|Hobart|12|Columbia|42
@@ -200,6 +201,7 @@
 10/07/1950|Pennsylvania|7|California|14
 10/07/1950|Pittsburgh|7|Ohio State|41
 10/07/1950|Purdue|28|Notre Dame|14
+10/07/1950|Randolph-Macon|7|Florida State|40
 10/07/1950|Rutgers|28|Princeton|34
 10/07/1950|Santa Clara|10|San Jose State|14
 10/07/1950|Southeastern Louisiana|6|Auburn|0
@@ -277,6 +279,7 @@
 10/14/1950|Richmond|7|West Virginia|46
 10/14/1950|St. Bonaventure|25|Boston University|21
 10/14/1950|St. Mary's|7|San Francisco|33
+10/14/1950|Samford|6|Florida State|20
 10/14/1950|Santa Clara|13|Stanford|23
 10/14/1950|Southern Illinois|20|Northern Illinois|44
 10/14/1950|Temple|20|Rutgers|26
@@ -320,6 +323,7 @@
 10/21/1950|Duke|41|Richmond|0
 10/21/1950|Eastern Michigan|13|Ball State|0
 10/21/1950|Florida|31|Vanderbilt|27
+10/21/1950|Florida State|24|Newberry College|0
 10/21/1950|Fordham|27|West Virginia|23
 10/21/1950|Fresno State|7|San Jose State|33
 10/21/1950|George Washington|7|Wake Forest|13
@@ -364,6 +368,7 @@
 10/21/1950|Washington|13|Illinois|20
 10/21/1950|Washington & Lee|47|Davidson|12
 10/21/1950|Wayne State|0|Temple|26
+10/21/1950|Western Michigan|26|Washington (MO)|7
 10/21/1950|Western Reserve|6|Cincinnati|48
 10/21/1950|William & Mary|54|Virginia Tech|0
 10/21/1950|Wisconsin|13|Michigan|26
@@ -422,6 +427,7 @@
 10/28/1950|Rutgers|18|Lehigh|21
 10/28/1950|San Francisco|14|Fordham|21
 10/28/1950|San Jose State|48|Pepperdine|7
+10/28/1950|Sewanee|8|Florida State|14
 10/28/1950|St. Mary's|25|California|40
 10/28/1950|Syracuse|13|Boston University|7
 10/28/1950|Temple|7|Penn State|7
@@ -457,6 +463,7 @@
 11/04/1950|Bradley|14|Drake|42
 11/04/1950|Brigham Young|34|Utah State|13
 11/04/1950|Brown|12|Rutgers|15
+11/04/1950|Butler|13|Western Michigan|34
 11/04/1950|California|14|Washington|7
 11/04/1950|Colgate|7|Princeton|45
 11/04/1950|Connecticut|7|New Hampshire|21
@@ -513,6 +520,7 @@
 11/04/1950|Wyoming|14|Idaho|7
 11/05/1950|Nevada|14|St. Mary's|25
 11/10/1950|Eastern Michigan|13|Southern Illinois|44
+11/10/1950|Florida State|27|Stetson|7
 11/10/1950|Louisville|13|Miami (Florida)|13
 11/10/1950|St. Mary's|6|San Jose State|18
 11/10/1950|Syracuse|16|John Carroll|21
@@ -580,6 +588,7 @@
 11/11/1950|Washington & Lee|32|Delaware|0
 11/11/1950|Washington State|18|Stanford|28
 11/11/1950|West Virginia|0|Penn State|27
+11/11/1950|Western Reserve|26|Western Michigan|0
 11/11/1950|William & Mary|0|Virginia|13
 11/11/1950|Wisconsin|14|Ohio State|19
 11/11/1950|Wyoming|48|Brigham Young|0
@@ -587,6 +596,7 @@
 11/17/1950|Barton|7|East Carolina|54
 11/17/1950|Brigham Young|7|Hawaii|39
 11/17/1950|Duquesne|20|Tennessee-Chattanooga|32
+11/17/1950|Mississippi College|0|Florida State|33
 11/17/1950|Northern Michigan|0|Eastern Michigan|45
 11/18/1950|Alabama|54|Georgia Tech|19
 11/18/1950|Army|7|Stanford|0
@@ -646,6 +656,7 @@
 11/18/1950|Virginia Tech|6|Duke|47
 11/18/1950|Washington|28|Southern California|13
 11/18/1950|Washington & Lee|33|Louisville|28
+11/18/1950|West Alabama|0|Troy|0
 11/18/1950|West Texas A&M|47|Hardin-Simmons|31
 11/18/1950|Western Michigan|7|Ohio|10
 11/18/1950|Wichita State|0|Tulsa|48
@@ -665,6 +676,7 @@
 11/24/1950|Midwestern Texas State|18|Houston|40
 11/24/1950|Montana|7|San Jose State|32
 11/24/1950|North Texas|31|Fresno State|12
+11/24/1950|Tampa|19|Florida State|35
 11/24/1950|Villanova|7|Louisiana State|13
 11/25/1950|Alabama|41|Florida|13
 11/25/1950|Baylor|3|Southern Methodist|0
@@ -755,6 +767,7 @@
 12/31/1950|Brooklyn|6|Buffalo|52
 12/31/1950|Carnegie Tech|26|Akron|6
 12/31/1950|Central Michigan|12|Bowling Green|0
+12/31/1950|Chipola College|0|Troy|42
 12/31/1950|Dayton|35|Marshall|6
 12/31/1950|Dayton|14|Toledo|13
 12/31/1950|Delta State|19|Arkansas State|6
@@ -768,8 +781,10 @@
 12/31/1950|Heidelberg|21|Akron|7
 12/31/1950|Henderson State|13|Arkansas State|27
 12/31/1950|Hillsdale|21|Central Michigan|20
+12/31/1950|Howard|6|Troy|21
 12/31/1950|Howard Payne|20|Louisiana Tech|27
 12/31/1950|Illinois State|14|Central Michigan|13
+12/31/1950|Jacksonville State|9|Troy|0
 12/31/1950|John Carroll|39|Marshall|2
 12/31/1950|John Carroll|41|Toledo|0
 12/31/1950|Lamar|0|Middle Tennessee State|27
@@ -791,6 +806,7 @@
 12/31/1950|Niagara|27|Buffalo|13
 12/31/1950|North Alabama|0|Arkansas State|27
 12/31/1950|North Alabama|6|Middle Tennessee State|26
+12/31/1950|North Alabama|0|Troy|19
 12/31/1950|Northwestern State|7|Louisiana Tech|15
 12/31/1950|Northwestern State|12|Louisiana-Lafayette|7
 12/31/1950|Ouachita Baptist|0|Arkansas State|20
@@ -800,10 +816,12 @@
 12/31/1950|SUNY-Cortland|0|Buffalo|13
 12/31/1950|Southeastern Louisiana|0|Louisiana Tech|14
 12/31/1950|Southeastern Louisiana|0|Louisiana-Lafayette|6
+12/31/1950|Southeastern Louisiana|18|Troy|7
 12/31/1950|Southern Illinois|0|Arkansas State|46
 12/31/1950|Southern Mississippi|41|Louisiana Tech|20
 12/31/1950|Stephen F. Austin|6|Louisiana Tech|21
 12/31/1950|Stephen F. Austin|13|Louisiana-Lafayette|20
+12/31/1950|Stetson|24|Troy|12
 12/31/1950|Tennessee-Chattanooga|8|Memphis|26
 12/31/1950|Tennessee Tech|0|Marshall|13
 12/31/1950|Tennessee Tech|7|Middle Tennessee State|28
