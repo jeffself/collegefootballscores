@@ -1,0 +1,9 @@
+09/28/1946|Lawrence Tech(MI)|13|Akron|31
+10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
+10/12/1946|Case Institute(OH)|0|Akron|13
+10/19/1946|Akron|7|Mount Union|12
+10/26/1946|Toledo|33|Akron|13
+11/02/1946|Akron|13|Western Reserve|6
+11/09/1946|Wooster(OH)|20|Akron|26
+11/16/1946|Akron|6|Kent State|13
+11/23/1946|John Carroll(OH)|6|Akron|13

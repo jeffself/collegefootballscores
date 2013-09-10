@@ -1,0 +1,9 @@
+09/24/1949|Findlay(OH)|0|Akron|34
+10/01/1949|Akron|20|Eastern Michigan|6
+10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
+10/15/1949|Akron|6|Louisville|62
+10/22/1949|Mount Union|23|Akron|14
+10/29/1949|Akron|13|Wooster(OH)|13
+11/05/1949|Geneva(PA)|27|Akron|6
+11/12/1949|Akron|0|Kent State|47
+11/19/1949|Akron|14|Heidelberg(OH)|34
