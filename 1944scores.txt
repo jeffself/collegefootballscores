@@ -1,0 +1,9 @@
+09/30/1944|Alabama|27|LSU|27
+10/07/1944|Samford(AL)|7|Alabama|63
+10/14/1944|Millsaps(MS)|0|Alabama|55
+10/21/1944|Alabama|0|Tennessee|0
+10/27/1944|Kentucky|0|Alabama|41
+11/04/1944|Georgia|14|Alabama|7
+11/11/1944|Mississippi|6|Alabama|34
+11/18/1944|Mississippi State|0|Alabama|19
+01/01/1945|Alabama|26|Duke|29
