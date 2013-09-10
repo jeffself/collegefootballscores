@@ -1,9 +1,20 @@
 09/26/1941|Akron|10|Muskingum|0
+09/27/1941|Louisiana-Lafayette|6|Alabama|47
 10/03/1941|Bowling Green|0|Akron|8
+10/04/1941|Mississippi State|14|Alabama|0
 10/10/1941|Western Reserve|12|Akron|6
+10/11/1941|Samford(AL)|0|Alabama|61
+10/18/1941|Alabama|9|Tennessee|2
 10/18/1941|Ohio|0|Akron|0
 10/24/1941|Baldwin-Wallace|14|Akron|0
+10/25/1941|Georgia|14|Alabama|27
+11/01/1941|Kentucky|0|Alabama|30
 11/01/1941|Ohio Wesleyan|6|Akron|28
 11/07/1941|Akron|0|Youngstown State|19
+11/08/1941|Alabama|19|Tulane|14
+11/15/1941|Georgia Tech|0|Alabama|20
 11/15/1941|Kent State|13|Akron|41
 11/20/1941|John Carroll|12|Akron|21
+11/22/1941|Alabama|0|Vanderbilt|7
+11/28/1941|Alabama|21|Miami(FL)|7
+01/01/1942|Alabama|29|Texas A&M|21
