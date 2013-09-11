@@ -1,20 +1,29 @@
 09/23/1944|Arkansas|7|Missouri|6
 09/29/1944|Arkansas|0|Oklahoma State|19
 09/30/1944|Alabama|27|LSU|27
+09/30/1944|North Carolina|0|Army|46
 10/07/1944|Samford(AL)|7|Alabama|63
 10/07/1944|Arkansas|6|TCU|6
+10/07/1944|Brown|7|Army|59
 10/14/1944|Millsaps(MS)|0|Alabama|55
 10/14/1944|Normas NAS(OK)|27|Arkansas|7
+10/14/1944|Pittsburgh|7|Army|69
 10/21/1944|Alabama|0|Tennessee|0
 10/21/1944|Texas|19|Arkansas|0
+10/21/1944|Coast Guard|0|Army|76
 10/27/1944|Kentucky|0|Alabama|41
 10/28/1944|Mississippi|18|Arkansas|26
+10/28/1944|Army|27|Duke|7
 11/04/1944|Georgia|14|Alabama|7
 11/04/1944|Arkansas|7|Texas A&M|6
+11/04/1944|Villanova|0|Army|83
 11/11/1944|Mississippi|6|Alabama|34
 11/11/1944|Rice|7|Arkansas|12
+11/11/1944|Army|59|Notre Dame|0
 11/18/1944|Mississippi State|0|Alabama|19
 11/18/1944|Arkansas|12|SMU|20
+11/18/1944|Army|62|Pennsylvania|7
 11/23/1944|Arkansas|2|Tulsa|33
 12/02/1944|Arkansas-Monticello|0|Arkansas|41
+12/02/1944|Navy|7|Army|23
 01/01/1945|Alabama|26|Duke|29
