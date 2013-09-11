@@ -1,20 +1,30 @@
 09/18/1942|Western Reserve|39|Akron|0
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
 09/25/1942|Muskingum|7|Akron|7
+09/26/1942|New Mexico State|0|Arizona|53
 10/03/1942|Akron|0|Ohio|39
 10/03/1942|Mississippi State|6|Alabama|21
+10/03/1942|Utah|0|Arizona|14
+10/10/1942|Arizona|23|Arizona State|0
 10/10/1942|Eastern Kentucky|6|Akron|0
 10/10/1942|Pensacola NAS(FL)|0|Alabama|27
 10/17/1942|Akron|7|Ohio Wesleyan|19
+10/17/1942|Oklahoma State|6|Arizona|20
 10/17/1942|Tennessee|0|Alabama|8
 10/24/1942|Alabama|14|Kentucky|0
+10/24/1942|Arizona|0|Marquette|39
 10/31/1942|Alabama|10|Georgia|21
 10/31/1942|Baldwin-Wallace|22|Akron|0
+10/31/1942|Hardin-Simmons|34|Arizona|26
 11/07/1942|Akron|6|Wayne State|28
+11/07/1942|New Mexico|13|Arizona|14
 11/07/1942|South Carolina|0|Alabama|29
 11/14/1942|Alabama|0|Georgia Tech|7
+11/14/1942|Arizona|19|Texas-El Paso|7
 11/14/1942|Kent State|23|Akron|6
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
+11/26/1942|Texas Tech|13|Arizona|7
 11/28/1942|Georgia Navy Pre-Flight|35|Alabama|19
+12/05/1942|2nd Air Force(CO)|27|Arizona|13
 01/01/1943|Alabama|37|Boston College|21
