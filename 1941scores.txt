@@ -3,38 +3,48 @@
 09/26/1941|Akron|10|Muskingum|0
 09/27/1941|Louisiana-Lafayette|6|Alabama|47
 09/27/1941|Arizona|7|Notre Dame|38
+09/27/1941|Central Oklahoma|0|Arkansas|56
 10/03/1941|Bowling Green|0|Akron|8
 10/04/1941|Mississippi State|14|Alabama|0
 10/04/1941|New Mexico State|0|Arizona|47
 10/04/1941|West Texas A&M|13|Arizona State|7
+10/04/1941|TCU|9|Arkansas|0
 10/10/1941|Western Reserve|12|Akron|6
+10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
 10/11/1941|New Mexico|0|Arizona State|0
-10/11/1941|Samford(AL)|0|Alabama|61
+10/11/1941|Arkansas|7|Baylor|20
+10/18/1941|Ohio|0|Akron|0
 10/18/1941|Alabama|9|Tennessee|2
 10/18/1941|Arizona|31|New Mexico|6
 10/18/1941|Arizona State|19|New Mexico State|14
-10/18/1941|Ohio|0|Akron|0
+10/18/1941|Arkansas|14|Texas|48
 10/24/1941|Baldwin-Wallace|14|Akron|0
+10/24/1941|Arkansas|9|Detroit|6
 10/25/1941|Arizona|20|Arizona State|7
 10/25/1941|Georgia|14|Alabama|27
 10/31/1941|Arizona State|6|Northern Colorado|0
-11/01/1941|Kentucky|0|Alabama|30
 11/01/1941|Ohio Wesleyan|6|Akron|28
+11/01/1941|Kentucky|0|Alabama|30
 11/01/1941|Texas-El Paso|14|Arizona|33
+11/01/1941|Texas A&M|7|Arkansas|0
 11/07/1941|Akron|0|Youngstown State|19
 11/08/1941|Alabama|19|Tulane|14
 11/08/1941|Northern Arizona|0|Arizona|41
 11/08/1941|Texas-El Paso|28|Arizona State|0
-11/15/1941|Arizona|14|Oklahoma State|41
-11/15/1941|Georgia Tech|0|Alabama|20
+11/08/1941|Arkansas|12|Rice|21
 11/15/1941|Kent State|13|Akron|41
+11/15/1941|Georgia Tech|0|Alabama|20
+11/15/1941|Arizona|14|Oklahoma State|41
 11/15/1941|Northern Arizona|0|Arizona State|33
+11/15/1941|SMU|14|Arkansas|7
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll|12|Akron|21
 11/22/1941|Alabama|0|Vanderbilt|7
-11/29/1941|Kansas State|21|Arizona|28
+11/22/1941|Mississippi|18|Arkansas|0
+11/27/1941|Arkansas|13|Tulsa|6
 11/28/1941|Alabama|21|Miami(FL)|7
+11/29/1941|Kansas State|21|Arizona|28
 12/06/1941|Utah|12|Arizona|6
 12/06/1941|Hardin-Simmons|20|Arizona State|0
 01/01/1942|Alabama|29|Texas A&M|21
