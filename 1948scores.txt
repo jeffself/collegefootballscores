@@ -4,37 +4,46 @@
 09/25/1948|San Diego State|6|Arizona|14
 09/25/1948|Western State(CO)|0|Arizona State|23
 09/25/1948|Texas A&M-Commerce|7|Arkansas|46
+09/25/1948|Mississippi College|0|Arkansas State|12
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
 10/02/1948|Vanderbilt|14|Alabama|14
 10/02/1948|Arizona|14|Utah|47
 10/02/1948|Pepperdine|7|Arizona State|33
 10/02/1948|TCU|14|Arkansas|27
+10/02/1948|Western Kentucky|12|Arkansas State|13
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons|14|Arizona|20
 10/09/1948|Arizona State|17|Utah State|22
 10/09/1948|Baylor|23|Arkansas|7
+10/09/1948|Arkansas State|6|Kansas State|37
 10/16/1948|Louisville|13|Akron|0
 10/16/1948|Alabama|6|Tennessee|21
 10/16/1948|Arizona|7|Michigan State|61
 10/16/1948|Northern Arizona|0|Arizona State|40
 10/16/1948|Arkansas|6|Texas|14
+10/16/1948|Arkansas State|7|Middle Tennessee State|14
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|Alabama|10|Mississippi State|7
 10/23/1948|Texas Tech|31|Arizona|0
+10/23/1948|Arkansas State|13|Delta State|13
 10/30/1948|Wooster(OH)|6|Akron|20
 10/30/1948|Georgia|35|Alabama|0
 10/30/1948|Arizona State|21|Arizona|33
 10/30/1948|Arkansas|28|Texas A&M|6
+10/30/1948|Arkansas State|27|Southern Illinois|21
 11/06/1948|Southern Miss|0|Alabama|27
 11/06/1948|Arizona|14|New Mexico|6
 11/06/1948|Arizona State|52|New Mexico State|7
 11/06/1948|Rice|25|Arkansas|6
+11/06/1948|Henderson State|14|Arkansas State|34
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/13/1948|Alabama|14|Georgia Tech|12
 11/13/1948|Texas-El Paso|25|Arizona|14
 11/13/1948|SMU|14|Arkansas|12
+11/13/1948|Arkansas State|6|Northwestern State|41
+11/19/1948|Arkansas State|13|Memphis|34
 11/20/1948|Heidelberg(OH)|34|Akron|0
 11/20/1948|Alabama|6|LSU|26
 11/20/1948|Iowa State|7|Arizona|14
