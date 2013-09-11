@@ -1,15 +1,19 @@
 09/24/1948|Akron|14|Findlay(OH)|9
 09/25/1948|Alabama|14|Tulane|21
 09/25/1948|San Diego State|6|Arizona|14
+09/25/1948|Western State(CO)|0|Arizona State|23
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
 10/02/1948|Arizona|14|Utah|47
+10/02/1948|Pepperdine|7|Arizona State|33
 10/02/1948|Vanderbilt|14|Alabama|14
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
+10/09/1948|Arizona State|17|Utah State|22
 10/09/1948|Hardin-Simmons|14|Arizona|20
 10/16/1948|Alabama|6|Tennessee|21
 10/16/1948|Arizona|7|Michigan State|61
 10/16/1948|Louisville|13|Akron|0
+10/16/1948|Northern Arizona|0|Arizona State|40
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|Alabama|10|Mississippi State|7
 10/23/1948|Texas Tech|31|Arizona|0
@@ -17,14 +21,19 @@
 10/30/1948|Georgia|35|Alabama|0
 10/30/1948|Wooster(OH)|6|Akron|20
 11/06/1948|Arizona|14|New Mexico|6
+11/06/1948|Arizona State|52|New Mexico State|7
 11/06/1948|Southern Miss|0|Alabama|27
+11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/12/1948|Kent State|31|Akron|0
 11/13/1948|Alabama|14|Georgia Tech|12
 11/13/1948|Texas-El Paso|25|Arizona|14
 11/20/1948|Alabama|6|LSU|26
+11/20/1948|Arizona State|25|Hardin-Simmons|63
 11/20/1948|Heidelberg(OH)|34|Akron|0
 11/20/1948|Iowa State|7|Arizona|14
+11/26/1948|Brigham Young|27|Arizona State|25
 11/27/1948|Florida|28|Alabama|34
 11/27/1948|Marquette|14|Arizona|24
 12/04/1948|Auburn|0|Alabama|55
+12/14/1948|New Mexico|17|Arizona State|28
 01/01/1949|Arizona|13|Drake|14
