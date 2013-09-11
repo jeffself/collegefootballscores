@@ -1,15 +1,25 @@
+09/22/1945|Arkansas|12|Barksdale AFB(LA)|6
 09/29/1945|Alabama|21|Keesler Field(MS)|0
+09/29/1945|Oklahoma State|19|Arkansas|14
 10/06/1945|Alabama|26|LSU|7
+10/06/1945|TCU|14|Arkansas|27
 10/13/1945|Northern Arizona|6|Arizona|52
 10/13/1945|South Carolina|0|Alabama|55
+10/13/1945|Arkansas|13|Baylor|23
 10/20/1945|Arizona|46|San Diego State|0
 10/20/1945|Tennessee|7|Alabama|25
+10/20/1945|Texas|34|Arkansas|7
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
+10/27/1945|Arkansas|19|Mississippi|0
 11/03/1945|Alabama|60|Kentucky|19
+11/03/1945|Texas A&M|34|Arkansas|0
 11/10/1945|Cal Poly-San Luis Obispo|6|Arizona|37
+11/10/1945|Arkansas|7|Rice|26
 11/17/1945|Alabama|71|Vanderbilt|0
 11/17/1945|San Diego State|0|Arizona|28
+11/17/1945|Arkansas|0|SMU|21
+11/23/1945|Arkansas|13|Tulsa|45
 11/24/1945|Pensacola NAS(FL)|6|Alabama|55
 12/01/1945|Mississippi State|13|Alabama|55
 01/01/1945|Alabama|34|Southern Cal|14
