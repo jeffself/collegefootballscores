@@ -1,5 +1,7 @@
+09/21/1945|Samford(AL)|0|Auburn|38
 09/22/1945|Arkansas|12|Barksdale AFB(LA)|6
 09/22/1945|Southern Illinois|6|Arkansas State|0
+09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/29/1945|Alabama|21|Keesler Field(MS)|0
 09/29/1945|Oklahoma State|19|Arkansas|14
 09/29/1945|Personnel District Comm.(KY)|0|Army|32
@@ -7,6 +9,7 @@
 10/06/1945|TCU|14|Arkansas|27
 10/06/1945|Arkansas State|6|Southern Illinois|6
 10/06/1945|Wake Forest|0|Army|54
+10/06/1945|Mississippi State|20|Auburn|0
 10/11/1945|Arkansas State|18|Central Arkansas|0
 10/13/1945|Northern Arizona|6|Arizona|52
 10/13/1945|South Carolina|0|Alabama|55
@@ -17,25 +20,32 @@
 10/20/1945|Texas|34|Arkansas|7
 10/20/1945|Arkansas State|0|Mississippi State JV|43
 10/20/1945|Melville PT Boats(RI)|13|Army|55
+10/20/1945|Auburn|20|Tulane|14
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
 10/27/1945|Arkansas|19|Mississippi|0
 10/27/1945|Arkansas State|0|Henderson State(AR)|13
 10/27/1945|Army|48|Duke|13
+10/27/1945|Auburn|7|Georgia Tech|20
 11/03/1945|Alabama|60|Kentucky|19
 11/03/1945|Texas A&M|34|Arkansas|0
 11/03/1945|Arkansas State|6|Illinois Wesleyan|27
 11/03/1945|Villanova|0|Army|54
+11/03/1945|Florida|0|Auburn|19
 11/10/1945|Cal Poly-San Luis Obispo|6|Arizona|37
 11/10/1945|Arkansas|7|Rice|26
 11/10/1945|Army|48|Notre Dame|0
+11/10/1945|Louisiana-Lafayette|0|Auburn|52
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/17/1945|Alabama|71|Vanderbilt|0
 11/17/1945|San Diego State|0|Arizona|28
 11/17/1945|Arkansas|0|SMU|21
 11/17/1945|Army|61|Pennsylvania|0
+11/17/1945|Auburn|0|Georgia|35
 11/23/1945|Arkansas|13|Tulsa|45
 11/24/1945|Pensacola NAS(FL)|6|Alabama|55
+11/24/1945|Louisiana Tech|0|Auburn|29
+11/30/1945|Auburn|7|Miami(FL)|33
 12/01/1945|Mississippi State|13|Alabama|55
 12/01/1945|Army|32|Navy|13
 01/01/1945|Alabama|34|Southern Cal|14
