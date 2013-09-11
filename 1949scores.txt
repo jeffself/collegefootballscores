@@ -1,9 +1,19 @@
 09/24/1949|Findlay(OH)|0|Akron|34
+09/24/1949|Tulane|28|Alabama|14
 10/01/1949|Akron|20|Eastern Michigan|6
+10/01/1949|Alabama|7|Vanderbilt|14
+10/07/1949|Duquesne|8|Alabama|48
 10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
 10/15/1949|Akron|6|Louisville|62
+10/15/1949|Tennessee|7|Alabama|7
+10/22/1949|Mississippi State|6|Alabama|35
 10/22/1949|Mount Union|23|Akron|14
 10/29/1949|Akron|13|Wooster(OH)|13
+10/29/1949|Alabama|14|Georgia|7
 11/05/1949|Geneva(PA)|27|Akron|6
 11/12/1949|Akron|0|Kent State|47
+11/12/1949|Georgia Tech|7|Alabama|20
 11/19/1949|Akron|14|Heidelberg(OH)|34
+11/19/1949|Southern Miss|26|Alabama|34
+11/26/1949|Alabama|35|Florida|13
+12/03/1949|Auburn|14|Alabama|13
