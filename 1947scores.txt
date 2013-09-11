@@ -1,8 +1,19 @@
+09/20/1947|Southern Mississippi|7|Alabama|34
+09/27/1947|Alabama|20|Tulane|21
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
+10/04/1947|Alabama|7|Vanderbilt|14
 10/11/1947|Akron|12|Case Institute(OH)|6
+10/11/1947|Duquesne|0|Alabama|26
 10/18/1947|Mount Union|14|Akron|19
+10/18/1947|Tennessee|0|Alabama|10
 10/25/1947|Akron|7|Toledo|38
+10/25/1947|Alabama|17|Georgia|7
 10/31/1947|Western Reserve|18|Akron|0
+11/01/1947|Alabama|13|Kentucky|0
 11/08/1947|Akron|6|Wooster(OH)|21
+11/15/1947|Georgia Tech|7|Alabama|14
 11/15/1947|Kent State|6|Akron|0
 11/22/1947|John Carroll(OH)|31|Akron|0
+11/22/1947|LSU|12|Alabama|41
+11/29/1947|Alabama|21|Miami(FL)|6
+01/01/1948|Alabama|7|Texas|27
