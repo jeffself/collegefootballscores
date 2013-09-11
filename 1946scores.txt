@@ -1,9 +1,20 @@
+09/20/1946|Furman|7|Alabama|26
+09/28/1946|Alabama|7|Tulane|6
 09/28/1946|Lawrence Tech(MI)|13|Akron|31
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
+10/05/1946|Alabama|14|South Carolina|6
 10/12/1946|Case Institute(OH)|0|Akron|13
+10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/19/1946|Akron|7|Mount Union|12
+10/19/1946|Alabama|0|Tennessee|12
+10/26/1946|Kentucky|7|Alabama|21
 10/26/1946|Toledo|33|Akron|13
 11/02/1946|Akron|13|Western Reserve|6
+11/02/1946|Alabama|0|Georgia|14
+11/09/1946|Alabama|21|LSU|31
 11/09/1946|Wooster(OH)|20|Akron|26
 11/16/1946|Akron|6|Kent State|13
+11/16/1946|Vanderbilt|7|Alabama|12
+11/23/1946|Alabama|7|Boston College|13
 11/23/1946|John Carroll(OH)|6|Akron|13
+11/30/1946|Mississippi State|7|Alabama|24
