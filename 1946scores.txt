@@ -1,30 +1,40 @@
 09/20/1946|Furman|7|Alabama|26
+09/21/1946|Williams AAB(AZ)|6|Arizona State|6
 09/28/1946|Alabama|7|Tulane|6
 09/28/1946|Arizona State|0|Arizona|67
 09/28/1946|Lawrence Tech(MI)|13|Akron|31
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
 10/05/1946|Alabama|14|South Carolina|6
 10/05/1946|Arizona|7|Utah|14
+10/05/1946|Pepperdine|12|Arizona State|13
+10/12/1946|Arizona State|2|Nevada|74
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/12/1946|Texas-El Paso|13|Arizona|27
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
+10/19/1946|Portland|13|Arizona State|0
 10/26/1946|Arizona|0|Marquette|20
+10/26/1946|Arizona State|6|Hardin-Simmons|46
 10/26/1946|Kentucky|7|Alabama|21
 10/26/1946|Toledo|33|Akron|13
 11/02/1946|Akron|13|Western Reserve|6
 11/02/1946|Alabama|0|Georgia|14
+11/02/1946|Arizona State|14|New Mexico State|7
 11/02/1946|Hardin-Simmons|19|Arizona|8
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
+11/09/1946|Texas-El Paso|34|Arizona State|20
 11/09/1946|Wooster(OH)|20|Akron|26
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Arizona|13|New Mexico|13
+11/16/1946|Northern Arizona|13|Arizona State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/23/1946|Alabama|7|Boston College|13
 11/23/1946|John Carroll(OH)|6|Akron|13
 11/23/1946|Texas Tech|16|Arizona|0
+11/23/1946|West Texas A&M|7|Arizona State|0
+11/28/1946|Arizona State|19|Wichita State|34
 11/30/1946|Kansas State|7|Arizona|28
 11/30/1946|Mississippi State|7|Alabama|24
