@@ -1,18 +1,27 @@
 09/21/1940|Detroit Tech|0|Akron|0
 09/27/1940|Alabama|26|Spring Hill(AL)|0
 09/28/1940|Akron|0|Colgate|44
+09/28/1940|Northern Arizona|0|Arizona|41
 10/04/1940|Western Reserve|6|Akron|0
 10/05/1940|Mercer(GA)|0|Alabama|20
+10/05/1940|New Mexico State|0|Arizona|41
+10/12/1940|Arizona|0|Utah|24
 10/12/1940|Illinois Wesleyan|16|Akron|6
 10/12/1940|Samford(AL)|0|Alabama|31
 10/19/1940|Akron|7|Wayne State|7
+10/19/1940|Centenary(LA)|6|Arizona|29
 10/19/1940|Tennessee|27|Alabama|12
 10/25/1940|Akron|7|Baldwin-Wallace|13
+10/26/1940|Oklahoma State|0|Arizona|24
 11/02/1940|Alabama|25|Kentucky|0
+11/02/1940|Arizona|20|Texas-El Paso|13
 11/02/1940|Youngstown State|13|Akron|0
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
+11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/16/1940|Alabama|14|Georgia Tech|13
 11/21/1940|John Carroll|0|Akron|47
+11/23/1940|New Mexico|13|Arizona|12
 11/23/1940|Vanderbilt|21|Alabama|25
+11/30/1940|Marquette|14|Arizona|17
 11/30/1940|Mississippi State|13|Alabama|0
