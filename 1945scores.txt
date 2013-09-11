@@ -1,0 +1,10 @@
+09/29/1945|Alabama|21|Keesler Field(MS)|0
+10/06/1945|Alabama|26|LSU|7
+10/13/1945|South Carolina|0|Alabama|55
+10/20/1945|Tennessee|7|Alabama|25
+10/27/1945|Georgia|14|Alabama|28
+11/03/1945|Alabama|60|Kentucky|19
+11/17/1945|Alabama|71|Vanderbilt|0
+11/24/1945|Pensacola NAS(FL)|6|Alabama|55
+12/01/1945|Mississippi State|13|Alabama|55
+01/01/1945|Alabama|34|Southern Cal|14
