@@ -1,48 +1,55 @@
-09/21/1940|California-Davis|13|Arizona State|21
+09/20/1940|Arkansas State|6|NW Mississippi JC|6
 09/21/1940|Detroit Tech|0|Akron|0
+09/21/1940|California-Davis|13|Arizona State|21
 09/27/1940|Alabama|26|Spring Hill(AL)|0
 09/27/1940|Arizona State|19|West Texas A&M|12
 09/28/1940|Akron|0|Colgate|44
-09/28/1940|Central Oklahoma|0|Arkansas|38
 09/28/1940|Northern Arizona|0|Arizona|41
+09/28/1940|Central Oklahoma|0|Arkansas|38
+09/28/1940|Arkansas State|12|Missouri-Rolla|44
 10/04/1940|Western Reserve|6|Akron|0
-10/05/1940|Arizona State|0|Hardin-Simmons|17
-10/05/1940|Arkansas|0|TCU|20
+10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/05/1940|Mercer(GA)|0|Alabama|20
 10/05/1940|New Mexico State|0|Arizona|41
+10/05/1940|Arizona State|0|Hardin-Simmons|17
+10/05/1940|Arkansas|0|TCU|20
 10/11/1940|Arizona State|13|New Mexico|6
-10/12/1940|Arizona|0|Utah|24
-10/12/1940|Baylor|6|Arkansas|12
 10/12/1940|Illinois Wesleyan|16|Akron|6
 10/12/1940|Samford(AL)|0|Alabama|31
+10/12/1940|Arizona|0|Utah|24
+10/12/1940|Baylor|6|Arkansas|12
+10/12/1940|Arkansas State|0|Southern Illinois|7
 10/19/1940|Akron|7|Wayne State|7
+10/19/1940|Tennessee|27|Alabama|12
 10/19/1940|Centenary(LA)|6|Arizona|29
 10/19/1940|New Mexico State|6|Arizona State|42
-10/19/1940|Tennessee|27|Alabama|12
 10/19/1940|Texas|21|Arkansas|0
 10/25/1940|Akron|7|Baldwin-Wallace|13
+10/26/1940|Oklahoma State|0|Arizona|24
 10/26/1940|Arizona State|0|Texas-El Paso|0
 10/26/1940|Arkansas|21|Mississippi|20
-10/26/1940|Oklahoma State|0|Arizona|24
+10/26/1940|Austin Peay|0|Arkansas State|13
+11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
 11/02/1940|Arizona|20|Texas-El Paso|13
 11/02/1940|Arizona State|12|Northern Arizona|0
 11/02/1940|Arkansas|0|Texas A&M|17
-11/02/1940|Youngstown State|13|Akron|0
-11/09/1940|Gonzaga|7|Arizona State|7
+11/02/1940|Union(TN)|20|Arkansas State|0
+11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
-11/09/1940|Rice|14|Arkansas|7
 11/09/1940|Tulane|6|Alabama|13
+11/09/1940|Gonzaga|7|Arizona State|7
+11/09/1940|Rice|14|Arkansas|7
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/16/1940|Alabama|14|Georgia Tech|13
-11/16/1940|Arkansas|0|SMU|28
 11/16/1940|Northern Colorado|0|Arizona State|41
-11/21/1940|Arkansas|7|Fordham|27
+11/16/1940|Arkansas|0|SMU|28
 11/21/1940|John Carroll|0|Akron|47
+11/21/1940|Arkansas|7|Fordham|27
+11/23/1940|Vanderbilt|21|Alabama|25
 11/23/1940|New Mexico|13|Arizona|12
 11/23/1940|North Dakota|12|Arizona State|30
-11/23/1940|Vanderbilt|21|Alabama|25
 11/28/1940|Arkansas|27|Tulsa|21
-11/30/1940|Marquette|14|Arizona|17
 11/30/1940|Mississippi State|13|Alabama|0
+11/30/1940|Marquette|14|Arizona|17
 01/01/1941|Arizona State|13|Western Reserve|26
