@@ -1,13 +1,17 @@
 09/24/1949|Arizona|40|New Mexico State|7
+09/24/1949|Arizona State|33|Pepperdine|13
 09/24/1949|Findlay(OH)|0|Akron|34
 09/24/1949|Tulane|28|Alabama|14
 10/01/1949|Akron|20|Eastern Michigan|6
 10/01/1949|Alabama|7|Vanderbilt|14
+10/01/1949|Hardin-Simmons|34|Arizona State|13
 10/01/1949|Utah|12|Arizona|12
 10/07/1949|Duquesne|8|Alabama|48
 10/08/1949|Arizona|0|Hardin-Simmons|35
 10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
+10/08/1949|Northern Arizona|6|Arizona State|62
 10/15/1949|Akron|6|Louisville|62
+10/15/1949|Brigham Young|21|Arizona State|49
 10/15/1949|Tennessee|7|Alabama|7
 10/15/1949|Texas-El Paso|28|Arizona|0
 10/22/1949|Arizona|7|Texas Tech|27
@@ -16,8 +20,10 @@
 10/29/1949|Akron|13|Wooster(OH)|13
 10/29/1949|Alabama|14|Georgia|7
 10/29/1949|Arizona|6|Denver|20
+10/29/1949|Arizona State|28|New Mexico|19
 11/05/1949|Geneva(PA)|27|Akron|6
 11/05/1949|New Mexico|14|Arizona|46
+11/05/1949|New Mexico State|32|Arizona State|68
 11/12/1949|Akron|0|Kent State|47
 11/12/1949|Arizona|7|Arizona State|34
 11/12/1949|Georgia Tech|7|Alabama|20
@@ -26,4 +32,7 @@
 11/19/1949|Southern Miss|26|Alabama|34
 11/26/1949|Alabama|35|Florida|13
 11/26/1949|Kansas|46|Arizona|0
+11/26/1949|Loyola Marymount(CA)|27|Arizona State|7
 12/03/1949|Auburn|14|Alabama|13
+12/03/1949|Utah State|12|Arizona State|27
+01/01/1950|Arizona State|21|Xavier(OH)|33
