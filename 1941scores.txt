@@ -7,8 +7,10 @@
 09/27/1941|Louisiana-Lafayette|6|Alabama|47
 09/27/1941|Arizona|7|Notre Dame|38
 09/27/1941|Central Oklahoma|0|Arkansas|56
+09/27/1941|Hardin-Simmons|0|Baylor|20
 10/03/1941|Bowling Green|0|Akron|8
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
+10/03/1941|Baylor|14|Denver|0
 10/04/1941|Mississippi State|14|Alabama|0
 10/04/1941|New Mexico State|0|Arizona|47
 10/04/1941|West Texas A&M|13|Arizona State|7
@@ -25,6 +27,7 @@
 10/11/1941|Southern Illinois|27|Arkansas State|0
 10/11/1941|VMI|20|Army|27
 10/11/1941|Louisiana Tech|0|Auburn|34
+10/17/1941|Baylor|6|Villanova|14
 10/18/1941|Ohio|0|Akron|0
 10/18/1941|Alabama|9|Tennessee|2
 10/18/1941|Arizona|31|New Mexico|6
@@ -41,6 +44,7 @@
 10/25/1941|Columbia|0|Army|13
 10/25/1941|Auburn|14|Georgia Tech|28
 10/25/1941|Ball State|40|Valparaiso(IN)|0
+10/25/1941|Baylor|0|Texas A&M|48
 10/31/1941|Arizona State|6|Northern Colorado|0
 10/31/1941|Southern Arkansas|19|Arkansas State|0
 11/01/1941|Ohio Wesleyan|6|Akron|28
@@ -50,6 +54,7 @@
 11/01/1941|Notre Dame|0|Army|0
 11/01/1941|Auburn|0|Georgia|7
 11/01/1941|Manchester(IN)|0|Ball State|0
+11/01/1941|TCU|23|Baylor|12
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
 11/08/1941|Alabama|19|Tulane|14
@@ -59,6 +64,7 @@
 11/08/1941|Army|6|Harvard|20
 11/08/1941|Mississippi State|14|Auburn|7
 11/08/1941|Central Normal(IN)|0|Ball State|33
+11/08/1941|Baylor|7|Texas|7
 11/15/1941|Kent State|13|Akron|41
 11/15/1941|Georgia Tech|0|Alabama|20
 11/15/1941|Arizona|14|Oklahoma State|41
@@ -67,17 +73,20 @@
 11/15/1941|Army|7|Pennsylvania|14
 11/15/1941|Auburn|7|LSU|7
 11/15/1941|Ball State|7|Indiana State|0
+11/15/1941|Baylor|13|Tulsa|20
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll|12|Akron|21
 11/22/1941|Alabama|0|Vanderbilt|7
 11/22/1941|Mississippi|18|Arkansas|0
 11/22/1941|West Virginia|6|Army|7
 11/22/1941|Auburn|13|Villanova|0
+11/22/1941|Baylor|0|SMU|14
 11/27/1941|Arkansas|13|Tulsa|6
 11/28/1941|Alabama|21|Miami(FL)|7
 11/29/1941|Kansas State|21|Arizona|28
 11/29/1941|Army|6|Navy|14
 11/29/1941|Clemson|7|Auburn|28
+11/29/1941|Baylor|14|Rice|28
 12/06/1941|Utah|12|Arizona|6
 12/06/1941|Hardin-Simmons|20|Arizona State|0
 01/01/1942|Alabama|29|Texas A&M|21
