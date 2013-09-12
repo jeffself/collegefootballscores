@@ -9,6 +9,7 @@
 09/24/1949|Davidson|7|Army|47
 09/24/1949|Saint Josephs(IN)|14|Ball State|28
 09/24/1949|South Carolina|6|Baylor|20
+09/24/1949|Rider(NJ)|14|Bowling Green|47
 09/30/1949|Wake Forest|7|Boston College|13
 10/01/1949|Akron|20|Eastern Michigan|6
 10/01/1949|Alabama|7|Vanderbilt|14
@@ -19,6 +20,7 @@
 10/01/1949|Penn State|7|Army|42
 10/01/1949|Ball State|33|DePauw(IN)|13
 10/01/1949|Baylor|14|Mississippi State|6
+10/01/1949|Central Michigan|0|Bowling Green|20
 10/07/1949|Duquesne|8|Alabama|48
 10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
 10/08/1949|Arizona|0|Hardin-Simmons|35
@@ -29,6 +31,7 @@
 10/08/1949|Florida|14|Auburn|14
 10/08/1949|Anderson(IN)|0|Ball State|35
 10/08/1949|Boston College|14|Penn State|32
+10/08/1949|Bowling Green|19|Toledo|20
 10/14/1949|Mississippi|25|Boston College|25
 10/15/1949|Akron|6|Louisville|62
 10/15/1949|Tennessee|7|Alabama|7
@@ -40,6 +43,7 @@
 10/15/1949|Auburn|21|Georgia Tech|35
 10/15/1949|Ball State|33|Eastern Michigan|2
 10/15/1949|Baylor|28|Texas Tech|7
+10/15/1949|Bowling Green|0|Charleston(WV)|21
 10/21/1949|Georgetown(DC)|10|Boston College|7
 10/22/1949|Mount Union|23|Akron|14
 10/22/1949|Mississippi State|6|Alabama|35
@@ -49,7 +53,9 @@
 10/22/1949|Columbia|6|Army|63
 10/22/1949|Auburn|6|Tulane|14
 10/22/1949|Baylor|21|Texas Tech|0
+10/22/1949|Bowling Green|21|Baldwin-Wallace(OH)|34
 10/28/1949|Villanova|28|Boston College|14
+10/28/1949|Bowling Green|24|John Carroll(OH)|38
 10/29/1949|Akron|13|Wooster(OH)|13
 10/29/1949|Alabama|14|Georgia|7
 10/29/1949|Arizona|6|Denver|20
@@ -69,6 +75,7 @@
 11/05/1949|Ball State|50|Manchester(IN)|7
 11/05/1949|Baylor|0|Texas|20
 11/05/1949|Boston College|40|Clemson|27
+11/05/1949|Kent State|6|Bowling Green|27
 11/12/1949|Akron|0|Kent State|47
 11/12/1949|Georgia Tech|7|Alabama|20
 11/12/1949|Arizona|7|Arizona State|34
@@ -79,6 +86,7 @@
 11/12/1949|Indiana State|6|Ball State|34
 11/12/1949|Wyoming|13|Baylor|32
 11/12/1949|Fordham|12|Boston College|20
+11/12/1949|Bowling Green|35|Mount Union|7
 11/18/1949|Missouri Valley|6|Arkansas State|7
 11/19/1949|Akron|14|Heidelberg(OH)|34
 11/19/1949|Southern Miss|26|Alabama|34
@@ -86,6 +94,7 @@
 11/19/1949|William & Mary|20|Arkansas|0
 11/19/1949|Eastern Illinois|13|Ball State|47
 11/19/1949|Baylor|35|SMU|26
+11/19/1949|Eastern Kentucky|21|Bowling Green|13
 11/24/1949|Union(TN)|12|Arkansas State|13
 11/26/1949|Alabama|35|Florida|13
 11/26/1949|Kansas|46|Arizona|0
