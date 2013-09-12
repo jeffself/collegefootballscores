@@ -6,6 +6,7 @@
 09/27/1946|Arkansas State|0|SE Missouri State|8
 09/27/1946|Southern Miss|12|Auburn|13
 09/27/1946|Wake Forest|12|Boston College|6
+09/27/1946|Bowling Green|0|Central Michigan|7
 09/28/1946|Lawrence Tech(MI)|13|Akron|31
 09/28/1946|Alabama|7|Tulane|6
 09/28/1946|Arizona State|0|Arizona|67
@@ -33,6 +34,7 @@
 10/12/1946|St. Louis|7|Auburn|27
 10/12/1946|Wabash(IN)|6|Ball State|0
 10/12/1946|Merchant Marine(NY)|7|Boston College|56
+10/12/1946|Miami(OH)|6|Bowling Green|0
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -43,7 +45,9 @@
 10/19/1946|Auburn|0|Tulane|32
 10/19/1946|Ball State|20|Valparaiso(IN)|6
 10/19/1946|Baylor|6|Texas Tech|13
+10/19/1946|Bowling Green|13|Kent State|0
 10/25/1946|Villanova|12|Boston College|14
+10/25/1946|Bowling Green|13|Canisius(NY)|7
 10/26/1946|Toledo|33|Akron|13
 10/26/1946|Kentucky|7|Alabama|21
 10/26/1946|Arizona|0|Marquette|20
@@ -64,6 +68,7 @@
 11/02/1946|Vanderbilt|19|Auburn|0
 11/02/1946|Manchester(IN)|6|Ball State|41
 11/02/1946|Boston College|72|New York(NY)|6
+11/02/1946|Oberlin(OH)|0|Bowling Green|14
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -75,6 +80,7 @@
 11/09/1946|Eastern Michigan|7|Ball State|7
 11/09/1946|Texas|22|Baylor|7
 11/09/1946|Georgetown(DC)|13|Boston College|20
+11/09/1946|Bowling Green|9|St. Bonaventure|13
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
@@ -86,6 +92,7 @@
 11/16/1946|Ball State|0|Indiana State|3
 11/16/1946|Baylor|0|Tulsa|17
 11/16/1946|Tennessee|33|Boston College|13
+11/16/1946|Xavier(OH)|6|Bowling Green|33
 11/23/1946|John Carroll(OH)|6|Akron|13
 11/23/1946|Alabama|7|Boston College|13
 11/23/1946|Texas Tech|16|Arizona|0
