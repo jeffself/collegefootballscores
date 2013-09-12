@@ -9,6 +9,7 @@
 09/28/1946|Arizona State|0|Arizona|67
 09/28/1946|Arkansas|21|Oklahoma State|21
 09/28/1946|Army|21|Oklahoma|7
+09/28/1946|Carterbury(IN)|6|Ball State|27
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
 10/05/1946|Alabama|14|South Carolina|6
 10/05/1946|Arizona|7|Utah|14
@@ -17,6 +18,7 @@
 10/05/1946|Arkansas State|2|Bradley|26
 10/05/1946|Cornell|21|Army|46
 10/05/1946|Furman|6|Auburn|26
+10/05/1946|Ball State|0|Bowling Green|13
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/12/1946|Texas-El Paso|13|Arizona|27
@@ -25,6 +27,7 @@
 10/12/1946|Arkansas State|13|Arkansas-Monticello|13
 10/12/1946|Army|20|Michigan|13
 10/12/1946|St. Louis|7|Auburn|27
+10/12/1946|Wabash(IN)|6|Ball State|0
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -33,6 +36,7 @@
 10/19/1946|Arkansas State|14|Southern Illinois|12
 10/19/1946|Columbia|14|Army|48
 10/19/1946|Auburn|0|Tulane|32
+10/19/1946|Ball State|20|Valparaiso(IN)|6
 10/26/1946|Toledo|33|Akron|13
 10/26/1946|Kentucky|7|Alabama|21
 10/26/1946|Arizona|0|Marquette|20
@@ -41,6 +45,7 @@
 10/26/1946|Arkansas State|0|Xavier(OH)|26
 10/26/1946|Army|19|Duke|0
 10/26/1946|Auburn|6|Georgia Tech|27
+10/26/1946|Ball State|6|Butler|20
 11/02/1946|Akron|13|Western Reserve|6
 11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Hardin-Simmons|19|Arizona|8
@@ -49,6 +54,7 @@
 11/02/1946|Illinois Wesleyan|0|Arkansas State|20
 11/02/1946|West Virginia|0|Army|19
 11/02/1946|Vanderbilt|19|Auburn|0
+11/02/1946|Manchester(IN)|6|Ball State|41
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -57,6 +63,7 @@
 11/09/1946|Henderson State|0|Arkansas State|0
 11/09/1946|Army|0|Notre Dame|0
 11/09/1946|Mississippi State|33|Auburn|0
+11/09/1946|Eastern Michigan|7|Ball State|7
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
@@ -65,6 +72,7 @@
 11/16/1946|Arkansas State|6|Evansville(IN)|6
 11/16/1946|Army|34|Pennsylvania|7
 11/16/1946|Auburn|0|Georgia|41
+11/16/1946|Ball State|0|Indiana State|3
 11/23/1946|John Carroll(OH)|6|Akron|13
 11/23/1946|Alabama|7|Boston College|13
 11/23/1946|Texas Tech|16|Arizona|0
