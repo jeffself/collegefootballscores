@@ -15,7 +15,9 @@
 10/04/1941|TCU|9|Arkansas|0
 10/04/1941|Citadel|6|Army|19
 10/04/1941|Auburn|0|Tulane|32
+10/04/1941|Ball State|6|Northern Illinois|6
 10/10/1941|Western Reserve|12|Akron|6
+10/10/1941|Ball State|6|Butler|13
 10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
 10/11/1941|New Mexico|0|Arizona State|0
@@ -30,6 +32,7 @@
 10/18/1941|Arkansas|14|Texas|48
 10/18/1941|Army|20|Yale|7
 10/18/1941|SMU|20|Auburn|7
+10/18/1941|Central Michigan|7|Ball State|6
 10/24/1941|Baldwin-Wallace|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
 10/24/1941|Arkansas State|0|Austin Peay|34
@@ -37,6 +40,7 @@
 10/25/1941|Arizona|20|Arizona State|7
 10/25/1941|Columbia|0|Army|13
 10/25/1941|Auburn|14|Georgia Tech|28
+10/25/1941|Ball State|40|Valparaiso(IN)|0
 10/31/1941|Arizona State|6|Northern Colorado|0
 10/31/1941|Southern Arkansas|19|Arkansas State|0
 11/01/1941|Ohio Wesleyan|6|Akron|28
@@ -45,6 +49,7 @@
 11/01/1941|Texas A&M|7|Arkansas|0
 11/01/1941|Notre Dame|0|Army|0
 11/01/1941|Auburn|0|Georgia|7
+11/01/1941|Manchester(IN)|0|Ball State|0
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
 11/08/1941|Alabama|19|Tulane|14
@@ -53,6 +58,7 @@
 11/08/1941|Arkansas|12|Rice|21
 11/08/1941|Army|6|Harvard|20
 11/08/1941|Mississippi State|14|Auburn|7
+11/08/1941|Central Normal(IN)|0|Ball State|33
 11/15/1941|Kent State|13|Akron|41
 11/15/1941|Georgia Tech|0|Alabama|20
 11/15/1941|Arizona|14|Oklahoma State|41
@@ -60,6 +66,7 @@
 11/15/1941|SMU|14|Arkansas|7
 11/15/1941|Army|7|Pennsylvania|14
 11/15/1941|Auburn|7|LSU|7
+11/15/1941|Ball State|7|Indiana State|0
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll|12|Akron|21
 11/22/1941|Alabama|0|Vanderbilt|7
