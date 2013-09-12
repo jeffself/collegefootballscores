@@ -1,6 +1,7 @@
 09/20/1940|Arkansas State|6|NW Mississippi JC|6
 09/21/1940|Detroit Tech|0|Akron|0
 09/21/1940|California-Davis|13|Arizona State|21
+09/21/1940|Ball State|0|Miami(OH)|0
 09/27/1940|Alabama|26|Spring Hill(AL)|0
 09/27/1940|Arizona State|19|West Texas A&M|12
 09/27/1940|Samford(AL)|13|Auburn|27
@@ -8,6 +9,7 @@
 09/28/1940|Northern Arizona|0|Arizona|41
 09/28/1940|Central Oklahoma|0|Arkansas|38
 09/28/1940|Arkansas State|12|Missouri-Rolla|44
+09/28/1940|DeSales(OH)|0|Ball State|12
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/05/1940|Mercer(GA)|0|Alabama|20
@@ -16,6 +18,7 @@
 10/05/1940|Arkansas|0|TCU|20
 10/05/1940|Williams(MA)|19|Army|20
 10/05/1940|Auburn|20|Tulane|14
+10/05/1940|Central Michigan|7|Ball State|0
 10/11/1940|Arizona State|13|New Mexico|6
 10/12/1940|Illinois Wesleyan|16|Akron|6
 10/12/1940|Samford(AL)|0|Alabama|31
@@ -31,6 +34,7 @@
 10/19/1940|Texas|21|Arkansas|0
 10/19/1940|Army|6|Harvard|6
 10/19/1940|Auburn|13|SMU|20
+10/19/1940|Ball State|6|Manchester(IN)|7
 10/25/1940|Akron|7|Baldwin-Wallace|13
 10/26/1940|Oklahoma State|0|Arizona|24
 10/26/1940|Arizona State|0|Texas-El Paso|0
@@ -38,6 +42,7 @@
 10/26/1940|Austin Peay|0|Arkansas State|13
 10/26/1940|Lafayette|19|Army|0
 10/26/1940|Auburn|16|Georgia Tech|7
+10/26/1940|Ball State|26|Valparaiso(IN)|0
 11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
 11/02/1940|Arizona|20|Texas-El Paso|13
@@ -46,6 +51,7 @@
 11/02/1940|Union(TN)|20|Arkansas State|0
 11/02/1940|Army|0|Notre Dame|7
 11/02/1940|Auburn|13|Georgia|14
+11/02/1940|Central Normal(IN)|2|Ball State|27
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -53,12 +59,14 @@
 11/09/1940|Rice|14|Arkansas|7
 11/09/1940|Brown|13|Army|9
 11/09/1940|Clemson|7|Auburn|21
+11/09/1940|Ball State|0|Butler|26
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/16/1940|Alabama|14|Georgia Tech|13
 11/16/1940|Northern Colorado|0|Arizona State|41
 11/16/1940|Arkansas|0|SMU|28
 11/16/1940|Army|0|Pennsylvania|48
 11/16/1940|LSU|21|Auburn|13
+11/16/1940|Indiana State|27|Ball State|7
 11/21/1940|John Carroll|0|Akron|47
 11/21/1940|Arkansas|7|Fordham|27
 11/23/1940|Vanderbilt|21|Alabama|25
