@@ -10,6 +10,7 @@
 09/26/1942|Auburn|0|Georgia Tech|15
 09/26/1942|Central Normal(IN)|0|Ball State|34
 09/26/1942|Hardin-Simmons|13|Baylor|6
+09/26/1942|Ohio Navy|0|Bowling Green|39
 10/02/1942|Baylor|18|Oklahoma State|12
 10/03/1942|Akron|0|Ohio|39
 10/03/1942|Mississippi State|6|Alabama|21
@@ -19,6 +20,7 @@
 10/03/1942|Lafayette|0|Army|14
 10/03/1942|Auburn|27|Tulane|13
 10/03/1942|West Virginia|0|Boston College|33
+10/03/1942|Bowling Green|14|Ohio Wesleyan|15
 10/10/1942|Eastern Kentucky|6|Akron|0
 10/10/1942|Pensacola NAS(FL)|0|Alabama|27
 10/10/1942|Arizona|23|Arizona State|0
@@ -37,6 +39,7 @@
 10/17/1942|Baylor|14|Texas Tech|7
 10/17/1942|Northern Illinois|0|Ball State|14
 10/17/1942|NC Navy Pre-Flight|6|Boston College|7
+10/17/1942|Bowling Green|20|Wayne State|6
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
 10/24/1942|Arizona|0|Marquette|39
@@ -46,6 +49,7 @@
 10/24/1942|Ball State|13|Central Michigan|19
 10/24/1942|Texas A&M|0|Baylor|6
 10/24/1942|Wake Forest|0|Boston College|27
+10/24/1942|Miami(OH)|6|Bowling Green|7
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/31/1942|Baldwin-Wallace|22|Akron|0
 10/31/1942|Alabama|10|Georgia|21
@@ -56,6 +60,7 @@
 10/31/1942|Ball State|28|Manchester(IN)|6
 10/31/1942|Baylor|10|TCU|7
 10/31/1942|Georgetown(DC)|0|Boston College|47
+10/31/1942|Kent State|7|Bowling Green|0
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -66,6 +71,8 @@
 11/07/1942|Valparaiso(IN)|0|Ball State|21
 11/07/1942|Baylor|0|Texas|20
 11/07/1942|Temple|0|Boston College|28
+11/07/1942|Wittenberg(OH)|0|Bowling Green|10
+11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/14/1942|Kent State|23|Akron|6
 11/14/1942|Alabama|0|Georgia Tech|7
 11/14/1942|Arizona|19|Texas-El Paso|7
@@ -84,6 +91,7 @@
 11/21/1942|Auburn|27|Georgia|13
 11/21/1942|SMU|6|Baylor|6
 11/21/1942|Boston(MA)|0|Boston College|37
+11/21/1942|Grosse lle NAS(MI)|7|Bowling Green|19
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Arkansas|7|Tulsa|40
 11/28/1942|Georgia Navy Pre-Flight|35|Alabama|19
