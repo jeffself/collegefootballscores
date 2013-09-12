@@ -11,10 +11,12 @@
 10/14/1944|Normas NAS(OK)|27|Arkansas|7
 10/14/1944|Pittsburgh|7|Army|69
 10/14/1944|Auburn|0|Georgia Tech|27
+10/14/1944|Central Normal(IN)|13|Ball State|6
 10/21/1944|Alabama|0|Tennessee|0
 10/21/1944|Texas|19|Arkansas|0
 10/21/1944|Coast Guard|0|Army|76
 10/21/1944|Auburn|13|Tulane|16
+10/21/1944|Franklin(IN)|0|Ball State|19
 10/27/1944|Kentucky|0|Alabama|41
 10/28/1944|Mississippi|18|Arkansas|26
 10/28/1944|Army|27|Duke|7
@@ -22,10 +24,12 @@
 11/04/1944|Arkansas|7|Texas A&M|6
 11/04/1944|Villanova|0|Army|83
 11/04/1944|Presbyterian(SC)|0|Auburn|57
+11/04/1944|Central Normal(IN)|25|Ball State|6
 11/11/1944|Mississippi|6|Alabama|34
 11/11/1944|Rice|7|Arkansas|12
 11/11/1944|Army|59|Notre Dame|0
 11/11/1944|Mississippi State|26|Auburn|21
+11/11/1944|Earlham(IN)|7|Ball State|27
 11/18/1944|Mississippi State|0|Alabama|19
 11/18/1944|Arkansas|12|SMU|20
 11/18/1944|Army|62|Pennsylvania|7
