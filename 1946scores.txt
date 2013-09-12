@@ -16,6 +16,7 @@
 09/28/1946|Carterbury(IN)|6|Ball State|27
 09/28/1946|Baylor|16|TCU|19
 09/28/1946|Brigham Young|12|Montana State|13
+09/28/1946|Moravian(PA)|7|Buffalo|40
 10/04/1946|Brigham Young|13|Denver|26
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
 10/05/1946|Alabama|14|South Carolina|6
@@ -27,6 +28,7 @@
 10/05/1946|Furman|6|Auburn|26
 10/05/1946|Ball State|0|Bowling Green|13
 10/05/1946|Boston College|34|Michigan State|20
+10/05/1946|Buffalo|28|RPI|13
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/12/1946|Texas-El Paso|13|Arizona|27
@@ -39,6 +41,7 @@
 10/12/1946|Merchant Marine(NY)|7|Boston College|56
 10/12/1946|Miami(OH)|6|Bowling Green|0
 10/12/1946|Utah|35|Brigham Young|6
+10/12/1946|Buffalo|20|Hobart(NY)|7
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -51,6 +54,7 @@
 10/19/1946|Baylor|6|Texas Tech|13
 10/19/1946|Bowling Green|13|Kent State|0
 10/19/1946|Colorado|7|Brigham Young|10
+10/19/1946|Bucknell|21|Buffalo|0
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
 10/25/1946|Brigham Young|0|San José St|14
@@ -64,6 +68,7 @@
 10/26/1946|Auburn|6|Georgia Tech|27
 10/26/1946|Ball State|6|Butler|20
 10/26/1946|Texas A&M|17|Baylor|0
+10/26/1946|Wayne State|25|Buffalo|20
 11/02/1946|Akron|13|Western Reserve|6
 11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Hardin-Simmons|19|Arizona|8
@@ -76,6 +81,7 @@
 11/02/1946|Boston College|72|New York(NY)|6
 11/02/1946|Oberlin(OH)|0|Bowling Green|14
 11/02/1946|Wyoming|3|Brigham Young|6
+11/02/1946|Buffalo|32|Bethany(WV)|6
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -89,6 +95,7 @@
 11/09/1946|Georgetown(DC)|13|Boston College|20
 11/09/1946|Bowling Green|9|St. Bonaventure|13
 11/09/1946|Brigham Young|0|Utah State|0
+11/09/1946|Alfred(NY)|12|Buffalo|20
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
@@ -102,6 +109,7 @@
 11/16/1946|Tennessee|33|Boston College|13
 11/16/1946|Xavier(OH)|6|Bowling Green|33
 11/16/1946|Brigham Young|20|Colorado State|6
+11/16/1946|Buffalo|28|Carnegie Mellon|0
 11/22/1946|Brigham Young|14|Texas-El Paso|13
 11/23/1946|John Carroll(OH)|6|Akron|13
 11/23/1946|Alabama|7|Boston College|13
@@ -110,6 +118,7 @@
 11/23/1946|Arkansas State|14|Centre(KY)|0
 11/23/1946|Clemson|21|Auburn|13
 11/23/1946|SMU|35|Baylor|0
+11/23/1946|Johns Hopkins|0|Buffalo|36
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
 11/28/1946|Arkansas State|30|Central Arkansas|12
