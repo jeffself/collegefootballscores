@@ -6,13 +6,18 @@
 10/09/1943|Temple|0|Army|51
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|Army|52|Columbia|0
+10/17/1943|Boston College Student Army Trg Corps|0|Boston College|7
 10/23/1943|Army|39|Yale|7
+10/24/1943|Camp Higham(MA)|6|Boston College|42
 10/30/1943|Texas A&M|13|Arkansas|0
 10/30/1943|Army|13|Pennsylvania|13
+10/31/1943|Brooklyn(NY)|6|Boston College|37
 11/06/1943|Arkansas|7|Rice|20
 11/06/1943|Notre Dame|26|Army|0
+11/07/1943|Rome AAB(NY)|0|Boston College|64
 11/13/1943|Arkansas|14|SMU|12
 11/13/1943|Sampson NTS(NY)|7|Army|16
+11/14/1943|Boston College|6|Harvard|6
 11/19/1943|Oklahoma State|19|Arkansas|13
 11/20/1943|Brown|0|Army|59
 11/25/1943|Arkansas|0|Tulsa|61
