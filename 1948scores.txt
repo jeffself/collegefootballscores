@@ -13,6 +13,7 @@
 09/25/1948|Ball State|0|Saint Josephs(IN)|33
 09/25/1948|Tulsa|19|Baylor|42
 09/25/1948|Bowling Green|13|Ohio|7
+09/25/1948|Buffalo|0|Colgate|25
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -26,6 +27,7 @@
 10/02/1948|Ball State|0|Eastern Illinois|12
 10/02/1948|Baylor|7|Mississippi State|7
 10/02/1948|Bowling Green|13|Central Michigan|12
+10/02/1948|Hobart(NY)|0|Buffalo|39
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons|14|Arizona|20
@@ -38,6 +40,7 @@
 10/09/1948|St. Bonaventure|7|Boston College|7
 10/09/1948|Bowling Green|21|Toledo|6
 10/09/1948|Utah|30|Brigham Young|0
+10/09/1948|Buffalo|39|RPI|21
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
 10/16/1948|Louisville|13|Akron|0
@@ -51,6 +54,7 @@
 10/16/1948|Eastern Michigan|14|Ball State|23
 10/16/1948|Texas Tech|0|Baylor|13
 10/16/1948|Charleston(WV)|6|Bowling Green|48
+10/16/1948|Alfred(NY)|0|Buffalo|8
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|Alabama|10|Mississippi State|7
 10/23/1948|Texas Tech|31|Arizona|0
@@ -62,6 +66,7 @@
 10/23/1948|Texas A&M|14|Baylor|20
 10/23/1948|Baldwin-Wallace(OH)|28|Bowling Green|33
 10/23/1948|Brigham Young|7|Utah State|20
+10/23/1948|Buffalo|41|Washington & Jefferson(PA)|14
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/30/1948|Wooster(OH)|6|Akron|20
@@ -74,6 +79,7 @@
 10/30/1948|Baylor|6|TCU|3
 10/30/1948|Bowling Green|28|Findlay(OH)|7
 10/30/1948|Montana|20|Brigham Young|26
+10/30/1948|Buffalo|48|Louisville|19
 11/05/1948|Brigham Young|6|San José St|21
 11/06/1948|Southern Miss|0|Alabama|27
 11/06/1948|Arizona|14|New Mexico|6
@@ -85,6 +91,7 @@
 11/06/1948|Manchester(IN)|0|Ball State|35
 11/06/1948|Texas|13|Baylor|10
 11/06/1948|Bowling Green|23|Kent State|14
+11/06/1948|Niagara(NY)|13|Buffalo|13
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/13/1948|Alabama|14|Georgia Tech|12
@@ -97,6 +104,7 @@
 11/13/1948|Baylor|13|Tulane|35
 11/13/1948|William & Mary|14|Boston College|14
 11/13/1948|Morningside(IA)|7|Bowling Green|38
+11/13/1948|Bucknell|13|Buffalo|47
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
 11/20/1948|Heidelberg(OH)|34|Akron|0
