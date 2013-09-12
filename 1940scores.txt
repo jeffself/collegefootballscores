@@ -10,8 +10,10 @@
 09/28/1940|Central Oklahoma|0|Arkansas|38
 09/28/1940|Arkansas State|12|Missouri-Rolla|44
 09/28/1940|DeSales(OH)|0|Ball State|12
+09/28/1940|North Texas|20|Baylor|27
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
+10/04/1940|Baylor|14|Denver|7
 10/05/1940|Mercer(GA)|0|Alabama|20
 10/05/1940|New Mexico State|0|Arizona|41
 10/05/1940|Arizona State|0|Hardin-Simmons|17
@@ -35,6 +37,7 @@
 10/19/1940|Army|6|Harvard|6
 10/19/1940|Auburn|13|SMU|20
 10/19/1940|Ball State|6|Manchester(IN)|7
+10/19/1940|Villanova|0|Baylor|7
 10/25/1940|Akron|7|Baldwin-Wallace|13
 10/26/1940|Oklahoma State|0|Arizona|24
 10/26/1940|Arizona State|0|Texas-El Paso|0
@@ -43,6 +46,7 @@
 10/26/1940|Lafayette|19|Army|0
 10/26/1940|Auburn|16|Georgia Tech|7
 10/26/1940|Ball State|26|Valparaiso(IN)|0
+10/26/1940|Texas A&M|14|Baylor|7
 11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
 11/02/1940|Arizona|20|Texas-El Paso|13
@@ -52,6 +56,7 @@
 11/02/1940|Army|0|Notre Dame|7
 11/02/1940|Auburn|13|Georgia|14
 11/02/1940|Central Normal(IN)|2|Ball State|27
+11/02/1940|Baylor|12|TCU|14
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -60,6 +65,7 @@
 11/09/1940|Brown|13|Army|9
 11/09/1940|Clemson|7|Auburn|21
 11/09/1940|Ball State|0|Butler|26
+11/09/1940|Baylor|0|Texas|13
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/16/1940|Alabama|14|Georgia Tech|13
 11/16/1940|Northern Colorado|0|Arizona State|41
@@ -67,6 +73,7 @@
 11/16/1940|Army|0|Pennsylvania|48
 11/16/1940|LSU|21|Auburn|13
 11/16/1940|Indiana State|27|Ball State|7
+11/16/1940|Tulsa|6|Baylor|20
 11/21/1940|John Carroll|0|Akron|47
 11/21/1940|Arkansas|7|Fordham|27
 11/23/1940|Vanderbilt|21|Alabama|25
@@ -74,10 +81,12 @@
 11/23/1940|North Dakota|12|Arizona State|30
 11/23/1940|Army|19|Princeton|26
 11/23/1940|Auburn|7|Boston College|33
+11/23/1940|SMU|7|Baylor|4
 11/28/1940|Arkansas|27|Tulsa|21
 11/30/1940|Mississippi State|13|Alabama|0
 11/30/1940|Marquette|14|Arizona|17
 11/30/1940|Army|0|Navy|14
 11/30/1940|Auburn|20|Florida|7
+11/30/1940|Baylor|12|Rice|21
 12/07/1940|Villanova|10|Auburn|13
 01/01/1941|Arizona State|13|Western Reserve|26
