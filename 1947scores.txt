@@ -2,6 +2,7 @@
 09/20/1947|Cal Poly-San Luis Obispo|6|Arizona State|33
 09/20/1947|Northwestern State|0|Arkansas|64
 09/20/1947|Stephen F. Austin|0|Baylor|33
+09/20/1947|Bowling Green|0|Xavier(OH)|2
 09/26/1947|Southern Miss|19|Auburn|13
 09/26/1947|Baylor|18|Miami(FL)|7
 09/26/1947|Clemson|22|Boston College|32
@@ -12,6 +13,7 @@
 09/27/1947|SE Missouri State|0|Arkansas State|25
 09/27/1947|Villanova|0|Army|13
 09/27/1947|Ball State|6|Butler|6
+09/27/1947|Central Michigan|19|Bowling Green|20
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/04/1947|Alabama|7|Vanderbilt|14
 10/04/1947|Montana|7|Arizona|40
@@ -21,6 +23,7 @@
 10/04/1947|Colorado|0|Army|47
 10/04/1947|Louisiana Tech|0|Auburn|14
 10/04/1947|Eastern Illinois|13|Ball State|20
+10/04/1947|Bowling Green|13|Dayton|20
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -31,6 +34,7 @@
 10/11/1947|Army|0|Illinois|0
 10/11/1947|Florida|14|Auburn|20
 10/11/1947|Valparaiso(IN)|14|Ball State|18
+10/11/1947|Bowling Green|19|Miami(OH)|33
 10/17/1947|LSU|14|Boston College|13
 10/18/1947|Mount Union|14|Akron|19
 10/18/1947|Tennessee|0|Alabama|10
@@ -42,6 +46,7 @@
 10/18/1947|Auburn|7|Georgia Tech|27
 10/18/1947|Saint Josephs(IN)|6|Ball State|6
 10/18/1947|Baylor|32|Texas Tech|6
+10/18/1947|Ohio|0|Bowling Green|2
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/24/1947|Villanova|0|Boston College|6
 10/25/1947|Akron|7|Toledo|38
@@ -52,6 +57,7 @@
 10/25/1947|Army|20|Columbia|21
 10/25/1947|Auburn|0|Tulane|40
 10/25/1947|Baylor|0|Texas A&M|24
+10/25/1947|Kent State|18|Bowling Green|21
 10/31/1947|Western Reserve|18|Akron|0
 11/01/1947|Alabama|13|Kentucky|0
 11/01/1947|New Mexico State|12|Arizona State|33
@@ -62,6 +68,7 @@
 11/01/1947|Ball State|19|Manchester(IN)|0
 11/01/1947|TCU|14|Baylor|7
 11/01/1947|Georgetown(DC)|6|Boston College|27
+11/01/1947|Findlay(OH)|9|Bowling Green|26
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/08/1947|Akron|6|Wooster(OH)|21
 11/08/1947|Arizona|28|Texas Tech|41
@@ -72,6 +79,7 @@
 11/08/1947|Mississippi State|14|Auburn|0
 11/08/1947|Baylor|7|Texas|28
 11/08/1947|Wake Forest|14|Boston College|13
+11/08/1947|Bowling Green|14|St. Bonaventure|21
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
 11/15/1947|Arizona|26|Arizona State|13
@@ -81,6 +89,7 @@
 11/15/1947|Indiana State|0|Ball State|14
 11/15/1947|Baylor|7|Tulsa|6
 11/15/1947|Boston College|13|Tennessee|38
+11/15/1947|Northern Iowa|7|Bowling Green|19
 11/17/1947|Arkansas State|19|Memphis|19
 11/22/1947|John Carroll(OH)|31|Akron|0
 11/22/1947|LSU|12|Alabama|41
@@ -90,6 +99,7 @@
 11/22/1947|Auburn|18|Clemson|34
 11/22/1947|SMU|10|Baylor|0
 11/22/1947|Saint Mary's(CA)|7|Boston College|25
+11/22/1947|Bowling Green|0|William & Mary|20
 11/27/1947|Arkansas|27|Tulsa|13
 11/29/1947|Alabama|21|Miami(FL)|6
 11/29/1947|Kansas|54|Arizona|28
