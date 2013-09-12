@@ -18,6 +18,7 @@
 10/03/1942|TCU|13|Arkansas|6
 10/03/1942|Lafayette|0|Army|14
 10/03/1942|Auburn|27|Tulane|13
+10/03/1942|West Virginia|0|Boston College|33
 10/10/1942|Eastern Kentucky|6|Akron|0
 10/10/1942|Pensacola NAS(FL)|0|Alabama|27
 10/10/1942|Arizona|23|Arizona State|0
@@ -25,6 +26,7 @@
 10/10/1942|Cornell|8|Army|28
 10/10/1942|Auburn|0|Florida|6
 10/10/1942|Bowling Green|26|Ball State|14
+10/10/1942|Clemson|7|Boston College|14
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Tennessee|0|Alabama|8
@@ -34,6 +36,7 @@
 10/17/1942|Army|34|Columbia|6
 10/17/1942|Baylor|14|Texas Tech|7
 10/17/1942|Northern Illinois|0|Ball State|14
+10/17/1942|NC Navy Pre-Flight|6|Boston College|7
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
 10/24/1942|Arizona|0|Marquette|39
@@ -42,6 +45,7 @@
 10/24/1942|Army|14|Harvard|0
 10/24/1942|Ball State|13|Central Michigan|19
 10/24/1942|Texas A&M|0|Baylor|6
+10/24/1942|Wake Forest|0|Boston College|27
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/31/1942|Baldwin-Wallace|22|Akron|0
 10/31/1942|Alabama|10|Georgia|21
@@ -51,6 +55,7 @@
 10/31/1942|Mississippi State|6|Auburn|0
 10/31/1942|Ball State|28|Manchester(IN)|6
 10/31/1942|Baylor|10|TCU|7
+10/31/1942|Georgetown(DC)|0|Boston College|47
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -60,6 +65,7 @@
 11/07/1942|Auburn|14|Georgia Navy Pre-Flight|41
 11/07/1942|Valparaiso(IN)|0|Ball State|21
 11/07/1942|Baylor|0|Texas|20
+11/07/1942|Temple|0|Boston College|28
 11/14/1942|Kent State|23|Akron|6
 11/14/1942|Alabama|0|Georgia Tech|7
 11/14/1942|Arizona|19|Texas-El Paso|7
@@ -69,6 +75,7 @@
 11/14/1942|LSU|7|Auburn|25
 11/14/1942|Indiana State|7|Ball State|16
 11/14/1942|Baylor|0|Tulsa|24
+11/14/1942|Fordham|6|Boston College|56
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
@@ -76,6 +83,7 @@
 11/21/1942|Princeton|7|Army|40
 11/21/1942|Auburn|27|Georgia|13
 11/21/1942|SMU|6|Baylor|6
+11/21/1942|Boston(MA)|0|Boston College|37
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Arkansas|7|Tulsa|40
 11/28/1942|Georgia Navy Pre-Flight|35|Alabama|19
@@ -83,5 +91,6 @@
 11/28/1942|Army|0|Navy|14
 11/28/1942|Clemson|13|Auburn|41
 11/28/1942|Rice|20|Baylor|0
+11/28/1942|Holy Cross|55|Boston College|12
 12/05/1942|2nd Air Force(CO)|27|Arizona|13
 01/01/1943|Alabama|37|Boston College|21
