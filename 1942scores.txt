@@ -1,11 +1,13 @@
 09/18/1942|Western Reserve|39|Akron|0
 09/18/1942|Tennessee-Chattanooga|7|Auburn|20
+09/19/1942|Franklin(IN)|0|Ball State|38
 09/25/1942|Muskingum|7|Akron|7
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
 09/26/1942|New Mexico State|0|Arizona|53
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Wichita State|0|Arkansas|27
 09/26/1942|Auburn|0|Georgia Tech|15
+09/26/1942|Central Normal(IN)|0|Ball State|34
 10/03/1942|Akron|0|Ohio|39
 10/03/1942|Mississippi State|6|Alabama|21
 10/03/1942|Utah|0|Arizona|14
@@ -19,6 +21,7 @@
 10/10/1942|Baylor|20|Arkansas|7
 10/10/1942|Cornell|8|Army|28
 10/10/1942|Auburn|0|Florida|6
+10/10/1942|Bowling Green|26|Ball State|14
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Tennessee|0|Alabama|8
@@ -26,12 +29,14 @@
 10/17/1942|Arizona State|0|Hardin-Simmons|0
 10/17/1942|Texas|47|Arkansas|6
 10/17/1942|Army|34|Columbia|6
+10/17/1942|Northern Illinois|0|Ball State|14
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
 10/24/1942|Arizona|0|Marquette|39
 10/24/1942|New Mexico State|0|Arizona State|20
 10/24/1942|Arkansas|7|Mississippi|6
 10/24/1942|Army|14|Harvard|0
+10/24/1942|Ball State|13|Central Michigan|19
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/31/1942|Baldwin-Wallace|22|Akron|0
 10/31/1942|Alabama|10|Georgia|21
@@ -39,6 +44,7 @@
 10/31/1942|Arkansas|0|Texas A&M|41
 10/31/1942|Army|0|Pennsylvania|19
 10/31/1942|Mississippi State|6|Auburn|0
+10/31/1942|Ball State|28|Manchester(IN)|6
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -46,6 +52,7 @@
 11/07/1942|Rice|40|Arkansas|9
 11/07/1942|Army|0|Notre Dame|13
 11/07/1942|Auburn|14|Georgia Navy Pre-Flight|41
+11/07/1942|Valparaiso(IN)|0|Ball State|21
 11/14/1942|Kent State|23|Akron|6
 11/14/1942|Alabama|0|Georgia Tech|7
 11/14/1942|Arizona|19|Texas-El Paso|7
@@ -53,6 +60,7 @@
 11/14/1942|Arkansas|6|SMU|14
 11/14/1942|Virginia Tech|7|Army|19
 11/14/1942|LSU|7|Auburn|25
+11/14/1942|Indiana State|7|Ball State|16
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
