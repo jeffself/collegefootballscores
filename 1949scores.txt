@@ -1,4 +1,5 @@
 09/23/1949|Mississippi|40|Auburn|7
+09/23/1949|Oklahoma|46|Boston College|0
 09/24/1949|Findlay(OH)|0|Akron|34
 09/24/1949|Tulane|28|Alabama|14
 09/24/1949|Arizona|40|New Mexico State|7
@@ -8,6 +9,7 @@
 09/24/1949|Davidson|7|Army|47
 09/24/1949|Saint Josephs(IN)|14|Ball State|28
 09/24/1949|South Carolina|6|Baylor|20
+09/30/1949|Wake Forest|7|Boston College|13
 10/01/1949|Akron|20|Eastern Michigan|6
 10/01/1949|Alabama|7|Vanderbilt|14
 10/01/1949|Utah|12|Arizona|12
@@ -26,6 +28,8 @@
 10/08/1949|Army|21|Michigan|7
 10/08/1949|Florida|14|Auburn|14
 10/08/1949|Anderson(IN)|0|Ball State|35
+10/08/1949|Boston College|14|Penn State|32
+10/14/1949|Mississippi|25|Boston College|25
 10/15/1949|Akron|6|Louisville|62
 10/15/1949|Tennessee|7|Alabama|7
 10/15/1949|Texas-El Paso|28|Arizona|0
@@ -36,6 +40,7 @@
 10/15/1949|Auburn|21|Georgia Tech|35
 10/15/1949|Ball State|33|Eastern Michigan|2
 10/15/1949|Baylor|28|Texas Tech|7
+10/21/1949|Georgetown(DC)|10|Boston College|7
 10/22/1949|Mount Union|23|Akron|14
 10/22/1949|Mississippi State|6|Alabama|35
 10/22/1949|Arizona|7|Texas Tech|27
@@ -44,6 +49,7 @@
 10/22/1949|Columbia|6|Army|63
 10/22/1949|Auburn|6|Tulane|14
 10/22/1949|Baylor|21|Texas Tech|0
+10/28/1949|Villanova|28|Boston College|14
 10/29/1949|Akron|13|Wooster(OH)|13
 10/29/1949|Alabama|14|Georgia|7
 10/29/1949|Arizona|6|Denver|20
@@ -62,6 +68,7 @@
 11/05/1949|Mississippi State|6|Auburn|25
 11/05/1949|Ball State|50|Manchester(IN)|7
 11/05/1949|Baylor|0|Texas|20
+11/05/1949|Boston College|40|Clemson|27
 11/12/1949|Akron|0|Kent State|47
 11/12/1949|Georgia Tech|7|Alabama|20
 11/12/1949|Arizona|7|Arizona State|34
@@ -71,6 +78,7 @@
 11/12/1949|Auburn|20|Georgia|20
 11/12/1949|Indiana State|6|Ball State|34
 11/12/1949|Wyoming|13|Baylor|32
+11/12/1949|Fordham|12|Boston College|20
 11/18/1949|Missouri Valley|6|Arkansas State|7
 11/19/1949|Akron|14|Heidelberg(OH)|34
 11/19/1949|Southern Miss|26|Alabama|34
@@ -86,6 +94,7 @@
 11/26/1949|Navy|0|Army|38
 11/26/1949|Clemson|20|Auburn|20
 11/26/1949|Baylor|7|Rice|21
+11/26/1949|Holy Cross|0|Boston College|76
 12/03/1949|Auburn|14|Alabama|13
 12/03/1949|Utah State|12|Arizona State|27
 01/01/1950|Arizona State|21|Xavier(OH)|33
