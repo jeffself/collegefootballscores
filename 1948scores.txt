@@ -8,6 +8,7 @@
 09/25/1948|Mississippi College|0|Arkansas State|12
 09/25/1948|Villanova|0|Army|28
 09/25/1948|Ball State|0|Saint Josephs(IN)|33
+09/25/1948|Tulsa|19|Baylor|42
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
 10/02/1948|Vanderbilt|14|Alabama|14
 10/02/1948|Arizona|14|Utah|47
@@ -17,6 +18,7 @@
 10/02/1948|Lafayette|7|Army|54
 10/02/1948|Louisiana Tech|13|Auburn|13
 10/02/1948|Ball State|0|Eastern Illinois|12
+10/02/1948|Baylor|7|Mississippi State|7
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons|14|Arizona|20
@@ -35,6 +37,7 @@
 10/16/1948|Harvard|7|Army|20
 10/16/1948|Auburn|0|Georgia Tech|27
 10/16/1948|Eastern Michigan|14|Ball State|23
+10/16/1948|Texas Tech|0|Baylor|13
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|Alabama|10|Mississippi State|7
 10/23/1948|Texas Tech|31|Arizona|0
@@ -42,6 +45,7 @@
 10/23/1948|Army|27|Cornell|6
 10/23/1948|Auburn|6|Tulane|21
 10/23/1948|Anderson(IN)|7|Ball State|14
+10/23/1948|Texas A&M|14|Baylor|20
 10/29/1948|Vanderbilt|47|Auburn|0
 10/30/1948|Wooster(OH)|6|Akron|20
 10/30/1948|Georgia|35|Alabama|0
@@ -50,6 +54,7 @@
 10/30/1948|Arkansas State|27|Southern Illinois|21
 10/30/1948|Virginia Tech|7|Army|49
 10/30/1948|Ball State|20|Valparaiso(IN)|0
+10/30/1948|Baylor|6|TCU|3
 11/06/1948|Southern Miss|0|Alabama|27
 11/06/1948|Arizona|14|New Mexico|6
 11/06/1948|Arizona State|52|New Mexico State|7
@@ -58,6 +63,7 @@
 11/06/1948|Army|43|Stanford|0
 11/06/1948|Mississippi State|20|Auburn|0
 11/06/1948|Manchester(IN)|0|Ball State|35
+11/06/1948|Texas|13|Baylor|10
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/13/1948|Alabama|14|Georgia Tech|12
@@ -67,18 +73,22 @@
 11/13/1948|Army|26|Pennsylvania|20
 11/13/1948|Auburn|14|Georgia|42
 11/13/1948|Ball State|10|Indiana State|7
+11/13/1948|Baylor|13|Tulane|35
 11/19/1948|Arkansas State|13|Memphis|34
 11/20/1948|Heidelberg(OH)|34|Akron|0
 11/20/1948|Alabama|6|LSU|26
 11/20/1948|Iowa State|7|Arizona|14
 11/20/1948|Arizona State|25|Hardin-Simmons|63
 11/20/1948|Tulsa|18|Arkansas|55
+11/20/1948|Baylor|6|SMU|13
 11/26/1948|Brigham Young|27|Arizona State|25
 11/27/1948|Florida|28|Alabama|34
 11/27/1948|Marquette|14|Arizona|24
 11/27/1948|William & Mary|9|Arkansas|0
 11/27/1948|Army|21|Navy|21
 11/27/1948|Clemson|7|Auburn|6
+11/27/1948|Rice|7|Baylor|7
 12/04/1948|Auburn|0|Alabama|55
 12/14/1948|New Mexico|17|Arizona State|28
 01/01/1949|Arizona|13|Drake|14
+01/01/1949|Baylor|20|Wake Forest|7
