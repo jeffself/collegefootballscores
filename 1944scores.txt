@@ -7,11 +7,14 @@
 10/07/1944|Arkansas|6|TCU|6
 10/07/1944|Brown|7|Army|59
 10/07/1944|Fort Benning - 4th Infantry|0|Auburn|7
+10/07/1944|Harvard|13|Boston College|0
+10/13/1944|CCNY|0|Boston College|33
 10/14/1944|Millsaps(MS)|0|Alabama|55
 10/14/1944|Normas NAS(OK)|27|Arkansas|7
 10/14/1944|Pittsburgh|7|Army|69
 10/14/1944|Auburn|0|Georgia Tech|27
 10/14/1944|Central Normal(IN)|13|Ball State|6
+10/20/1944|New York(NY)|13|Boston College|42
 10/21/1944|Alabama|0|Tennessee|0
 10/21/1944|Texas|19|Arkansas|0
 10/21/1944|Coast Guard|0|Army|76
@@ -20,22 +23,26 @@
 10/27/1944|Kentucky|0|Alabama|41
 10/28/1944|Mississippi|18|Arkansas|26
 10/28/1944|Army|27|Duke|7
+10/28/1944|Syracuse|12|Boston College|19
 11/04/1944|Georgia|14|Alabama|7
 11/04/1944|Arkansas|7|Texas A&M|6
 11/04/1944|Villanova|0|Army|83
 11/04/1944|Presbyterian(SC)|0|Auburn|57
 11/04/1944|Central Normal(IN)|25|Ball State|6
+11/04/1944|Melville PT Boats(RI)|45|Boston College|0
 11/11/1944|Mississippi|6|Alabama|34
 11/11/1944|Rice|7|Arkansas|12
 11/11/1944|Army|59|Notre Dame|0
 11/11/1944|Mississippi State|26|Auburn|21
 11/11/1944|Earlham(IN)|7|Ball State|27
+11/12/1944|Brooklyn(NY)|21|Boston College|24
 11/18/1944|Mississippi State|0|Alabama|19
 11/18/1944|Arkansas|12|SMU|20
 11/18/1944|Army|62|Pennsylvania|7
 11/18/1944|Auburn|13|Georgia|49
 11/23/1944|Arkansas|2|Tulsa|33
 11/24/1944|Auburn|38|Miami(FL)|19
+11/26/1944|Holy Cross|30|Boston College|14
 12/02/1944|Arkansas-Monticello|0|Arkansas|41
 12/02/1944|Navy|7|Army|23
 01/01/1945|Alabama|26|Duke|29
