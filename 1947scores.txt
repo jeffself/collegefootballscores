@@ -1,3 +1,4 @@
+09/19/1947|Niagara(NY)|14|Buffalo|27
 09/20/1947|Southern Mississippi|7|Alabama|34
 09/20/1947|Cal Poly-San Luis Obispo|6|Arizona State|33
 09/20/1947|Northwestern State|0|Arkansas|64
@@ -8,6 +9,7 @@
 09/26/1947|Baylor|18|Miami(FL)|7
 09/26/1947|Clemson|22|Boston College|32
 09/26/1947|Montana State|14|Brigham Young|19
+09/26/1947|Buffalo|7|Moravian(PA)|0
 09/27/1947|Alabama|20|Tulane|21
 09/27/1947|Wyoming|7|Arizona|27
 09/27/1947|Arizona State|25|New Mexico|12
@@ -27,6 +29,7 @@
 10/04/1947|Eastern Illinois|13|Ball State|20
 10/04/1947|Bowling Green|13|Dayton|20
 10/04/1947|Brigham Young|7|Wyoming|12
+10/04/1947|RPI|7|Buffalo|14
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -39,6 +42,7 @@
 10/11/1947|Valparaiso(IN)|14|Ball State|18
 10/11/1947|Bowling Green|19|Miami(OH)|33
 10/11/1947|Brigham Young|6|Utah|28
+10/11/1947|Hobart(NY)|0|Buffalo|54
 10/17/1947|LSU|14|Boston College|13
 10/18/1947|Mount Union|14|Akron|19
 10/18/1947|Tennessee|0|Alabama|10
@@ -52,6 +56,7 @@
 10/18/1947|Baylor|32|Texas Tech|6
 10/18/1947|Ohio|0|Bowling Green|2
 10/18/1947|Brigham Young|7|Colorado|9
+10/18/1947|Buffalo|40|Alfred(NY)|7
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/24/1947|Villanova|0|Boston College|6
 10/25/1947|Akron|7|Toledo|38
@@ -63,6 +68,7 @@
 10/25/1947|Auburn|0|Tulane|40
 10/25/1947|Baylor|0|Texas A&M|24
 10/25/1947|Kent State|18|Bowling Green|21
+10/25/1947|Buffalo|12|Wayne State|32
 10/25/1947|Utah State|12|Brigham Young|27
 10/31/1947|Western Reserve|18|Akron|0
 11/01/1947|Alabama|13|Kentucky|0
@@ -76,6 +82,7 @@
 11/01/1947|Georgetown(DC)|6|Boston College|27
 11/01/1947|Findlay(OH)|9|Bowling Green|26
 11/01/1947|Brigham Young|6|Denver|20
+11/01/1947|Bethany(WV)|6|Buffalo|40
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/08/1947|Akron|6|Wooster(OH)|21
 11/08/1947|Arizona|28|Texas Tech|41
@@ -88,6 +95,7 @@
 11/08/1947|Wake Forest|14|Boston College|13
 11/08/1947|Bowling Green|14|St. Bonaventure|21
 11/08/1947|San José St|28|Brigham Young|19
+11/08/1947|St. Lawrence(NY)|7|Buffalo|50
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
 11/15/1947|Arizona|26|Arizona State|13
@@ -99,6 +107,7 @@
 11/15/1947|Boston College|13|Tennessee|38
 11/15/1947|Northern Iowa|7|Bowling Green|19
 11/15/1947|Colorado State|27|Brigham Young|25
+11/15/1947|Buffalo|14|Bucknell|6
 11/17/1947|Arkansas State|19|Memphis|19
 11/22/1947|John Carroll(OH)|31|Akron|0
 11/22/1947|LSU|12|Alabama|41
