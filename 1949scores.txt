@@ -1,3 +1,4 @@
+09/23/1949|Mississippi|40|Auburn|7
 09/24/1949|Findlay(OH)|0|Akron|34
 09/24/1949|Tulane|28|Alabama|14
 09/24/1949|Arizona|40|New Mexico State|7
@@ -19,6 +20,7 @@
 10/08/1949|Arkansas|13|Baylor|35
 10/08/1949|Ouachita Baptist(AR)|0|Arkansas State|14
 10/08/1949|Army|21|Michigan|7
+10/08/1949|Florida|14|Auburn|14
 10/15/1949|Akron|6|Louisville|62
 10/15/1949|Tennessee|7|Alabama|7
 10/15/1949|Texas-El Paso|28|Arizona|0
@@ -26,30 +28,35 @@
 10/15/1949|Texas|27|Arkansas|14
 10/15/1949|Middle Tennessee State|25|Arkansas State|12
 10/15/1949|Army|54|Harvard|14
+10/15/1949|Auburn|21|Georgia Tech|35
 10/22/1949|Mount Union|23|Akron|14
 10/22/1949|Mississippi State|6|Alabama|35
 10/22/1949|Arizona|7|Texas Tech|27
 10/22/1949|Arkansas|7|Vanderbilt|6
 10/22/1949|Arkansas State|7|Delta State|6
 10/22/1949|Columbia|6|Army|63
+10/22/1949|Auburn|6|Tulane|14
 10/29/1949|Akron|13|Wooster(OH)|13
 10/29/1949|Alabama|14|Georgia|7
 10/29/1949|Arizona|6|Denver|20
 10/29/1949|Arizona State|28|New Mexico|19
 10/29/1949|Texas A&M|6|Arkansas|27
 10/29/1949|VMI|14|Army|40
+10/29/1949|Auburn|7|Vanderbilt|26
 11/05/1949|Geneva(PA)|27|Akron|6
 11/05/1949|New Mexico|14|Arizona|46
 11/05/1949|New Mexico State|32|Arizona State|68
 11/05/1949|Arkansas|0|Rice|14
 11/05/1949|Arkansas State|6|Henderson State|28
 11/05/1949|Fordham|0|Army|35
+11/05/1949|Mississippi State|6|Auburn|25
 11/12/1949|Akron|0|Kent State|47
 11/12/1949|Georgia Tech|7|Alabama|20
 11/12/1949|Arizona|7|Arizona State|34
 11/12/1949|Arkansas|6|SMU|34
 11/12/1949|Memphis|61|Arkansas State|7
 11/12/1949|Army|14|Pennsylvania|13
+11/12/1949|Auburn|20|Georgia|20
 11/18/1949|Missouri Valley|6|Arkansas State|7
 11/19/1949|Akron|14|Heidelberg(OH)|34
 11/19/1949|Southern Miss|26|Alabama|34
@@ -61,6 +68,7 @@
 11/26/1949|Loyola Marymount(CA)|27|Arizona State|7
 11/26/1949|Tulsa|7|Arkansas|40
 11/26/1949|Navy|0|Army|38
+11/26/1949|Clemson|20|Auburn|20
 12/03/1949|Auburn|14|Alabama|13
 12/03/1949|Utah State|12|Arizona State|27
 01/01/1950|Arizona State|21|Xavier(OH)|33
