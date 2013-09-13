@@ -13,6 +13,7 @@
 09/27/1941|Boston College|7|Tulane|21
 09/27/1941|Wooster(OH)|14|Bowling Green|14
 09/27/1941|Susquehanna(PA)|0|Buffalo|19
+09/27/1941|Saint Mary's(CA)|0|California|31
 10/03/1941|Bowling Green|0|Akron|8
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
@@ -25,6 +26,7 @@
 10/04/1941|Auburn|0|Tulane|32
 10/04/1941|Ball State|6|Northern Illinois|6
 10/04/1941|Buffalo|6|CCNY|0
+10/04/1941|California|6|Washington State|13
 10/10/1941|Western Reserve|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
 10/10/1941|Brigham Young|13|Denver|7
@@ -38,6 +40,7 @@
 10/11/1941|Clemson|26|Boston College|13
 10/11/1941|Bowling Green|9|Miami(OH)|0
 10/11/1941|Buffalo|6|Drexel Institute(PA)|19
+10/11/1941|Santa Clara|13|California|0
 10/17/1941|Baylor|6|Villanova|14
 10/18/1941|Ohio|0|Akron|0
 10/18/1941|Alabama|9|Tennessee|2
@@ -51,6 +54,7 @@
 10/18/1941|Bowling Green|20|Eastern Michigan|6
 10/18/1941|Brigham Young|6|Utah|6
 10/18/1941|Washington & Jefferson(PA)|14|Buffalo|6
+10/18/1941|California|7|Oregon|19
 10/24/1941|Baldwin-Wallace|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
 10/24/1941|Arkansas State|0|Austin Peay|34
@@ -64,6 +68,7 @@
 10/25/1941|Georgetown(DC)|6|Boston College|14
 10/25/1941|Heidelberg(OH)|6|Bowling Green|39
 10/25/1941|Buffalo|0|Alfred(NY)|14
+10/25/1941|Southern Cal|0|California|14
 10/31/1941|Arizona State|6|Northern Colorado|0
 10/31/1941|Southern Arkansas|19|Arkansas State|0
 11/01/1941|Ohio Wesleyan|6|Akron|28
@@ -78,6 +83,7 @@
 11/01/1941|Bowling Green|12|Kent State|6
 11/01/1941|Brigham Young|28|Utah State|0
 11/01/1941|Lehigh|0|Buffalo|0
+11/01/1941|California|27|UCLA|7
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
 11/08/1941|Alabama|19|Tulane|14
@@ -92,6 +98,7 @@
 11/08/1941|Bowling Green|13|Wittenberg(OH)|0
 11/08/1941|Brigham Young|23|Wyoming|7
 11/08/1941|Buffalo|12|Hobart(NY)|7
+11/08/1941|Washington|13|California|6
 11/15/1941|Kent State|13|Akron|41
 11/15/1941|Georgia Tech|0|Alabama|20
 11/15/1941|Arizona|14|Oklahoma State|41
@@ -105,6 +112,7 @@
 11/15/1941|Findlay(OH)|0|Bowling Green|47
 11/15/1941|Colorado|13|Brigham Young|13
 11/15/1941|RPI|21|Buffalo|6
+11/15/1941|Oregon State|6|California|0
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll|12|Akron|21
 11/20/1941|Wayne State|0|Bowling Green|19
@@ -122,6 +130,7 @@
 11/29/1941|Clemson|7|Auburn|28
 11/29/1941|Baylor|14|Rice|28
 11/29/1941|Holy Cross|13|Boston College|14
+11/29/1941|California|16|Stanford|0
 12/06/1941|Utah|12|Arizona|6
 12/06/1941|Hardin-Simmons|20|Arizona State|0
 01/01/1942|Alabama|29|Texas A&M|21
