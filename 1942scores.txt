@@ -13,6 +13,7 @@
 09/26/1942|Ohio Navy|0|Bowling Green|39
 09/26/1942|Brigham Young|12|Montana|6
 09/26/1942|Buffalo|19|Susquehanna(PA)|0
+09/27/1942|Saint Mary's(CA)|0|California|6
 10/02/1942|Baylor|18|Oklahoma State|12
 10/02/1942|Wyoming|13|Brigham Young|6
 10/03/1942|Akron|0|Ohio|39
@@ -25,6 +26,7 @@
 10/03/1942|West Virginia|0|Boston College|33
 10/03/1942|Bowling Green|14|Ohio Wesleyan|15
 10/03/1942|St. Lawrence(NY)|0|Buffalo|20
+10/03/1942|California|8|Oregon State|13
 10/10/1942|Eastern Kentucky|6|Akron|0
 10/10/1942|Pensacola NAS(FL)|0|Alabama|27
 10/10/1942|Arizona|23|Arizona State|0
@@ -35,6 +37,7 @@
 10/10/1942|Clemson|7|Boston College|14
 10/10/1942|Brigham Young|12|Utah|7
 10/10/1942|Buffalo|7|Washington & Jefferson(PA)|13
+10/10/1942|Santa Clara|7|California|6
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
 10/17/1942|Akron|7|Ohio Wesleyan|19
@@ -48,6 +51,7 @@
 10/17/1942|NC Navy Pre-Flight|6|Boston College|7
 10/17/1942|Bowling Green|20|Wayne State|6
 10/17/1942|Hartwick(NY)|6|Buffalo|50
+10/17/1942|UCLA|21|California|0
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
 10/24/1942|Arizona|0|Marquette|39
@@ -59,6 +63,7 @@
 10/24/1942|Wake Forest|0|Boston College|27
 10/24/1942|Miami(OH)|6|Bowling Green|7
 10/24/1942|Carnegie-Mellon|27|Buffalo|14
+10/24/1942|California|19|Washington|6
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/31/1942|Baldwin-Wallace|22|Akron|0
 10/31/1942|Alabama|10|Georgia|21
@@ -72,6 +77,7 @@
 10/31/1942|Kent State|7|Bowling Green|0
 10/31/1942|Utah State|9|Brigham Young|6
 10/31/1942|Buffalo|26|Johns Hopkins|6
+10/31/1942|Oregon|7|California|20
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -85,6 +91,7 @@
 11/07/1942|Wittenberg(OH)|0|Bowling Green|10
 11/07/1942|Denver|26|Brigham Young|6
 11/07/1942|Hobart(NY)|0|Buffalo|66
+11/07/1942|California|7|Southern Cal|21
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/14/1942|Kent State|23|Akron|6
 11/14/1942|Alabama|0|Georgia Tech|7
@@ -98,6 +105,7 @@
 11/14/1942|Fordham|6|Boston College|56
 11/14/1942|Brigham Young|0|Colorado|48
 11/14/1942|Buffalo|13|RPI|0
+11/14/1942|Montana|0|California|13
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
@@ -107,6 +115,7 @@
 11/21/1942|SMU|6|Baylor|6
 11/21/1942|Boston(MA)|0|Boston College|37
 11/21/1942|Grosse lle NAS(MI)|7|Bowling Green|19
+11/21/1942|Stanford|26|California|7
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Arkansas|7|Tulsa|40
 11/28/1942|Georgia Navy Pre-Flight|35|Alabama|19
@@ -116,4 +125,5 @@
 11/28/1942|Rice|20|Baylor|0
 11/28/1942|Holy Cross|55|Boston College|12
 12/05/1942|2nd Air Force(CO)|27|Arizona|13
+12/05/1942|Saint Mary's Pre-Flight(CA)|6|California|12
 01/01/1943|Alabama|37|Boston College|21
