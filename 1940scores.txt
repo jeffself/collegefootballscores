@@ -3,6 +3,7 @@
 09/21/1940|California-Davis|13|Arizona State|21
 09/21/1940|Ball State|0|Miami(OH)|0
 09/21/1940|Centre(KY)|0|Boston College|40
+09/21/1940|Hanover(IN)|0|Cincinnati|45
 09/27/1940|Alabama|26|Spring Hill(AL)|0
 09/27/1940|Arizona State|19|West Texas A&M|12
 09/27/1940|Samford(AL)|13|Auburn|27
@@ -17,6 +18,7 @@
 09/28/1940|Nevada|6|Brigham Young|6
 09/28/1940|Buffalo|6|Susquehanna(PA)|20
 09/28/1940|Michigan|41|California|0
+09/28/1940|Louisville|0|Cincinnati|7
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/04/1940|Baylor|14|Denver|7
@@ -31,6 +33,7 @@
 10/05/1940|Brigham Young|6|Utah|12
 10/05/1940|Drexel Institute(PA)|13|Buffalo|20
 10/05/1940|Saint Mary's(CA)|6|California|9
+10/05/1940|Cincinnati|0|Navy|14
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -45,6 +48,7 @@
 10/12/1940|Buffalo|0|Williams(MA)|27
 10/12/1940|Washington State|9|California|6
 10/12/1940|Central Michigan|6|Northern Illinois|9
+10/12/1940|Centre(KY)|0|Cincinnati|22
 10/18/1940|Brigham Young|20|Texas Tech|21
 10/19/1940|Akron|7|Wayne State|7
 10/19/1940|Tennessee|27|Alabama|12
@@ -60,6 +64,7 @@
 10/19/1940|Buffalo|0|Alfred(NY)|19
 10/19/1940|UCLA|7|California|9
 10/19/1940|Central Michigan|0|Bradley|19
+10/19/1940|Cincinnati|0|Boston U|14
 10/25/1940|Akron|7|Baldwin-Wallace|13
 10/25/1940|Eastern Michigan|0|Central Michigan|24
 10/26/1940|Oklahoma State|0|Arizona|24
@@ -74,6 +79,7 @@
 10/26/1940|Bowling Green|7|Capital(OH)|7
 10/26/1940|Buffalo|7|Connecticut|6
 10/26/1940|California|6|Washington|7
+10/26/1940|Dayton|7|Cincinnati|0
 11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
 11/02/1940|Arizona|20|Texas-El Paso|13
@@ -90,6 +96,7 @@
 11/02/1940|CCNY|6|Buffalo|7
 11/02/1940|Oregon State|19|California|13
 11/02/1940|Central Michigan|7|Wayne State|7
+11/02/1940|Carnegie-Mellon|6|Cincinnati|7
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -99,12 +106,13 @@
 11/09/1940|Clemson|7|Auburn|21
 11/09/1940|Ball State|0|Butler|26
 11/09/1940|Baylor|0|Texas|13
-11/09/1940|Boston(MA)|0|Boston College|21
+11/09/1940|Boston U|0|Boston College|21
 11/09/1940|Bowling Green|26|Wooster(OH)|14
 11/09/1940|Denver|9|Brigham Young|0
 11/09/1940|Hobart(NY)|19|Buffalo|7
 11/09/1940|California|20|Southern Cal|7
 11/09/1940|Eastern Kentucky|25|Central Michigan|0
+11/09/1940|Cincinnati|7|West Virginia|7
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/16/1940|Alabama|14|Georgia Tech|13
 11/16/1940|Northern Colorado|0|Arizona State|41
@@ -122,6 +130,7 @@
 11/21/1940|John Carroll|0|Akron|47
 11/21/1940|Arkansas|7|Fordham|27
 11/21/1940|Bowling Green|0|Wayne State|19
+11/21/1940|Miami(OH)|0|Cincinnati|44
 11/23/1940|Vanderbilt|21|Alabama|25
 11/23/1940|New Mexico|13|Arizona|12
 11/23/1940|North Dakota|12|Arizona State|30
