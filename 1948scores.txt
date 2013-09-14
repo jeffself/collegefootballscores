@@ -1,6 +1,7 @@
 09/18/1948|Abilene Christian|6|Arkansas|40
 09/18/1948|San Diego State|6|Brigham Young|14
 09/18/1948|Santa Clara|19|California|41
+09/18/1948|Ferris State(MI)|6|Central Michigan|27
 09/24/1948|Akron|14|Findlay(OH)|9
 09/24/1948|Southern Miss|14|Auburn|20
 09/24/1948|Wake Forest|9|Boston College|26
@@ -45,6 +46,8 @@
 10/09/1948|Utah|30|Brigham Young|0
 10/09/1948|Buffalo|39|RPI|21
 10/09/1948|Wisconsin|14|California|40
+10/09/1948|Central Michigan|0|Western Michigan|7
+10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
 10/16/1948|Louisville|13|Akron|0
@@ -60,6 +63,7 @@
 10/16/1948|Charleston(WV)|6|Bowling Green|48
 10/16/1948|Alfred(NY)|0|Buffalo|8
 10/16/1948|Oregon State|0|California|42
+10/16/1948|Kent State|28|Central Michigan|0
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|Alabama|10|Mississippi State|7
 10/23/1948|Texas Tech|31|Arizona|0
@@ -73,6 +77,7 @@
 10/23/1948|Brigham Young|7|Utah State|20
 10/23/1948|Buffalo|41|Washington & Jefferson(PA)|14
 10/23/1948|California|21|Washington|0
+10/23/1948|Central Michigan|9|Youngstown State|32
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/30/1948|Wooster(OH)|6|Akron|20
@@ -87,6 +92,7 @@
 10/30/1948|Montana|20|Brigham Young|26
 10/30/1948|Buffalo|48|Louisville|19
 10/30/1948|California|13|Southern Cal|7
+10/30/1948|Wayne State|27|Central Michigan|12
 11/05/1948|Brigham Young|6|San José St|21
 11/06/1948|Southern Miss|0|Alabama|27
 11/06/1948|Arizona|14|New Mexico|6
@@ -100,6 +106,7 @@
 11/06/1948|Bowling Green|23|Kent State|14
 11/06/1948|Niagara(NY)|13|Buffalo|13
 11/06/1948|UCLA|13|California|28
+11/06/1948|Central Michigan|0|Eastern Michigan|6
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/13/1948|Alabama|14|Georgia Tech|12
@@ -114,6 +121,7 @@
 11/13/1948|Morningside(IA)|7|Bowling Green|38
 11/13/1948|Bucknell|13|Buffalo|47
 11/13/1948|Washington State|14|California|44
+11/13/1948|Wisconsin-Milwaukee|6|Central Michigan|21
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
 11/20/1948|Heidelberg(OH)|34|Akron|0
