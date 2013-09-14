@@ -1,11 +1,15 @@
+08/25/1944|Central Michigan|20|Alma(MI)|13
 09/01/1944|Bowling Green|20|Central Michigan|19
 09/09/1944|Bowling Green|7|Miami(OH)|28
+09/15/1944|Central Michigan|33|Alma(MI)|13
 09/16/1944|Bowling Green|13|Ohio Wesleyan|6
 09/23/1944|Arkansas|7|Missouri|6
 09/23/1944|Baldwin-Wallace(OH)|13|Bowling Green|6
 09/23/1944|Saint Mary's(CA)|7|California|31
+09/23/1944|Central Michigan|25|Indiana State|0
 09/29/1944|Arkansas|0|Oklahoma State|19
 09/29/1944|Samford(AL)|0|Auburn|32
+09/29/1944|Central Michigan|14|Michigan JV|13
 09/30/1944|Alabama|27|LSU|27
 09/30/1944|North Carolina|0|Army|46
 09/30/1944|Alma(MI)|6|Bowling Green|19
@@ -17,6 +21,7 @@
 10/07/1944|Harvard|13|Boston College|0
 10/07/1944|Ohio Wesleyan|0|Bowling Green|41
 10/07/1944|California|6|Southern Cal|6
+10/07/1944|Central Michigan|14|Western Michigan|35
 10/13/1944|CCNY|0|Boston College|33
 10/14/1944|Millsaps(MS)|0|Alabama|55
 10/14/1944|Normas NAS(OK)|27|Arkansas|7
@@ -25,6 +30,7 @@
 10/14/1944|Central Normal(IN)|13|Ball State|6
 10/14/1944|Bowling Green|20|Case Institute(OH)|18
 10/14/1944|Pacific|0|California|14
+10/14/1944|Central Michigan|25|Michigan JV|12
 10/20/1944|New York(NY)|13|Boston College|42
 10/21/1944|Alabama|0|Tennessee|0
 10/21/1944|Texas|19|Arkansas|0
