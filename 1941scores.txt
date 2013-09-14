@@ -18,6 +18,7 @@
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
 10/03/1941|Northern Colorado|0|Brigham Young|26
+10/03/1941|Northern Michigan|0|Central Michigan|7
 10/04/1941|Mississippi State|14|Alabama|0
 10/04/1941|New Mexico State|0|Arizona|47
 10/04/1941|West Texas A&M|13|Arizona State|7
@@ -30,6 +31,7 @@
 10/10/1941|Western Reserve|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
 10/10/1941|Brigham Young|13|Denver|7
+10/10/1941|Central Michigan|0|Detroit|45
 10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
 10/11/1941|New Mexico|0|Arizona State|0
@@ -59,6 +61,7 @@
 10/24/1941|Arkansas|9|Detroit|6
 10/24/1941|Arkansas State|0|Austin Peay|34
 10/24/1941|Brigham Young|13|San Francisco|25
+10/24/1941|Central Michigan|12|Eastern Michigan|6
 10/25/1941|Georgia|14|Alabama|27
 10/25/1941|Arizona|20|Arizona State|7
 10/25/1941|Columbia|0|Army|13
@@ -84,6 +87,7 @@
 11/01/1941|Brigham Young|28|Utah State|0
 11/01/1941|Lehigh|0|Buffalo|0
 11/01/1941|California|27|UCLA|7
+11/01/1941|Central Michigan|0|Wayne State|6
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
 11/08/1941|Alabama|19|Tulane|14
@@ -99,6 +103,7 @@
 11/08/1941|Brigham Young|23|Wyoming|7
 11/08/1941|Buffalo|12|Hobart(NY)|7
 11/08/1941|Washington|13|California|6
+11/08/1941|Grand Rapids(MI)|7|Central Michigan|6
 11/15/1941|Kent State|13|Akron|41
 11/15/1941|Georgia Tech|0|Alabama|20
 11/15/1941|Arizona|14|Oklahoma State|41
@@ -113,6 +118,7 @@
 11/15/1941|Colorado|13|Brigham Young|13
 11/15/1941|RPI|21|Buffalo|6
 11/15/1941|Oregon State|6|California|0
+11/15/1941|DeSales(OH)|6|Central Michigan|12
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll|12|Akron|21
 11/20/1941|Wayne State|0|Bowling Green|19
