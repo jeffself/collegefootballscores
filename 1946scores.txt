@@ -4,6 +4,7 @@
 09/21/1946|Northwestern State|14|Arkansas|21
 09/21/1946|Villanova|0|Army|35
 09/21/1946|Southwestern(TX)|7|Baylor|21
+09/21/1946|Cincinnati|15|Indiana|6
 09/22/1946|Western State(CO)|2|Brigham Young|13
 09/27/1946|Arkansas State|0|SE Missouri State|8
 09/27/1946|Southern Miss|12|Auburn|13
@@ -19,6 +20,7 @@
 09/28/1946|Brigham Young|12|Montana State|13
 09/28/1946|Moravian(PA)|7|Buffalo|40
 09/28/1946|Wisconsin|28|California|7
+09/28/1946|Kentucky|26|Cincinnati|7
 10/04/1946|Brigham Young|13|Denver|26
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
 10/05/1946|Alabama|14|South Carolina|6
@@ -33,6 +35,7 @@
 10/05/1946|Buffalo|28|RPI|13
 10/05/1946|Oregon|14|California|13
 10/05/1946|Central Michigan|20|Eastern Kentucky|7
+10/05/1946|Marshall|14|Cincinnati|39
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/12/1946|Texas-El Paso|13|Arizona|27
@@ -48,6 +51,7 @@
 10/12/1946|Buffalo|20|Hobart(NY)|7
 10/12/1946|Saint Mary's(CA)|13|California|20
 10/12/1946|Central Michigan|60|Northern Michigan|0
+10/12/1946|Cincinnati|19|Dayton|0
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -63,6 +67,7 @@
 10/19/1946|Bucknell|21|Buffalo|0
 10/19/1946|UCLA|13|California|6
 10/19/1946|Central Michigan|26|Eastern Michigan|13
+10/19/1946|Ohio|0|Cincinnati|19
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
 10/25/1946|Brigham Young|0|San José St|14
@@ -79,6 +84,7 @@
 10/26/1946|Wayne State|25|Buffalo|20
 10/26/1946|California|6|Washington|20
 10/26/1946|Northern Illinois|7|Central Michigan|58
+10/26/1946|Cincinnati|18|Michigan State|7
 11/02/1946|Akron|13|Western Reserve|6
 11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Hardin-Simmons|19|Arizona|8
@@ -94,6 +100,7 @@
 11/02/1946|Buffalo|32|Bethany(WV)|6
 11/02/1946|Washington State|14|California|47
 11/02/1946|Central Michigan|21|Western Michigan|27
+11/02/1946|Cincinnati|0|Tulsa|20
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -110,6 +117,7 @@
 11/09/1946|Alfred(NY)|12|Buffalo|20
 11/09/1946|California|0|Southern Cal|14
 11/09/1946|Great Lakes NTS(IL)|0|Central Michigan|48
+11/09/1946|Xavier(OH)|0|Cincinnati|39
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
@@ -125,6 +133,7 @@
 11/16/1946|Brigham Young|20|Colorado State|6
 11/16/1946|Buffalo|28|Carnegie Mellon|0
 11/16/1946|Oregon State|28|California|7
+11/16/1946|Western Reserve(OH)|7|Cincinnati|34
 11/22/1946|Brigham Young|14|Texas-El Paso|13
 11/23/1946|John Carroll(OH)|6|Akron|13
 11/23/1946|Alabama|7|Boston College|13
@@ -138,6 +147,7 @@
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
 11/28/1946|Arkansas State|30|Central Arkansas|12
+11/28/1946|Miami(OH)|7|Cincinnati|13
 11/30/1946|Kansas State|7|Arizona|28
 11/30/1946|Mississippi State|7|Alabama|24
 11/30/1946|Army|21|Navy|18
@@ -145,3 +155,4 @@
 11/30/1946|Baylor|6|Rice|38
 11/30/1946|Holy Cross|13|Boston College|6
 01/01/1947|Arkansas|0|LSU|0
+01/01/1947|Cincinnati|18|Virginia Tech|6
