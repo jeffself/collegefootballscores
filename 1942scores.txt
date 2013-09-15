@@ -2,6 +2,7 @@
 09/18/1942|Tennessee-Chattanooga|7|Auburn|20
 09/19/1942|Franklin(IN)|0|Ball State|38
 09/19/1942|Blackland AFB(TX)|0|Baylor|68
+09/19/1942|Presbyterian|13|Clemson|32
 09/25/1942|Muskingum|7|Akron|7
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
 09/26/1942|New Mexico State|0|Arizona|53
@@ -14,6 +15,7 @@
 09/26/1942|Brigham Young|12|Montana|6
 09/26/1942|Buffalo|19|Susquehanna(PA)|0
 09/26/1942|Louisville|0|Cincinnati|51
+09/26/1942|Clemson|0|VMI|0
 09/27/1942|Saint Mary's(CA)|0|California|6
 10/02/1942|Baylor|18|Oklahoma State|12
 10/02/1942|Wyoming|13|Brigham Young|6
@@ -30,6 +32,7 @@
 10/03/1942|California|8|Oregon State|13
 10/03/1942|Central Michigan|21|Northern Michigan|0
 10/03/1942|Cincinnati|18|Western Reserve(OH)|7
+10/03/1942|North Carolina State|7|Clemson|6
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/10/1942|Eastern Kentucky|6|Akron|0
 10/10/1942|Pensacola NAS(FL)|0|Alabama|27
@@ -59,6 +62,7 @@
 10/17/1942|Hartwick(NY)|6|Buffalo|50
 10/17/1942|UCLA|21|California|0
 10/17/1942|Ohio|7|Cincinnati|26
+10/22/1942|Clemson|18|South Carolina|6
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
 10/24/1942|Arizona|0|Marquette|39
@@ -88,6 +92,7 @@
 10/31/1942|Buffalo|26|Johns Hopkins|6
 10/31/1942|Oregon|7|California|20
 10/31/1942|Boston U|0|Cincinnati|6
+10/31/1942|Clemson|6|Wake Forest|19
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -104,6 +109,7 @@
 11/07/1942|California|7|Southern Cal|21
 11/07/1942|Grand Rapids(MI)|6|Central Michigan|20
 11/07/1942|Cincinnati|12|Tennessee|34
+11/07/1942|George Washington|7|Clemson|0
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/14/1942|Kent State|23|Akron|6
 11/14/1942|Alabama|0|Georgia Tech|7
@@ -119,6 +125,7 @@
 11/14/1942|Buffalo|13|RPI|0
 11/14/1942|Montana|0|California|13
 11/14/1942|Dayton|0|Cincinnati|20
+11/14/1942|Clemson|6|Jacksonville NAS(FL)|24
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
@@ -129,6 +136,7 @@
 11/21/1942|Boston U|0|Boston College|37
 11/21/1942|Grosse lle NAS(MI)|7|Bowling Green|19
 11/21/1942|Stanford|26|California|7
+11/21/1942|Furman|7|Clemson|12
 11/21/1942|Xavier(OH)|0|Cincinnati|9
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Arkansas|7|Tulsa|40
