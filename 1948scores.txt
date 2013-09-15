@@ -18,6 +18,7 @@
 09/25/1948|Buffalo|0|Colgate|25
 09/25/1948|California|21|Navy|7
 09/25/1948|Hardin-Simmons(TX)|7|Cincinnati|7
+09/25/1948|Presbyterian|0|Clemson|53
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -34,6 +35,7 @@
 10/02/1948|Hobart(NY)|0|Buffalo|39
 10/02/1948|Saint Mary's(CA)|0|California|20
 10/02/1948|Xavier(OH)|13|Cincinnati|7
+10/02/1948|North Carolina State|0|Clemson|6
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons|14|Arizona|20
@@ -50,6 +52,7 @@
 10/09/1948|Wisconsin|14|California|40
 10/09/1948|Central Michigan|0|Western Michigan|7
 10/09/1948|Ohio|13|Cincinnati|18
+10/09/1948|Clemson|21|Mississippi State|7
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
@@ -68,6 +71,7 @@
 10/16/1948|Oregon State|0|California|42
 10/16/1948|Kent State|28|Central Michigan|0
 10/16/1948|Cincinnati|0|Mississippi State|27
+10/21/1948|Clemson|13|South Carolina|7
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|Alabama|10|Mississippi State|7
 10/23/1948|Texas Tech|31|Arizona|0
@@ -114,6 +118,7 @@
 11/06/1948|Niagara(NY)|13|Buffalo|13
 11/06/1948|UCLA|13|California|28
 11/06/1948|Central Michigan|0|Eastern Michigan|6
+11/06/1948|Furman|0|Clemson|41
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/13/1948|Alabama|14|Georgia Tech|12
@@ -130,6 +135,7 @@
 11/13/1948|Washington State|14|California|44
 11/13/1948|Wisconsin-Milwaukee|6|Central Michigan|21
 11/13/1948|Western Reserve(OH)|13|Cincinnati|26
+11/13/1948|Clemson|21|Wake Forest|14
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
 11/20/1948|Heidelberg(OH)|34|Akron|0
@@ -143,6 +149,7 @@
 11/20/1948|Wyoming|14|Brigham Young|15
 11/20/1948|Stanford|6|California|7
 11/20/1948|Tulane|6|Cincinnati|0
+11/20/1948|Duquesne|0|Clemson|42
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/26/1948|Brigham Young|27|Arizona State|25
 11/27/1948|Florida|28|Alabama|34
@@ -153,7 +160,9 @@
 11/27/1948|Rice|7|Baylor|7
 11/27/1948|Boston College|21|Holy Cross|20
 12/04/1948|Auburn|0|Alabama|55
+12/04/1948|Clemson|20|Citadel|0
 12/14/1948|New Mexico|17|Arizona State|28
 01/01/1949|Arizona|13|Drake|14
 01/01/1949|Baylor|20|Wake Forest|7
+01/01/1949|Clemson|24|Missouri|23
 01/01/1949|Northwestern|20|California|14
