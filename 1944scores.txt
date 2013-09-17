@@ -8,6 +8,7 @@
 09/23/1944|Saint Mary's(CA)|7|California|31
 09/23/1944|Central Michigan|25|Indiana State|0
 09/23/1944|Presbyterian|0|Clemson|34
+09/23/1944|Fort Warren(WY)|7|Colorado|6
 09/29/1944|Arkansas|0|Oklahoma State|19
 09/29/1944|Samford(AL)|0|Auburn|32
 09/29/1944|Central Michigan|14|Michigan JV|13
@@ -16,6 +17,7 @@
 09/30/1944|Alma(MI)|6|Bowling Green|19
 09/30/1944|UCLA|0|California|6
 09/30/1944|Clemson|0|Georgia Tech|51
+09/30/1944|2nd Air Force(CO)|33|Colorado|6
 10/07/1944|Samford(AL)|7|Alabama|63
 10/07/1944|Arkansas|6|TCU|6
 10/07/1944|Brown|7|Army|59
@@ -34,6 +36,7 @@
 10/14/1944|Bowling Green|20|Case Institute(OH)|18
 10/14/1944|Pacific|0|California|14
 10/14/1944|Central Michigan|25|Michigan JV|12
+10/14/1944|Colorado|26|Utah|0
 10/19/1944|South Carolina|13|Clemson|20
 10/20/1944|New York(NY)|13|Boston College|42
 10/21/1944|Alabama|0|Tennessee|0
@@ -43,6 +46,7 @@
 10/21/1944|Franklin(IN)|0|Ball State|19
 10/21/1944|Bowling Green|7|Bunker Hill NAS(IN)|27
 10/21/1944|Fleet City USNTDC(CA)|19|California|2
+10/21/1944|Colorado College|0|Colorado|28
 10/27/1944|Kentucky|0|Alabama|41
 10/28/1944|Mississippi|18|Arkansas|26
 10/28/1944|Army|27|Duke|7
@@ -57,6 +61,7 @@
 11/04/1944|Melville PT Boats(RI)|45|Boston College|0
 11/04/1944|Alameda Coast Guard(CA)|12|California|6
 11/04/1944|Clemson|7|Wake Forest|13
+11/04/1944|New Mexico|0|Colorado|39
 11/11/1944|Mississippi|6|Alabama|34
 11/11/1944|Rice|7|Arkansas|12
 11/11/1944|Army|59|Notre Dame|0
@@ -64,6 +69,7 @@
 11/11/1944|Earlham(IN)|7|Ball State|27
 11/11/1944|California|0|UCLA|7
 11/11/1944|VMI|12|Clemson|57
+11/11/1944|Peru State(NE)|12|Colorado|40
 11/12/1944|Brooklyn(NY)|21|Boston College|24
 11/18/1944|Mississippi State|0|Alabama|19
 11/18/1944|Arkansas|12|SMU|20
@@ -71,7 +77,9 @@
 11/18/1944|Auburn|13|Georgia|49
 11/18/1944|Southern Cal|32|California|0
 11/18/1944|Clemson|20|Tulane|36
+11/18/1944|Colorado|40|Colorado College|6
 11/23/1944|Arkansas|2|Tulsa|33
+11/23/1944|Colorado|16|Denver|14
 11/24/1944|Auburn|38|Miami(FL)|19
 11/24/1944|Clemson|7|Georgia|21
 11/25/1944|Saint Mary's Pre-Flight(CA)|33|California|6
