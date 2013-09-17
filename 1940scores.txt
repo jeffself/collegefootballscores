@@ -21,6 +21,7 @@
 09/28/1940|Michigan|41|California|0
 09/28/1940|Louisville|0|Cincinnati|7
 09/28/1940|Wofford|0|Clemson|26
+09/28/1940|Colorado|7|Texas|39
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/04/1940|Baylor|14|Denver|7
@@ -37,6 +38,7 @@
 10/05/1940|Saint Mary's(CA)|6|California|9
 10/05/1940|Clemson|26|North Carolina State|7
 10/05/1940|Cincinnati|0|Navy|14
+10/05/1940|Kansas State|6|Colorado|7
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -53,6 +55,7 @@
 10/12/1940|Central Michigan|6|Northern Illinois|9
 10/12/1940|Centre(KY)|0|Cincinnati|22
 10/12/1940|Wake Forest|0|Clemson|39
+10/12/1940|Colorado|26|Utah State|0
 10/18/1940|Brigham Young|20|Texas Tech|21
 10/19/1940|Akron|7|Wayne State|7
 10/19/1940|Tennessee|27|Alabama|12
@@ -69,6 +72,7 @@
 10/19/1940|UCLA|7|California|9
 10/19/1940|Central Michigan|0|Bradley|19
 10/19/1940|Cincinnati|0|Boston U|14
+10/19/1940|Colorado|33|Colorado State|14
 10/24/1940|Clemson|21|South Carolina|13
 10/25/1940|Akron|7|Baldwin-Wallace|13
 10/25/1940|Eastern Michigan|0|Central Michigan|24
@@ -85,6 +89,7 @@
 10/26/1940|Buffalo|7|Connecticut|6
 10/26/1940|California|6|Washington|7
 10/26/1940|Dayton|7|Cincinnati|0
+10/26/1940|Wyoming|0|Colorado|62
 11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
 11/02/1940|Arizona|20|Texas-El Paso|13
@@ -103,6 +108,7 @@
 11/02/1940|Central Michigan|7|Wayne State|7
 11/02/1940|Carnegie-Mellon|6|Cincinnati|7
 11/02/1940|Clemson|0|Tulane|13
+11/02/1940|Utah|21|Colorado|13
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -119,6 +125,7 @@
 11/09/1940|California|20|Southern Cal|7
 11/09/1940|Eastern Kentucky|25|Central Michigan|0
 11/09/1940|Cincinnati|7|West Virginia|7
+11/09/1940|Missouri|21|Colorado|6
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/16/1940|Alabama|14|Georgia Tech|13
 11/16/1940|Northern Colorado|0|Arizona State|41
@@ -138,6 +145,7 @@
 11/21/1940|Arkansas|7|Fordham|27
 11/21/1940|Bowling Green|0|Wayne State|19
 11/21/1940|Miami(OH)|0|Cincinnati|44
+11/21/1940|Colorado|3|Denver|3
 11/23/1940|Vanderbilt|21|Alabama|25
 11/23/1940|New Mexico|13|Arizona|12
 11/23/1940|North Dakota|12|Arizona State|30
