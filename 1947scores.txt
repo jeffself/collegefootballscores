@@ -8,6 +8,7 @@
 09/20/1947|Western State(CO)|0|Brigham Young|45
 09/20/1947|Santa Clara|7|California|33
 09/20/1947|Presbyterian|0|Clemson|42
+09/20/1947|Colorado School of Mines|12|Colorado State|20
 09/26/1947|Southern Miss|19|Auburn|13
 09/26/1947|Baylor|18|Miami(FL)|7
 09/26/1947|Clemson|22|Boston College|32
@@ -24,6 +25,7 @@
 09/27/1947|Navy|7|California|14
 09/27/1947|Cincinnati|0|Kentucky|20
 09/27/1947|Colorado|7|Iowa State|0
+09/27/1947|Colorado State|23|Drake|19
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/04/1947|Alabama|7|Vanderbilt|14
@@ -40,6 +42,7 @@
 10/04/1947|Saint Mary's(CA)|6|California|45
 10/04/1947|St. Bonaventure|14|Cincinnati|20
 10/04/1947|Wake Forest|16|Clemson|14
+10/04/1947|Utah State|26|Colorado State|13
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -58,6 +61,7 @@
 10/11/1947|Dayton|26|Cincinnati|21
 10/11/1947|Clemson|0|North Carolina State|18
 10/11/1947|Missouri|21|Colorado|0
+10/11/1947|Colorado State|13|Denver|13
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -75,6 +79,7 @@
 10/18/1947|Buffalo|40|Alfred(NY)|7
 10/18/1947|Washington State|6|California|21
 10/18/1947|Oklahoma City|13|Cincinnati|20
+10/18/1947|Colorado State|8|Colorado College|7
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
 10/24/1947|Villanova|0|Boston College|6
@@ -128,6 +133,7 @@
 11/08/1947|Miami(FL)|7|Cincinnati|20
 11/08/1947|Furman|7|Clemson|35
 11/08/1947|Colorado|12|Utah State|35
+11/08/1947|Colorado State|0|Utah|19
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
 11/15/1947|Arizona|26|Arizona State|13
@@ -158,6 +164,7 @@
 11/22/1947|Brigham Young|7|San Diego State|32
 11/22/1947|California|21|Stanford|18
 11/22/1947|Butler|19|Cincinnati|26
+11/22/1947|Wyoming|6|Colorado State|21
 11/27/1947|Arkansas|27|Tulsa|13
 11/27/1947|Miami(OH)|38|Cincinnati|7
 11/27/1947|Colorado|20|Denver|26
@@ -167,6 +174,7 @@
 11/29/1947|Army|21|Navy|0
 11/29/1947|Baylor|6|Rice|34
 11/29/1947|Boston College|6|Holy Cross|20
+11/29/1947|Colorado State|7|Montana|41
 12/06/1947|Utah|20|Arizona|20
 12/06/1947|Hardin-Simmons|42|Arizona State|0
 01/01/1948|Alabama|7|Texas|27
