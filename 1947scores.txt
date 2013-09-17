@@ -23,6 +23,7 @@
 09/27/1947|Central Michigan|19|Bowling Green|20
 09/27/1947|Navy|7|California|14
 09/27/1947|Cincinnati|0|Kentucky|20
+09/27/1947|Colorado|7|Iowa State|0
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/04/1947|Alabama|7|Vanderbilt|14
@@ -56,6 +57,7 @@
 10/11/1947|Western Michigan|20|Central Michigan|12
 10/11/1947|Dayton|26|Cincinnati|21
 10/11/1947|Clemson|0|North Carolina State|18
+10/11/1947|Missouri|21|Colorado|0
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -90,6 +92,7 @@
 10/25/1947|Utah State|12|Brigham Young|27
 10/25/1947|Southern Cal|39|California|14
 10/25/1947|Xavier(OH)|25|Cincinnati|27
+10/25/1947|Colorado|14|Colorado State|7
 10/31/1947|Western Reserve|18|Akron|0
 10/31/1947|Clemson|6|Georgia|21
 11/01/1947|Alabama|13|Kentucky|0
@@ -107,6 +110,7 @@
 11/01/1947|California|6|UCLA|0
 11/01/1947|Eastern Michigan|0|Central Michigan|33
 11/01/1947|Cincinnati|34|Ohio|0
+11/01/1947|Utah|13|Colorado|7
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/08/1947|Akron|6|Wooster(OH)|21
 11/08/1947|Arizona|28|Texas Tech|41
@@ -123,6 +127,7 @@
 11/08/1947|Washington|7|California|13
 11/08/1947|Miami(FL)|7|Cincinnati|20
 11/08/1947|Furman|7|Clemson|35
+11/08/1947|Colorado|12|Utah State|35
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
 11/15/1947|Arizona|26|Arizona State|13
@@ -139,6 +144,7 @@
 11/15/1947|Wisconsin-Milwaukee|12|Central Michigan|0
 11/15/1947|Cincinnati|7|Western Reserve(OH)|6
 11/15/1947|Clemson|34|Duquesne|13
+11/15/1947|Wyoming|6|Colorado|21
 11/17/1947|Arkansas State|19|Memphis|19
 11/22/1947|John Carroll(OH)|31|Akron|0
 11/22/1947|LSU|12|Alabama|41
@@ -154,6 +160,7 @@
 11/22/1947|Butler|19|Cincinnati|26
 11/27/1947|Arkansas|27|Tulsa|13
 11/27/1947|Miami(OH)|38|Cincinnati|7
+11/27/1947|Colorado|20|Denver|26
 11/29/1947|Alabama|21|Miami(FL)|6
 11/29/1947|Kansas|54|Arizona|28
 11/29/1947|Arizona State|13|Nevada|33
