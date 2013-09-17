@@ -2,6 +2,7 @@
 09/18/1948|San Diego State|6|Brigham Young|14
 09/18/1948|Santa Clara|19|California|41
 09/18/1948|Ferris State(MI)|6|Central Michigan|27
+09/18/1948|Colorado College|6|Colorado State|25
 09/24/1948|Akron|14|Findlay(OH)|9
 09/24/1948|Southern Miss|14|Auburn|20
 09/24/1948|Wake Forest|9|Boston College|26
@@ -20,6 +21,7 @@
 09/25/1948|Hardin-Simmons(TX)|7|Cincinnati|7
 09/25/1948|Presbyterian|0|Clemson|53
 09/25/1948|New Mexico|9|Colorado|6
+09/25/1948|New Mexico State|6|Colorado State|41
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -38,6 +40,7 @@
 10/02/1948|Xavier(OH)|13|Cincinnati|7
 10/02/1948|North Carolina State|0|Clemson|6
 10/02/1948|Colorado|7|Kansas|40
+10/02/1948|Colorado State|9|Utah State|7
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons|14|Arizona|20
@@ -56,6 +59,7 @@
 10/09/1948|Ohio|13|Cincinnati|18
 10/09/1948|Clemson|21|Mississippi State|7
 10/09/1948|Nebraska|6|Colorado|19
+10/09/1948|Colorado State|14|Denver|10
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
@@ -75,6 +79,7 @@
 10/16/1948|Kent State|28|Central Michigan|0
 10/16/1948|Cincinnati|0|Mississippi State|27
 10/16/1948|Colorado|7|Iowa State|18
+10/16/1948|Colorado State|21|Wyoming|20
 10/21/1948|Clemson|13|South Carolina|7
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|Alabama|10|Mississippi State|7
@@ -92,6 +97,7 @@
 10/23/1948|Central Michigan|9|Youngstown State|32
 10/23/1948|Cincinnati|16|Butler|7
 10/23/1948|Kansas State|7|Colorado|51
+10/23/1948|Drake|31|Colorado State|29
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/30/1948|Wooster(OH)|6|Akron|20
@@ -109,6 +115,7 @@
 10/30/1948|Wayne State|27|Central Michigan|12
 10/30/1948|Kentucky|28|Cincinnati|7
 10/30/1948|Colorado|12|Utah|14
+10/30/1948|Colorado State|33|Colorado School of Mines|0
 11/05/1948|Brigham Young|6|San José St|21
 11/05/1948|Cincinnati|6|Miami(FL)|36
 11/06/1948|Southern Miss|0|Alabama|27
@@ -126,6 +133,7 @@
 11/06/1948|Central Michigan|0|Eastern Michigan|6
 11/06/1948|Furman|0|Clemson|41
 11/06/1948|Utah State|14|Colorado|28
+11/06/1948|Utah|12|Colorado State|3
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/13/1948|Alabama|14|Georgia Tech|12
@@ -175,3 +183,4 @@
 01/01/1949|Baylor|20|Wake Forest|7
 01/01/1949|Clemson|24|Missouri|23
 01/01/1949|Northwestern|20|California|14
+01/01/1949|Colorado State|20|Occidental(CA)|21
