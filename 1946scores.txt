@@ -27,6 +27,7 @@
 09/28/1946|Kentucky|26|Cincinnati|7
 09/28/1946|Colorado|0|Texas|76
 09/28/1946|Colorado State|0|Montana|28
+09/28/1946|Connecticut|0|Harvard|7
 10/04/1946|Brigham Young|13|Denver|26
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
 10/05/1946|Alabama|14|South Carolina|6
@@ -45,6 +46,7 @@
 10/05/1946|North Carolina State|14|Clemson|7
 10/05/1946|Utah State|0|Colorado|6
 10/05/1946|Colorado State|7|Wyoming|0
+10/05/1946|Springfield(MA)|0|Connecticut|25
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/12/1946|Texas-El Paso|13|Arizona|27
@@ -64,6 +66,7 @@
 10/12/1946|Clemson|7|Wake Forest|19
 10/12/1946|Colorado|20|Wyoming|0
 10/12/1946|Colorado State|0|Denver|33
+10/12/1946|Connecticut|2|Wesleyan(CT)|7
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -81,6 +84,7 @@
 10/19/1946|Central Michigan|26|Eastern Michigan|13
 10/19/1946|Ohio|0|Cincinnati|19
 10/19/1946|Colorado State|0|Utah State|47
+10/19/1946|Maine|20|Connecticut|21
 10/24/1946|Clemson|14|South Carolina|26
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
@@ -101,6 +105,7 @@
 10/26/1946|Cincinnati|18|Michigan State|7
 10/26/1946|New Mexico|13|Colorado|14
 10/26/1946|Colorado College|25|Colorado State|12
+10/26/1946|Lehigh(PA)|10|Connecticut|0
 11/02/1946|Akron|13|Western Reserve|6
 11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Hardin-Simmons|19|Arizona|8
@@ -119,6 +124,7 @@
 11/02/1946|Cincinnati|0|Tulsa|20
 11/02/1946|Clemson|14|Virginia Tech|7
 11/02/1946|Colorado|0|Utah|7
+11/02/1946|Coast Guard|13|Connecticut|27
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -139,6 +145,7 @@
 11/09/1946|Clemson|13|Tulane|54
 11/09/1946|Colorado|0|Missouri|21
 11/09/1946|Utah|13|Colorado State|0
+11/09/1946|Connecticut|33|Rhode Island|0
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
@@ -157,6 +164,7 @@
 11/16/1946|Western Reserve(OH)|7|Cincinnati|34
 11/16/1946|Furman|6|Clemson|20
 11/16/1946|Denver|13|Colorado|13
+11/16/1946|Connecticut|12|New Hampshire|12
 11/22/1946|Brigham Young|14|Texas-El Paso|13
 11/23/1946|John Carroll(OH)|6|Akron|13
 11/23/1946|Alabama|7|Boston College|13
