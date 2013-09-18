@@ -18,6 +18,7 @@
 09/26/1942|Clemson|0|VMI|0
 09/26/1942|Colorado School of Mines|0|Colorado|54
 09/26/1942|Colorado State|10|Wyoming|0
+09/26/1942|Connecticut|0|Maryland|34
 09/27/1942|Saint Mary's(CA)|0|California|6
 10/02/1942|Baylor|18|Oklahoma State|12
 10/02/1942|Wyoming|13|Brigham Young|6
@@ -37,6 +38,7 @@
 10/03/1942|North Carolina State|7|Clemson|6
 10/03/1942|Colorado|13|Missouri|26
 10/03/1942|Colorado School of Mines|0|Colorado State|27
+10/03/1942|Massachusetts|0|Connecticut|26
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
 10/10/1942|Eastern Kentucky|6|Akron|0
@@ -52,6 +54,7 @@
 10/10/1942|Santa Clara|7|California|6
 10/10/1942|Centre(KY)|0|Cincinnati|21
 10/10/1942|Colorado State|0|Denver|26
+10/10/1942|Wesleyan(CT)|20|Connecticut|7
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
 10/16/1942|Eastern Michigan|0|Central Michigan|14
@@ -69,6 +72,7 @@
 10/17/1942|UCLA|21|California|0
 10/17/1942|Ohio|7|Cincinnati|26
 10/17/1942|New Mexico|0|Colorado|12
+10/17/1942|Connecticut|26|Maine|7
 10/22/1942|Clemson|18|South Carolina|6
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
@@ -84,6 +88,7 @@
 10/24/1942|California|19|Washington|6
 10/24/1942|Georgia|35|Cincinnati|13
 10/24/1942|Colorado|34|Colorado State|7
+10/24/1942|Springfield(MA)|14|Connecticut|21
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/30/1942|Wayne State|0|Central Michigan|13
 10/31/1942|Baldwin-Wallace|22|Akron|0
@@ -103,6 +108,7 @@
 10/31/1942|Clemson|6|Wake Forest|19
 10/31/1942|Wyoming|7|Colorado|28
 10/31/1942|Colorado State|14|Utah|33
+10/31/1942|Connecticut|32|Middlebury(VT)|0
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -122,6 +128,7 @@
 11/07/1942|George Washington|7|Clemson|0
 11/07/1942|Utah|13|Colorado|0
 11/07/1942|Utah State|0|Colorado State|25
+11/07/1942|Rhode Island|6|Connecticut|13
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/14/1942|Kent State|23|Akron|6
 11/14/1942|Alabama|0|Georgia Tech|7
@@ -139,6 +146,7 @@
 11/14/1942|Dayton|0|Cincinnati|20
 11/14/1942|Clemson|6|Jacksonville NAS(FL)|24
 11/14/1942|Colorado State|14|Northern Colorado|6
+11/14/1942|Connecticut|16|Coast Guard|0
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
