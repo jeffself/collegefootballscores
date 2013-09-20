@@ -31,12 +31,14 @@
 10/16/1943|California|13|UCLA|0
 10/16/1943|Salt Lake AFB(UT)|0|Colorado|14
 10/16/1943|North Carolina|7|Duke|14
+10/16/1943|Eastern Michigan|14|Wayne State(MI)|0
 10/17/1943|Boston College Student Army Trg Corps|0|Boston College|7
 10/21/1943|Clemson|6|South Carolina|33
 10/23/1943|Army|39|Yale|7
 10/23/1943|Bowling Green|7|Baldwin-Wallace(OH)|7
 10/23/1943|Saint Mary's Pre-Flight(CA)|39|California|0
 10/23/1943|Colorado College|16|Colorado|6
+10/23/1943|Wayne State(MI)|0|Eastern Michigan|14
 10/24/1943|Camp Higham(MA)|6|Boston College|42
 10/30/1943|Texas A&M|13|Arkansas|0
 10/30/1943|Army|13|Pennsylvania|13
