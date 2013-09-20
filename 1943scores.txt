@@ -1,6 +1,7 @@
 09/11/1943|Central Michigan|13|Alma(MI)|6
 09/18/1943|Ohio Wesleyan|7|Bowling Green|18
 09/18/1943|Western Michigan|19|Central Michigan|0
+09/18/1943|Camp Lejeune(NC)|0|Duke|40
 09/25/1943|Missouri-Rolla|0|Arkansas|59
 09/25/1943|Villanova|0|Army|27
 09/25/1943|Bowling Green|40|Xavier(OH)|0
@@ -8,12 +9,14 @@
 09/25/1943|Central Michigan|0|Alma(MI)|8
 09/25/1943|Presbyterian|13|Clemson|12
 09/25/1943|Fort Warren(WY)|0|Colorado|38
+09/25/1943|Richmond|0|Duke|61
 10/02/1943|TCU|13|Arkansas|0
 10/02/1943|Colgate|0|Army|42
 10/02/1943|Central Michigan|0|Bowling Green|36
 10/02/1943|Southern Cal|7|California|0
 10/02/1943|North Carolina State|7|Clemson|19
 10/02/1943|Lowry AFB(CO)|6|Colorado|19
+10/02/1943|North Carolina Navy Pre-Flight|0|Duke|42
 10/09/1943|Arkansas-Monticello|20|Arkansas|12
 10/09/1943|Temple|0|Army|51
 10/09/1943|Patterson Field(OH)|0|Bowling Green|31
@@ -21,11 +24,13 @@
 10/09/1943|Central Michigan|7|Alma(MI)|0
 10/09/1943|Clemson|7|VMI|12
 10/09/1943|Utah|0|Colorado|35
+10/09/1943|Duke|13|Navy|14
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|Army|52|Columbia|0
 10/16/1943|Bunker Hill NAS(IN)|13|Bowling Green|12
 10/16/1943|California|13|UCLA|0
 10/16/1943|Salt Lake AFB(UT)|0|Colorado|14
+10/16/1943|North Carolina|7|Duke|14
 10/17/1943|Boston College Student Army Trg Corps|0|Boston College|7
 10/21/1943|Clemson|6|South Carolina|33
 10/23/1943|Army|39|Yale|7
@@ -38,6 +43,7 @@
 10/30/1943|Alma(MI)|0|Bowling Green|24
 10/30/1943|California|0|Southern California|13
 10/30/1943|Wake Forest|41|Clemson|12
+10/30/1943|Duke|14|Georgia Tech|7
 10/31/1943|Brooklyn(NY)|6|Boston College|37
 11/06/1943|Arkansas|7|Rice|20
 11/06/1943|Notre Dame|26|Army|0
@@ -45,18 +51,21 @@
 11/06/1943|San Francisco|0|California|32
 11/06/1943|Clemson|26|Davidson|6
 11/06/1943|Colorado|22|Utah|19
+11/06/1943|Duke|75|North Carolina State|0
 11/07/1943|Rome AAB(NY)|0|Boston College|64
 11/13/1943|Arkansas|14|SMU|12
 11/13/1943|Sampson NTS(NY)|7|Army|16
 11/13/1943|Bowling Green|20|Ohio Wesleyan|32
 11/13/1943|UCLA|6|California|13
 11/13/1943|Georgia Navy Pre-Flight|32|Clemson|6
+11/13/1943|Virginia|0|Duke|49
 11/14/1943|Boston College|6|Harvard|6
 11/19/1943|Oklahoma State|19|Arkansas|13
 11/20/1943|Brown|0|Army|59
 11/20/1943|Alameda Coast Guard(CA)|7|California|0
 11/20/1943|Clemson|6|Georgia Tech|41
 11/20/1943|Colorado|0|Colorado College|6
+11/20/1943|Duke|27|North Carolina|6
 11/25/1943|Arkansas|0|Tulsa|61
 11/27/1943|Army|0|Navy|13
 11/27/1943|Del Monte Pre-Flight(CA)|47|California|8
