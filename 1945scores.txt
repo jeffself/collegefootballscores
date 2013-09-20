@@ -11,9 +11,10 @@
 09/22/1945|Bowling Green|0|Miami(OH)|26
 09/22/1945|Saint Mary's(CA)|20|California|13
 09/22/1945|Denison(OH)|0|Cincinnati|30
-09/22/1945|Presbyterian|0|Clemson|76
+09/22/1945|Presbyterian(SC)|0|Clemson|76
 09/22/1945|Fort Warren(WY)|6|Colorado|0
 09/22/1945|South Carolina|0|Duke|60
+09/22/1945|Camp Blanding(FL)|2|Florida|31
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/29/1945|Alabama|21|Keesler Field(MS)|0
 09/29/1945|Oklahoma State|19|Arkansas|14
@@ -30,6 +31,7 @@
 09/29/1945|Northern Colorado|0|Colorado State|33
 09/29/1945|Connecticut|46|Worcester Tech(MA)|0
 09/29/1945|Bogue Field(NC)|0|Duke|76
+09/29/1945|Mississippi|13|Florida|26
 10/06/1945|Alabama|26|LSU|7
 10/06/1945|TCU|14|Arkansas|27
 10/06/1945|Arkansas State|6|Southern Illinois|6
@@ -47,6 +49,7 @@
 10/06/1945|Middlebury(VT)|6|Connecticut|28
 10/06/1945|Navy|21|Duke|0
 10/06/1945|Albion(MI)|0|Eastern Michigan|6
+10/06/1945|Florida|6|Tulane|6
 10/11/1945|Arkansas State|18|Central Arkansas|0
 10/12/1945|New York(NY)|0|Boston College|28
 10/13/1945|Northern Arizona|6|Arizona|52
@@ -63,6 +66,8 @@
 10/13/1945|Connecticut|0|Franklin & Marshall(PA)|19
 10/13/1945|Duke|26|Wake Forest|19
 10/13/1945|Hillsdale(MI)|0|Eastern Michigan|13
+10/13/1945|Vanderbilt|7|Florida|0
+10/19/1945|Florida|6|Miami(FL)|7
 10/20/1945|Arizona|46|San Diego State|0
 10/20/1945|Tennessee|7|Alabama|25
 10/20/1945|Texas|34|Arkansas|7
@@ -90,6 +95,7 @@
 10/27/1945|Utah|28|Colorado State|0
 10/27/1945|Connecticut|33|Lehigh|6
 10/27/1945|Eastern Michigan|6|Hillsdale(MI)|0
+10/27/1945|Louisiana-Lafayette|0|Florida|45
 11/02/1945|Clemson|6|Miami(FL)|7
 11/03/1945|Alabama|60|Kentucky|19
 11/03/1945|Texas A&M|34|Arkansas|0
@@ -119,6 +125,7 @@
 11/10/1945|Colorado State|12|Denver|35
 11/10/1945|Connecticut|53|Maine|0
 11/10/1945|North Carolina State|13|Duke|26
+11/10/1945|Georgia|34|Florida|0
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
 11/17/1945|Alabama|71|Vanderbilt|0
@@ -131,6 +138,7 @@
 11/17/1945|Oregon|20|California|13
 11/17/1945|Clemson|47|Tulane|20
 11/17/1945|Boston U|0|Connecticut|54
+11/17/1945|Presbyterian(SC)|0|Florida|41
 11/22/1945|Miami(OH)|28|Cincinnati|14
 11/22/1945|Colorado|8|Denver|14
 11/23/1945|Arkansas|13|Tulsa|45
@@ -141,6 +149,7 @@
 11/24/1945|Clemson|21|Georgia Tech|7
 11/24/1945|Colorado State|7|Colorado College|7
 11/24/1945|North Carolina|7|Duke|14
+11/24/1945|Florida|0|Little Creek NTB(VA)|12
 11/25/1945|Boston College|0|Holy Cross|46
 11/30/1945|Auburn|7|Miami(FL)|33
 12/01/1945|Mississippi State|13|Alabama|55
