@@ -52,7 +52,7 @@
 10/05/1946|Colorado State|7|Wyoming|0
 10/05/1946|Springfield(MA)|0|Connecticut|25
 10/05/1946|Tennessee|12|Duke|7
-10/05/1946|Atlantic Christian|6|East Carolina|6
+10/05/1946|Atlantic Christian(NC)|6|East Carolina|6
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
