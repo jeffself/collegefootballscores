@@ -29,6 +29,7 @@
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/04/1940|Baylor|14|Denver|7
+10/04/1940|Illinois State|0|Eastern Michigan|0
 10/05/1940|Mercer(GA)|0|Alabama|20
 10/05/1940|New Mexico State|0|Arizona|41
 10/05/1940|Arizona State|0|Hardin-Simmons|17
@@ -50,6 +51,7 @@
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
+10/11/1940|Eastern Michigan|0|Detroit|47
 10/12/1940|Illinois Wesleyan|16|Akron|6
 10/12/1940|Samford(AL)|0|Alabama|31
 10/12/1940|Arizona|0|Utah|24
@@ -129,6 +131,7 @@
 11/02/1940|Connecticut|7|Rutgers|45
 11/02/1940|Georgia Tech|7|Duke|41
 11/02/1940|East Carolina|13|Guilford(NC)|0
+11/02/1940|Alma(MI)|7|Eastern Michigan|24
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -149,7 +152,9 @@
 11/09/1940|Utah State|12|Colorado State|13
 11/09/1940|Rhode Island|13|Connecticut|12
 11/09/1940|Davidson|13|Duke|46
+11/09/1940|Wayne State(MI)|19|Eastern Michigan|7
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
+11/15/1940|Kalamazoo(MI)|13|Eastern Michigan|3
 11/16/1940|Alabama|14|Georgia Tech|13
 11/16/1940|Northern Colorado|0|Arizona State|41
 11/16/1940|Arkansas|0|SMU|28
