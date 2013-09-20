@@ -23,6 +23,7 @@
 09/27/1941|Coast Guard|7|Connecticut|0
 09/27/1941|Wake Forest|14|Duke|43
 09/27/1941|Tusculum(TN)|0|East Carolina|31
+09/27/1941|Eastern Michigan|0|Hope(MI)|0
 10/03/1941|Bowling Green|0|Akron|8
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
@@ -43,6 +44,7 @@
 10/04/1941|Wyoming|0|Colorado State|27
 10/04/1941|Connecticut|6|Massachusetts|8
 10/04/1941|Tennessee|0|Duke|19
+10/04/1941|Eastern Michigan|0|Illinois State|0
 10/10/1941|Western Reserve|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
 10/10/1941|Brigham Young|13|Denver|7
@@ -63,6 +65,7 @@
 10/11/1941|Utah State|7|Colorado|13
 10/11/1941|Connecticut|0|Wesleyan(CT)|7
 10/11/1941|Duke|50|Maryland|0
+10/11/1941|Eastern Michigan|0|Kalamazoo(MI)|7
 10/17/1941|Baylor|6|Villanova|14
 10/18/1941|Ohio|0|Akron|0
 10/18/1941|Alabama|9|Tennessee|2
@@ -127,6 +130,7 @@
 11/01/1941|Colorado State|6|Denver|6
 11/01/1941|Middlebury(VT)|0|Connecticut|7
 11/01/1941|Duke|14|Georgia Tech|0
+11/01/1941|Indiana State|14|Eastern Michigan|0
 11/06/1941|East Carolina|13|Bergen JC(NJ)|7
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
@@ -147,6 +151,7 @@
 11/08/1941|Carnegie-Mellon|0|Cincinnati|20
 11/08/1941|Connecticut|0|Rhode Island|6
 11/08/1941|Duke|56|Davidson|0
+11/08/1941|Eastern Michigan|0|Wayne State(MI)|12
 11/13/1941|East Carolina|13|Belmont Abbey(NC)|0
 11/15/1941|Kent State|13|Akron|41
 11/15/1941|Georgia Tech|0|Alabama|20
