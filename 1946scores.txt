@@ -30,6 +30,7 @@
 09/28/1946|Connecticut|0|Harvard|7
 09/28/1946|Duke|6|North Carolina State|13
 09/28/1946|Eastern Michigan|0|Illinois State|10
+09/28/1946|Mississippi|13|Florida|7
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/04/1946|Brigham Young|13|Denver|26
 10/04/1946|Eastern Michigan|0|Hope(MI)|13
@@ -53,6 +54,7 @@
 10/05/1946|Springfield(MA)|0|Connecticut|25
 10/05/1946|Tennessee|12|Duke|7
 10/05/1946|Atlantic Christian(NC)|6|East Carolina|6
+10/05/1946|Florida|13|Tulane|27
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
@@ -76,6 +78,7 @@
 10/12/1946|Connecticut|2|Wesleyan(CT)|7
 10/12/1946|Duke|21|Navy|6
 10/12/1946|East Carolina|6|Elon(NC)|13
+10/12/1946|Florida|0|Vanderbilt|20
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -96,6 +99,7 @@
 10/19/1946|Maine|20|Connecticut|21
 10/19/1946|Richmond|0|Duke|41
 10/19/1946|Erskine(SC)|7|East Carolina|21
+10/19/1946|Miami(FL)|20|Florida|13
 10/24/1946|Clemson|14|South Carolina|26
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
@@ -119,6 +123,7 @@
 10/26/1946|Lehigh(PA)|10|Connecticut|0
 10/26/1946|Newport News Apprentice|7|East Carolina|19
 10/26/1946|Eastern Michigan|7|Hillsdale(MI)|18
+10/26/1946|Florida|19|North Carolina|40
 11/02/1946|Akron|13|Western Reserve|6
 11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Hardin-Simmons|19|Arizona|8
@@ -163,6 +168,7 @@
 11/09/1946|Connecticut|33|Rhode Island|0
 11/09/1946|Wake Forest|0|Duke|13
 11/09/1946|East Carolina|26|Atlantic Christian(NC)|6
+11/09/1946|Florida|14|Georgia|33
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
@@ -185,6 +191,7 @@
 11/16/1946|Connecticut|12|New Hampshire|12
 11/16/1946|Duke|39|South Carolina|0
 11/16/1946|Western Carolina|13|East Carolina|7
+11/16/1946|Villanova|27|Florida|20
 11/22/1946|Brigham Young|14|Texas-El Paso|13
 11/22/1946|East Carolina|0|Lenoir-Rhyne(NC)|6
 11/23/1946|John Carroll(OH)|6|Akron|13
@@ -197,6 +204,7 @@
 11/23/1946|Johns Hopkins|0|Buffalo|36
 11/23/1946|Stanford|25|California|6
 11/23/1946|Duke|7|North Carolina|22
+11/23/1946|North Carolina State|37|Florida|6
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
 11/28/1946|Arkansas State|30|Central Arkansas|12
