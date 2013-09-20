@@ -7,7 +7,7 @@
 09/20/1947|Bowling Green|0|Xavier(OH)|2
 09/20/1947|Western State(CO)|0|Brigham Young|45
 09/20/1947|Santa Clara|7|California|33
-09/20/1947|Presbyterian|0|Clemson|42
+09/20/1947|Presbyterian(SC)|0|Clemson|42
 09/20/1947|Colorado School of Mines|12|Colorado State|20
 09/26/1947|Southern Miss|19|Auburn|13
 09/26/1947|Baylor|18|Miami(FL)|7
@@ -30,6 +30,7 @@
 09/27/1947|Connecticut|13|Brown|33
 09/27/1947|North Carolina State|0|Duke|7
 09/27/1947|Lenoir-Rhyne(NC)|27|East Carolina|9
+09/27/1947|Mississippi|14|Florida|6
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/03/1947|Illinois State|6|Eastern Michigan|0
@@ -51,6 +52,7 @@
 10/04/1947|Connecticut|14|Springfield(MA)|6
 10/04/1947|Duke|19|Tennessee|7
 10/04/1947|East Carolina|12|Atlantic Christian(NC)|7
+10/04/1947|North Texas|20|Florida|12
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -96,6 +98,7 @@
 10/18/1947|Maryland|7|Duke|19
 10/18/1947|East Carolina|0|Erskine(SC)|13
 10/18/1947|Hope(MI)|12|Eastern Michigan|7
+10/18/1947|Florida|7|North Carolina State|6
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
 10/24/1947|Villanova|0|Boston College|6
@@ -118,6 +121,7 @@
 10/25/1947|Champlain(NY)|7|Connecticut|25
 10/25/1947|Duke|13|Wake Forest|6
 10/25/1947|East Carolina|14|Newport News Apprentice|6
+10/25/1947|North Carolina|35|Florida|7
 10/31/1947|Western Reserve|18|Akron|0
 10/31/1947|Clemson|6|Georgia|21
 11/01/1947|Alabama|13|Kentucky|0
@@ -139,6 +143,7 @@
 11/01/1947|Connecticut|14|Coast Guard|0
 11/01/1947|Duke|0|Georgia Tech|7
 11/01/1947|Fort Bragg(NC)|2|East Carolina|12
+11/01/1947|Furman|7|Florida|34
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/08/1947|Akron|6|Wooster(OH)|21
 11/08/1947|Arizona|28|Texas Tech|41
@@ -160,6 +165,7 @@
 11/08/1947|Rhode Island|0|Connecticut|23
 11/08/1947|Missouri|28|Duke|7
 11/08/1947|Little Creek(VA)|31|East Carolina|7
+11/08/1947|Georgia|34|Florida|6
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
 11/15/1947|Arizona|26|Arizona State|13
@@ -180,6 +186,7 @@
 11/15/1947|New Hampshire|14|Connecticut|6
 11/15/1947|South Carolina|0|Duke|0
 11/15/1947|East Carolina|0|Western Carolina|28
+11/15/1947|Florida|7|Tulane|7
 11/17/1947|Arkansas State|19|Memphis|19
 11/22/1947|John Carroll(OH)|31|Akron|0
 11/22/1947|LSU|12|Alabama|41
@@ -196,6 +203,7 @@
 11/22/1947|Wyoming|6|Colorado State|21
 11/22/1947|North Carolina|21|Duke|0
 11/22/1947|East Carolina|12|North Carolina State Freshmen|20
+11/22/1947|Florida|7|Miami(FL)|6
 11/27/1947|Arkansas|27|Tulsa|13
 11/27/1947|Miami(OH)|38|Cincinnati|7
 11/27/1947|Colorado|20|Denver|26
@@ -206,6 +214,7 @@
 11/29/1947|Baylor|6|Rice|34
 11/29/1947|Boston College|6|Holy Cross|20
 11/29/1947|Colorado State|7|Montana|41
+11/29/1947|Kansas State|7|Florida|25
 12/06/1947|Utah|20|Arizona|20
 12/06/1947|Hardin-Simmons|42|Arizona State|0
 01/01/1948|Alabama|7|Texas|27
