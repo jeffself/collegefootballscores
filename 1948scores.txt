@@ -1,3 +1,4 @@
+09/17/1948|East Carolina|6|Cherry Point Marines(NC)|13
 09/18/1948|Abilene Christian|6|Arkansas|40
 09/18/1948|San Diego State|6|Brigham Young|14
 09/18/1948|Santa Clara|19|California|41
@@ -23,6 +24,7 @@
 09/25/1948|New Mexico|9|Colorado|6
 09/25/1948|New Mexico State|6|Colorado State|41
 09/25/1948|Duke|0|North Carolina State|0
+09/25/1948|East Carolina|6|Lenoir-Rhyne(NC)|26
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -65,6 +67,7 @@
 10/09/1948|Colorado State|14|Denver|10
 10/09/1948|Springfield(MA)|10|Connecticut|7
 10/09/1948|Navy|7|Duke|28
+10/09/1948|East Carolina|0|Elon(NC)|6
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
@@ -87,7 +90,9 @@
 10/16/1948|Colorado State|21|Wyoming|20
 10/16/1948|Maine|6|Connecticut|34
 10/16/1948|Duke|13|Maryland|12
+10/16/1948|Western Carolina|39|East Carolina|0
 10/21/1948|Clemson|13|South Carolina|7
+10/22/1948|East Carolina|6|Newport News Apprentice|20
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|Alabama|10|Mississippi State|7
 10/23/1948|Texas Tech|31|Arizona|0
@@ -109,6 +114,7 @@
 10/23/1948|Duke|7|Virginia Tech|0
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
+10/29/1948|Duke JV|19|East Carolina|13
 10/30/1948|Wooster(OH)|6|Akron|20
 10/30/1948|Georgia|35|Alabama|0
 10/30/1948|Arizona State|21|Arizona|33
@@ -147,6 +153,7 @@
 11/06/1948|Utah|12|Colorado State|3
 11/06/1948|Connecticut|28|Rhode Island|6
 11/06/1948|Wake Forest|27|Duke|20
+11/06/1948|East Carolina|0|Appalachian State|47
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/13/1948|Alabama|14|Georgia Tech|12
@@ -167,6 +174,7 @@
 11/13/1948|Colorado|13|Missouri|27
 11/13/1948|Connecticut|7|New Hampshire|20
 11/13/1948|George Washington|0|Duke|62
+11/13/1948|High Point(NC)|30|East Carolina|7
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
 11/20/1948|Heidelberg(OH)|34|Akron|0
@@ -184,6 +192,7 @@
 11/20/1948|Colorado State|29|Colorado|25
 11/20/1948|Kent State|42|Connecticut|26
 11/20/1948|Duke|0|North Carolina|20
+11/20/1948|Atlantic Christian(NC)|6|East Carolina|0
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/26/1948|Brigham Young|27|Arizona State|25
 11/27/1948|Florida|28|Alabama|34
