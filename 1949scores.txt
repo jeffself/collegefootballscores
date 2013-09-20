@@ -1,3 +1,4 @@
+09/15/1949|Cherry Point Marines(NC)|0|East Carolina|24
 09/17/1949|Texas-El Paso|47|Brigham Young|6
 09/17/1949|Santa Clara|7|California|21
 09/17/1949|Nevada|41|Cincinnati|21
@@ -25,6 +26,7 @@
 09/24/1949|Colorado State|14|Denver|13
 09/24/1949|Connecticut|0|Yale|26
 09/24/1949|Richmond|0|Duke|67
+09/24/1949|Lenoir-Rhyne(NC)|21|East Carolina|20
 09/30/1949|Wake Forest|7|Boston College|13
 10/01/1949|Akron|20|Eastern Michigan|6
 10/01/1949|Alabama|7|Vanderbilt|14
@@ -45,6 +47,7 @@
 10/01/1949|Wyoming|8|Colorado State|0
 10/01/1949|American International(MA)|0|Connecticut|14
 10/01/1949|Duke|21|Tennessee|7
+10/01/1949|East Carolina|7|Hampden-Sydney(VA)|20
 10/07/1949|Duquesne|8|Alabama|48
 10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
 10/08/1949|Arizona|0|Hardin-Simmons|35
@@ -66,6 +69,7 @@
 10/08/1949|Montana|12|Colorado State|27
 10/08/1949|Connecticut|7|Springfield(MA)|26
 10/08/1949|Duke|14|Navy|28
+10/08/1949|Elon(NC)|33|East Carolina|7
 10/14/1949|Mississippi|25|Boston College|25
 10/14/1949|Central Michigan|12|Kent State|26
 10/15/1949|Akron|6|Louisville|62
@@ -86,8 +90,10 @@
 10/15/1949|Colorado School of Mines|7|Colorado State|27
 10/15/1949|Connecticut|12|Maine|12
 10/15/1949|North Carolina State|13|Duke|14
+10/15/1949|East Carolina|6|Western Carolina|19
 10/20/1949|Clemson|13|South Carolina|27
 10/21/1949|Georgetown(DC)|10|Boston College|7
+10/21/1949|East Carolina|26|Newport News Apprentice|21
 10/22/1949|Mount Union|23|Akron|14
 10/22/1949|Mississippi State|6|Alabama|35
 10/22/1949|Arizona|7|Texas Tech|27
@@ -107,6 +113,7 @@
 10/22/1949|Virginia Tech|7|Duke|55
 10/28/1949|Villanova|28|Boston College|14
 10/28/1949|Bowling Green|24|John Carroll(OH)|38
+10/28/1949|Edenton Flyers(NC)|0|East Carolina|67
 10/29/1949|Akron|13|Wooster(OH)|13
 10/29/1949|Alabama|14|Georgia|7
 10/29/1949|Arizona|6|Denver|20
@@ -146,6 +153,7 @@
 11/05/1949|Colorado State|21|Utah|12
 11/05/1949|Rhode Island|0|Connecticut|23
 11/05/1949|Wake Forest|27|Duke|7
+11/05/1949|Appalachian State|35|East Carolina|18
 11/11/1949|Colorado State|16|Brigham Young|14
 11/12/1949|Akron|0|Kent State|47
 11/12/1949|Georgia Tech|7|Alabama|20
@@ -165,6 +173,7 @@
 11/12/1949|Colorado|15|New Mexico|17
 11/12/1949|New Hampshire|7|Connecticut|27
 11/12/1949|Duke|35|George Washington|0
+11/12/1949|East Carolina|26|High Point(NC)|26
 11/18/1949|Missouri Valley|6|Arkansas State|7
 11/19/1949|Akron|14|Heidelberg(OH)|34
 11/19/1949|Southern Miss|26|Alabama|34
@@ -181,6 +190,7 @@
 11/19/1949|Colorado State|45|New Mexico State|0
 11/19/1949|Connecticut|12|Ohio Wesleyan|43
 11/19/1949|North Carolina|21|Duke|20
+11/19/1949|East Carolina|6|Atlantic Christian(NC)|2
 11/24/1949|Union(TN)|12|Arkansas State|13
 11/24/1949|Miami(OH)|6|Cincinnati|27
 11/26/1949|Alabama|35|Florida|13
