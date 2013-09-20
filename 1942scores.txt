@@ -5,6 +5,7 @@
 09/19/1942|Presbyterian|13|Clemson|32
 09/25/1942|Muskingum|7|Akron|7
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
+09/25/1942|Eastern Michigan|6|Alma(MI)|14
 09/26/1942|New Mexico State|0|Arizona|53
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Wichita State|0|Arkansas|27
@@ -23,6 +24,7 @@
 09/27/1942|Saint Mary's(CA)|0|California|6
 10/02/1942|Baylor|18|Oklahoma State|12
 10/02/1942|Wyoming|13|Brigham Young|6
+10/02/1942|Hope(MI)|9|Eastern Michigan|13
 10/03/1942|Akron|0|Ohio|39
 10/03/1942|Mississippi State|6|Alabama|21
 10/03/1942|Utah|0|Arizona|14
@@ -43,6 +45,7 @@
 10/03/1942|Duke|7|Wake Forest|20
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
+10/09/1942|Illinois State|7|Eastern Michigan|14
 10/10/1942|Eastern Kentucky|6|Akron|0
 10/10/1942|Pensacola NAS(FL)|0|Alabama|27
 10/10/1942|Arizona|23|Arizona State|0
@@ -94,6 +97,7 @@
 10/24/1942|Colorado|34|Colorado State|7
 10/24/1942|Springfield(MA)|14|Connecticut|21
 10/24/1942|Duke|28|Pittsburgh|0
+10/24/1942|Wayne State(MI)|12|Eastern Michigan|12
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/30/1942|Wayne State|0|Central Michigan|13
 10/31/1942|Baldwin-Wallace|22|Akron|0
@@ -115,6 +119,7 @@
 10/31/1942|Colorado State|14|Utah|33
 10/31/1942|Connecticut|32|Middlebury(VT)|0
 10/31/1942|Georgia Tech|26|Duke|7
+11/06/1942|Hillsdale(MI)|13|Eastern Michigan|19
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -155,6 +160,7 @@
 11/14/1942|Colorado State|14|Northern Colorado|6
 11/14/1942|Connecticut|16|Coast Guard|0
 11/14/1942|Duke|13|North Carolina|13
+11/14/1942|Eastern Michigan|0|Albion(MI)|12
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
