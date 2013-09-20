@@ -51,6 +51,7 @@
 10/01/1949|Duke|21|Tennessee|7
 10/01/1949|East Carolina|7|Hampden-Sydney(VA)|20
 10/01/1949|Florida|40|Tulsa|7
+10/01/1949|Whiting Field NAS(FL)|0|Florida State|74
 10/07/1949|Duquesne|8|Alabama|48
 10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
 10/08/1949|Arizona|0|Hardin-Simmons|35
@@ -74,6 +75,7 @@
 10/08/1949|Duke|14|Navy|28
 10/08/1949|Elon(NC)|33|East Carolina|7
 10/08/1949|Eastern Michigan|14|Northern Illinois|39
+10/08/1949|Florida State|33|Mississippi College|12
 10/14/1949|Mississippi|25|Boston College|25
 10/14/1949|Central Michigan|12|Kent State|26
 10/15/1949|Akron|6|Louisville|62
@@ -96,6 +98,7 @@
 10/15/1949|North Carolina State|13|Duke|14
 10/15/1949|East Carolina|6|Western Carolina|19
 10/15/1949|Vanderbilt|22|Florida|17
+10/15/1949|Erskine(SC)|7|Florida State|26
 10/20/1949|Clemson|13|South Carolina|27
 10/21/1949|Georgetown(DC)|10|Boston College|7
 10/21/1949|East Carolina|26|Newport News Apprentice|21
@@ -118,6 +121,7 @@
 10/22/1949|Newport NTS(RI)|0|Connecticut|125
 10/22/1949|Virginia Tech|7|Duke|55
 10/22/1949|Georgia Tech|43|Florida|14
+10/22/1949|Florida State|6|Sewanee(TN)|0
 10/28/1949|Villanova|28|Boston College|14
 10/28/1949|Bowling Green|24|John Carroll(OH)|38
 10/28/1949|Edenton Flyers(NC)|0|East Carolina|67
@@ -142,6 +146,7 @@
 10/29/1949|Duke|27|Georgia Tech|14
 10/29/1949|Hope(MI)|16|Eastern Michigan|6
 10/29/1949|Furman|27|Florida|28
+10/29/1949|Florida State|33|Stetson(FL)|14
 11/04/1949|Eastern Michigan|7|Central Michigan|18
 11/05/1949|Geneva(PA)|27|Akron|6
 11/05/1949|New Mexico|14|Arizona|46
@@ -164,6 +169,7 @@
 11/05/1949|Wake Forest|27|Duke|7
 11/05/1949|Appalachian State|35|East Carolina|18
 11/05/1949|Florida|28|Georgia|7
+11/05/1949|Florida State|6|West Alabama|13
 11/11/1949|Colorado State|16|Brigham Young|14
 11/12/1949|Akron|0|Kent State|47
 11/12/1949|Georgia Tech|7|Alabama|20
@@ -186,8 +192,10 @@
 11/12/1949|East Carolina|26|High Point(NC)|26
 11/12/1949|Eastern Michigan|20|Valparaiso(IN)|28
 11/12/1949|Kentucky|35|Florida|0
+11/12/1949|Millsaps(MS)|0|Florida State|40
 11/18/1949|Missouri Valley|6|Arkansas State|7
 11/18/1949|Florida|13|Miami(FL)|28
+11/18/1949|Florida State|34|Tampa|7
 11/19/1949|Akron|14|Heidelberg(OH)|34
 11/19/1949|Southern Miss|26|Alabama|34
 11/19/1949|Michigan State|75|Arizona|0
@@ -216,8 +224,10 @@
 11/26/1949|Holy Cross|0|Boston College|76
 11/26/1949|Brigham Young|14|Pepperdine|28
 11/26/1949|Colorado State|14|Colorado|7
+11/26/1949|Troy(AL)|0|Florida State|20
 12/03/1949|Auburn|14|Alabama|13
 12/03/1949|Utah State|12|Arizona State|27
 12/03/1949|Cincinnati|33|Toledo|13
 01/01/1950|Arizona State|21|Xavier(OH)|33
 01/02/1950|Ohio State|17|California|14
+01/02/1950|Wofford(SC)|6|Florida State|19
