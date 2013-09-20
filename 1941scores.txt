@@ -22,6 +22,7 @@
 09/27/1941|Colorado School of Mines|6|Colorado State|21
 09/27/1941|Coast Guard|7|Connecticut|0
 09/27/1941|Wake Forest|14|Duke|43
+09/27/1941|Tusculum(TN)|0|East Carolina|31
 10/03/1941|Bowling Green|0|Akron|8
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
@@ -46,6 +47,7 @@
 10/10/1941|Ball State|6|Butler|13
 10/10/1941|Brigham Young|13|Denver|7
 10/10/1941|Central Michigan|0|Detroit|45
+10/10/1941|Newport News Apprentice|0|East Carolina|39
 10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
 10/11/1941|New Mexico|0|Arizona State|0
@@ -79,12 +81,14 @@
 10/18/1941|Colorado State|13|Colorado|26
 10/18/1941|Maine|14|Connecticut|13
 10/18/1941|Colgate|14|Duke|27
+10/18/1941|Western Carolina|6|East Carolina|19
 10/23/1941|Clemson|14|South Carolina|18
 10/24/1941|Baldwin-Wallace|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
 10/24/1941|Arkansas State|0|Austin Peay|34
 10/24/1941|Brigham Young|13|San Francisco|25
 10/24/1941|Central Michigan|12|Eastern Michigan|6
+10/24/1941|Norfolk NAS(VA)|0|East Carolina|30
 10/25/1941|Georgia|14|Alabama|27
 10/25/1941|Arizona|20|Arizona State|7
 10/25/1941|Columbia|0|Army|13
@@ -103,6 +107,7 @@
 10/31/1941|Arizona State|6|Northern Colorado|0
 10/31/1941|Southern Arkansas|19|Arkansas State|0
 10/31/1941|Clemson|19|George Washington|0
+10/31/1941|East Carolina|14|Erskine(SC)|7
 11/01/1941|Ohio Wesleyan|6|Akron|28
 11/01/1941|Kentucky|0|Alabama|30
 11/01/1941|Texas-El Paso|14|Arizona|33
@@ -122,6 +127,7 @@
 11/01/1941|Colorado State|6|Denver|6
 11/01/1941|Middlebury(VT)|0|Connecticut|7
 11/01/1941|Duke|14|Georgia Tech|0
+11/06/1941|East Carolina|13|Bergen JC(NJ)|7
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
 11/08/1941|Alabama|19|Tulane|14
@@ -141,6 +147,7 @@
 11/08/1941|Carnegie-Mellon|0|Cincinnati|20
 11/08/1941|Connecticut|0|Rhode Island|6
 11/08/1941|Duke|56|Davidson|0
+11/13/1941|East Carolina|13|Belmont Abbey(NC)|0
 11/15/1941|Kent State|13|Akron|41
 11/15/1941|Georgia Tech|0|Alabama|20
 11/15/1941|Arizona|14|Oklahoma State|41
