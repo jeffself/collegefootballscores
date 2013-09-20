@@ -25,6 +25,7 @@
 09/28/1940|Colorado|7|Texas|39
 09/28/1940|Colorado State|25|Colorado School of Mines|0
 09/28/1940|VMI|0|Duke|23
+09/28/1940|Kutztown(PA)|6|East Carolina|14
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/04/1940|Baylor|14|Denver|7
@@ -45,6 +46,7 @@
 10/05/1940|Colorado State|0|Wyoming|0
 10/05/1940|Massachusetts|0|Connecticut|13
 10/05/1940|Duke|0|Tennessee|13
+10/05/1940|Presbyterian JC(NC)|0|East Carolina|40
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -64,6 +66,7 @@
 10/12/1940|Colorado|26|Utah State|0
 10/12/1940|Colorado State|13|Denver|14
 10/12/1940|Wesleyan(CT)|0|Connecticut|6
+10/12/1940|East Carolina|18|Old Dominion|0
 10/18/1940|Brigham Young|20|Texas Tech|21
 10/19/1940|Akron|7|Wayne State|7
 10/19/1940|Tennessee|27|Alabama|12
@@ -83,6 +86,7 @@
 10/19/1940|Colorado|33|Colorado State|14
 10/19/1940|Connecticut|13|Maine|6
 10/19/1940|Duke|13|Colgate|0
+10/19/1940|East Carolina|14|Western Carolina|25
 10/24/1940|Clemson|21|South Carolina|13
 10/25/1940|Akron|7|Baldwin-Wallace|13
 10/25/1940|Eastern Michigan|0|Central Michigan|24
@@ -102,6 +106,7 @@
 10/26/1940|Wyoming|0|Colorado|62
 10/26/1940|New Mexico|6|Colorado State|7
 10/26/1940|Duke|23|Wake Forest|0
+10/26/1940|North Carolina State Freshmen|26|East Carolina|0
 11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
 11/02/1940|Arizona|20|Texas-El Paso|13
@@ -123,6 +128,7 @@
 11/02/1940|Utah|21|Colorado|13
 11/02/1940|Connecticut|7|Rutgers|45
 11/02/1940|Georgia Tech|7|Duke|41
+11/02/1940|East Carolina|13|Guilford(NC)|0
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -161,11 +167,13 @@
 11/16/1940|Colorado State|0|Utah|27
 11/16/1940|Connecticut|0|New Hampshire|9
 11/16/1940|Duke|3|North Carolina|6
+11/16/1940|High Point(NC)|6|East Carolina|0
 11/21/1940|John Carroll|0|Akron|47
 11/21/1940|Arkansas|7|Fordham|27
 11/21/1940|Bowling Green|0|Wayne State|19
 11/21/1940|Miami(OH)|0|Cincinnati|44
 11/21/1940|Colorado|3|Denver|3
+11/22/1940|East Carolina|44|Newport News Apprentice|7
 11/23/1940|Vanderbilt|21|Alabama|25
 11/23/1940|New Mexico|13|Arizona|12
 11/23/1940|North Dakota|12|Arizona State|30
