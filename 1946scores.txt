@@ -29,8 +29,10 @@
 09/28/1946|Colorado State|0|Montana|28
 09/28/1946|Connecticut|0|Harvard|7
 09/28/1946|Duke|6|North Carolina State|13
+09/28/1946|Eastern Michigan|0|Illinois State|10
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/04/1946|Brigham Young|13|Denver|26
+10/04/1946|Eastern Michigan|0|Hope(MI)|13
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
 10/05/1946|Alabama|14|South Carolina|6
 10/05/1946|Arizona|7|Utah|14
@@ -51,6 +53,7 @@
 10/05/1946|Springfield(MA)|0|Connecticut|25
 10/05/1946|Tennessee|12|Duke|7
 10/05/1946|Atlantic Christian|6|East Carolina|6
+10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/12/1946|Texas-El Paso|13|Arizona|27
@@ -115,6 +118,7 @@
 10/26/1946|Colorado College|25|Colorado State|12
 10/26/1946|Lehigh(PA)|10|Connecticut|0
 10/26/1946|Newport News Apprentice|7|East Carolina|19
+10/26/1946|Eastern Michigan|7|Hillsdale(MI)|18
 11/02/1946|Akron|13|Western Reserve|6
 11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Hardin-Simmons|19|Arizona|8
@@ -135,6 +139,7 @@
 11/02/1946|Colorado|0|Utah|7
 11/02/1946|Coast Guard|13|Connecticut|27
 11/02/1946|Georgia Tech|14|Duke|0
+11/02/1946|Albion(MI)|6|Eastern Michigan|13
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -157,7 +162,8 @@
 11/09/1946|Utah|13|Colorado State|0
 11/09/1946|Connecticut|33|Rhode Island|0
 11/09/1946|Wake Forest|0|Duke|13
-11/09/1946|East Carolina|26|Atlantic Christian|6
+11/09/1946|East Carolina|26|Atlantic Christian(NC)|6
+11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
