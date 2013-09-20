@@ -8,6 +8,7 @@
 09/24/1948|Southern Miss|14|Auburn|20
 09/24/1948|Wake Forest|9|Boston College|26
 09/24/1948|Pepperdine|0|Brigham Young|13
+09/24/1948|Eastern Michigan|0|Hope(MI)|14
 09/25/1948|Alabama|14|Tulane|21
 09/25/1948|San Diego State|6|Arizona|14
 09/25/1948|Western State(CO)|0|Arizona State|23
@@ -46,6 +47,7 @@
 10/02/1948|Colorado State|9|Utah State|7
 10/02/1948|Connecticut|0|Yale|7
 10/02/1948|Tennessee|7|Duke|7
+10/02/1948|Eastern Michigan|7|Illinois State|40
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons|14|Arizona|20
@@ -68,6 +70,7 @@
 10/09/1948|Springfield(MA)|10|Connecticut|7
 10/09/1948|Navy|7|Duke|28
 10/09/1948|East Carolina|0|Elon(NC)|6
+10/09/1948|Northern Michigan|0|Eastern Michigan|6
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
@@ -112,9 +115,11 @@
 10/23/1948|Drake|31|Colorado State|29
 10/23/1948|Connecticut|6|Brown|49
 10/23/1948|Duke|7|Virginia Tech|0
+10/23/1948|Eastern Michigan|0|Eastern Kentucky|20
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/29/1948|Duke JV|19|East Carolina|13
+10/29/1948|Northern Illinois|10|Eastern Michigan|7
 10/30/1948|Wooster(OH)|6|Akron|20
 10/30/1948|Georgia|35|Alabama|0
 10/30/1948|Arizona State|21|Arizona|33
@@ -156,6 +161,7 @@
 11/06/1948|East Carolina|0|Appalachian State|47
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
+11/12/1948|Valparaiso(IN)|7|Eastern Michigan|26
 11/13/1948|Alabama|14|Georgia Tech|12
 11/13/1948|Texas-El Paso|25|Arizona|14
 11/13/1948|SMU|14|Arkansas|12
