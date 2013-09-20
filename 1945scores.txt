@@ -13,6 +13,7 @@
 09/22/1945|Denison(OH)|0|Cincinnati|30
 09/22/1945|Presbyterian|0|Clemson|76
 09/22/1945|Fort Warren(WY)|6|Colorado|0
+09/22/1945|South Carolina|0|Duke|60
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/29/1945|Alabama|21|Keesler Field(MS)|0
 09/29/1945|Oklahoma State|19|Arkansas|14
@@ -28,6 +29,7 @@
 09/29/1945|Colorado|13|Colorado College|0
 09/29/1945|Northern Colorado|0|Colorado State|33
 09/29/1945|Connecticut|46|Worcester Tech(MA)|0
+09/29/1945|Bogue Field(NC)|0|Duke|76
 10/06/1945|Alabama|26|LSU|7
 10/06/1945|TCU|14|Arkansas|27
 10/06/1945|Arkansas State|6|Southern Illinois|6
@@ -43,6 +45,7 @@
 10/06/1945|Utah|13|Colorado|18
 10/06/1945|Colorado State|6|Fort Warren(WY)|61
 10/06/1945|Middlebury(VT)|6|Connecticut|28
+10/06/1945|Navy|21|Duke|0
 10/11/1945|Arkansas State|18|Central Arkansas|0
 10/12/1945|New York(NY)|0|Boston College|28
 10/13/1945|Northern Arizona|6|Arizona|52
@@ -57,6 +60,7 @@
 10/13/1945|Pensacola NAS(FL)|6|Clemson|7
 10/13/1945|Colorado|21|Colorado State|6
 10/13/1945|Connecticut|0|Franklin & Marshall(PA)|19
+10/13/1945|Duke|26|Wake Forest|19
 10/20/1945|Arizona|46|San Diego State|0
 10/20/1945|Tennessee|7|Alabama|25
 10/20/1945|Texas|34|Arkansas|7
@@ -74,7 +78,7 @@
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
 10/27/1945|Arkansas|19|Mississippi|0
 10/27/1945|Arkansas State|0|Henderson State(AR)|13
-10/27/1945|Army|48|Duke|13
+10/27/1945|Duke|13|Army|48
 10/27/1945|Auburn|7|Georgia Tech|20
 10/27/1945|Ball State|40|Earlham(IN)|6
 10/27/1945|Baylor|13|Texas A&M|19
@@ -96,6 +100,7 @@
 11/03/1945|Colorado|6|New Mexico|12
 11/03/1945|Northern Colorado|14|Colorado State|25
 11/03/1945|Amherst(MA)|0|Connecticut|33
+11/03/1945|Duke|14|Georgia Tech|6
 11/10/1945|Cal Poly-San Luis Obispo|6|Arizona|37
 11/10/1945|Arkansas|7|Rice|26
 11/10/1945|Army|48|Notre Dame|0
@@ -108,6 +113,7 @@
 11/10/1945|Utah State|7|Colorado|14
 11/10/1945|Colorado State|12|Denver|35
 11/10/1945|Connecticut|53|Maine|0
+11/10/1945|North Carolina State|13|Duke|26
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/17/1945|Alabama|71|Vanderbilt|0
 11/17/1945|San Diego State|0|Arizona|28
@@ -128,6 +134,7 @@
 11/24/1945|UCLA|0|California|6
 11/24/1945|Clemson|21|Georgia Tech|7
 11/24/1945|Colorado State|7|Colorado College|7
+11/24/1945|North Carolina|7|Duke|14
 11/25/1945|Boston College|0|Holy Cross|46
 11/30/1945|Auburn|7|Miami(FL)|33
 12/01/1945|Mississippi State|13|Alabama|55
