@@ -27,6 +27,7 @@
 09/28/1940|VMI|0|Duke|23
 09/28/1940|Kutztown(PA)|6|East Carolina|14
 09/28/1940|Mississippi State|25|Florida|7
+09/28/1940|Whittier(CA)|7|Fresno State|13
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/04/1940|Baylor|14|Denver|7
@@ -50,6 +51,7 @@
 10/05/1940|Duke|0|Tennessee|13
 10/05/1940|Presbyterian JC(NC)|0|East Carolina|40
 10/05/1940|Florida|23|Tampa|0
+10/05/1940|UCSB|0|Fresno State|20
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -72,7 +74,9 @@
 10/12/1940|Colorado State|13|Denver|14
 10/12/1940|Wesleyan(CT)|0|Connecticut|6
 10/12/1940|East Carolina|18|Old Dominion|0
+10/12/1940|West Texas A&M|6|Fresno State|15
 10/18/1940|Brigham Young|20|Texas Tech|21
+10/18/1940|Fresno State|3|Pacific|0
 10/19/1940|Akron|7|Wayne State|7
 10/19/1940|Tennessee|27|Alabama|12
 10/19/1940|Centenary(LA)|6|Arizona|29
@@ -96,6 +100,7 @@
 10/24/1940|Clemson|21|South Carolina|13
 10/25/1940|Akron|7|Baldwin-Wallace|13
 10/25/1940|Eastern Michigan|0|Central Michigan|24
+10/25/1940|Fresno State|0|San Diego State|0
 10/26/1940|Oklahoma State|0|Arizona|24
 10/26/1940|Arizona State|0|Texas-El Paso|0
 10/26/1940|Arkansas|21|Mississippi|20
@@ -137,6 +142,7 @@
 11/02/1940|Georgia Tech|7|Duke|41
 11/02/1940|East Carolina|13|Guilford(NC)|0
 11/02/1940|Alma(MI)|7|Eastern Michigan|24
+11/02/1940|Nevada|6|Fresno State|7
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -159,6 +165,7 @@
 11/09/1940|Davidson|13|Duke|46
 11/09/1940|Wayne State(MI)|19|Eastern Michigan|7
 11/09/1940|Georgia|13|Florida|18
+11/11/1940|UTEP|6|Fresno State|16
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/15/1940|Kalamazoo(MI)|13|Eastern Michigan|3
 11/16/1940|Alabama|14|Georgia Tech|13
@@ -180,11 +187,13 @@
 11/16/1940|Duke|3|North Carolina|6
 11/16/1940|High Point(NC)|6|East Carolina|0
 11/16/1940|Florida|46|Miami(FL)|6
+11/16/1940|San José State|14|Fresno State|7
 11/21/1940|John Carroll|0|Akron|47
 11/21/1940|Arkansas|7|Fordham|27
 11/21/1940|Bowling Green|0|Wayne State|19
 11/21/1940|Miami(OH)|0|Cincinnati|44
 11/21/1940|Colorado|3|Denver|3
+11/21/1940|Colorado School of Mines|0|Fresno State|28
 11/22/1940|East Carolina|44|Newport News Apprentice|7
 11/23/1940|Vanderbilt|21|Alabama|25
 11/23/1940|New Mexico|13|Arizona|12
@@ -208,6 +217,9 @@
 11/30/1940|Pittsburgh|7|Duke|12
 12/07/1940|Villanova|10|Auburn|13
 12/07/1940|Texas|26|Florida|0
+12/07/1940|Fresno State|0|Central Arkansas|13
+12/25/1940|Fresno State|20|Healani AC(HI)|0
 12/28/1940|California|0|Georgia Tech|13
 01/01/1941|Arizona State|13|Western Reserve|26
 01/01/1941|Boston College|19|Tennessee|13
+01/01/1941|Fresno State|3|Hawaii|0
