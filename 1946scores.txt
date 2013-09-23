@@ -31,6 +31,7 @@
 09/28/1946|Duke|6|North Carolina State|13
 09/28/1946|Eastern Michigan|0|Illinois State|10
 09/28/1946|Mississippi|13|Florida|7
+09/28/1946|Fresno State|20|Santa Clara|7
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/04/1946|Brigham Young|13|Denver|26
 10/04/1946|Eastern Michigan|0|Hope(MI)|13
@@ -55,6 +56,7 @@
 10/05/1946|Tennessee|12|Duke|7
 10/05/1946|Atlantic Christian(NC)|6|East Carolina|6
 10/05/1946|Florida|13|Tulane|27
+10/05/1946|Hawaii All-Stars|6|Fresno State|13
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
@@ -79,6 +81,7 @@
 10/12/1946|Duke|21|Navy|6
 10/12/1946|East Carolina|6|Elon(NC)|13
 10/12/1946|Florida|0|Vanderbilt|20
+10/12/1946|Fresno State|7|Oklahoma City|46
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -100,6 +103,7 @@
 10/19/1946|Richmond|0|Duke|41
 10/19/1946|Erskine(SC)|7|East Carolina|21
 10/19/1946|Miami(FL)|20|Florida|13
+10/19/1946|Fresno State|20|UCSB|13
 10/24/1946|Clemson|14|South Carolina|26
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
@@ -124,6 +128,7 @@
 10/26/1946|Newport News Apprentice|7|East Carolina|19
 10/26/1946|Eastern Michigan|7|Hillsdale(MI)|18
 10/26/1946|Florida|19|North Carolina|40
+10/26/1946|Fresno State|0|San Diego State|7
 11/02/1946|Akron|13|Western Reserve|6
 11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Hardin-Simmons|19|Arizona|8
@@ -145,6 +150,7 @@
 11/02/1946|Coast Guard|13|Connecticut|27
 11/02/1946|Georgia Tech|14|Duke|0
 11/02/1946|Albion(MI)|6|Eastern Michigan|13
+11/02/1946|Loyola Marymount(CA)|0|Fresno State|28
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -169,6 +175,7 @@
 11/09/1946|Wake Forest|0|Duke|13
 11/09/1946|East Carolina|26|Atlantic Christian(NC)|6
 11/09/1946|Florida|14|Georgia|33
+11/11/1946|Hawaii|7|Fresno State|2
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
@@ -192,8 +199,10 @@
 11/16/1946|Duke|39|South Carolina|0
 11/16/1946|Western Carolina|13|East Carolina|7
 11/16/1946|Villanova|27|Florida|20
+11/16/1946|Pacific|12|Fresno State|13
 11/22/1946|Brigham Young|14|Texas-El Paso|13
 11/22/1946|East Carolina|0|Lenoir-Rhyne(NC)|6
+11/22/1946|Fresno State|2|San José State|13
 11/23/1946|John Carroll(OH)|6|Akron|13
 11/23/1946|Alabama|7|Boston College|13
 11/23/1946|Texas Tech|16|Arizona|0
@@ -211,11 +220,14 @@
 11/28/1946|Miami(OH)|7|Cincinnati|13
 11/28/1946|Colorado State|0|Colorado|18
 11/28/1946|East Carolina|53|Fort Bragg(NC)|0
+11/28/1946|Fresno State|13|Idaho|12
 11/30/1946|Kansas State|7|Arizona|28
 11/30/1946|Mississippi State|7|Alabama|24
 11/30/1946|Army|21|Navy|18
 11/30/1946|Auburn|47|Florida|12
 11/30/1946|Baylor|6|Rice|38
 11/30/1946|Holy Cross|13|Boston College|6
+12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
+12/11/1946|Fresno State|18|Wahiawa Leilehua HS Alumni(HI)|6
 01/01/1947|Arkansas|0|LSU|0
 01/01/1947|Cincinnati|18|Virginia Tech|6
