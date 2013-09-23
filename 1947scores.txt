@@ -9,6 +9,7 @@
 09/20/1947|Santa Clara|7|California|33
 09/20/1947|Presbyterian(SC)|0|Clemson|42
 09/20/1947|Colorado School of Mines|12|Colorado State|20
+09/20/1947|Oklahoma City|27|Fresno State|2
 09/26/1947|Southern Miss|19|Auburn|13
 09/26/1947|Baylor|18|Miami(FL)|7
 09/26/1947|Clemson|22|Boston College|32
@@ -31,6 +32,7 @@
 09/27/1947|North Carolina State|0|Duke|7
 09/27/1947|Lenoir-Rhyne(NC)|27|East Carolina|9
 09/27/1947|Mississippi|14|Florida|6
+09/27/1947|Moiliili Bears(HI)|7|Fresno State|18
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/03/1947|Illinois State|6|Eastern Michigan|0
@@ -53,6 +55,7 @@
 10/04/1947|Duke|19|Tennessee|7
 10/04/1947|East Carolina|12|Atlantic Christian(NC)|7
 10/04/1947|North Texas|20|Florida|12
+10/04/1947|Fresno State|19|Santa Clara|20
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -76,6 +79,7 @@
 10/11/1947|Duke|14|Navy|14
 10/11/1947|Elon(NC)|7|East Carolina|0
 10/11/1947|Eastern Michigan|6|Northern Illinois|21
+10/11/1947|Cal Poly-SLO|6|Fresno State|14
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -100,6 +104,7 @@
 10/18/1947|Hope(MI)|12|Eastern Michigan|7
 10/18/1947|Florida|7|North Carolina State|6
 10/18/1947|Stetson(FL)|14|Florida State|6
+10/18/1947|Honolulu All-Stars(HI)|34|Fresno State|7
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
 10/24/1947|Villanova|0|Boston College|6
@@ -145,6 +150,7 @@
 11/01/1947|Duke|0|Georgia Tech|7
 11/01/1947|Fort Bragg(NC)|2|East Carolina|12
 11/01/1947|Furman|7|Florida|34
+11/01/1947|San Diego State|7|Fresno State|7
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/08/1947|Akron|6|Wooster(OH)|21
 11/08/1947|Arizona|28|Texas Tech|41
@@ -167,6 +173,7 @@
 11/08/1947|Missouri|28|Duke|7
 11/08/1947|Little Creek(VA)|31|East Carolina|7
 11/08/1947|Georgia|34|Florida|6
+11/08/1947|Fresno State|3|New Mexico|34
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
 11/15/1947|Arizona|26|Arizona State|13
@@ -189,7 +196,9 @@
 11/15/1947|East Carolina|0|Western Carolina|28
 11/15/1947|Florida|7|Tulane|7
 11/15/1947|Florida State|0|Cumberland(TN)|6
+11/15/1947|Fresno State|7|UCSB|7
 11/17/1947|Arkansas State|19|Memphis|19
+11/21/1947|Fresno State|22|Pacific|47
 11/22/1947|John Carroll(OH)|31|Akron|0
 11/22/1947|LSU|12|Alabama|41
 11/22/1947|Marquette|39|Arizona|21
@@ -211,6 +220,7 @@
 11/27/1947|Miami(OH)|38|Cincinnati|7
 11/27/1947|Colorado|20|Denver|26
 11/27/1947|Troy(AL)|36|Florida State|6
+11/27/1947|Fresno State|21|San José State|20
 11/29/1947|Alabama|21|Miami(FL)|6
 11/29/1947|Kansas|54|Arizona|28
 11/29/1947|Arizona State|13|Nevada|33
@@ -222,5 +232,6 @@
 12/06/1947|Utah|20|Arizona|20
 12/06/1947|Hardin-Simmons|42|Arizona State|0
 12/06/1947|Jacksonville State(AL)|7|Florida State|0
+12/06/1947|Fresno State|13|Hawaii|27
 01/01/1948|Alabama|7|Texas|27
 01/01/1948|Arkansas|21|William & Mary|19
