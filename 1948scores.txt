@@ -27,6 +27,7 @@
 09/25/1948|Duke|0|North Carolina State|0
 09/25/1948|East Carolina|6|Lenoir-Rhyne(NC)|26
 09/25/1948|Mississippi|14|Florida|0
+09/25/1948|Fresno State|6|Portland(OR)|6
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -50,6 +51,7 @@
 10/02/1948|Tennessee|7|Duke|7
 10/02/1948|Eastern Michigan|7|Illinois State|40
 10/02/1948|Tulsa|14|Florida|28
+10/02/1948|Santa Clara|45|Fresno State|7
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons|14|Arizona|20
@@ -74,6 +76,7 @@
 10/09/1948|East Carolina|0|Elon(NC)|6
 10/09/1948|Northern Michigan|0|Eastern Michigan|6
 10/09/1948|Cumberland(TN)|0|Florida State|30
+10/09/1948|Fresno State|14|Cal Poly-SLO|26
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
@@ -99,6 +102,7 @@
 10/16/1948|Western Carolina|39|East Carolina|0
 10/16/1948|Rollins(FL)|12|Florida|41
 10/16/1948|Florida State|6|Erskine(SC)|14
+10/16/1948|UCSB|7|Fresno State|28
 10/21/1948|Clemson|13|South Carolina|7
 10/22/1948|East Carolina|6|Newport News Apprentice|20
 10/23/1948|Akron|0|Mount Union|19
@@ -123,6 +127,7 @@
 10/23/1948|Eastern Michigan|0|Eastern Kentucky|20
 10/23/1948|Florida|7|Georgia Tech|42
 10/23/1948|Florida State|7|Millsaps(MS)|6
+10/23/1948|Fresno State|13|Pepperdine|14
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/29/1948|Duke JV|19|East Carolina|13
@@ -147,6 +152,7 @@
 10/30/1948|Georgia Tech|19|Duke|7
 10/30/1948|Furman|14|Florida|39
 10/30/1948|Florida State|18|Stetson(FL)|7
+10/30/1948|New Mexico|14|Fresno State|20
 11/05/1948|Brigham Young|6|San José St|21
 11/05/1948|Cincinnati|6|Miami(FL)|36
 11/06/1948|Southern Miss|0|Alabama|27
@@ -169,6 +175,8 @@
 11/06/1948|Wake Forest|27|Duke|20
 11/06/1948|East Carolina|0|Appalachian State|47
 11/06/1948|Florida|12|Georgia|20
+11/06/1948|Fresno State|7|San Diego State|6
+11/11/1948|Nevada|53|Fresno State|7
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/12/1948|Valparaiso(IN)|7|Eastern Michigan|26
@@ -195,6 +203,7 @@
 11/13/1948|Mississippi College|6|Florida State|26
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
+11/19/1948|Fresno State|6|San José State|41
 11/20/1948|Heidelberg(OH)|34|Akron|0
 11/20/1948|Alabama|6|LSU|26
 11/20/1948|Iowa State|7|Arizona|14
@@ -214,6 +223,7 @@
 11/20/1948|Miami(FL)|13|Florida|27
 11/20/1948|West Alabama|6|Florida State|12
 11/25/1948|Miami(OH)|43|Cincinnati|19
+11/25/1948|Pacific|55|Fresno State|0
 11/26/1948|Brigham Young|27|Arizona State|25
 11/27/1948|Florida|28|Alabama|34
 11/27/1948|Marquette|14|Arizona|24
