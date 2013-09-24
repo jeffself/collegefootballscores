@@ -15,6 +15,7 @@
 09/29/1944|Arkansas|0|Oklahoma State|19
 09/29/1944|Samford(AL)|0|Auburn|32
 09/29/1944|Central Michigan|14|Michigan JV|13
+09/29/1944|Wake Forest|14|Georgia|7
 09/30/1944|Alabama|27|LSU|27
 09/30/1944|North Carolina|0|Army|46
 09/30/1944|Alma(MI)|6|Bowling Green|19
@@ -25,6 +26,7 @@
 09/30/1944|Duke|7|Pennsylvania|18
 09/30/1944|Mississippi|26|Florida|6
 09/30/1944|Fresno State|6|Hartnell JC(CA)|13
+10/06/1944|Presbyterian(SC)|0|Georgia|67
 10/07/1944|Samford(AL)|7|Alabama|63
 10/07/1944|Arkansas|6|TCU|6
 10/07/1944|Brown|7|Army|59
@@ -38,6 +40,7 @@
 10/07/1944|North Carolina Navy Pre-Flight|13|Duke|6
 10/07/1944|Jacksonville NAS(FL)|20|Florida|27
 10/13/1944|CCNY|0|Boston College|33
+10/13/1944|Kentucky|12|Georgia|13
 10/14/1944|Millsaps(MS)|0|Alabama|55
 10/14/1944|Normas NAS(OK)|27|Arkansas|7
 10/14/1944|Pittsburgh|7|Army|69
@@ -52,6 +55,7 @@
 10/14/1944|Florida|0|Tennessee|40
 10/19/1944|South Carolina|13|Clemson|20
 10/20/1944|New York(NY)|13|Boston College|42
+10/20/1944|Daniel Field(GA)|6|Georgia|57
 10/21/1944|Alabama|0|Tennessee|0
 10/21/1944|Texas|19|Arkansas|0
 10/21/1944|Coast Guard|0|Army|76
@@ -70,6 +74,7 @@
 10/28/1944|Clemson|7|Tennessee|26
 10/28/1944|Brooklyn|0|Connecticut|15
 10/28/1944|Maryland|6|Florida|14
+10/28/1944|LSU|15|Georgia|7
 11/03/1944|Florida|13|Miami(FL)|0
 11/03/1944|Fresno State|0|Modesto JC(CA)|28
 11/04/1944|Georgia|14|Alabama|7
@@ -115,4 +120,5 @@
 11/26/1944|Holy Cross|30|Boston College|14
 12/02/1944|Arkansas-Monticello|0|Arkansas|41
 12/02/1944|Navy|7|Army|23
+12/02/1944|Georgia Tech|44|Georgia|0
 01/01/1945|Alabama|26|Duke|29
