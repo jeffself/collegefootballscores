@@ -1,4 +1,5 @@
 09/15/1949|Cherry Point Marines(NC)|0|East Carolina|24
+09/16/1949|Furman|0|Georgia|25
 09/17/1949|Texas-El Paso|47|Brigham Young|6
 09/17/1949|Santa Clara|7|California|21
 09/17/1949|Nevada|41|Cincinnati|21
@@ -8,6 +9,7 @@
 09/23/1949|Oklahoma|46|Boston College|0
 09/23/1949|Pacific Fleet(CA)|27|Brigham Young|13
 09/23/1949|Central Michigan|33|Ferris State|7
+09/23/1949|Tennessee-Chattanooga|6|Georgia|42
 09/24/1949|Findlay(OH)|0|Akron|34
 09/24/1949|Tulane|28|Alabama|14
 09/24/1949|Arizona|40|New Mexico State|7
@@ -54,6 +56,7 @@
 10/01/1949|Florida|40|Tulsa|7
 10/01/1949|Whiting Field NAS(FL)|0|Florida State|74
 10/01/1949|Fresno State|0|Santa Clara|53
+10/01/1949|Georgia|14|North Carolina|21
 10/07/1949|Duquesne|8|Alabama|48
 10/07/1949|Fresno State|13|Loyola Marymount(CA)|52
 10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
@@ -79,9 +82,11 @@
 10/08/1949|Elon(NC)|33|East Carolina|7
 10/08/1949|Eastern Michigan|14|Northern Illinois|39
 10/08/1949|Florida State|33|Mississippi College|12
+10/08/1949|Georgia|0|Kentucky|25
 10/14/1949|Mississippi|25|Boston College|25
 10/14/1949|Central Michigan|12|Kent State|26
 10/14/1949|Fresno State|7|UCSB|14
+10/14/1949|LSU|0|Georgia|7
 10/15/1949|Akron|6|Louisville|62
 10/15/1949|Tennessee|7|Alabama|7
 10/15/1949|Texas-El Paso|28|Arizona|0
@@ -107,6 +112,7 @@
 10/21/1949|Georgetown(DC)|10|Boston College|7
 10/21/1949|East Carolina|26|Newport News Apprentice|21
 10/21/1949|Eastern Kentucky|20|Eastern Michigan|6
+10/21/1949|Georgia|9|Miami(FL)|13
 10/22/1949|Mount Union|23|Akron|14
 10/22/1949|Mississippi State|6|Alabama|35
 10/22/1949|Arizona|7|Texas Tech|27
@@ -221,6 +227,7 @@
 11/19/1949|Connecticut|12|Ohio Wesleyan|43
 11/19/1949|North Carolina|21|Duke|20
 11/19/1949|East Carolina|6|Atlantic Christian(NC)|2
+11/19/1949|Duquesne|0|Georgia|40
 11/24/1949|Union(TN)|12|Arkansas State|13
 11/24/1949|Miami(OH)|6|Cincinnati|27
 11/24/1949|San José State|43|Fresno State|7
@@ -235,6 +242,7 @@
 11/26/1949|Brigham Young|14|Pepperdine|28
 11/26/1949|Colorado State|14|Colorado|7
 11/26/1949|Troy(AL)|0|Florida State|20
+11/26/1949|Georgia|6|Georgia Tech|7
 12/02/1949|Fresno State|14|Hawaii|41
 12/03/1949|Auburn|14|Alabama|13
 12/03/1949|Utah State|12|Arizona State|27
