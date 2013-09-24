@@ -54,6 +54,7 @@
 10/05/1940|Florida|23|Tampa|0
 10/05/1940|UCSB|0|Fresno State|20
 10/05/1940|Georgia|33|South Carolina|2
+10/05/1940|Samford(AL)|0|Georgia Tech|27
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -78,6 +79,7 @@
 10/12/1940|East Carolina|18|Old Dominion|0
 10/12/1940|West Texas A&M|6|Fresno State|15
 10/12/1940|Mississippi|28|Georgia|14
+10/12/1940|Georgia Tech|20|Notre Dame|26
 10/18/1940|Brigham Young|20|Texas Tech|21
 10/18/1940|Fresno State|3|Pacific|0
 10/19/1940|Akron|7|Wayne State|7
@@ -101,6 +103,7 @@
 10/19/1940|East Carolina|14|Western Carolina|25
 10/19/1940|Maryland|0|Florida|19
 10/19/1940|Georgia|13|Columbia|19
+10/19/1940|Vanderbilt|0|Georgia Tech|19
 10/24/1940|Clemson|21|South Carolina|13
 10/25/1940|Akron|7|Baldwin-Wallace|13
 10/25/1940|Eastern Michigan|0|Central Michigan|24
@@ -170,6 +173,7 @@
 11/09/1940|Davidson|13|Duke|46
 11/09/1940|Wayne State(MI)|19|Eastern Michigan|7
 11/09/1940|Georgia|13|Florida|18
+11/09/1940|Georgia Tech|7|Kentucky|26
 11/11/1940|UTEP|6|Fresno State|16
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/15/1940|Kalamazoo(MI)|13|Eastern Michigan|3
