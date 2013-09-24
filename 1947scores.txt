@@ -1,5 +1,6 @@
 09/19/1947|Niagara(NY)|14|Buffalo|27
 09/19/1947|Central Michigan|14|Detroit|34
+09/19/1947|Furman|7|Georgia|13
 09/20/1947|Southern Mississippi|7|Alabama|34
 09/20/1947|Cal Poly-San Luis Obispo|6|Arizona State|33
 09/20/1947|Northwestern State|0|Arkansas|64
@@ -33,6 +34,7 @@
 09/27/1947|Lenoir-Rhyne(NC)|27|East Carolina|9
 09/27/1947|Mississippi|14|Florida|6
 09/27/1947|Moiliili Bears(HI)|7|Fresno State|18
+09/27/1947|Georgia|7|North Carolina|14
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/03/1947|Illinois State|6|Eastern Michigan|0
@@ -56,6 +58,7 @@
 10/04/1947|East Carolina|12|Atlantic Christian(NC)|7
 10/04/1947|North Texas|20|Florida|12
 10/04/1947|Fresno State|19|Santa Clara|20
+10/04/1947|LSU|19|Georgia|35
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -80,6 +83,7 @@
 10/11/1947|Elon(NC)|7|East Carolina|0
 10/11/1947|Eastern Michigan|6|Northern Illinois|21
 10/11/1947|Cal Poly-SLO|6|Fresno State|14
+10/11/1947|Georgia|0|Kentucky|26
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -105,6 +109,7 @@
 10/18/1947|Florida|7|North Carolina State|6
 10/18/1947|Stetson(FL)|14|Florida State|6
 10/18/1947|Honolulu All-Stars(HI)|34|Fresno State|7
+10/18/1947|Georgia|20|Oklahoma State|7
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
 10/24/1947|Villanova|0|Boston College|6
@@ -216,6 +221,7 @@
 11/22/1947|East Carolina|12|North Carolina State Freshmen|20
 11/22/1947|Florida|7|Miami(FL)|6
 11/22/1947|Tennessee Tech|27|Florida State|6
+11/22/1947|Georgia|27|Tennessee-Chattanooga|0
 11/27/1947|Arkansas|27|Tulsa|13
 11/27/1947|Miami(OH)|38|Cincinnati|7
 11/27/1947|Colorado|20|Denver|26
@@ -229,9 +235,11 @@
 11/29/1947|Boston College|6|Holy Cross|20
 11/29/1947|Colorado State|7|Montana|41
 11/29/1947|Kansas State|7|Florida|25
+11/29/1947|Georgia|0|Georgia Tech|7
 12/06/1947|Utah|20|Arizona|20
 12/06/1947|Hardin-Simmons|42|Arizona State|0
 12/06/1947|Jacksonville State(AL)|7|Florida State|0
 12/06/1947|Fresno State|13|Hawaii|27
 01/01/1948|Alabama|7|Texas|27
 01/01/1948|Arkansas|21|William & Mary|19
+01/01/1948|Maryland|20|Georgia|20
