@@ -17,6 +17,7 @@
 09/22/1945|Fort Warren(WY)|6|Colorado|0
 09/22/1945|South Carolina|0|Duke|60
 09/22/1945|Camp Blanding(FL)|2|Florida|31
+09/22/1945|Murray State|0|Georgia|49
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/29/1945|Alabama|21|Keesler Field(MS)|0
 09/29/1945|Oklahoma State|19|Arkansas|14
@@ -35,6 +36,7 @@
 09/29/1945|Bogue Field(NC)|0|Duke|76
 09/29/1945|Mississippi|13|Florida|26
 09/29/1945|Minter Field(CA)|0|Fresno State|0
+10/05/1945|Georgia|27|Miami(FL)|21
 10/06/1945|Alabama|26|LSU|7
 10/06/1945|TCU|14|Arkansas|27
 10/06/1945|Arkansas State|6|Southern Illinois|6
@@ -72,6 +74,7 @@
 10/13/1945|Hillsdale(MI)|0|Eastern Michigan|13
 10/13/1945|Vanderbilt|7|Florida|0
 10/13/1945|Cal Poly-SLO|0|Fresno State|24
+10/13/1945|Georgia|48|Kentucky|6
 10/19/1945|Florida|6|Miami(FL)|7
 10/20/1945|Arizona|46|San Diego State|0
 10/20/1945|Tennessee|7|Alabama|25
@@ -86,6 +89,7 @@
 10/20/1945|Colorado State|0|Utah State|13
 10/20/1945|Connecticut|18|Maine|12
 10/20/1945|Fresno State|0|Santa Barbara MAB(CA)|6
+10/20/1945|LSU|32|Georgia|0
 10/25/1945|Clemson|0|South Carolina|0
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
@@ -119,6 +123,7 @@
 11/03/1945|Duke|14|Georgia Tech|6
 11/03/1945|Eastern Michigan|7|Albion(MI)|0
 11/03/1945|Fresno State|4|Nevada|7
+11/03/1945|Georgia|34|Tennessee-Chattanooga|7
 11/09/1945|Eastern Michigan|14|Wayne State|13
 11/10/1945|Cal Poly-San Luis Obispo|6|Arizona|37
 11/10/1945|Arkansas|7|Rice|26
@@ -168,5 +173,7 @@
 12/01/1945|Baylor|17|Rice|14
 12/01/1945|Saint Mary's Pre-Flight(CA)|0|California|6
 12/01/1945|Wake Forest|13|Clemson|6
+12/01/1945|Georgia|33|Georgia Tech|0
 01/01/1945|Alabama|34|Southern Cal|14
+01/01/1945|Georgia|20|Tulsa|6
 01/01/1946|Drake|13|Fresno State|12
