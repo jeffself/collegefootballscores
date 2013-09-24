@@ -35,6 +35,7 @@
 09/27/1947|Mississippi|14|Florida|6
 09/27/1947|Moiliili Bears(HI)|7|Fresno State|18
 09/27/1947|Georgia|7|North Carolina|14
+09/27/1947|Tennessee|0|Georgia Tech|27
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/03/1947|Illinois State|6|Eastern Michigan|0
@@ -59,6 +60,7 @@
 10/04/1947|North Texas|20|Florida|12
 10/04/1947|Fresno State|19|Santa Clara|20
 10/04/1947|LSU|19|Georgia|35
+10/04/1947|Georgia Tech|20|Tulane|0
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -84,6 +86,7 @@
 10/11/1947|Eastern Michigan|6|Northern Illinois|21
 10/11/1947|Cal Poly-SLO|6|Fresno State|14
 10/11/1947|Georgia|0|Kentucky|26
+10/11/1947|VMI|0|Georgia Tech|20
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -133,6 +136,7 @@
 10/25/1947|Duke|13|Wake Forest|6
 10/25/1947|East Carolina|14|Newport News Apprentice|6
 10/25/1947|North Carolina|35|Florida|7
+10/25/1947|Citadel|0|Georgia Tech|38
 10/31/1947|Western Reserve|18|Akron|0
 10/31/1947|Clemson|6|Georgia|21
 11/01/1947|Alabama|13|Kentucky|0
@@ -179,6 +183,7 @@
 11/08/1947|Little Creek(VA)|31|East Carolina|7
 11/08/1947|Georgia|34|Florida|6
 11/08/1947|Fresno State|3|New Mexico|34
+11/08/1947|Georgia Tech|16|Navy|14
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
 11/15/1947|Arizona|26|Arizona State|13
@@ -222,6 +227,7 @@
 11/22/1947|Florida|7|Miami(FL)|6
 11/22/1947|Tennessee Tech|27|Florida State|6
 11/22/1947|Georgia|27|Tennessee-Chattanooga|0
+11/22/1947|Furman|0|Georgia Tech|51
 11/27/1947|Arkansas|27|Tulsa|13
 11/27/1947|Miami(OH)|38|Cincinnati|7
 11/27/1947|Colorado|20|Denver|26
@@ -243,3 +249,4 @@
 01/01/1948|Alabama|7|Texas|27
 01/01/1948|Arkansas|21|William & Mary|19
 01/01/1948|Maryland|20|Georgia|20
+01/01/1948|Kansas|14|Georgia Tech|20
