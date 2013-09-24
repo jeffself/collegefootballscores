@@ -4,9 +4,11 @@
 09/19/1942|Blackland AFB(TX)|0|Baylor|68
 09/19/1942|Presbyterian(SC)|13|Clemson|32
 09/19/1942|Florida|7|Jacksonville NAS(FL)|20
+09/19/1942|Georgia|7|Kentucky|6
 09/25/1942|Muskingum|7|Akron|7
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
 09/25/1942|Eastern Michigan|6|Alma(MI)|14
+09/25/1942|Jacksonville NAS(FL)|0|Georgia|14
 09/26/1942|New Mexico State|0|Arizona|53
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Wichita State|0|Arkansas|27
@@ -48,6 +50,7 @@
 10/03/1942|Duke|7|Wake Forest|20
 10/03/1942|Florida|26|Tampa|6
 10/03/1942|Occidental(CA)|6|Fresno State|53
+10/03/1942|Furman|7|Georgia|40
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
 10/09/1942|Illinois State|7|Eastern Michigan|14
@@ -66,6 +69,7 @@
 10/10/1942|Colorado State|0|Denver|26
 10/10/1942|Wesleyan(CT)|20|Connecticut|7
 10/10/1942|Georgia Navy Pre-Flight|26|Duke|12
+10/10/1942|Mississippi|13|Georgia|48
 10/11/1942|Fresno State|66|San Diego State|0
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
@@ -88,6 +92,7 @@
 10/17/1942|Duke|34|Colgate|0
 10/17/1942|Florida|3|Villanova|13
 10/17/1942|4th Air Force(CA)|0|Fresno State|20
+10/17/1942|Tulane|0|Georgia|42
 10/22/1942|Clemson|18|South Carolina|6
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
@@ -157,6 +162,7 @@
 11/07/1942|Nevada|0|Fresno State|33
 11/11/1942|San Francisco|33|Fresno State|13
 11/13/1942|Bowling Green|0|Findlay(OH)|0
+11/13/1942|Georgia|40|Tennessee-Chattanooga|0
 11/14/1942|Kent State|23|Akron|6
 11/14/1942|Alabama|0|Georgia Tech|7
 11/14/1942|Arizona|19|Texas-El Paso|7
@@ -203,7 +209,9 @@
 11/28/1942|Rice|20|Baylor|0
 11/28/1942|Holy Cross|55|Boston College|12
 11/28/1942|Duke|0|Jacksonville NAS(FL)|13
+11/28/1942|Georgia Tech|0|Georgia|34
 11/29/1942|Fresno State|27|Loyola Marymount(CA)|6
 12/05/1942|2nd Air Force(CO)|27|Arizona|13
 12/05/1942|Saint Mary's Pre-Flight(CA)|6|California|12
 01/01/1943|Alabama|37|Boston College|21
+01/01/1943|Georgia|9|UCLA|0
