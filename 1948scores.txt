@@ -28,6 +28,7 @@
 09/25/1948|East Carolina|6|Lenoir-Rhyne(NC)|26
 09/25/1948|Mississippi|14|Florida|0
 09/25/1948|Fresno State|6|Portland(OR)|6
+09/25/1948|Tennessee-Chattanooga|7|Georgia|14
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -52,6 +53,7 @@
 10/02/1948|Eastern Michigan|7|Illinois State|40
 10/02/1948|Tulsa|14|Florida|28
 10/02/1948|Santa Clara|45|Fresno State|7
+10/02/1948|North Carolina|21|Georgia|14
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons|14|Arizona|20
@@ -77,6 +79,7 @@
 10/09/1948|Northern Michigan|0|Eastern Michigan|6
 10/09/1948|Cumberland(TN)|0|Florida State|30
 10/09/1948|Fresno State|14|Cal Poly-SLO|26
+10/09/1948|Kentucky|12|Georgia|35
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
@@ -103,8 +106,10 @@
 10/16/1948|Rollins(FL)|12|Florida|41
 10/16/1948|Florida State|6|Erskine(SC)|14
 10/16/1948|UCSB|7|Fresno State|28
+10/16/1948|Georgia|22|LSU|0
 10/21/1948|Clemson|13|South Carolina|7
 10/22/1948|East Carolina|6|Newport News Apprentice|20
+10/22/1948|Georgia|42|Miami(FL)|21
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|Alabama|10|Mississippi State|7
 10/23/1948|Texas Tech|31|Arizona|0
@@ -222,6 +227,7 @@
 11/20/1948|Atlantic Christian(NC)|6|East Carolina|0
 11/20/1948|Miami(FL)|13|Florida|27
 11/20/1948|West Alabama|6|Florida State|12
+11/20/1948|Furman|0|Georgia|33
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/25/1948|Pacific|55|Fresno State|0
 11/26/1948|Brigham Young|27|Arizona State|25
@@ -233,6 +239,7 @@
 11/27/1948|Rice|7|Baylor|7
 11/27/1948|Boston College|21|Holy Cross|20
 11/27/1948|Florida State|20|Troy(AL)|13
+11/27/1948|Georgia Tech|13|Georgia|21
 12/04/1948|Auburn|0|Alabama|55
 12/04/1948|Clemson|20|Citadel|0
 12/04/1948|Tampa|12|Florida State|33
@@ -242,3 +249,4 @@
 01/01/1949|Clemson|24|Missouri|23
 01/01/1949|Northwestern|20|California|14
 01/01/1949|Colorado State|20|Occidental(CA)|21
+01/01/1949|Texas|41|Georgia|28
