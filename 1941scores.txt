@@ -27,6 +27,7 @@
 09/27/1941|Eastern Michigan|0|Hope(MI)|0
 09/27/1941|Florida|0|Mississippi State|6
 09/27/1941|West Texas A&M|7|Fresno State|6
+09/27/1941|Mercer(GA)|0|Georgia|81
 10/03/1941|Bowling Green|0|Akron|8
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
@@ -49,12 +50,14 @@
 10/04/1941|Tennessee|0|Duke|19
 10/04/1941|Eastern Michigan|0|Illinois State|0
 10/04/1941|Tampa|6|Florida|46
+10/04/1941|South Carolina|6|Georgia|34
 10/05/1941|Camp Haan(CA)|7|Fresno State|7
 10/10/1941|Western Reserve|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
 10/10/1941|Brigham Young|13|Denver|7
 10/10/1941|Central Michigan|0|Detroit|45
 10/10/1941|Newport News Apprentice|0|East Carolina|39
+10/10/1941|Mississippi|14|Georgia|14
 10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
 10/11/1941|New Mexico|0|Arizona State|0
@@ -94,6 +97,7 @@
 10/18/1941|Western Carolina|6|East Carolina|19
 10/18/1941|Florida|12|Maryland|13
 10/18/1941|Fresno State|6|Nevada|3
+10/18/1941|Georgia|7|Columbia|3
 10/23/1941|Clemson|14|South Carolina|18
 10/24/1941|Baldwin-Wallace|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
@@ -188,6 +192,7 @@
 11/15/1941|North Carolina|6|Duke|55
 11/15/1941|Florida|14|Miami(FL)|0
 11/15/1941|Fresno State|0|San José State|0
+11/15/1941|Centre(KY)|6|Georgia|47
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll|12|Akron|21
 11/20/1941|Miami(OH)|0|Cincinnati|26
@@ -203,6 +208,7 @@
 11/22/1941|Furman|6|Clemson|34
 11/22/1941|Duke|55|North Carolina State|6
 11/22/1941|Georgia Tech|7|Florida|14
+11/22/1941|Dartmouth|0|Georgia|35
 11/27/1941|Arkansas|13|Tulsa|6
 11/28/1941|Alabama|21|Miami(FL)|7
 11/29/1941|Kansas State|21|Arizona|28
@@ -211,8 +217,10 @@
 11/29/1941|Baylor|14|Rice|28
 11/29/1941|Holy Cross|13|Boston College|14
 11/29/1941|California|16|Stanford|0
+11/29/1941|Georgia Tech|0|Georgia|21
 12/06/1941|Utah|12|Arizona|6
 12/06/1941|Hardin-Simmons|20|Arizona State|0
 12/20/1941|UCLA|30|Florida|27
 01/01/1942|Alabama|29|Texas A&M|21
 01/01/1942|Duke|16|Oregon State|20
+01/01/1942|Georgia|40|TCU|26
