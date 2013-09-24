@@ -32,6 +32,7 @@
 09/28/1946|Eastern Michigan|0|Illinois State|10
 09/28/1946|Mississippi|13|Florida|7
 09/28/1946|Fresno State|20|Santa Clara|7
+09/28/1946|Georgia Tech|9|Tennessee|13
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/04/1946|Brigham Young|13|Denver|26
 10/04/1946|Eastern Michigan|0|Hope(MI)|13
@@ -58,6 +59,7 @@
 10/05/1946|Atlantic Christian(NC)|6|East Carolina|6
 10/05/1946|Florida|13|Tulane|27
 10/05/1946|Hawaii All-Stars|6|Fresno State|13
+10/05/1946|VMI|6|Georgia Tech|32
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/11/1946|Kentucky|13|Georgia|28
 10/12/1946|Case Institute(OH)|0|Akron|13
@@ -84,6 +86,7 @@
 10/12/1946|East Carolina|6|Elon(NC)|13
 10/12/1946|Florida|0|Vanderbilt|20
 10/12/1946|Fresno State|7|Oklahoma City|46
+10/12/1946|Mississippi|7|Georgia Tech|24
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -107,6 +110,7 @@
 10/19/1946|Miami(FL)|20|Florida|13
 10/19/1946|Fresno State|20|UCSB|13
 10/19/1946|Oklahoma State|13|Georgia|33
+10/19/1946|Georgia Tech|26|LSU|7
 10/24/1946|Clemson|14|South Carolina|26
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
@@ -179,6 +183,7 @@
 11/09/1946|Wake Forest|0|Duke|13
 11/09/1946|East Carolina|26|Atlantic Christian(NC)|6
 11/09/1946|Florida|14|Georgia|33
+11/09/1946|Navy|20|Georgia Tech|28
 11/11/1946|Hawaii|7|Fresno State|2
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
 11/16/1946|Akron|6|Kent State|13
@@ -204,6 +209,7 @@
 11/16/1946|Western Carolina|13|East Carolina|7
 11/16/1946|Villanova|27|Florida|20
 11/16/1946|Pacific|12|Fresno State|13
+11/16/1946|Tulane|7|Georgia Tech|35
 11/22/1946|Brigham Young|14|Texas-El Paso|13
 11/22/1946|East Carolina|0|Lenoir-Rhyne(NC)|6
 11/22/1946|Fresno State|2|San José State|13
@@ -219,6 +225,7 @@
 11/23/1946|Duke|7|North Carolina|22
 11/23/1946|North Carolina State|37|Florida|6
 11/23/1946|Georgia|48|Tennessee-Chattanooga|27
+11/23/1946|Furman|7|Georgia Tech|41
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
 11/28/1946|Arkansas State|30|Central Arkansas|12
@@ -238,3 +245,4 @@
 01/01/1947|Arkansas|0|LSU|0
 01/01/1947|Cincinnati|18|Virginia Tech|6
 01/01/1947|Georgia|20|North Carolina|10
+01/01/1947|Saint Mary's(CA)|19|Georgia Tech|41
