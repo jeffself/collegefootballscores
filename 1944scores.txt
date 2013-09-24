@@ -39,6 +39,7 @@
 10/07/1944|Middlebury(VT)|7|Connecticut|13
 10/07/1944|North Carolina Navy Pre-Flight|13|Duke|6
 10/07/1944|Jacksonville NAS(FL)|20|Florida|27
+10/07/1944|North Carolina|0|Georgia Tech|28
 10/13/1944|CCNY|0|Boston College|33
 10/13/1944|Kentucky|12|Georgia|13
 10/14/1944|Millsaps(MS)|0|Alabama|55
@@ -66,7 +67,9 @@
 10/21/1944|Colorado College|0|Colorado|28
 10/21/1944|CCNY|0|Connecticut|21
 10/21/1944|Fresno State|0|Minter Field(CA)|20
+10/21/1944|Navy|15|Georgia Tech|17
 10/27/1944|Kentucky|0|Alabama|41
+10/27/1944|Georgia Navy Pre-Flight|7|Georgia Tech|13
 10/28/1944|Mississippi|18|Arkansas|26
 10/28/1944|Duke|7|Army|27
 10/28/1944|Syracuse|12|Boston College|19
@@ -100,6 +103,7 @@
 11/11/1944|Wake Forest|0|Duke|34
 11/11/1944|Florida|12|Georgia|38
 11/11/1944|Minter Field(CA)|13|Fresno State|0
+11/11/1944|Tulane|7|Georgia Tech|34
 11/12/1944|Brooklyn(NY)|21|Boston College|24
 11/18/1944|Mississippi State|0|Alabama|19
 11/18/1944|Arkansas|12|SMU|20
@@ -110,6 +114,7 @@
 11/18/1944|Colorado|40|Colorado College|6
 11/18/1944|Duke|34|South Carolina|7
 11/18/1944|Tonopah AAB(NV)|7|Fresno State|6
+11/18/1944|Georgia Tech|14|LSU|6
 11/23/1944|Arkansas|2|Tulsa|33
 11/23/1944|Colorado|16|Denver|14
 11/23/1944|Pacific|14|Fresno State|6
@@ -117,8 +122,10 @@
 11/24/1944|Clemson|7|Georgia|21
 11/25/1944|Saint Mary's Pre-Flight(CA)|33|California|6
 11/25/1944|Duke|33|North Carolina|0
+11/25/1944|Notre Dame|21|Georgia Tech|0
 11/26/1944|Holy Cross|30|Boston College|14
 12/02/1944|Arkansas-Monticello|0|Arkansas|41
 12/02/1944|Navy|7|Army|23
 12/02/1944|Georgia Tech|44|Georgia|0
 01/01/1945|Alabama|26|Duke|29
+01/01/1945|Tulsa|26|Georgia Tech|12
