@@ -5,6 +5,7 @@
 09/17/1949|Nevada|41|Cincinnati|21
 09/17/1949|Presbyterian|7|Clemson|69
 09/17/1949|Colorado State|14|Colorado College|7
+09/17/1949|William & Mary|14|Houston|13
 09/23/1949|Mississippi|40|Auburn|7
 09/23/1949|Oklahoma|46|Boston College|0
 09/23/1949|Pacific Fleet(CA)|27|Brigham Young|13
@@ -61,6 +62,7 @@
 10/01/1949|Georgia|14|North Carolina|21
 10/01/1949|Georgia Tech|0|Tulane|18
 10/01/1949|Hawaii|7|UTEP|14
+10/01/1949|Wichita State|6|Houston|26
 10/07/1949|Duquesne|8|Alabama|48
 10/07/1949|Fresno State|13|Loyola Marymount(CA)|52
 10/07/1949|Hawaii|27|Denver|14
@@ -89,6 +91,7 @@
 10/08/1949|Florida State|33|Mississippi College|12
 10/08/1949|Georgia|0|Kentucky|25
 10/08/1949|Washington & Lee|0|Georgia Tech|36
+10/08/1949|Houston|28|Louisiana-Lafayette|7
 10/14/1949|Mississippi|25|Boston College|25
 10/14/1949|Central Michigan|12|Kent State|26
 10/14/1949|Fresno State|7|UCSB|14
@@ -114,6 +117,7 @@
 10/15/1949|East Carolina|6|Western Carolina|19
 10/15/1949|Vanderbilt|22|Florida|17
 10/15/1949|Erskine(SC)|7|Florida State|26
+10/15/1949|West Texas A&M|13|Houston|14
 10/20/1949|Clemson|13|South Carolina|27
 10/21/1949|Georgetown(DC)|10|Boston College|7
 10/21/1949|East Carolina|26|Newport News Apprentice|21
@@ -139,6 +143,7 @@
 10/22/1949|Georgia Tech|43|Florida|14
 10/22/1949|Florida State|6|Sewanee(TN)|0
 10/22/1949|Nevada|34|Fresno State|13
+10/22/1949|Hardin-Simmons(TX)|27|Houston|27
 10/28/1949|Villanova|28|Boston College|14
 10/28/1949|Bowling Green|24|John Carroll(OH)|38
 10/28/1949|Edenton Flyers(NC)|0|East Carolina|67
@@ -166,6 +171,7 @@
 10/29/1949|Furman|27|Florida|28
 10/29/1949|Florida State|33|Stetson(FL)|14
 10/29/1949|Alameda NAS(CA)|30|Fresno State|55
+10/29/1949|Midwestern State(TX)|33|Houston|21
 11/04/1949|Eastern Michigan|7|Central Michigan|18
 11/04/1949|Moliili Cards(HI)|0|Hawaii|34
 11/05/1949|Geneva(PA)|27|Akron|6
@@ -192,6 +198,7 @@
 11/05/1949|Florida State|6|West Alabama|13
 11/05/1949|San Diego State|18|Fresno State|7
 11/05/1949|Georgia Tech|30|Tennessee|13
+11/05/1949|Houston|14|Saint Bonaventure|20
 11/11/1949|Colorado State|16|Brigham Young|14
 11/11/1949|Pepperdine|7|Fresno State|20
 11/11/1949|Wahiawa Leilehua HS(HI)|6|Hawaii|76
@@ -217,6 +224,7 @@
 11/12/1949|Eastern Michigan|20|Valparaiso(IN)|28
 11/12/1949|Kentucky|35|Florida|0
 11/12/1949|Millsaps(MS)|0|Florida State|40
+11/12/1949|Houston|23|North Texas|28
 11/18/1949|Missouri Valley|6|Arkansas State|7
 11/18/1949|Florida|13|Miami(FL)|28
 11/18/1949|Florida State|34|Tampa|7
@@ -239,9 +247,11 @@
 11/19/1949|East Carolina|6|Atlantic Christian(NC)|2
 11/19/1949|Duquesne|0|Georgia|40
 11/19/1949|South Carolina|3|Georgia Tech|13
+11/19/1949|Trinity(TX)|21|Houston|28
 11/24/1949|Union(TN)|12|Arkansas State|13
 11/24/1949|Miami(OH)|6|Cincinnati|27
 11/24/1949|San José State|43|Fresno State|7
+11/24/1949|Houston|35|Saint Louis|0
 11/26/1949|Alabama|35|Florida|13
 11/26/1949|Kansas|46|Arizona|0
 11/26/1949|Loyola Marymount(CA)|27|Arizona State|7
