@@ -37,6 +37,7 @@
 09/29/1945|Mississippi|13|Florida|26
 09/29/1945|Minter Field(CA)|0|Fresno State|0
 09/29/1945|Georgia Tech|20|North Carolina|14
+09/29/1945|Washington State|43|Idaho|12
 10/05/1945|Georgia|27|Miami(FL)|21
 10/06/1945|Alabama|26|LSU|7
 10/06/1945|TCU|14|Arkansas|27
@@ -58,6 +59,7 @@
 10/06/1945|Florida|6|Tulane|6
 10/06/1945|Fresno State|19|Northern Arizona|0
 10/06/1945|Notre Dame|40|Georgia Tech|7
+10/06/1945|Idaho|7|Oregon|33
 10/11/1945|Arkansas State|18|Central Arkansas|0
 10/12/1945|New York(NY)|0|Boston College|28
 10/13/1945|Northern Arizona|6|Arizona|52
@@ -78,6 +80,7 @@
 10/13/1945|Cal Poly-SLO|0|Fresno State|24
 10/13/1945|Georgia|48|Kentucky|6
 10/13/1945|Samford(AL)|0|Georgia Tech|43
+10/13/1945|Idaho|7|Farragut Navy(ID)|18
 10/19/1945|Florida|6|Miami(FL)|7
 10/20/1945|Arizona|46|San Diego State|0
 10/20/1945|Tennessee|7|Alabama|25
@@ -94,6 +97,7 @@
 10/20/1945|Fresno State|0|Santa Barbara MAB(CA)|6
 10/20/1945|LSU|32|Georgia|0
 10/20/1945|Georgia Tech|6|Navy|20
+10/20/1945|Montana|0|Idaho|46
 10/25/1945|Clemson|0|South Carolina|0
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
@@ -111,6 +115,7 @@
 10/27/1945|Eastern Michigan|6|Hillsdale(MI)|0
 10/27/1945|Louisiana-Lafayette|0|Florida|45
 10/27/1945|San Diego State|7|Fresno State|0
+10/27/1945|Washington State|21|Idaho|0
 11/02/1945|Clemson|6|Miami(FL)|7
 11/03/1945|Alabama|60|Kentucky|19
 11/03/1945|Texas A&M|34|Arkansas|0
@@ -128,6 +133,7 @@
 11/03/1945|Eastern Michigan|7|Albion(MI)|0
 11/03/1945|Fresno State|4|Nevada|7
 11/03/1945|Georgia|34|Tennessee-Chattanooga|7
+11/03/1945|Idaho|0|Oregon State|34
 11/09/1945|Eastern Michigan|14|Wayne State|13
 11/10/1945|Cal Poly-San Luis Obispo|6|Arizona|37
 11/10/1945|Arkansas|7|Rice|26
@@ -144,6 +150,7 @@
 11/10/1945|North Carolina State|13|Duke|26
 11/10/1945|Georgia|34|Florida|0
 11/10/1945|Georgia Tech|41|Tulane|7
+11/10/1945|Idaho|6|Farragut Navy(ID)|14
 11/12/1945|Fresno State|6|Saint Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
@@ -160,6 +167,7 @@
 11/17/1945|Presbyterian(SC)|0|Florida|41
 11/17/1945|Fresno State|13|Camp Beale(CA)|21
 11/17/1945|LSU|9|Georgia Tech|7
+11/17/1945|Idaho|0|Washington|12
 11/22/1945|Miami(OH)|28|Cincinnati|14
 11/22/1945|Colorado|8|Denver|14
 11/22/1945|Fresno State|16|Pacific|0
