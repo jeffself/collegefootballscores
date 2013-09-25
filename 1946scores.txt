@@ -9,6 +9,7 @@
 09/21/1946|Iowa State|7|Colorado|13
 09/21/1946|Colorado State|25|Fort Warren(WY)|0
 09/22/1946|Western State(CO)|2|Brigham Young|13
+09/25/1946|Hawaiian Pine|6|Hawaii|14
 09/27/1946|Arkansas State|0|SE Missouri State|8
 09/27/1946|Southern Miss|12|Auburn|13
 09/27/1946|Wake Forest|12|Boston College|6
@@ -34,6 +35,7 @@
 09/28/1946|Fresno State|20|Santa Clara|7
 09/28/1946|Georgia Tech|9|Tennessee|13
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
+10/02/1946|Kaala(HI)|0|Hawaii|44
 10/04/1946|Brigham Young|13|Denver|26
 10/04/1946|Eastern Michigan|0|Hope(MI)|13
 10/04/1946|Georgia|35|Temple|7
@@ -60,6 +62,7 @@
 10/05/1946|Florida|13|Tulane|27
 10/05/1946|Hawaii All-Stars|6|Fresno State|13
 10/05/1946|VMI|6|Georgia Tech|32
+10/09/1946|Olympic AC(CA)|0|Hawaii|27
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/11/1946|Kentucky|13|Georgia|28
 10/12/1946|Case Institute(OH)|0|Akron|13
@@ -87,6 +90,7 @@
 10/12/1946|Florida|0|Vanderbilt|20
 10/12/1946|Fresno State|7|Oklahoma City|46
 10/12/1946|Mississippi|7|Georgia Tech|24
+10/16/1946|Lanakila(HI)|6|Hawaii|73
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -137,6 +141,7 @@
 10/26/1946|Florida|19|North Carolina|40
 10/26/1946|Fresno State|0|San Diego State|7
 10/26/1946|Georgia|70|Furman|7
+11/01/1946|Hawaii|19|Pacific|13
 11/02/1946|Akron|13|Western Reserve|6
 11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Hardin-Simmons|19|Arizona|8
@@ -226,6 +231,7 @@
 11/23/1946|North Carolina State|37|Florida|6
 11/23/1946|Georgia|48|Tennessee-Chattanooga|27
 11/23/1946|Furman|7|Georgia Tech|41
+11/27/1946|Healani AC(HI)|6|Hawaii|58
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
 11/28/1946|Arkansas State|30|Central Arkansas|12
@@ -241,8 +247,11 @@
 11/30/1946|Holy Cross|13|Boston College|6
 11/30/1946|Georgia Tech|7|Georgia|35
 12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
+12/07/1946|Nevada|26|Hawaii|7
 12/11/1946|Fresno State|18|Wahiawa Leilehua HS Alumni(HI)|6
+12/23/1946|Stanford|18|Hawaii|7
 01/01/1947|Arkansas|0|LSU|0
 01/01/1947|Cincinnati|18|Virginia Tech|6
 01/01/1947|Georgia|20|North Carolina|10
+01/01/1947|Utah|16|Hawaii|19
 01/01/1947|Saint Mary's(CA)|19|Georgia Tech|41
