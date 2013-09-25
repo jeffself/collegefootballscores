@@ -1,9 +1,12 @@
+09/07/1948|Kauai Broncos|0|Hawaii|20
 09/17/1948|East Carolina|6|Cherry Point Marines(NC)|13
+09/17/1948|Cardinals(HI)|0|Hawaii|47
 09/18/1948|Abilene Christian|6|Arkansas|40
 09/18/1948|San Diego State|6|Brigham Young|14
 09/18/1948|Santa Clara|19|California|41
 09/18/1948|Ferris State(MI)|6|Central Michigan|27
 09/18/1948|Colorado College|6|Colorado State|25
+09/22/1948|Islanders(HI)|20|Hawaii|20
 09/24/1948|Akron|14|Findlay(OH)|9
 09/24/1948|Southern Miss|14|Auburn|20
 09/24/1948|Wake Forest|9|Boston College|26
@@ -56,6 +59,7 @@
 10/02/1948|Santa Clara|45|Fresno State|7
 10/02/1948|North Carolina|21|Georgia|14
 10/02/1948|Tulane|7|Georgia Tech|13
+10/02/1948|Hawaii|21|Michigan State|68
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons|14|Arizona|20
@@ -83,6 +87,7 @@
 10/09/1948|Fresno State|14|Cal Poly-SLO|26
 10/09/1948|Kentucky|12|Georgia|35
 10/09/1948|Washington & Lee|0|Georgia Tech|27
+10/09/1948|Hawaii|55|Redlands(CA)|0
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
@@ -111,6 +116,7 @@
 10/16/1948|UCSB|7|Fresno State|28
 10/16/1948|Georgia|22|LSU|0
 10/21/1948|Clemson|13|South Carolina|7
+10/21/1948|Wahiawa Leilehua HS(HI)|12|Hawaii|52
 10/22/1948|East Carolina|6|Newport News Apprentice|20
 10/22/1948|Georgia|42|Miami(FL)|21
 10/23/1948|Akron|0|Mount Union|19
@@ -161,6 +167,7 @@
 10/30/1948|Furman|14|Florida|39
 10/30/1948|Florida State|18|Stetson(FL)|7
 10/30/1948|New Mexico|14|Fresno State|20
+11/03/1948|Olympic AC(CA)|7|Hawaii|53
 11/05/1948|Brigham Young|6|San José St|21
 11/05/1948|Cincinnati|6|Miami(FL)|36
 11/06/1948|Southern Miss|0|Alabama|27
@@ -186,6 +193,7 @@
 11/06/1948|Fresno State|7|San Diego State|6
 11/06/1948|Tennessee|13|Georgia Tech|6
 11/11/1948|Nevada|53|Fresno State|7
+11/11/1948|Wahiawa Leilehua HS(HI)|6|Hawaii|39
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/12/1948|Valparaiso(IN)|7|Eastern Michigan|26
@@ -233,6 +241,7 @@
 11/20/1948|West Alabama|6|Florida State|12
 11/20/1948|Furman|0|Georgia|33
 11/20/1948|Citadel|0|Georgia Tech|54
+11/24/1948|Ford Island(HI)|7|Hawaii|14
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/25/1948|Pacific|55|Fresno State|0
 11/26/1948|Brigham Young|27|Arizona State|25
@@ -248,10 +257,13 @@
 12/04/1948|Auburn|0|Alabama|55
 12/04/1948|Clemson|20|Citadel|0
 12/04/1948|Tampa|12|Florida State|33
+12/04/1948|UTEP|49|Hawaii|6
 12/14/1948|New Mexico|17|Arizona State|28
+12/17/1948|Nevada|73|Hawaii|12
 01/01/1949|Arizona|13|Drake|14
 01/01/1949|Baylor|20|Wake Forest|7
 01/01/1949|Clemson|24|Missouri|23
 01/01/1949|Northwestern|20|California|14
 01/01/1949|Colorado State|20|Occidental(CA)|21
 01/01/1949|Texas|41|Georgia|28
+01/01/1949|Oregon State|47|Hawaii|27
