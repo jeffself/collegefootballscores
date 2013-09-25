@@ -12,6 +12,7 @@
 09/20/1947|Presbyterian(SC)|0|Clemson|42
 09/20/1947|Colorado School of Mines|12|Colorado State|20
 09/20/1947|Oklahoma City|27|Fresno State|2
+09/20/1947|Centenary(LA)|7|Houston|19
 09/26/1947|Southern Miss|19|Auburn|13
 09/26/1947|Baylor|18|Miami(FL)|7
 09/26/1947|Clemson|22|Boston College|32
@@ -38,6 +39,7 @@
 09/27/1947|Georgia|7|North Carolina|14
 09/27/1947|Tennessee|0|Georgia Tech|27
 09/27/1947|Saint Mary's(CA)|27|Hawaii|7
+09/27/1947|McMurry(TX)|13|Houston|14
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/03/1947|Illinois State|6|Eastern Michigan|0
@@ -64,10 +66,11 @@
 10/04/1947|LSU|19|Georgia|35
 10/04/1947|Georgia Tech|20|Tulane|0
 10/04/1947|Hawaii|0|Utah|35
+10/04/1947|Daniel Baker(TX)|12|Houston|34
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
-10/11/1947|Arizona|7|Hardin-Simmons|35
+10/11/1947|Arizona|7|Hardin-Simmons(TX)|35
 10/11/1947|Arizona State|6|Pepperdine|27
 10/11/1947|Arkansas|9|Baylor|17
 10/11/1947|Arkansas-Monticello|0|Arkansas State|28
@@ -91,6 +94,7 @@
 10/11/1947|Georgia|0|Kentucky|26
 10/11/1947|VMI|0|Georgia Tech|20
 10/11/1947|Hawaii|14|Montana State|0
+10/11/1947|Houston|0|Texas A&M-Kingsville|13
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -117,6 +121,7 @@
 10/18/1947|Stetson(FL)|14|Florida State|6
 10/18/1947|Honolulu All-Stars(HI)|34|Fresno State|7
 10/18/1947|Georgia|20|Oklahoma State|7
+10/18/1947|Texas A&M-Commerce|33|Houston|7
 10/22/1947|Olympic AC(CA)|15|Hawaii|40
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
@@ -142,6 +147,7 @@
 10/25/1947|East Carolina|14|Newport News Apprentice|6
 10/25/1947|North Carolina|35|Florida|7
 10/25/1947|Citadel|0|Georgia Tech|38
+10/25/1947|Trinity(TX)|20|Houston|0
 10/29/1947|Kaialums(HI)|0|Hawaii|65
 10/31/1947|Western Reserve|18|Akron|0
 10/31/1947|Clemson|6|Georgia|21
@@ -166,6 +172,7 @@
 11/01/1947|Fort Bragg(NC)|2|East Carolina|12
 11/01/1947|Furman|7|Florida|34
 11/01/1947|San Diego State|7|Fresno State|7
+11/01/1947|Houston|7|Hardin-Simmons(TX)|33
 11/05/1947|Leialums(HI)|0|Hawaii|26
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/08/1947|Akron|6|Wooster(OH)|21
@@ -191,6 +198,7 @@
 11/08/1947|Georgia|34|Florida|6
 11/08/1947|Fresno State|3|New Mexico|34
 11/08/1947|Georgia Tech|16|Navy|14
+11/08/1947|Houston|14|Stephen F. Austin|25
 11/12/1947|Mickalums(HI)|13|Hawaii|33
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
@@ -215,6 +223,7 @@
 11/15/1947|Florida|7|Tulane|7
 11/15/1947|Florida State|0|Cumberland(TN)|6
 11/15/1947|Fresno State|7|UCSB|7
+11/15/1947|Houston|0|North Texas|33
 11/17/1947|Arkansas State|19|Memphis|19
 11/21/1947|Fresno State|22|Pacific|47
 11/22/1947|John Carroll(OH)|31|Akron|0
@@ -236,11 +245,13 @@
 11/22/1947|Tennessee Tech|27|Florida State|6
 11/22/1947|Georgia|27|Tennessee-Chattanooga|0
 11/22/1947|Furman|0|Georgia Tech|51
+11/22/1947|Texas State|2|Houston|0
 11/27/1947|Arkansas|27|Tulsa|13
 11/27/1947|Miami(OH)|38|Cincinnati|7
 11/27/1947|Colorado|20|Denver|26
 11/27/1947|Troy(AL)|36|Florida State|6
 11/27/1947|Fresno State|21|San José State|20
+11/27/1947|Houston|0|Sam Houston State|23
 11/29/1947|Alabama|21|Miami(FL)|6
 11/29/1947|Kansas|54|Arizona|28
 11/29/1947|Arizona State|13|Nevada|33
@@ -252,7 +263,7 @@
 11/29/1947|Georgia|0|Georgia Tech|7
 11/29/1947|Michigan State|58|Hawaii|19
 12/06/1947|Utah|20|Arizona|20
-12/06/1947|Hardin-Simmons|42|Arizona State|0
+12/06/1947|Hardin-Simmons(TX)|42|Arizona State|0
 12/06/1947|Jacksonville State(AL)|7|Florida State|0
 12/06/1947|Fresno State|13|Hawaii|27
 12/13/1947|Denver|27|Hawaii|0
