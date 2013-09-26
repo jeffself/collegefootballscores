@@ -13,6 +13,7 @@
 09/20/1947|Colorado School of Mines|12|Colorado State|20
 09/20/1947|Oklahoma City|27|Fresno State|2
 09/20/1947|Centenary(LA)|7|Houston|19
+09/20/1947|Puget Sound(WA)|7|Idaho|27
 09/26/1947|Southern Miss|19|Auburn|13
 09/26/1947|Baylor|18|Miami(FL)|7
 09/26/1947|Clemson|22|Boston College|32
@@ -40,6 +41,7 @@
 09/27/1947|Tennessee|0|Georgia Tech|27
 09/27/1947|Saint Mary's(CA)|27|Hawaii|7
 09/27/1947|McMurry(TX)|13|Houston|14
+09/27/1947|Idaho|19|Stanford|16
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/03/1947|Illinois State|6|Eastern Michigan|0
@@ -67,6 +69,7 @@
 10/04/1947|Georgia Tech|20|Tulane|0
 10/04/1947|Hawaii|0|Utah|35
 10/04/1947|Daniel Baker(TX)|12|Houston|34
+10/04/1947|Washington State|7|Idaho|0
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -95,6 +98,7 @@
 10/11/1947|VMI|0|Georgia Tech|20
 10/11/1947|Hawaii|14|Montana State|0
 10/11/1947|Houston|0|Texas A&M-Kingsville|13
+10/11/1947|Oregon State|33|Idaho|6
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -122,6 +126,7 @@
 10/18/1947|Honolulu All-Stars(HI)|34|Fresno State|7
 10/18/1947|Georgia|20|Oklahoma State|7
 10/18/1947|Texas A&M-Commerce|33|Houston|7
+10/18/1947|Portland(OR)|14|Idaho|20
 10/22/1947|Olympic AC(CA)|15|Hawaii|40
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
@@ -173,8 +178,10 @@
 11/01/1947|Furman|7|Florida|34
 11/01/1947|San Diego State|7|Fresno State|7
 11/01/1947|Houston|7|Hardin-Simmons(TX)|33
+11/01/1947|Idaho|7|Oregon|34
 11/05/1947|Leialums(HI)|0|Hawaii|26
 11/07/1947|Ball State|7|Eastern Michigan|14
+11/07/1947|Montana|21|Idaho|0
 11/08/1947|Akron|6|Wooster(OH)|21
 11/08/1947|Arizona|28|Texas Tech|41
 11/08/1947|Arizona State|0|Texas-El Paso|21
@@ -224,6 +231,7 @@
 11/15/1947|Florida State|0|Cumberland(TN)|6
 11/15/1947|Fresno State|7|UCSB|7
 11/15/1947|Houston|0|North Texas|33
+11/15/1947|Utah|6|Idaho|13
 11/17/1947|Arkansas State|19|Memphis|19
 11/21/1947|Fresno State|22|Pacific|47
 11/22/1947|John Carroll(OH)|31|Akron|0
