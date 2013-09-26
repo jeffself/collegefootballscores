@@ -56,6 +56,7 @@
 10/04/1941|Tampa|6|Florida|46
 10/04/1941|South Carolina|6|Georgia|34
 10/04/1941|Tennessee-Chattanooga|0|Georgia Tech|20
+10/04/1941|Miami(OH)|0|Illinois|45
 10/05/1941|Camp Haan(CA)|7|Fresno State|7
 10/10/1941|Western Reserve|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
@@ -84,6 +85,7 @@
 10/11/1941|Villanova|6|Florida|0
 10/11/1941|Fresno State|26|UCSB|0
 10/11/1941|Notre Dame|20|Georgia Tech|0
+10/11/1941|Illinois|6|Minnesota|34
 10/17/1941|Baylor|6|Villanova|14
 10/17/1941|Na Alii(HI)|6|Hawaii|19
 10/18/1941|Ohio|0|Akron|0
@@ -109,6 +111,7 @@
 10/18/1941|Georgia|7|Columbia|3
 10/18/1941|Georgia Tech|7|Vanderbilt|14
 10/18/1941|Idaho|16|Utah State|0
+10/18/1941|Drake|0|Illinois|40
 10/23/1941|Clemson|14|South Carolina|18
 10/24/1941|Baldwin-Wallace|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
@@ -134,6 +137,7 @@
 10/25/1941|Florida|7|LSU|10
 10/25/1941|San Diego State|0|Fresno State|26
 10/25/1941|Willamette(OR)|6|Idaho|33
+10/25/1941|Illinois|14|Notre Dame|49
 10/27/1941|Healani AC(HI)|26|Hawaii|6
 10/31/1941|Arizona State|6|Northern Colorado|0
 10/31/1941|Southern Arkansas|19|Arkansas State|0
@@ -161,6 +165,7 @@
 11/01/1941|Indiana State|14|Eastern Michigan|0
 11/01/1941|San Francisco|47|Fresno State|27
 11/01/1941|Idaho|0|Oregon State|33
+11/01/1941|Michigan|20|Illinois|0
 11/06/1941|East Carolina|13|Bergen JC(NJ)|7
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
@@ -186,6 +191,7 @@
 11/08/1941|Florida|3|Georgia|19
 11/08/1941|Kentucky|13|Georgia Tech|20
 11/08/1941|Idaho|0|Washington State|26
+11/08/1941|Iowa|21|Illinois|0
 11/11/1941|Pacific|0|Fresno State|13
 11/13/1941|East Carolina|13|Belmont Abbey(NC)|0
 11/15/1941|Kent State|13|Akron|41
@@ -211,6 +217,7 @@
 11/15/1941|Fresno State|0|San José State|0
 11/15/1941|Centre(KY)|6|Georgia|47
 11/15/1941|Montana|16|Idaho|0
+11/15/1941|Illinois|7|Ohio State|12
 11/19/1941|Hawaii Bears|13|Hawaii|27
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll|12|Akron|21
@@ -229,6 +236,7 @@
 11/22/1941|Georgia Tech|7|Florida|14
 11/22/1941|Dartmouth|0|Georgia|35
 11/22/1941|Montana State|0|Idaho|39
+11/22/1941|Illinois|0|Northwestern|27
 11/26/1941|Healani AC(HI)|6|Hawaii|21
 11/27/1941|Arkansas|13|Tulsa|6
 11/28/1941|Alabama|21|Miami(FL)|7
