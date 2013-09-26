@@ -37,6 +37,7 @@
 09/25/1948|Georgia Tech|13|Vanderbilt|0
 09/25/1948|Houston|7|UTEP|35
 09/25/1948|Idaho|6|Utah|21
+09/25/1948|Kansas State|0|Illinois|40
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -66,6 +67,7 @@
 10/02/1948|Hawaii|21|Michigan State|68
 10/02/1948|Houston|7|Louisiana-Lafayette|21
 10/02/1948|Idaho|12|UCLA|28
+10/02/1948|Illinois|16|Wisconsin|20
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons(TX)|14|Arizona|20
@@ -124,6 +126,7 @@
 10/16/1948|UCSB|7|Fresno State|28
 10/16/1948|Georgia|22|LSU|0
 10/16/1948|Houston|18|Texas A&M-Commerce|7
+10/16/1948|Illinois|0|Minnesota|6
 10/21/1948|Clemson|13|South Carolina|7
 10/21/1948|Wahiawa Leilehua HS(HI)|12|Hawaii|52
 10/22/1948|East Carolina|6|Newport News Apprentice|20
@@ -153,6 +156,7 @@
 10/23/1948|Fresno State|13|Pepperdine|14
 10/23/1948|Houston|7|Trinity(TX)|15
 10/23/1948|Montana|0|Idaho|39
+10/23/1948|Purdue|6|Illinois|10
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/29/1948|Duke JV|19|East Carolina|13
@@ -180,6 +184,7 @@
 10/30/1948|New Mexico|14|Fresno State|20
 10/30/1948|Houston|13|West Texas A&M|28
 10/30/1948|Idaho|14|Washington State|19
+10/30/1948|Illinois|20|Michigan|28
 11/03/1948|Olympic AC(CA)|7|Hawaii|53
 11/05/1948|Brigham Young|6|San José St|21
 11/05/1948|Cincinnati|6|Miami(FL)|36
@@ -207,6 +212,7 @@
 11/06/1948|Tennessee|13|Georgia Tech|6
 11/06/1948|Stephen F. Austin|21|Houston|13
 11/06/1948|Montana State|12|Idaho|28
+11/06/1948|Iowa|0|Illinois|14
 11/11/1948|Nevada|53|Fresno State|7
 11/11/1948|Wahiawa Leilehua HS(HI)|6|Hawaii|39
 11/12/1948|Kent State|31|Akron|0
@@ -235,6 +241,7 @@
 11/13/1948|Mississippi College|6|Florida State|26
 11/13/1948|North Texas|6|Houston|8
 11/13/1948|Portland(OR)|0|Idaho|28
+11/13/1948|Ohio State|34|Illinois|7
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
 11/19/1948|Fresno State|6|San José State|41
@@ -260,6 +267,7 @@
 11/20/1948|Citadel|0|Georgia Tech|54
 11/20/1948|Texas State|3|Houston|0
 11/20/1948|Idaho|7|Washington|34
+11/20/1948|Illinois|7|Northwestern|20
 11/24/1948|Ford Island(HI)|7|Hawaii|14
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/25/1948|Pacific|55|Fresno State|0
