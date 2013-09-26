@@ -57,6 +57,7 @@
 10/05/1940|Georgia|33|South Carolina|2
 10/05/1940|Samford(AL)|0|Georgia Tech|27
 10/05/1940|Idaho|0|Washington|21
+10/05/1940|Bradley|0|Illinois|31
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -83,6 +84,7 @@
 10/12/1940|Mississippi|28|Georgia|14
 10/12/1940|Georgia Tech|20|Notre Dame|26
 10/12/1940|Gonzaga|25|Idaho|0
+10/12/1940|Southern California|13|Illinois|7
 10/18/1940|Brigham Young|20|Texas Tech|21
 10/18/1940|Fresno State|3|Pacific|0
 10/18/1940|Polar Bears(HI)|35|Hawaii|28
@@ -108,6 +110,7 @@
 10/19/1940|Maryland|0|Florida|19
 10/19/1940|Georgia|13|Columbia|19
 10/19/1940|Vanderbilt|0|Georgia Tech|19
+10/19/1940|Illinois|0|Michigan|28
 10/24/1940|Clemson|21|South Carolina|13
 10/25/1940|Akron|7|Baldwin-Wallace|13
 10/25/1940|Eastern Michigan|0|Central Michigan|24
@@ -133,6 +136,7 @@
 10/26/1940|North Carolina State Freshmen|26|East Carolina|0
 10/26/1940|Florida|0|Tennessee|14
 10/26/1940|Utah State|0|Idaho|0
+10/26/1940|Notre Dame|26|Illinois|0
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
 11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
@@ -159,6 +163,7 @@
 11/02/1940|Alma(MI)|7|Eastern Michigan|24
 11/02/1940|Nevada|6|Fresno State|7
 11/02/1940|Washington State|26|Idaho|0
+11/02/1940|Illinois|6|Wisconsin|13
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -183,6 +188,7 @@
 11/09/1940|Georgia|13|Florida|18
 11/09/1940|Georgia Tech|7|Kentucky|26
 11/09/1940|Idaho|18|Montana|28
+11/09/1940|Illinois|14|Northwestern|32
 11/11/1940|UTEP|6|Fresno State|16
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/15/1940|Kalamazoo(MI)|13|Eastern Michigan|3
@@ -209,6 +215,7 @@
 11/16/1940|San José State|14|Fresno State|7
 11/16/1940|Georgia|13|Tulane|21
 11/16/1940|Nevada|0|Idaho|6
+11/16/1940|Ohio State|14|Illinois|6
 11/21/1940|John Carroll|0|Akron|47
 11/21/1940|Arkansas|7|Fordham|27
 11/21/1940|Bowling Green|0|Wayne State|19
@@ -227,6 +234,7 @@
 11/23/1940|North Carolina State|6|Duke|43
 11/23/1940|Clemson|13|Furman|7
 11/23/1940|Florida|16|Georgia Tech|7
+11/23/1940|Illinois|7|Iowa|18
 11/28/1940|Arkansas|27|Tulsa|21
 11/28/1940|Colorado State|0|Kansas|26
 11/30/1940|Mississippi State|13|Alabama|0
