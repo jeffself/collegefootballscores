@@ -28,6 +28,7 @@
 09/26/1942|Whittier(CA)|0|Fresno State|51
 09/26/1942|Oregon State|32|Idaho|0
 09/26/1942|South Dakota|0|Illinois|46
+09/26/1942|Butler|0|Indiana|53
 09/27/1942|Saint Mary's(CA)|0|California|6
 10/02/1942|Baylor|18|Oklahoma State|12
 10/02/1942|Wyoming|13|Brigham Young|6
@@ -56,6 +57,7 @@
 10/03/1942|Georgia Tech|13|Notre Dame|6
 10/03/1942|Idaho|0|2nd Air Force(CO)|14
 10/03/1942|Butler|0|Illinois|67
+10/03/1942|Indiana|21|Ohio State|32
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
 10/09/1942|Illinois State|7|Eastern Michigan|14
@@ -78,6 +80,7 @@
 10/10/1942|Tennessee-Chattanooga|12|Georgia Tech|30
 10/10/1942|Idaho|28|Eastern Washington|7
 10/10/1942|Minnesota|13|Illinois|20
+10/10/1942|Indiana|12|Nebraska|0
 10/11/1942|Fresno State|66|San Diego State|0
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
@@ -104,6 +107,7 @@
 10/17/1942|Davidson|0|Georgia Tech|33
 10/17/1942|Idaho|7|Stanford|54
 10/17/1942|Illinois|12|Iowa|7
+10/17/1942|Indiana|19|Pittsburgh|7
 10/22/1942|Clemson|18|South Carolina|6
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
@@ -127,6 +131,7 @@
 10/24/1942|Georgia Tech|21|Navy|0
 10/24/1942|Idaho|0|Oregon|28
 10/24/1942|Notre Dame|21|Illinois|14
+10/24/1942|Iowa|14|Indiana|13
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/30/1942|Wayne State|0|Central Michigan|13
 10/31/1942|Baldwin-Wallace|22|Akron|0
@@ -152,6 +157,7 @@
 10/31/1942|Fresno State|13|Pacific|0
 10/31/1942|Idaho|21|Montana|0
 10/31/1942|Illinois|14|Michigan|28
+10/31/1942|Iowa Navy Pre-Flight|26|Indiana|6
 11/06/1942|Hillsdale(MI)|13|Eastern Michigan|19
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
@@ -178,6 +184,7 @@
 11/07/1942|Nevada|0|Fresno State|33
 11/07/1942|Kentucky|7|Georgia Tech|47
 11/07/1942|Illinois|14|Northwestern|7
+11/07/1942|Indiana|7|Minnesota|0
 11/11/1942|San Francisco|33|Fresno State|13
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/13/1942|Georgia|40|Tennessee-Chattanooga|0
@@ -203,6 +210,7 @@
 11/14/1942|Florida|0|Miami(FL)|12
 11/14/1942|Washington State|7|Idaho|0
 11/14/1942|Illinois|20|Ohio State|44
+11/14/1942|Kansas State|0|Indiana|54
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
@@ -219,6 +227,7 @@
 11/21/1942|Florida|7|Georgia Tech|20
 11/21/1942|Portland(OR)|14|Idaho|20
 11/21/1942|Great Lakes NTS(IL)|6|Illinois|0
+11/21/1942|Indiana|20|Purdue|0
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Arkansas|7|Tulsa|40
 11/26/1942|Miami(OH)|12|Cincinnati|21
@@ -234,6 +243,7 @@
 11/28/1942|Duke|0|Jacksonville NAS(FL)|13
 11/28/1942|Georgia Tech|0|Georgia|34
 11/28/1942|Illinois|20|Camp Grant(IL)|0
+11/28/1942|Indiana|51|Fort Knox(KY)|0
 11/29/1942|Fresno State|27|Loyola Marymount(CA)|6
 12/05/1942|2nd Air Force(CO)|27|Arizona|13
 12/05/1942|Saint Mary's Pre-Flight(CA)|6|California|12
