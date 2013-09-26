@@ -3,6 +3,7 @@
 09/09/1944|Bowling Green|7|Miami(OH)|28
 09/15/1944|Central Michigan|33|Alma(MI)|13
 09/16/1944|Bowling Green|13|Ohio Wesleyan|6
+09/16/1944|Illinois State|0|Illinois|79
 09/23/1944|Arkansas|7|Missouri|6
 09/23/1944|Baldwin-Wallace(OH)|13|Bowling Green|6
 09/23/1944|Saint Mary's(CA)|7|California|31
@@ -12,6 +13,7 @@
 09/23/1944|Connecticut|27|Norwich(VT)|0
 09/23/1944|Richmond|7|Duke|61
 09/23/1944|Mayport NAS(FL)|6|Florida|36
+09/23/1944|Indiana|18|Illinois|26
 09/29/1944|Arkansas|0|Oklahoma State|19
 09/29/1944|Samford(AL)|0|Auburn|32
 09/29/1944|Central Michigan|14|Michigan JV|13
@@ -26,6 +28,7 @@
 09/30/1944|Duke|7|Pennsylvania|18
 09/30/1944|Mississippi|26|Florida|6
 09/30/1944|Fresno State|6|Hartnell JC(CA)|13
+09/30/1944|Illinois|26|Great Lakes NTS(IL)|26
 10/06/1944|Presbyterian(SC)|0|Georgia|67
 10/07/1944|Samford(AL)|7|Alabama|63
 10/07/1944|Arkansas|6|TCU|6
@@ -40,6 +43,7 @@
 10/07/1944|North Carolina Navy Pre-Flight|13|Duke|6
 10/07/1944|Jacksonville NAS(FL)|20|Florida|27
 10/07/1944|North Carolina|0|Georgia Tech|28
+10/07/1944|Purdue|35|Illinois|19
 10/13/1944|CCNY|0|Boston College|33
 10/13/1944|Kentucky|12|Georgia|13
 10/14/1944|Millsaps(MS)|0|Alabama|55
@@ -54,6 +58,7 @@
 10/14/1944|Connecticut|10|Brooklyn|0
 10/14/1944|Duke|0|Navy|7
 10/14/1944|Florida|0|Tennessee|40
+10/14/1944|Iowa|6|Illinois|40
 10/19/1944|South Carolina|13|Clemson|20
 10/20/1944|New York(NY)|13|Boston College|42
 10/20/1944|Daniel Field(GA)|6|Georgia|57
@@ -68,6 +73,7 @@
 10/21/1944|CCNY|0|Connecticut|21
 10/21/1944|Fresno State|0|Minter Field(CA)|20
 10/21/1944|Navy|15|Georgia Tech|17
+10/21/1944|Illinois|39|Pittsburgh|5
 10/27/1944|Kentucky|0|Alabama|41
 10/27/1944|Georgia Navy Pre-Flight|7|Georgia Tech|13
 10/28/1944|Mississippi|18|Arkansas|26
@@ -78,6 +84,7 @@
 10/28/1944|Brooklyn|0|Connecticut|15
 10/28/1944|Maryland|6|Florida|14
 10/28/1944|LSU|15|Georgia|7
+10/28/1944|Notre Dame|13|Illinois|7
 11/03/1944|Florida|13|Miami(FL)|0
 11/03/1944|Fresno State|0|Modesto JC(CA)|28
 11/04/1944|Georgia|14|Alabama|7
@@ -104,6 +111,7 @@
 11/11/1944|Florida|12|Georgia|38
 11/11/1944|Minter Field(CA)|13|Fresno State|0
 11/11/1944|Tulane|7|Georgia Tech|34
+11/11/1944|Illinois|0|Michigan|14
 11/12/1944|Brooklyn(NY)|21|Boston College|24
 11/18/1944|Mississippi State|0|Alabama|19
 11/18/1944|Arkansas|12|SMU|20
@@ -115,6 +123,7 @@
 11/18/1944|Duke|34|South Carolina|7
 11/18/1944|Tonopah AAB(NV)|7|Fresno State|6
 11/18/1944|Georgia Tech|14|LSU|6
+11/18/1944|Illinois|12|Ohio State|26
 11/23/1944|Arkansas|2|Tulsa|33
 11/23/1944|Colorado|16|Denver|14
 11/23/1944|Pacific|14|Fresno State|6
@@ -123,6 +132,7 @@
 11/25/1944|Saint Mary's Pre-Flight(CA)|33|California|6
 11/25/1944|Duke|33|North Carolina|0
 11/25/1944|Notre Dame|21|Georgia Tech|0
+11/25/1944|Illinois|25|Northwestern|6
 11/26/1944|Holy Cross|30|Boston College|14
 12/02/1944|Arkansas-Monticello|0|Arkansas|41
 12/02/1944|Navy|7|Army|23
