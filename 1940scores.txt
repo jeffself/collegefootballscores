@@ -59,6 +59,7 @@
 10/05/1940|Idaho|0|Washington|21
 10/05/1940|Bradley|0|Illinois|31
 10/05/1940|Texas|13|Indiana|6
+10/05/1940|South Dakota|0|Iowa|46
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -87,6 +88,7 @@
 10/12/1940|Gonzaga|25|Idaho|0
 10/12/1940|Southern California|13|Illinois|7
 10/12/1940|Indiana|7|Nebraska|13
+10/12/1940|Wisconsin|12|Iowa|30
 10/18/1940|Brigham Young|20|Texas Tech|21
 10/18/1940|Fresno State|3|Pacific|0
 10/18/1940|Polar Bears(HI)|35|Hawaii|28
@@ -141,6 +143,7 @@
 10/26/1940|Utah State|0|Idaho|0
 10/26/1940|Notre Dame|26|Illinois|0
 10/26/1940|Indiana|7|Northwestern|20
+10/26/1940|Iowa|6|Minnesota|34
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
 11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
@@ -169,6 +172,7 @@
 11/02/1940|Washington State|26|Idaho|0
 11/02/1940|Illinois|6|Wisconsin|13
 11/02/1940|Indiana|6|Ohio State|21
+11/02/1940|Purdue|21|Iowa|6
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -195,6 +199,7 @@
 11/09/1940|Idaho|18|Montana|28
 11/09/1940|Illinois|14|Northwestern|32
 11/09/1940|Michigan State|0|Indiana|20
+11/09/1940|Iowa|6|Nebraska|14
 11/11/1940|UTEP|6|Fresno State|16
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/15/1940|Kalamazoo(MI)|13|Eastern Michigan|3
@@ -223,6 +228,7 @@
 11/16/1940|Nevada|0|Idaho|6
 11/16/1940|Ohio State|14|Illinois|6
 11/16/1940|Indiana|10|Wisconsin|27
+11/16/1940|Iowa|7|Notre Dame|0
 11/21/1940|John Carroll|0|Akron|47
 11/21/1940|Arkansas|7|Fordham|27
 11/21/1940|Bowling Green|0|Wayne State|19
