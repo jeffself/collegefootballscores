@@ -42,6 +42,7 @@
 09/27/1947|Saint Mary's(CA)|27|Hawaii|7
 09/27/1947|McMurry(TX)|13|Houston|14
 09/27/1947|Idaho|19|Stanford|16
+09/27/1947|Pittsburgh|0|Illinois|14
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/03/1947|Illinois State|6|Eastern Michigan|0
@@ -70,6 +71,7 @@
 10/04/1947|Hawaii|0|Utah|35
 10/04/1947|Daniel Baker(TX)|12|Houston|34
 10/04/1947|Washington State|7|Idaho|0
+10/04/1947|Illinois|35|Iowa|12
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -127,6 +129,7 @@
 10/18/1947|Georgia|20|Oklahoma State|7
 10/18/1947|Texas A&M-Commerce|33|Houston|7
 10/18/1947|Portland(OR)|14|Idaho|20
+10/18/1947|Minnesota|13|Illinois|40
 10/22/1947|Olympic AC(CA)|15|Hawaii|40
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
@@ -153,6 +156,7 @@
 10/25/1947|North Carolina|35|Florida|7
 10/25/1947|Citadel|0|Georgia Tech|38
 10/25/1947|Trinity(TX)|20|Houston|0
+10/25/1947|Illinois|7|Purdue|14
 10/29/1947|Kaialums(HI)|0|Hawaii|65
 10/31/1947|Western Reserve|18|Akron|0
 10/31/1947|Clemson|6|Georgia|21
@@ -179,6 +183,7 @@
 11/01/1947|San Diego State|7|Fresno State|7
 11/01/1947|Houston|7|Hardin-Simmons(TX)|33
 11/01/1947|Idaho|7|Oregon|34
+11/01/1947|Michigan|14|Illinois|7
 11/05/1947|Leialums(HI)|0|Hawaii|26
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/07/1947|Montana|21|Idaho|0
@@ -206,6 +211,7 @@
 11/08/1947|Fresno State|3|New Mexico|34
 11/08/1947|Georgia Tech|16|Navy|14
 11/08/1947|Houston|14|Stephen F. Austin|25
+11/08/1947|Western Michigan|14|Illinois|60
 11/12/1947|Mickalums(HI)|13|Hawaii|33
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
@@ -232,6 +238,7 @@
 11/15/1947|Fresno State|7|UCSB|7
 11/15/1947|Houston|0|North Texas|33
 11/15/1947|Utah|6|Idaho|13
+11/15/1947|Illinois|28|Ohio State|7
 11/17/1947|Arkansas State|19|Memphis|19
 11/21/1947|Fresno State|22|Pacific|47
 11/22/1947|John Carroll(OH)|31|Akron|0
@@ -254,6 +261,7 @@
 11/22/1947|Georgia|27|Tennessee-Chattanooga|0
 11/22/1947|Furman|0|Georgia Tech|51
 11/22/1947|Texas State|2|Houston|0
+11/22/1947|Northwestern|28|Illinois|13
 11/27/1947|Arkansas|27|Tulsa|13
 11/27/1947|Miami(OH)|38|Cincinnati|7
 11/27/1947|Colorado|20|Denver|26
