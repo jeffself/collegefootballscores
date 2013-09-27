@@ -195,7 +195,7 @@
 10/29/1949|Wisconsin|30|Indiana|14
 10/29/1949|Oregon|31|Iowa|34
 11/04/1949|Eastern Michigan|7|Central Michigan|18
-11/04/1949|Moliili Cards(HI)|0|Hawaii|34
+11/04/1949|Moiliili Cards(HI)|0|Hawaii|34
 11/05/1949|Geneva(PA)|27|Akron|6
 11/05/1949|New Mexico|14|Arizona|46
 11/05/1949|New Mexico State|32|Arizona State|68
