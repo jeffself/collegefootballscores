@@ -21,7 +21,9 @@
 09/22/1945|Pittsburgh|6|Illinois|23
 09/22/1945|Indiana|13|Michigan|7
 09/22/1945|Iowa State|6|Northwestern|18
+09/22/1945|TCU|18|Kansas|0
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
+09/28/1945|Kansas|20|Denver|19
 09/29/1945|Alabama|21|Keesler Field(MS)|0
 09/29/1945|Oklahoma State|19|Arkansas|14
 09/29/1945|Personnel District Comm.(KY)|0|Army|32
@@ -72,6 +74,7 @@
 10/06/1945|Iowa State|13|Kansas|13
 10/11/1945|Arkansas State|18|Central Arkansas|0
 10/12/1945|New York(NY)|0|Boston College|28
+10/12/1945|Washburn(KS)|0|Kansas|34
 10/13/1945|Northern Arizona|6|Arizona|52
 10/13/1945|South Carolina|0|Alabama|55
 10/13/1945|Arkansas|13|Baylor|23
@@ -114,6 +117,7 @@
 10/20/1945|Illinois|7|Wisconsin|7
 10/20/1945|Indiana|52|Iowa|20
 10/20/1945|Nebraska|7|Iowa State|27
+10/20/1945|Kansas|7|Oklahoma|39
 10/25/1945|Clemson|0|South Carolina|0
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
@@ -135,6 +139,7 @@
 10/27/1945|Michigan|19|Illinois|0
 10/27/1945|Tulsa|2|Indiana|7
 10/27/1945|Iowa|0|Notre Dame|56
+10/27/1945|Kansas|13|Wichita State|0
 11/02/1945|Clemson|6|Miami(FL)|7
 11/03/1945|Alabama|60|Kentucky|19
 11/03/1945|Texas A&M|34|Arkansas|0
@@ -157,6 +162,7 @@
 11/03/1945|Cornell College(IA)|6|Indiana|46
 11/03/1945|Wisconsin|27|Iowa|7
 11/03/1945|Kansas State|13|Iowa State|40
+11/03/1945|Kansas|13|Nebraska|27
 11/09/1945|Eastern Michigan|14|Wayne State|13
 11/10/1945|Cal Poly-San Luis Obispo|6|Arizona|37
 11/10/1945|Arkansas|7|Rice|26
@@ -177,6 +183,7 @@
 11/10/1945|Indiana|49|Minnesota|0
 11/10/1945|Iowa|7|Illinois|48
 11/10/1945|Iowa State|7|Oklahoma|14
+11/10/1945|Kansas|0|Marquette|26
 11/12/1945|Fresno State|6|Saint Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
@@ -198,6 +205,7 @@
 11/17/1945|Indiana|19|Pittsburgh|0
 11/17/1945|Minnesota|19|Iowa|20
 11/17/1945|Iowa State|8|Drake|6
+11/17/1945|Kansas State|0|Kansas|27
 11/22/1945|Miami(OH)|28|Cincinnati|14
 11/22/1945|Colorado|8|Denver|14
 11/22/1945|Fresno State|16|Pacific|0
@@ -213,6 +221,7 @@
 11/24/1945|Illinois|7|Northwestern|13
 11/24/1945|Purdue|0|Indiana|26
 11/24/1945|Iowa|6|Nebraska|13
+11/24/1945|Kansas|12|Missouri|33
 11/25/1945|Boston College|0|Holy Cross|46
 11/30/1945|Auburn|7|Miami(FL)|33
 12/01/1945|Mississippi State|13|Alabama|55
