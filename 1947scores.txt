@@ -16,6 +16,7 @@
 09/20/1947|Puget Sound(WA)|7|Idaho|27
 09/20/1947|North Dakota State|0|Iowa|59
 09/20/1947|Northern Iowa|14|Iowa State|31
+09/20/1947|TCU|0|Kansas|0
 09/26/1947|Southern Miss|19|Auburn|13
 09/26/1947|Baylor|18|Miami(FL)|7
 09/26/1947|Clemson|22|Boston College|32
@@ -23,6 +24,7 @@
 09/26/1947|Buffalo|7|Moravian(PA)|0
 09/26/1947|Eastern Michigan|0|Alma(MI)|12
 09/26/1947|Iowa|7|UCLA|22
+09/26/1947|Kansas|9|Denver|0
 09/27/1947|Alabama|20|Tulane|21
 09/27/1947|Wyoming|7|Arizona|27
 09/27/1947|Arizona State|25|New Mexico|12
@@ -109,6 +111,7 @@
 10/11/1947|Oregon State|33|Idaho|6
 10/11/1947|Indiana|14|Iowa|27
 10/11/1947|Nebraska|14|Iowa State|7
+10/11/1947|South Dakota State|6|Kansas|86
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -141,6 +144,7 @@
 10/18/1947|Pittsburgh|6|Indiana|41
 10/18/1947|Iowa|13|Ohio State|13
 10/18/1947|Iowa State|0|Michigan State|20
+10/18/1947|Kansas|13|Oklahoma|13
 10/22/1947|Olympic AC(CA)|15|Hawaii|40
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
@@ -201,6 +205,7 @@
 11/01/1947|Indiana|7|Ohio State|0
 11/01/1947|Iowa|0|Purdue|21
 11/01/1947|Iowa State|9|Oklahoma|27
+11/01/1947|Kansas State|0|Kansas|55
 11/05/1947|Leialums(HI)|0|Hawaii|26
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/07/1947|Montana|21|Idaho|0
@@ -232,6 +237,7 @@
 11/08/1947|Indiana|0|Michigan|35
 11/08/1947|Iowa|14|Wisconsin|46
 11/08/1947|Iowa State|36|Drake|6
+11/08/1947|Kansas|13|Nebraska|7
 11/12/1947|Mickalums(HI)|13|Hawaii|33
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
@@ -262,6 +268,7 @@
 11/15/1947|Marquette|6|Indiana|48
 11/15/1947|Minnesota|7|Iowa|13
 11/15/1947|Kansas State|0|Iowa State|14
+11/15/1947|Kansas|13|Oklahoma State|7
 11/17/1947|Arkansas State|19|Memphis|19
 11/21/1947|Fresno State|22|Pacific|47
 11/22/1947|John Carroll(OH)|31|Akron|0
@@ -286,6 +293,7 @@
 11/22/1947|Texas State|2|Houston|0
 11/22/1947|Northwestern|28|Illinois|13
 11/22/1947|Purdue|14|Indiana|16
+11/22/1947|Missouri|14|Kansas|20
 11/27/1947|Arkansas|27|Tulsa|13
 11/27/1947|Miami(OH)|38|Cincinnati|7
 11/27/1947|Colorado|20|Denver|26
