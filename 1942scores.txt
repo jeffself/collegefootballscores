@@ -5,6 +5,7 @@
 09/19/1942|Presbyterian(SC)|13|Clemson|32
 09/19/1942|Florida|7|Jacksonville NAS(FL)|20
 09/19/1942|Georgia|7|Kentucky|6
+09/19/1942|Washington(MO)|7|Iowa|26
 09/25/1942|Muskingum|7|Akron|7
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
 09/25/1942|Eastern Michigan|6|Alma(MI)|14
@@ -29,6 +30,7 @@
 09/26/1942|Oregon State|32|Idaho|0
 09/26/1942|South Dakota|0|Illinois|46
 09/26/1942|Butler|0|Indiana|53
+09/26/1942|Nebraska|0|Iowa|27
 09/27/1942|Saint Mary's(CA)|0|California|6
 10/02/1942|Baylor|18|Oklahoma State|12
 10/02/1942|Wyoming|13|Brigham Young|6
@@ -58,6 +60,7 @@
 10/03/1942|Idaho|0|2nd Air Force(CO)|14
 10/03/1942|Butler|0|Illinois|67
 10/03/1942|Indiana|21|Ohio State|32
+10/03/1942|Great Lakes NTS(IL)|25|Iowa|0
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
 10/09/1942|Illinois State|7|Eastern Michigan|14
@@ -81,6 +84,7 @@
 10/10/1942|Idaho|28|Eastern Washington|7
 10/10/1942|Minnesota|13|Illinois|20
 10/10/1942|Indiana|12|Nebraska|0
+10/10/1942|Camp Grant(IL)|16|Iowa|33
 10/11/1942|Fresno State|66|San Diego State|0
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
@@ -158,6 +162,7 @@
 10/31/1942|Idaho|21|Montana|0
 10/31/1942|Illinois|14|Michigan|28
 10/31/1942|Iowa Navy Pre-Flight|26|Indiana|6
+10/31/1942|Purdue|7|Iowa|13
 11/06/1942|Hillsdale(MI)|13|Eastern Michigan|19
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
@@ -185,6 +190,7 @@
 11/07/1942|Kentucky|7|Georgia Tech|47
 11/07/1942|Illinois|14|Northwestern|7
 11/07/1942|Indiana|7|Minnesota|0
+11/07/1942|Wisconsin|0|Iowa|6
 11/11/1942|San Francisco|33|Fresno State|13
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/13/1942|Georgia|40|Tennessee-Chattanooga|0
@@ -211,6 +217,7 @@
 11/14/1942|Washington State|7|Idaho|0
 11/14/1942|Illinois|20|Ohio State|44
 11/14/1942|Kansas State|0|Indiana|54
+11/14/1942|Iowa|7|Minnesota|27
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
@@ -244,6 +251,7 @@
 11/28/1942|Georgia Tech|0|Georgia|34
 11/28/1942|Illinois|20|Camp Grant(IL)|0
 11/28/1942|Indiana|51|Fort Knox(KY)|0
+11/28/1942|Iowa|14|Michigan|28
 11/29/1942|Fresno State|27|Loyola Marymount(CA)|6
 12/05/1942|2nd Air Force(CO)|27|Arizona|13
 12/05/1942|Saint Mary's Pre-Flight(CA)|6|California|12
