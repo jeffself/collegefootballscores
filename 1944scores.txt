@@ -2,6 +2,7 @@
 09/01/1944|Bowling Green|20|Central Michigan|19
 09/09/1944|Bowling Green|7|Miami(OH)|28
 09/15/1944|Central Michigan|33|Alma(MI)|13
+09/15/1944|Washburn(KS)|0|Kansas|47
 09/16/1944|Bowling Green|13|Ohio Wesleyan|6
 09/16/1944|Illinois State|0|Illinois|79
 09/16/1944|Fort Knox(KY)|0|Indiana|72
@@ -15,11 +16,13 @@
 09/23/1944|Richmond|7|Duke|61
 09/23/1944|Mayport NAS(FL)|6|Florida|36
 09/23/1944|Indiana|18|Illinois|26
+09/23/1944|TCU|7|Kansas|0
 09/29/1944|Arkansas|0|Oklahoma State|19
 09/29/1944|Samford(AL)|0|Auburn|32
 09/29/1944|Central Michigan|14|Michigan JV|13
 09/29/1944|Wake Forest|14|Georgia|7
 09/29/1944|Gustavus Adolphus(MN)|0|Iowa State|49
+09/29/1944|Kansas|14|Denver|14
 09/30/1944|Alabama|27|LSU|27
 09/30/1944|North Carolina|0|Army|46
 09/30/1944|Alma(MI)|6|Bowling Green|19
@@ -49,6 +52,7 @@
 10/07/1944|Purdue|35|Illinois|19
 10/07/1944|Iowa|0|Ohio State|34
 10/07/1944|Doane(NE)|0|Iowa State|59
+10/07/1944|Kansas|0|Tulsa|27
 10/13/1944|CCNY|0|Boston College|33
 10/13/1944|Kentucky|12|Georgia|13
 10/14/1944|Millsaps(MS)|0|Alabama|55
@@ -84,6 +88,7 @@
 10/21/1944|Indiana|14|Northwestern|7
 10/21/1944|Purdue|26|Iowa|7
 10/21/1944|Iowa State|21|Missouri|21
+10/21/1944|Nebraska|0|Kansas|20
 10/27/1944|Kentucky|0|Alabama|41
 10/27/1944|Georgia Navy Pre-Flight|7|Georgia Tech|13
 10/28/1944|Mississippi|18|Arkansas|26
@@ -113,6 +118,7 @@
 11/04/1944|Indiana|7|Ohio State|21
 11/04/1944|Nebraska|6|Iowa|27
 11/04/1944|Oklahoma|12|Iowa State|7
+11/04/1944|Olathe NAS(KS)|14|Kansas|33
 11/11/1944|Mississippi|6|Alabama|34
 11/11/1944|Rice|7|Arkansas|12
 11/11/1944|Army|59|Notre Dame|0
@@ -130,6 +136,7 @@
 11/11/1944|Indiana|14|Minnesota|19
 11/11/1944|Iowa|7|Wisconsin|26
 11/11/1944|Iowa State|19|Nebraska|6
+11/11/1944|Kansas|14|Kansas State|18
 11/12/1944|Brooklyn(NY)|21|Boston College|24
 11/18/1944|Mississippi State|0|Alabama|19
 11/18/1944|Arkansas|12|SMU|20
@@ -145,9 +152,11 @@
 11/18/1944|Pittsburgh|0|Indiana|47
 11/18/1944|Minnesota|46|Iowa|0
 11/18/1944|Drake|0|Iowa State|9
+11/18/1944|Oklahoma|20|Kansas|0
 11/23/1944|Arkansas|2|Tulsa|33
 11/23/1944|Colorado|16|Denver|14
 11/23/1944|Pacific|14|Fresno State|6
+11/23/1944|Kansas|0|Missouri|28
 11/24/1944|Auburn|38|Miami(FL)|19
 11/24/1944|Clemson|7|Georgia|21
 11/25/1944|Saint Mary's Pre-Flight(CA)|33|California|6
