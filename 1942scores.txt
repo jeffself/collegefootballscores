@@ -10,6 +10,7 @@
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
 09/25/1942|Eastern Michigan|6|Alma(MI)|14
 09/25/1942|Jacksonville NAS(FL)|0|Georgia|14
+09/25/1942|Iowa State|7|Denver|0
 09/26/1942|New Mexico State|0|Arizona|53
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Wichita State|0|Arkansas|27
@@ -61,6 +62,7 @@
 10/03/1942|Butler|0|Illinois|67
 10/03/1942|Indiana|21|Ohio State|32
 10/03/1942|Great Lakes NTS(IL)|25|Iowa|0
+10/03/1942|Iowa State|0|Nebraska|26
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
 10/09/1942|Illinois State|7|Eastern Michigan|14
@@ -85,6 +87,7 @@
 10/10/1942|Minnesota|13|Illinois|20
 10/10/1942|Indiana|12|Nebraska|0
 10/10/1942|Camp Grant(IL)|16|Iowa|33
+10/10/1942|Marquette|34|Iowa State|12
 10/11/1942|Fresno State|66|San Diego State|0
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
@@ -112,6 +115,7 @@
 10/17/1942|Idaho|7|Stanford|54
 10/17/1942|Illinois|12|Iowa|7
 10/17/1942|Indiana|19|Pittsburgh|7
+10/17/1942|Drake|6|Iowa State|29
 10/22/1942|Clemson|18|South Carolina|6
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
@@ -136,6 +140,7 @@
 10/24/1942|Idaho|0|Oregon|28
 10/24/1942|Notre Dame|21|Illinois|14
 10/24/1942|Iowa|14|Indiana|13
+10/24/1942|Iowa State|6|Missouri|45
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/30/1942|Wayne State|0|Central Michigan|13
 10/31/1942|Baldwin-Wallace|22|Akron|0
@@ -163,7 +168,9 @@
 10/31/1942|Illinois|14|Michigan|28
 10/31/1942|Iowa Navy Pre-Flight|26|Indiana|6
 10/31/1942|Purdue|7|Iowa|13
+10/31/1942|Oklahoma|14|Iowa State|7
 11/06/1942|Hillsdale(MI)|13|Eastern Michigan|19
+11/06/1942|Iowa State|7|Villanova|32
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -218,6 +225,7 @@
 11/14/1942|Illinois|20|Ohio State|44
 11/14/1942|Kansas State|0|Indiana|54
 11/14/1942|Iowa|7|Minnesota|27
+11/14/1942|Kansas|13|Iowa State|20
 11/19/1942|John Carroll|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
@@ -235,6 +243,7 @@
 11/21/1942|Portland(OR)|14|Idaho|20
 11/21/1942|Great Lakes NTS(IL)|6|Illinois|0
 11/21/1942|Indiana|20|Purdue|0
+11/21/1942|Iowa State|6|Kansas State|7
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Arkansas|7|Tulsa|40
 11/26/1942|Miami(OH)|12|Cincinnati|21
