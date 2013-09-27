@@ -12,6 +12,7 @@
 09/26/1941|Samford(AL)|0|Auburn|13
 09/26/1941|Montana|20|Brigham Young|7
 09/26/1941|Iowa State|7|Denver|6
+09/26/1941|Kansas|9|Temple|31
 09/27/1941|Louisiana-Lafayette|6|Alabama|47
 09/27/1941|Arizona|7|Notre Dame|38
 09/27/1941|Central Oklahoma|0|Arkansas|56
@@ -63,6 +64,7 @@
 10/04/1941|Indiana|6|Notre Dame|19
 10/04/1941|Iowa|0|Michigan|6
 10/04/1941|Nebraska|14|Iowa State|0
+10/04/1941|Washington(MO)|6|Kansas|19
 10/05/1941|Camp Haan(CA)|7|Fresno State|7
 10/10/1941|Western Reserve|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
@@ -93,6 +95,7 @@
 10/11/1941|Notre Dame|20|Georgia Tech|0
 10/11/1941|Illinois|6|Minnesota|34
 10/11/1941|TCU|20|Indiana|14
+10/11/1941|Kansas|0|Nebraska|32
 10/17/1941|Baylor|6|Villanova|14
 10/17/1941|Na Alii(HI)|6|Hawaii|19
 10/18/1941|Ohio|0|Akron|0
@@ -122,6 +125,7 @@
 10/18/1941|Indiana|21|Nebraska|13
 10/18/1941|Iowa|0|Wisconsin|23
 10/18/1941|Missouri|39|Iowa State|13
+10/18/1941|Kansas|7|Marquette|33
 10/23/1941|Clemson|14|South Carolina|18
 10/24/1941|Baldwin-Wallace|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
@@ -181,6 +185,7 @@
 11/01/1941|Michigan|20|Illinois|0
 11/01/1941|Indiana|7|Iowa|13
 11/01/1941|South Dakota|0|Iowa State|27
+11/01/1941|Kansas|0|Oklahoma|38
 11/06/1941|East Carolina|13|Bergen JC(NJ)|7
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
@@ -209,6 +214,7 @@
 11/08/1941|Iowa|21|Illinois|0
 11/08/1941|Indiana|14|Northwestern|20
 11/08/1941|Iowa State|0|Oklahoma|55
+11/08/1941|Kansas|0|West Virginia|21
 11/11/1941|Pacific|0|Fresno State|13
 11/13/1941|East Carolina|13|Belmont Abbey(NC)|0
 11/15/1941|Kent State|13|Akron|41
@@ -237,6 +243,7 @@
 11/15/1941|Illinois|7|Ohio State|12
 11/15/1941|Minnesota|34|Iowa|13
 11/15/1941|Iowa State|13|Drake|14
+11/15/1941|Kansas State|16|Kansas|20
 11/19/1941|Hawaii Bears|13|Hawaii|27
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll|12|Akron|21
@@ -259,6 +266,7 @@
 11/22/1941|Purdue|0|Indiana|7
 11/22/1941|Iowa|13|Nebraska|14
 11/22/1941|Kansas State|12|Iowa State|12
+11/22/1941|Missouri|45|Kansas|6
 11/26/1941|Healani AC(HI)|6|Hawaii|21
 11/27/1941|Arkansas|13|Tulsa|6
 11/28/1941|Alabama|21|Miami(FL)|7
