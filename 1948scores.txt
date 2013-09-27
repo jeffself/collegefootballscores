@@ -8,6 +8,7 @@
 09/18/1948|Colorado College|6|Colorado State|25
 09/18/1948|Texas A&M-Kingsville|0|Houston|14
 09/18/1948|Idaho|12|Oregon State|27
+09/18/1948|Northern Iowa|7|Iowa State|27
 09/22/1948|Islanders(HI)|20|Hawaii|20
 09/24/1948|Akron|14|Findlay(OH)|9
 09/24/1948|Southern Miss|14|Auburn|20
@@ -40,6 +41,7 @@
 09/25/1948|Kansas State|0|Illinois|40
 09/25/1948|Indiana|35|Wisconsin|7
 09/25/1948|Marquette|12|Iowa|14
+09/25/1948|Iowa State|15|Nebraska|19
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -71,6 +73,7 @@
 10/02/1948|Idaho|12|UCLA|28
 10/02/1948|Illinois|16|Wisconsin|20
 10/02/1948|Iowa|0|Indiana|7
+10/02/1948|Iowa State|20|Kansas State|0
 10/08/1948|Duquesne|6|Alabama|48
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons(TX)|14|Arizona|20
@@ -103,6 +106,7 @@
 10/09/1948|Oregon|15|Idaho|8
 10/09/1948|TCU|7|Indiana|6
 10/09/1948|Iowa|14|Ohio State|7
+10/09/1948|Kansas|20|Iowa State|7
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|Texas-El Paso|34
@@ -166,6 +170,7 @@
 10/23/1948|Purdue|6|Illinois|10
 10/23/1948|Indiana|14|Pittsburgh|21
 10/23/1948|Notre Dame|27|Iowa|12
+10/23/1948|Iowa State|7|Missouri|49
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/29/1948|Duke JV|19|East Carolina|13
@@ -196,6 +201,7 @@
 10/30/1948|Illinois|20|Michigan|28
 10/30/1948|Indiana|7|Minnesota|30
 10/30/1948|Wisconsin|13|Iowa|19
+10/30/1948|Oklahoma|33|Iowa State|6
 11/03/1948|Olympic AC(CA)|7|Hawaii|53
 11/05/1948|Brigham Young|6|San José St|21
 11/05/1948|Cincinnati|6|Miami(FL)|36
@@ -225,6 +231,7 @@
 11/06/1948|Montana State|12|Idaho|28
 11/06/1948|Iowa|0|Illinois|14
 11/06/1948|Notre Dame|42|Indiana|6
+11/06/1948|Drake|0|Iowa State|2
 11/11/1948|Nevada|53|Fresno State|7
 11/11/1948|Wahiawa Leilehua HS(HI)|6|Hawaii|39
 11/12/1948|Kent State|31|Akron|0
@@ -256,6 +263,7 @@
 11/13/1948|Ohio State|34|Illinois|7
 11/13/1948|Indiana|0|Michigan|54
 11/13/1948|Minnesota|28|Iowa|21
+11/13/1948|Michigan State|48|Iowa State|7
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
 11/19/1948|Fresno State|6|San José State|41
