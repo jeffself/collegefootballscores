@@ -6,6 +6,7 @@
 09/19/1942|Florida|7|Jacksonville NAS(FL)|20
 09/19/1942|Georgia|7|Kentucky|6
 09/19/1942|Washington(MO)|7|Iowa|26
+09/19/1942|Iowa Navy Pre-Flight|61|Kansas|0
 09/25/1942|Muskingum|7|Akron|7
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
 09/25/1942|Eastern Michigan|6|Alma(MI)|14
@@ -32,10 +33,12 @@
 09/26/1942|South Dakota|0|Illinois|46
 09/26/1942|Butler|0|Indiana|53
 09/26/1942|Nebraska|0|Iowa|27
+09/26/1942|Marquette|14|Kansas|0
 09/27/1942|Saint Mary's(CA)|0|California|6
 10/02/1942|Baylor|18|Oklahoma State|12
 10/02/1942|Wyoming|13|Brigham Young|6
 10/02/1942|Hope(MI)|9|Eastern Michigan|13
+10/02/1942|Kansas|0|Denver|17
 10/03/1942|Akron|0|Ohio|39
 10/03/1942|Mississippi State|6|Alabama|21
 10/03/1942|Utah|0|Arizona|14
@@ -88,6 +91,7 @@
 10/10/1942|Indiana|12|Nebraska|0
 10/10/1942|Camp Grant(IL)|16|Iowa|33
 10/10/1942|Marquette|34|Iowa State|12
+10/10/1942|Kansas|6|TCU|41
 10/11/1942|Fresno State|66|San Diego State|0
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
@@ -116,6 +120,7 @@
 10/17/1942|Illinois|12|Iowa|7
 10/17/1942|Indiana|19|Pittsburgh|7
 10/17/1942|Drake|6|Iowa State|29
+10/17/1942|Oklahoma|25|Kansas|0
 10/22/1942|Clemson|18|South Carolina|6
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
@@ -141,6 +146,7 @@
 10/24/1942|Notre Dame|21|Illinois|14
 10/24/1942|Iowa|14|Indiana|13
 10/24/1942|Iowa State|6|Missouri|45
+10/24/1942|Kansas|19|Kansas State|7
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/30/1942|Wayne State|0|Central Michigan|13
 10/31/1942|Baldwin-Wallace|22|Akron|0
@@ -169,6 +175,7 @@
 10/31/1942|Iowa Navy Pre-Flight|26|Indiana|6
 10/31/1942|Purdue|7|Iowa|13
 10/31/1942|Oklahoma|14|Iowa State|7
+10/31/1942|Nebraska|14|Kansas|7
 11/06/1942|Hillsdale(MI)|13|Eastern Michigan|19
 11/06/1942|Iowa State|7|Villanova|32
 11/07/1942|Akron|6|Wayne State|28
@@ -198,6 +205,7 @@
 11/07/1942|Illinois|14|Northwestern|7
 11/07/1942|Indiana|7|Minnesota|0
 11/07/1942|Wisconsin|0|Iowa|6
+11/07/1942|Washington(MO)|7|Kansas|19
 11/11/1942|San Francisco|33|Fresno State|13
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/13/1942|Georgia|40|Tennessee-Chattanooga|0
@@ -250,6 +258,7 @@
 11/26/1942|Colorado|31|Denver|6
 11/26/1942|San José State|0|Fresno State|6
 11/26/1942|Idaho|7|Utah|13
+11/26/1942|Kansas|13|Missouri|42
 11/28/1942|Georgia Navy Pre-Flight|35|Alabama|19
 11/28/1942|Arizona State|7|New Mexico|35
 11/28/1942|Army|0|Navy|14
