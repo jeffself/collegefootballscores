@@ -8,6 +8,7 @@
 09/17/1949|William & Mary|14|Houston|13
 09/17/1949|Willamette(OR)|0|Idaho|79
 09/17/1949|Dubuque(IA)|0|Iowa State|64
+09/17/1949|TCU|28|Kansas|0
 09/23/1949|Mississippi|40|Auburn|7
 09/23/1949|Oklahoma|46|Boston College|0
 09/23/1949|Pacific Fleet(CA)|27|Brigham Young|13
@@ -105,6 +106,7 @@
 10/08/1949|Houston|28|Louisiana-Lafayette|7
 10/08/1949|Illinois|20|Iowa|14
 10/08/1949|TCU|13|Indiana|6
+10/08/1949|George Washington|14|Kansas|21
 10/14/1949|Mississippi|25|Boston College|25
 10/14/1949|Central Michigan|12|Kent State|26
 10/14/1949|Fresno State|7|UCSB|14
@@ -135,6 +137,7 @@
 10/15/1949|Missouri|27|Illinois|20
 10/15/1949|Indiana|9|Iowa|35
 10/15/1949|Kansas State|21|Iowa State|25
+10/15/1949|Kansas|26|Oklahoma|48
 10/20/1949|Clemson|13|South Carolina|27
 10/21/1949|Georgetown(DC)|10|Boston College|7
 10/21/1949|East Carolina|26|Newport News Apprentice|21
@@ -166,6 +169,7 @@
 10/22/1949|Pittsburgh|14|Indiana|48
 10/22/1949|Northwestern|21|Iowa|28
 10/22/1949|Missouri|32|Iowa State|0
+10/22/1949|Kansas|55|Oklahoma State|14
 10/28/1949|Villanova|28|Boston College|14
 10/28/1949|Bowling Green|24|John Carroll(OH)|38
 10/28/1949|Edenton Flyers(NC)|0|East Carolina|67
@@ -199,6 +203,7 @@
 10/29/1949|Wisconsin|30|Indiana|14
 10/29/1949|Oregon|31|Iowa|34
 10/29/1949|Iowa State|7|Oklahoma|34
+10/29/1949|Kansas State|0|Kansas|38
 11/04/1949|Eastern Michigan|7|Central Michigan|18
 11/04/1949|Moiliili Cards(HI)|0|Hawaii|34
 11/05/1949|Geneva(PA)|27|Akron|6
@@ -230,6 +235,7 @@
 11/05/1949|Indiana|14|Illinois|33
 11/05/1949|Iowa|7|Minnesota|55
 11/05/1949|Iowa State|21|Drake|8
+11/05/1949|Kansas|27|Nebraska|13
 11/11/1949|Colorado State|16|Brigham Young|14
 11/11/1949|Pepperdine|7|Fresno State|20
 11/11/1949|Wahiawa Leilehua HS(HI)|6|Hawaii|76
@@ -287,6 +293,7 @@
 11/19/1949|Illinois|7|Northwestern|9
 11/19/1949|Purdue|14|Indiana|6
 11/19/1949|Iowa|7|Notre Dame|28
+11/19/1949|Missouri|34|Kansas|28
 11/24/1949|Union(TN)|12|Arkansas State|13
 11/24/1949|Miami(OH)|6|Cincinnati|27
 11/24/1949|San José State|43|Fresno State|7
