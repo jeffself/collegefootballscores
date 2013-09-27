@@ -9,12 +9,14 @@
 09/18/1948|Texas A&M-Kingsville|0|Houston|14
 09/18/1948|Idaho|12|Oregon State|27
 09/18/1948|Northern Iowa|7|Iowa State|27
+09/18/1948|TCU|14|Kansas|13
 09/22/1948|Islanders(HI)|20|Hawaii|20
 09/24/1948|Akron|14|Findlay(OH)|9
 09/24/1948|Southern Miss|14|Auburn|20
 09/24/1948|Wake Forest|9|Boston College|26
 09/24/1948|Pepperdine|0|Brigham Young|13
 09/24/1948|Eastern Michigan|0|Hope(MI)|14
+09/24/1948|Kansas|40|Denver|0
 09/25/1948|Alabama|14|Tulane|21
 09/25/1948|San Diego State|6|Arizona|14
 09/25/1948|Western State(CO)|0|Arizona State|23
@@ -138,6 +140,7 @@
 10/16/1948|Illinois|0|Minnesota|6
 10/16/1948|Ohio State|17|Indiana|0
 10/16/1948|Purdue|20|Iowa|13
+10/16/1948|Kansas|12|George Washington|0
 10/21/1948|Clemson|13|South Carolina|7
 10/21/1948|Wahiawa Leilehua HS(HI)|12|Hawaii|52
 10/22/1948|East Carolina|6|Newport News Apprentice|20
@@ -171,6 +174,7 @@
 10/23/1948|Indiana|14|Pittsburgh|21
 10/23/1948|Notre Dame|27|Iowa|12
 10/23/1948|Iowa State|7|Missouri|49
+10/23/1948|Nebraska|7|Kansas|27
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/29/1948|Duke JV|19|East Carolina|13
@@ -202,6 +206,7 @@
 10/30/1948|Indiana|7|Minnesota|30
 10/30/1948|Wisconsin|13|Iowa|19
 10/30/1948|Oklahoma|33|Iowa State|6
+10/30/1948|Oklahoma State|7|Kansas|13
 11/03/1948|Olympic AC(CA)|7|Hawaii|53
 11/05/1948|Brigham Young|6|San José St|21
 11/05/1948|Cincinnati|6|Miami(FL)|36
@@ -264,6 +269,7 @@
 11/13/1948|Indiana|0|Michigan|54
 11/13/1948|Minnesota|28|Iowa|21
 11/13/1948|Michigan State|48|Iowa State|7
+11/13/1948|Kansas|20|Kansas State|14
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
 11/19/1948|Fresno State|6|San José State|41
@@ -292,10 +298,12 @@
 11/20/1948|Illinois|7|Northwestern|20
 11/20/1948|Indiana|0|Purdue|39
 11/20/1948|Iowa|34|Boston U|14
+11/20/1948|Oklahoma|60|Kansas|7
 11/24/1948|Ford Island(HI)|7|Hawaii|14
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/25/1948|Pacific|55|Fresno State|0
 11/25/1948|Sam Houston State|13|Houston|22
+11/25/1948|Kansas|7|Missouri|21
 11/26/1948|Brigham Young|27|Arizona State|25
 11/27/1948|Florida|28|Alabama|34
 11/27/1948|Marquette|14|Arizona|24
