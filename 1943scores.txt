@@ -17,6 +17,7 @@
 09/25/1943|Georgia|27|LSU|34
 09/25/1943|North Carolina|7|Georgia Tech|20
 09/25/1943|Indiana|6|Northwestern|14
+09/25/1943|Iowa|7|Great Lakes NTS(IL)|21
 10/01/1943|Tennessee Tech|0|Georgia|67
 10/02/1943|TCU|13|Arkansas|0
 10/02/1943|Colgate|0|Army|42
@@ -28,6 +29,7 @@
 10/02/1943|Georgia Tech|13|Notre Dame|55
 10/02/1943|Illinois|21|Purdue|40
 10/02/1943|Wabash(IN)|0|Indiana|52
+10/02/1943|Wisconsin|7|Iowa|5
 10/08/1943|Wake Forest|0|Georgia|7
 10/09/1943|Arkansas-Monticello|20|Arkansas|12
 10/09/1943|Temple|0|Army|51
@@ -40,6 +42,7 @@
 10/09/1943|Georgia Navy Pre-Flight|7|Georgia Tech|35
 10/09/1943|Illinois|25|Wisconsin|7
 10/09/1943|Indiana|54|Nebraska|13
+10/09/1943|Iowa Navy Pre-Flight|25|Iowa|0
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|Army|52|Columbia|0
 10/16/1943|Bunker Hill NAS(IN)|13|Bowling Green|12
@@ -62,6 +65,7 @@
 10/23/1943|Georgia Tech|14|Navy|28
 10/23/1943|Illinois|0|Notre Dame|47
 10/23/1943|Wisconsin|0|Indiana|34
+10/23/1943|Iowa|7|Purdue|28
 10/24/1943|Camp Higham(MA)|6|Boston College|42
 10/29/1943|Samford(AL)|0|Georgia|39
 10/30/1943|Texas A&M|13|Arkansas|0
@@ -95,6 +99,7 @@
 11/13/1943|Georgia Tech|33|Tulane|0
 11/13/1943|Illinois|26|Ohio State|29
 11/13/1943|Great Lakes NTS(IL)|21|Indiana|7
+11/13/1943|Iowa|14|Minnesota|33
 11/14/1943|Boston College|6|Harvard|6
 11/19/1943|Oklahoma State|19|Arkansas|13
 11/20/1943|Brown|0|Army|59
@@ -104,6 +109,7 @@
 11/20/1943|Duke|27|North Carolina|6
 11/20/1943|Illinois|6|Northwestern|53
 11/20/1943|Purdue|7|Indiana|0
+11/20/1943|Iowa|33|Nebraska|13
 11/25/1943|Arkansas|0|Tulsa|61
 11/27/1943|Army|0|Navy|13
 11/27/1943|Del Monte Pre-Flight(CA)|47|California|8
