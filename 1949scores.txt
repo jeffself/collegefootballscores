@@ -44,7 +44,7 @@
 10/01/1949|Akron|20|Eastern Michigan|6
 10/01/1949|Alabama|7|Vanderbilt|14
 10/01/1949|Utah|12|Arizona|12
-10/01/1949|Hardin-Simmons|34|Arizona State|13
+10/01/1949|Hardin-Simmons(TX)|34|Arizona State|13
 10/01/1949|TCU|7|Arkansas|27
 10/01/1949|Arkansas State|14|Memphis NAS|20
 10/01/1949|Penn State|7|Army|42
@@ -76,7 +76,7 @@
 10/07/1949|Fresno State|13|Loyola Marymount(CA)|52
 10/07/1949|Hawaii|27|Denver|14
 10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
-10/08/1949|Arizona|0|Hardin-Simmons|35
+10/08/1949|Arizona|0|Hardin-Simmons(TX)|35
 10/08/1949|Northern Arizona|6|Arizona State|62
 10/08/1949|Arkansas|13|Baylor|35
 10/08/1949|Ouachita Baptist(AR)|0|Arkansas State|14
