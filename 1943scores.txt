@@ -33,6 +33,7 @@
 10/02/1943|Wabash(IN)|0|Indiana|52
 10/02/1943|Wisconsin|7|Iowa|5
 10/02/1943|Iowa Navy Pre-Flight|33|Iowa State|13
+10/02/1943|Washburn(KS)|7|Kansas State|13
 10/08/1943|Wake Forest|0|Georgia|7
 10/09/1943|Arkansas-Monticello|20|Arkansas|12
 10/09/1943|Temple|0|Army|51
@@ -47,6 +48,7 @@
 10/09/1943|Indiana|54|Nebraska|13
 10/09/1943|Iowa Navy Pre-Flight|25|Iowa|0
 10/09/1943|Iowa State|13|Kansas|6
+10/09/1943|Kansas State|14|Missouri|47
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|Army|52|Columbia|0
 10/16/1943|Bunker Hill NAS(IN)|13|Bowling Green|12
@@ -60,6 +62,7 @@
 10/16/1943|Indiana|7|Iowa|7
 10/16/1943|Nebraska|6|Iowa State|27
 10/16/1943|Washburn(KS)|0|Kansas|13
+10/16/1943|William Jewell(MO)|19|Kansas State|6
 10/17/1943|Boston College Student Army Trg Corps|0|Boston College|7
 10/21/1943|Clemson|6|South Carolina|33
 10/23/1943|Army|39|Yale|7
@@ -74,6 +77,7 @@
 10/23/1943|Iowa|7|Purdue|28
 10/23/1943|Iowa State|12|Ottumwa NAS(IA)|13
 10/23/1943|Kansas|6|Nebraska|7
+10/23/1943|Oklahoma|37|Kansas State|0
 10/24/1943|Camp Higham(MA)|6|Boston College|42
 10/29/1943|Samford(AL)|0|Georgia|39
 10/30/1943|Texas A&M|13|Arkansas|0
@@ -100,7 +104,9 @@
 11/06/1943|Indiana|6|Michigan|23
 11/06/1943|Missouri|25|Iowa State|7
 11/06/1943|Kansas|13|Oklahoma|26
+11/06/1943|Nebraska|13|Kansas State|7
 11/07/1943|Rome AAB(NY)|0|Boston College|64
+11/12/1943|Washburn(KS)|13|Kansas State|6
 11/13/1943|Arkansas|14|SMU|12
 11/13/1943|Sampson NTS(NY)|7|Army|16
 11/13/1943|Bowling Green|20|Ohio Wesleyan|32
