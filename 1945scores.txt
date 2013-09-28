@@ -47,6 +47,7 @@
 09/29/1945|Indiana|7|Northwestern|7
 09/29/1945|Bergstrom AAF(TX)|13|Iowa|14
 09/29/1945|Northern Iowa|13|Iowa State|48
+09/29/1945|Wichita State|6|Kansas State|13
 10/05/1945|Georgia|27|Miami(FL)|21
 10/06/1945|Alabama|26|LSU|7
 10/06/1945|TCU|14|Arkansas|27
@@ -72,6 +73,7 @@
 10/06/1945|Indiana|6|Illinois|0
 10/06/1945|Iowa|0|Ohio State|42
 10/06/1945|Iowa State|13|Kansas|13
+10/06/1945|Olathe NAS(KS)|34|Kansas State|12
 10/11/1945|Arkansas State|18|Central Arkansas|0
 10/12/1945|New York(NY)|0|Boston College|28
 10/12/1945|Washburn(KS)|0|Kansas|34
@@ -97,6 +99,7 @@
 10/13/1945|Nebraska|14|Indiana|54
 10/13/1945|Iowa|0|Purdue|40
 10/13/1945|Missouri|13|Iowa State|7
+10/13/1945|Kansas State|13|Marquette|55
 10/19/1945|Florida|6|Miami(FL)|7
 10/20/1945|Arizona|46|San Diego State|0
 10/20/1945|Tennessee|7|Alabama|25
@@ -118,6 +121,7 @@
 10/20/1945|Indiana|52|Iowa|20
 10/20/1945|Nebraska|7|Iowa State|27
 10/20/1945|Kansas|7|Oklahoma|39
+10/20/1945|Kansas State|7|Missouri|41
 10/25/1945|Clemson|0|South Carolina|0
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
@@ -140,6 +144,7 @@
 10/27/1945|Tulsa|2|Indiana|7
 10/27/1945|Iowa|0|Notre Dame|56
 10/27/1945|Kansas|13|Wichita State|0
+10/27/1945|Oklahoma|41|Kansas State|13
 11/02/1945|Clemson|6|Miami(FL)|7
 11/03/1945|Alabama|60|Kentucky|19
 11/03/1945|Texas A&M|34|Arkansas|0
@@ -184,6 +189,7 @@
 11/10/1945|Iowa|7|Illinois|48
 11/10/1945|Iowa State|7|Oklahoma|14
 11/10/1945|Kansas|0|Marquette|26
+11/10/1945|Nebraska|24|Kansas State|0
 11/12/1945|Fresno State|6|Saint Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
