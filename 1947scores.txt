@@ -51,6 +51,7 @@
 09/27/1947|Idaho|19|Stanford|16
 09/27/1947|Pittsburgh|0|Illinois|14
 09/27/1947|Indiana|17|Nebraska|0
+09/27/1947|Kent State|13|Mount Union|6
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/03/1947|Illinois State|6|Eastern Michigan|0
@@ -83,6 +84,7 @@
 10/04/1947|Wisconsin|7|Indiana|7
 10/04/1947|Iowa State|7|Kansas|27
 10/04/1947|New Mexico|20|Kansas State|18
+10/04/1947|Kent State|7|Miami(OH)|35
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -115,6 +117,7 @@
 10/11/1947|Indiana|14|Iowa|27
 10/11/1947|Nebraska|14|Iowa State|7
 10/11/1947|South Dakota State|6|Kansas|86
+10/11/1947|Kent State|6|Wooster(OH)|13
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -149,6 +152,7 @@
 10/18/1947|Iowa State|0|Michigan State|20
 10/18/1947|Kansas|13|Oklahoma|13
 10/18/1947|Kansas State|7|Missouri|47
+10/18/1947|Kalamazoo(MI)|0|Kent State|13
 10/22/1947|Olympic AC(CA)|15|Hawaii|40
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
@@ -211,6 +215,7 @@
 11/01/1947|Iowa|0|Purdue|21
 11/01/1947|Iowa State|9|Oklahoma|27
 11/01/1947|Kansas State|0|Kansas|55
+11/01/1947|John Carroll(OH)|7|Kent State|26
 11/05/1947|Leialums(HI)|0|Hawaii|26
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/07/1947|Montana|21|Idaho|0
@@ -277,6 +282,7 @@
 11/15/1947|Kansas|13|Oklahoma State|7
 11/17/1947|Arkansas State|19|Memphis|19
 11/21/1947|Fresno State|22|Pacific|47
+11/21/1947|Kent State|0|Youngstown State|13
 11/22/1947|John Carroll(OH)|31|Akron|0
 11/22/1947|LSU|12|Alabama|41
 11/22/1947|Marquette|39|Arizona|21
