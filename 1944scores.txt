@@ -35,6 +35,7 @@
 09/30/1944|Fresno State|6|Hartnell JC(CA)|13
 09/30/1944|Illinois|26|Great Lakes NTS(IL)|26
 09/30/1944|Indiana|20|Michigan|0
+09/30/1944|Wichita State|6|Kansas State|6
 10/06/1944|Presbyterian(SC)|0|Georgia|67
 10/07/1944|Samford(AL)|7|Alabama|63
 10/07/1944|Arkansas|6|TCU|6
@@ -53,6 +54,7 @@
 10/07/1944|Iowa|0|Ohio State|34
 10/07/1944|Doane(NE)|0|Iowa State|59
 10/07/1944|Kansas|0|Tulsa|27
+10/07/1944|Missouri|33|Kansas State|0
 10/13/1944|CCNY|0|Boston College|33
 10/13/1944|Kentucky|12|Georgia|13
 10/14/1944|Millsaps(MS)|0|Alabama|55
@@ -70,6 +72,7 @@
 10/14/1944|Iowa|6|Illinois|40
 10/14/1944|Nebraska|0|Indiana|54
 10/14/1944|Kansas|0|Iowa State|25
+10/14/1944|Kansas State|6|Michigan State|45
 10/19/1944|South Carolina|13|Clemson|20
 10/20/1944|New York(NY)|13|Boston College|42
 10/20/1944|Daniel Field(GA)|6|Georgia|57
@@ -89,6 +92,7 @@
 10/21/1944|Purdue|26|Iowa|7
 10/21/1944|Iowa State|21|Missouri|21
 10/21/1944|Nebraska|0|Kansas|20
+10/21/1944|Kansas State|0|Oklahoma|68
 10/27/1944|Kentucky|0|Alabama|41
 10/27/1944|Georgia Navy Pre-Flight|7|Georgia Tech|13
 10/28/1944|Mississippi|18|Arkansas|26
@@ -119,6 +123,7 @@
 11/04/1944|Nebraska|6|Iowa|27
 11/04/1944|Oklahoma|12|Iowa State|7
 11/04/1944|Olathe NAS(KS)|14|Kansas|33
+11/04/1944|Kansas State|15|Wichita State|0
 11/11/1944|Mississippi|6|Alabama|34
 11/11/1944|Rice|7|Arkansas|12
 11/11/1944|Army|59|Notre Dame|0
@@ -153,6 +158,7 @@
 11/18/1944|Minnesota|46|Iowa|0
 11/18/1944|Drake|0|Iowa State|9
 11/18/1944|Oklahoma|20|Kansas|0
+11/18/1944|Olathe NAS(KS)|0|Kansas State|0
 11/23/1944|Arkansas|2|Tulsa|33
 11/23/1944|Colorado|16|Denver|14
 11/23/1944|Pacific|14|Fresno State|6
@@ -165,6 +171,7 @@
 11/25/1944|Illinois|25|Northwestern|6
 11/25/1944|Indiana|14|Purdue|6
 11/25/1944|Iowa Navy Pre-Flight|30|Iowa|6
+11/25/1944|Kansas State|0|Nebraska|35
 11/26/1944|Holy Cross|30|Boston College|14
 12/02/1944|Arkansas-Monticello|0|Arkansas|41
 12/02/1944|Navy|7|Army|23
