@@ -46,6 +46,7 @@
 09/28/1946|Purdue|0|Iowa|16
 09/28/1946|Iowa State|9|Northwestern|41
 09/28/1946|Kansas State|7|Hardin-Simmons(TX)|21
+09/28/1946|Kent State|40|Hiram(OH)|0
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/02/1946|Kaala(HI)|0|Hawaii|44
 10/04/1946|Brigham Young|13|Denver|26
@@ -82,6 +83,7 @@
 10/05/1946|Northern Iowa|18|Iowa State|20
 10/05/1946|Wichita State|7|Kansas|14
 10/05/1946|Kansas State|0|Nebraska|31
+10/05/1946|Kent State|20|John Carroll(OH)|7
 10/09/1946|Olympic AC(CA)|0|Hawaii|27
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/11/1946|Kentucky|13|Georgia|28
@@ -116,6 +118,7 @@
 10/12/1946|Nebraska|7|Iowa|21
 10/12/1946|Kansas|24|Iowa State|8
 10/12/1946|Missouri|26|Kansas State|0
+10/12/1946|Kent State|39|Blufton(OH)|0
 10/16/1946|Lanakila(HI)|6|Hawaii|73
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
@@ -155,7 +158,7 @@
 10/26/1946|Toledo|33|Akron|13
 10/26/1946|Kentucky|7|Alabama|21
 10/26/1946|Arizona|0|Marquette|20
-10/26/1946|Arizona State|6|Hardin-Simmons|46
+10/26/1946|Arizona State|6|Hardin-Simmons(TX)|46
 10/26/1946|Mississippi|9|Arkansas|7
 10/26/1946|Arkansas State|0|Xavier(OH)|26
 10/26/1946|Duke|0|Army|19
@@ -181,10 +184,11 @@
 10/26/1946|Notre Dame|41|Iowa|6
 10/26/1946|Oklahoma|63|Iowa State|0
 10/26/1946|Kansas|0|Tulsa|56
+10/26/1946|Kent State|12|Baldwin-Wallace(OH)|21
 11/01/1946|Hawaii|19|Pacific|13
-11/02/1946|Akron|13|Western Reserve|6
+11/02/1946|Akron|13|Western Reserve(OH)|6
 11/02/1946|Alabama|0|Georgia|14
-11/02/1946|Hardin-Simmons|19|Arizona|8
+11/02/1946|Hardin-Simmons(TX)|19|Arizona|8
 11/02/1946|Arizona State|14|New Mexico State|7
 11/02/1946|Arkansas|7|Texas A&M|0
 11/02/1946|Illinois Wesleyan|0|Arkansas State|20
@@ -209,6 +213,7 @@
 11/02/1946|Pittsburgh|6|Indiana|20
 11/02/1946|Iowa State|13|Kansas State|7
 11/02/1946|Oklahoma State|13|Kansas|14
+11/02/1946|Kent State|12|Kalamazoo(MI)|0
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -241,6 +246,7 @@
 11/09/1946|Drake|7|Iowa State|7
 11/09/1946|Oklahoma|13|Kansas|16
 11/09/1946|Kansas State|6|San Francisco|38
+11/09/1946|Kent State|7|Ohio Wesleyan|0
 11/11/1946|Hawaii|7|Fresno State|2
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
 11/16/1946|Akron|6|Kent State|13
