@@ -42,6 +42,7 @@
 09/24/1949|Iowa State|20|Illinois|20
 09/24/1949|Indiana|6|Notre Dame|49
 09/24/1949|UCLA|41|Iowa|25
+09/24/1949|Fort Hays State(KS)|0|Kansas State|55
 09/30/1949|Wake Forest|7|Boston College|13
 10/01/1949|Akron|20|Eastern Michigan|6
 10/01/1949|Alabama|7|Vanderbilt|14
@@ -107,6 +108,7 @@
 10/08/1949|Illinois|20|Iowa|14
 10/08/1949|TCU|13|Indiana|6
 10/08/1949|George Washington|14|Kansas|21
+10/08/1949|Nebraska|13|Kansas State|6
 10/14/1949|Mississippi|25|Boston College|25
 10/14/1949|Central Michigan|12|Kent State|26
 10/14/1949|Fresno State|7|UCSB|14
@@ -170,6 +172,7 @@
 10/22/1949|Northwestern|21|Iowa|28
 10/22/1949|Missouri|32|Iowa State|0
 10/22/1949|Kansas|55|Oklahoma State|14
+10/22/1949|Kansas State|14|Memphis|21
 10/28/1949|Villanova|28|Boston College|14
 10/28/1949|Bowling Green|24|John Carroll(OH)|38
 10/28/1949|Edenton Flyers(NC)|0|East Carolina|67
@@ -236,6 +239,7 @@
 11/05/1949|Iowa|7|Minnesota|55
 11/05/1949|Iowa State|21|Drake|8
 11/05/1949|Kansas|27|Nebraska|13
+11/05/1949|Oklahoma|39|Kansas State|0
 11/11/1949|Colorado State|16|Brigham Young|14
 11/11/1949|Pepperdine|7|Fresno State|20
 11/11/1949|Wahiawa Leilehua HS(HI)|6|Hawaii|76
@@ -267,6 +271,7 @@
 11/12/1949|Indiana|7|Michigan|20
 11/12/1949|Iowa|13|Wisconsin|35
 11/12/1949|Nebraska|7|Iowa State|0
+11/12/1949|Oklahoma State|26|Kansas State|14
 11/18/1949|Missouri Valley|6|Arkansas State|7
 11/18/1949|Florida|13|Miami(FL)|28
 11/18/1949|Florida State|34|Tampa|7
@@ -294,10 +299,12 @@
 11/19/1949|Purdue|14|Indiana|6
 11/19/1949|Iowa|7|Notre Dame|28
 11/19/1949|Missouri|34|Kansas|28
+11/19/1949|Kansas State|27|Tulsa|48
 11/24/1949|Union(TN)|12|Arkansas State|13
 11/24/1949|Miami(OH)|6|Cincinnati|27
 11/24/1949|San José State|43|Fresno State|7
 11/24/1949|Houston|35|Saint Louis|0
+11/24/1949|Kansas State|27|Missouri|34
 11/26/1949|Alabama|35|Florida|13
 11/26/1949|Kansas|46|Arizona|0
 11/26/1949|Loyola Marymount(CA)|27|Arizona State|7
