@@ -141,6 +141,7 @@
 10/16/1948|Ohio State|17|Indiana|0
 10/16/1948|Purdue|20|Iowa|13
 10/16/1948|Kansas|12|George Washington|0
+10/16/1948|Kansas State|0|Oklahoma|42
 10/21/1948|Clemson|13|South Carolina|7
 10/21/1948|Wahiawa Leilehua HS(HI)|12|Hawaii|52
 10/22/1948|East Carolina|6|Newport News Apprentice|20
@@ -207,6 +208,7 @@
 10/30/1948|Wisconsin|13|Iowa|19
 10/30/1948|Oklahoma|33|Iowa State|6
 10/30/1948|Oklahoma State|7|Kansas|13
+10/30/1948|Missouri|49|Kansas State|7
 11/03/1948|Olympic AC(CA)|7|Hawaii|53
 11/05/1948|Brigham Young|6|San José St|21
 11/05/1948|Cincinnati|6|Miami(FL)|36
@@ -237,6 +239,7 @@
 11/06/1948|Iowa|0|Illinois|14
 11/06/1948|Notre Dame|42|Indiana|6
 11/06/1948|Drake|0|Iowa State|2
+11/06/1948|Kansas State|0|Nebraska|32
 11/11/1948|Nevada|53|Fresno State|7
 11/11/1948|Wahiawa Leilehua HS(HI)|6|Hawaii|39
 11/12/1948|Kent State|31|Akron|0
@@ -299,11 +302,13 @@
 11/20/1948|Indiana|0|Purdue|39
 11/20/1948|Iowa|34|Boston U|14
 11/20/1948|Oklahoma|60|Kansas|7
+11/20/1948|Kansas State|6|Oklahoma State|42
 11/24/1948|Ford Island(HI)|7|Hawaii|14
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/25/1948|Pacific|55|Fresno State|0
 11/25/1948|Sam Houston State|13|Houston|22
 11/25/1948|Kansas|7|Missouri|21
+11/25/1948|Kansas State|7|Saint Louis|21
 11/26/1948|Brigham Young|27|Arizona State|25
 11/27/1948|Florida|28|Alabama|34
 11/27/1948|Marquette|14|Arizona|24
