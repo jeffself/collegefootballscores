@@ -36,12 +36,14 @@
 09/27/1941|Detroit|14|Indiana|7
 09/27/1941|Drake|8|Iowa|25
 09/27/1941|Fort Hays State(KS)|0|Kansas State|0
+09/27/1941|Blufton(OH)|0|Kent State|58
 10/03/1941|Bowling Green|0|Akron|8
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
 10/03/1941|Northern Colorado|0|Brigham Young|26
 10/03/1941|Northern Michigan|0|Central Michigan|7
 10/03/1941|Idaho|7|Oregon|21
+10/03/1941|Kent State|26|Findlay(OH)|0
 10/04/1941|Mississippi State|14|Alabama|0
 10/04/1941|New Mexico State|0|Arizona|47
 10/04/1941|West Texas A&M|13|Arizona State|7
@@ -68,7 +70,7 @@
 10/04/1941|Washington(MO)|6|Kansas|19
 10/04/1941|Kansas State|3|Northwestern|51
 10/05/1941|Camp Haan(CA)|7|Fresno State|7
-10/10/1941|Western Reserve|12|Akron|6
+10/10/1941|Western Reserve(OH)|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
 10/10/1941|Brigham Young|13|Denver|7
 10/10/1941|Central Michigan|0|Detroit|45
@@ -76,6 +78,7 @@
 10/10/1941|Mississippi|14|Georgia|14
 10/10/1941|Hawaii Bears|6|Hawaii|20
 10/10/1941|Idaho|21|Gonzaga|7
+10/10/1941|Kent State|6|Case Institute of Technology(OH)|7
 10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
 10/11/1941|New Mexico|0|Arizona State|0
@@ -130,6 +133,7 @@
 10/18/1941|Missouri|39|Iowa State|13
 10/18/1941|Kansas|7|Marquette|33
 10/18/1941|Oklahoma|16|Kansas State|0
+10/18/1941|West Liberty State(WV)|0|Kent State|0
 10/23/1941|Clemson|14|South Carolina|18
 10/24/1941|Baldwin-Wallace|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
@@ -137,6 +141,7 @@
 10/24/1941|Brigham Young|13|San Francisco|25
 10/24/1941|Central Michigan|12|Eastern Michigan|6
 10/24/1941|Norfolk NAS(VA)|0|East Carolina|30
+10/24/1941|Kent State|0|Western Reserve(OH)|28
 10/25/1941|Georgia|14|Alabama|27
 10/25/1941|Arizona|20|Arizona State|7
 10/25/1941|Columbia|0|Army|13
@@ -221,6 +226,7 @@
 11/08/1941|Iowa State|0|Oklahoma|55
 11/08/1941|Kansas|0|West Virginia|21
 11/08/1941|South Carolina|0|Kansas State|3
+11/08/1941|John Carroll(OH)|12|Kent State|0
 11/11/1941|Pacific|0|Fresno State|13
 11/13/1941|East Carolina|13|Belmont Abbey(NC)|0
 11/15/1941|Kent State|13|Akron|41
