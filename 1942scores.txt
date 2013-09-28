@@ -7,6 +7,7 @@
 09/19/1942|Georgia|7|Kentucky|6
 09/19/1942|Washington(MO)|7|Iowa|26
 09/19/1942|Iowa Navy Pre-Flight|61|Kansas|0
+09/19/1942|Kansas State|37|Kansas Wesleyan|6
 09/25/1942|Muskingum|7|Akron|7
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
 09/25/1942|Eastern Michigan|6|Alma(MI)|14
@@ -34,6 +35,7 @@
 09/26/1942|Butler|0|Indiana|53
 09/26/1942|Nebraska|0|Iowa|27
 09/26/1942|Marquette|14|Kansas|0
+09/26/1942|Kansas State|0|Texas|64
 09/27/1942|Saint Mary's(CA)|0|California|6
 10/02/1942|Baylor|18|Oklahoma State|12
 10/02/1942|Wyoming|13|Brigham Young|6
@@ -66,9 +68,11 @@
 10/03/1942|Indiana|21|Ohio State|32
 10/03/1942|Great Lakes NTS(IL)|25|Iowa|0
 10/03/1942|Iowa State|0|Nebraska|26
+10/03/1942|Fort Riley(KS)|21|Kansas State|7
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
 10/09/1942|Illinois State|7|Eastern Michigan|14
+10/09/1942|Kansas State|0|Duquesne(PA)|33
 10/10/1942|Eastern Kentucky|6|Akron|0
 10/10/1942|Pensacola NAS(FL)|0|Alabama|27
 10/10/1942|Arizona|23|Arizona State|0
@@ -121,6 +125,7 @@
 10/17/1942|Indiana|19|Pittsburgh|7
 10/17/1942|Drake|6|Iowa State|29
 10/17/1942|Oklahoma|25|Kansas|0
+10/17/1942|Missouri|46|Kansas State|2
 10/22/1942|Clemson|18|South Carolina|6
 10/23/1942|Villanova|6|Auburn|14
 10/24/1942|Alabama|14|Kentucky|0
@@ -176,6 +181,7 @@
 10/31/1942|Purdue|7|Iowa|13
 10/31/1942|Oklahoma|14|Iowa State|7
 10/31/1942|Nebraska|14|Kansas|7
+10/31/1942|Kansas State|0|Wichita State|9
 11/06/1942|Hillsdale(MI)|13|Eastern Michigan|19
 11/06/1942|Iowa State|7|Villanova|32
 11/07/1942|Akron|6|Wayne State|28
@@ -206,6 +212,7 @@
 11/07/1942|Indiana|7|Minnesota|0
 11/07/1942|Wisconsin|0|Iowa|6
 11/07/1942|Washington(MO)|7|Kansas|19
+11/07/1942|Kansas State|0|Oklahoma|76
 11/11/1942|San Francisco|33|Fresno State|13
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/13/1942|Georgia|40|Tennessee-Chattanooga|0
@@ -270,6 +277,7 @@
 11/28/1942|Illinois|20|Camp Grant(IL)|0
 11/28/1942|Indiana|51|Fort Knox(KY)|0
 11/28/1942|Iowa|14|Michigan|28
+11/28/1942|Kansas State|19|Nebraska|0
 11/29/1942|Fresno State|27|Loyola Marymount(CA)|6
 12/05/1942|2nd Air Force(CO)|27|Arizona|13
 12/05/1942|Saint Mary's Pre-Flight(CA)|6|California|12
