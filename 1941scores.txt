@@ -35,6 +35,7 @@
 09/27/1941|Utah|26|Idaho|7
 09/27/1941|Detroit|14|Indiana|7
 09/27/1941|Drake|8|Iowa|25
+09/27/1941|Fort Hays State(KS)|0|Kansas State|0
 10/03/1941|Bowling Green|0|Akron|8
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
@@ -65,6 +66,7 @@
 10/04/1941|Iowa|0|Michigan|6
 10/04/1941|Nebraska|14|Iowa State|0
 10/04/1941|Washington(MO)|6|Kansas|19
+10/04/1941|Kansas State|3|Northwestern|51
 10/05/1941|Camp Haan(CA)|7|Fresno State|7
 10/10/1941|Western Reserve|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
@@ -96,6 +98,7 @@
 10/11/1941|Illinois|6|Minnesota|34
 10/11/1941|TCU|20|Indiana|14
 10/11/1941|Kansas|0|Nebraska|32
+10/11/1941|Kansas State|0|Missouri|35
 10/17/1941|Baylor|6|Villanova|14
 10/17/1941|Na Alii(HI)|6|Hawaii|19
 10/18/1941|Ohio|0|Akron|0
@@ -126,6 +129,7 @@
 10/18/1941|Iowa|0|Wisconsin|23
 10/18/1941|Missouri|39|Iowa State|13
 10/18/1941|Kansas|7|Marquette|33
+10/18/1941|Oklahoma|16|Kansas State|0
 10/23/1941|Clemson|14|South Carolina|18
 10/24/1941|Baldwin-Wallace|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
@@ -186,6 +190,7 @@
 11/01/1941|Indiana|7|Iowa|13
 11/01/1941|South Dakota|0|Iowa State|27
 11/01/1941|Kansas|0|Oklahoma|38
+11/01/1941|Nebraska|6|Kansas State|12
 11/06/1941|East Carolina|13|Bergen JC(NJ)|7
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
@@ -215,6 +220,7 @@
 11/08/1941|Indiana|14|Northwestern|20
 11/08/1941|Iowa State|0|Oklahoma|55
 11/08/1941|Kansas|0|West Virginia|21
+11/08/1941|South Carolina|0|Kansas State|3
 11/11/1941|Pacific|0|Fresno State|13
 11/13/1941|East Carolina|13|Belmont Abbey(NC)|0
 11/15/1941|Kent State|13|Akron|41
