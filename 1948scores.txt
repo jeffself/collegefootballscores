@@ -17,6 +17,7 @@
 09/24/1948|Pepperdine|0|Brigham Young|13
 09/24/1948|Eastern Michigan|0|Hope(MI)|14
 09/24/1948|Kansas|40|Denver|0
+09/24/1948|Kent State|18|Mount Union|0
 09/25/1948|Alabama|14|Tulane|21
 09/25/1948|San Diego State|6|Arizona|14
 09/25/1948|Western State(CO)|0|Arizona State|23
@@ -76,7 +77,9 @@
 10/02/1948|Illinois|16|Wisconsin|20
 10/02/1948|Iowa|0|Indiana|7
 10/02/1948|Iowa State|20|Kansas State|0
+10/02/1948|Wooster(OH)|0|Kent State|39
 10/08/1948|Duquesne|6|Alabama|48
+10/08/1948|Waynesburg(PA)|7|Kent State|34
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons(TX)|14|Arizona|20
 10/09/1948|Arizona State|17|Utah State|22
@@ -176,10 +179,12 @@
 10/23/1948|Notre Dame|27|Iowa|12
 10/23/1948|Iowa State|7|Missouri|49
 10/23/1948|Nebraska|7|Kansas|27
+10/23/1948|Kent State|14|Western Reserve(OH)|14
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/29/1948|Duke JV|19|East Carolina|13
 10/29/1948|Northern Illinois|10|Eastern Michigan|7
+10/29/1948|Youngstown State|19|Kent State|7
 10/30/1948|Wooster(OH)|6|Akron|20
 10/30/1948|Georgia|35|Alabama|0
 10/30/1948|Arizona State|21|Arizona|33
