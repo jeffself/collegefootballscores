@@ -7,6 +7,7 @@
 09/15/1945|Fresno State|6|Cal Poly-SLO|6
 09/21/1945|Samford(AL)|0|Auburn|38
 09/21/1945|Fresno State|13|Pacific|0
+09/21/1945|Mississippi|21|Kentucky|7
 09/22/1945|Arkansas|12|Barksdale AFB(LA)|6
 09/22/1945|Southern Illinois|6|Arkansas State|0
 09/22/1945|West Texas A&M|0|Baylor|32
@@ -74,6 +75,7 @@
 10/06/1945|Iowa|0|Ohio State|42
 10/06/1945|Iowa State|13|Kansas|13
 10/06/1945|Olathe NAS(KS)|34|Kansas State|12
+10/06/1945|Kentucky|6|Michigan State|7
 10/11/1945|Arkansas State|18|Central Arkansas|0
 10/12/1945|New York(NY)|0|Boston College|28
 10/12/1945|Washburn(KS)|0|Kansas|34
@@ -122,6 +124,7 @@
 10/20/1945|Nebraska|7|Iowa State|27
 10/20/1945|Kansas|7|Oklahoma|39
 10/20/1945|Kansas State|7|Missouri|41
+10/20/1945|Kentucky|6|Vanderbilt|19
 10/25/1945|Clemson|0|South Carolina|0
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
@@ -190,6 +193,7 @@
 11/10/1945|Iowa State|7|Oklahoma|14
 11/10/1945|Kansas|0|Marquette|26
 11/10/1945|Nebraska|24|Kansas State|0
+11/10/1945|Kentucky|19|West Virginia|6
 11/12/1945|Fresno State|6|Saint Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
@@ -212,6 +216,7 @@
 11/17/1945|Minnesota|19|Iowa|20
 11/17/1945|Iowa State|8|Drake|6
 11/17/1945|Kansas State|0|Kansas|27
+11/17/1945|Marquette|19|Kentucky|13
 11/22/1945|Miami(OH)|28|Cincinnati|14
 11/22/1945|Colorado|8|Denver|14
 11/22/1945|Fresno State|16|Pacific|0
@@ -228,6 +233,7 @@
 11/24/1945|Purdue|0|Indiana|26
 11/24/1945|Iowa|6|Nebraska|13
 11/24/1945|Kansas|12|Missouri|33
+11/24/1945|Tennessee|14|Kentucky|0
 11/25/1945|Boston College|0|Holy Cross|46
 11/30/1945|Auburn|7|Miami(FL)|33
 12/01/1945|Mississippi State|13|Alabama|55
