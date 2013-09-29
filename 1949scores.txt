@@ -15,6 +15,7 @@
 09/23/1949|Central Michigan|33|Ferris State|7
 09/23/1949|Tennessee-Chattanooga|6|Georgia|42
 09/23/1949|Moiliili Cards(HI)|6|Hawaii|59
+09/23/1949|Western Reserve(OH)|23|Kent State|20
 09/24/1949|Findlay(OH)|0|Akron|34
 09/24/1949|Tulane|28|Alabama|14
 09/24/1949|Arizona|40|New Mexico State|7
@@ -44,6 +45,7 @@
 09/24/1949|UCLA|41|Iowa|25
 09/24/1949|Fort Hays State(KS)|0|Kansas State|55
 09/30/1949|Wake Forest|7|Boston College|13
+09/30/1949|Mount Union|11|Kent State|13
 10/01/1949|Akron|20|Eastern Michigan|6
 10/01/1949|Alabama|7|Vanderbilt|14
 10/01/1949|Utah|12|Arizona|12
@@ -79,6 +81,7 @@
 10/07/1949|Duquesne|8|Alabama|48
 10/07/1949|Fresno State|13|Loyola Marymount(CA)|52
 10/07/1949|Hawaii|27|Denver|14
+10/07/1949|Kent State|6|Ohio|34
 10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
 10/08/1949|Arizona|0|Hardin-Simmons(TX)|35
 10/08/1949|Northern Arizona|6|Arizona State|62
@@ -276,6 +279,7 @@
 11/18/1949|Florida|13|Miami(FL)|28
 11/18/1949|Florida State|34|Tampa|7
 11/18/1949|Fresno State|0|Pacific|45
+11/18/1949|Kent State|21|Northern Illinois|19
 11/19/1949|Akron|14|Heidelberg(OH)|34
 11/19/1949|Southern Miss|26|Alabama|34
 11/19/1949|Michigan State|75|Arizona|0
