@@ -7,12 +7,14 @@
 09/21/1940|Clemson|38|Presbyterian|0
 09/21/1940|Luther(IA)|0|Iowa State|27
 09/21/1940|Blufton(OH)|0|Kent State|37
+09/21/1940|Baldwin-Wallace(OH)|7|Kentucky|59
 09/27/1940|Alabama|26|Spring Hill(AL)|0
 09/27/1940|Arizona State|19|West Texas A&M|12
 09/27/1940|Samford(AL)|13|Auburn|27
 09/27/1940|Ferris State(MI)|0|Central Michigan|37
 09/27/1940|Connecticut|10|Coast Guard|9
 09/27/1940|Iowa State|7|Denver|14
+09/27/1940|Kentucky|13|Xavier(OH)|0
 09/28/1940|Akron|0|Colgate|44
 09/28/1940|Northern Arizona|0|Arizona|41
 09/28/1940|Central Oklahoma|0|Arkansas|38
@@ -67,6 +69,7 @@
 10/05/1940|South Dakota|0|Iowa|46
 10/05/1940|Kansas|0|Iowa State|7
 10/05/1940|Hiram(OH)|6|Kent State|19
+10/05/1940|Washington & Lee|12|Kentucky|47
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -100,6 +103,7 @@
 10/12/1940|Drake|6|Kansas|20
 10/12/1940|Missouri|24|Kansas State|13
 10/12/1940|Mount Union|0|Kent State|26
+10/12/1940|Kentucky|7|Vanderbilt|7
 10/18/1940|Brigham Young|20|Texas Tech|21
 10/18/1940|Fresno State|3|Pacific|0
 10/18/1940|Polar Bears(HI)|35|Hawaii|28
@@ -131,6 +135,7 @@
 10/19/1940|Iowa State|14|Missouri|30
 10/19/1940|Nebraska|53|Kansas|2
 10/19/1940|Kansas State|0|Oklahoma|14
+10/19/1940|George Washington|0|Kentucky|24
 10/24/1940|Clemson|21|South Carolina|13
 10/25/1940|Akron|7|Baldwin-Wallace(OH)|13
 10/25/1940|Eastern Michigan|0|Central Michigan|24
@@ -255,6 +260,7 @@
 11/16/1940|Iowa State|12|Kansas State|0
 11/16/1940|Kansas|0|George Washington|6
 11/16/1940|Kent State|14|Baldwin-Wallace(OH)|7
+11/16/1940|Kentucky|7|West Virginia|9
 11/21/1940|John Carroll|0|Akron|47
 11/21/1940|Arkansas|7|Fordham|27
 11/21/1940|Bowling Green|0|Wayne State|19
@@ -277,6 +283,7 @@
 11/23/1940|Illinois|7|Iowa|18
 11/23/1940|Indiana|3|Purdue|0
 11/23/1940|Iowa State|12|Nebraska|21
+11/23/1940|Kentucky|0|Tennessee|33
 11/28/1940|Arkansas|27|Tulsa|21
 11/28/1940|Colorado State|0|Kansas|26
 11/30/1940|Mississippi State|13|Alabama|0
