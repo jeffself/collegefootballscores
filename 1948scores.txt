@@ -45,6 +45,7 @@
 09/25/1948|Indiana|35|Wisconsin|7
 09/25/1948|Marquette|12|Iowa|14
 09/25/1948|Iowa State|15|Nebraska|19
+09/25/1948|Xavier(OH)|7|Kentucky|48
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -78,6 +79,7 @@
 10/02/1948|Iowa|0|Indiana|7
 10/02/1948|Iowa State|20|Kansas State|0
 10/02/1948|Wooster(OH)|0|Kent State|39
+10/02/1948|Mississippi|20|Kentucky|7
 10/08/1948|Duquesne|6|Alabama|48
 10/08/1948|Waynesburg(PA)|7|Kent State|34
 10/09/1948|Akron|12|Muskingum(OH)|21
@@ -145,6 +147,7 @@
 10/16/1948|Purdue|20|Iowa|13
 10/16/1948|Kansas|12|George Washington|0
 10/16/1948|Kansas State|0|Oklahoma|42
+10/16/1948|Kentucky|7|Vanderbilt|26
 10/21/1948|Clemson|13|South Carolina|7
 10/21/1948|Wahiawa Leilehua HS(HI)|12|Hawaii|52
 10/22/1948|East Carolina|6|Newport News Apprentice|20
@@ -180,6 +183,7 @@
 10/23/1948|Iowa State|7|Missouri|49
 10/23/1948|Nebraska|7|Kansas|27
 10/23/1948|Kent State|14|Western Reserve(OH)|14
+10/23/1948|Kentucky|25|Marquette|0
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/29/1948|Duke JV|19|East Carolina|13
@@ -245,6 +249,7 @@
 11/06/1948|Notre Dame|42|Indiana|6
 11/06/1948|Drake|0|Iowa State|2
 11/06/1948|Kansas State|0|Nebraska|32
+11/06/1948|Villanova|13|Kentucky|13
 11/11/1948|Nevada|53|Fresno State|7
 11/11/1948|Wahiawa Leilehua HS(HI)|6|Hawaii|39
 11/12/1948|Kent State|31|Akron|0
@@ -308,6 +313,7 @@
 11/20/1948|Iowa|34|Boston U|14
 11/20/1948|Oklahoma|60|Kansas|7
 11/20/1948|Kansas State|6|Oklahoma State|42
+11/20/1948|Kentucky|0|Tennessee|0
 11/24/1948|Ford Island(HI)|7|Hawaii|14
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/25/1948|Pacific|55|Fresno State|0
@@ -315,6 +321,7 @@
 11/25/1948|Kansas|7|Missouri|21
 11/25/1948|Kansas State|7|Saint Louis|21
 11/26/1948|Brigham Young|27|Arizona State|25
+11/26/1948|Kentucky|25|Miami(FL)|5
 11/27/1948|Florida|28|Alabama|34
 11/27/1948|Marquette|14|Arizona|24
 11/27/1948|William & Mary|9|Arkansas|0
