@@ -37,6 +37,7 @@
 09/27/1941|Drake|8|Iowa|25
 09/27/1941|Fort Hays State(KS)|0|Kansas State|0
 09/27/1941|Blufton(OH)|0|Kent State|58
+09/27/1941|Virginia Tech|14|Kentucky|37
 10/03/1941|Bowling Green|0|Akron|8
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
@@ -69,6 +70,7 @@
 10/04/1941|Nebraska|14|Iowa State|0
 10/04/1941|Washington(MO)|6|Kansas|19
 10/04/1941|Kansas State|3|Northwestern|51
+10/04/1941|Kentucky|7|Washington & Lee|0
 10/05/1941|Camp Haan(CA)|7|Fresno State|7
 10/10/1941|Western Reserve(OH)|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
@@ -102,6 +104,7 @@
 10/11/1941|TCU|20|Indiana|14
 10/11/1941|Kansas|0|Nebraska|32
 10/11/1941|Kansas State|0|Missouri|35
+10/11/1941|Vanderbilt|39|Kentucky|15
 10/17/1941|Baylor|6|Villanova|14
 10/17/1941|Na Alii(HI)|6|Hawaii|19
 10/18/1941|Ohio|0|Akron|0
@@ -134,6 +137,7 @@
 10/18/1941|Kansas|7|Marquette|33
 10/18/1941|Oklahoma|16|Kansas State|0
 10/18/1941|West Liberty State(WV)|0|Kent State|0
+10/18/1941|Kentucky|21|Xavier(OH)|6
 10/23/1941|Clemson|14|South Carolina|18
 10/24/1941|Baldwin-Wallace|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
@@ -164,6 +168,7 @@
 10/25/1941|Indiana|25|Wisconsin|27
 10/25/1941|Iowa|6|Purdue|7
 10/25/1941|Iowa State|0|Kansas|13
+10/25/1941|West Virginia|6|Kentucky|18
 10/27/1941|Healani AC(HI)|26|Hawaii|6
 10/31/1941|Arizona State|6|Northern Colorado|0
 10/31/1941|Southern Arkansas|19|Arkansas State|0
@@ -256,6 +261,7 @@
 11/15/1941|Minnesota|34|Iowa|13
 11/15/1941|Iowa State|13|Drake|14
 11/15/1941|Kansas State|16|Kansas|20
+11/15/1941|Rhodes(TN)|19|Kentucky|33
 11/19/1941|Hawaii Bears|13|Hawaii|27
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll|12|Akron|21
@@ -279,6 +285,7 @@
 11/22/1941|Iowa|13|Nebraska|14
 11/22/1941|Kansas State|12|Iowa State|12
 11/22/1941|Missouri|45|Kansas|6
+11/22/1941|Tennessee|20|Kentucky|7
 11/26/1941|Healani AC(HI)|6|Hawaii|21
 11/27/1941|Arkansas|13|Tulsa|6
 11/28/1941|Alabama|21|Miami(FL)|7
