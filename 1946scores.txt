@@ -12,6 +12,7 @@
 09/21/1946|Illinois|33|Pittsburgh|7
 09/21/1946|North Dakota State|0|Iowa|39
 09/21/1946|TCU|0|Kansas|0
+09/21/1946|Mississippi|6|Kentucky|20
 09/22/1946|Western State(CO)|2|Brigham Young|13
 09/25/1946|Hawaiian Pine|6|Hawaii|14
 09/27/1946|Arkansas State|0|SE Missouri State|8
@@ -84,6 +85,7 @@
 10/05/1946|Wichita State|7|Kansas|14
 10/05/1946|Kansas State|0|Nebraska|31
 10/05/1946|Kent State|20|John Carroll(OH)|7
+10/05/1946|Kentucky|70|Xavier(OH)|0
 10/09/1946|Olympic AC(CA)|0|Hawaii|27
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/11/1946|Kentucky|13|Georgia|28
@@ -151,6 +153,7 @@
 10/19/1946|Iowa State|13|Missouri|33
 10/19/1946|Nebraska|16|Kansas|14
 10/19/1946|Kansas State|7|Oklahoma|28
+10/19/1946|Vanderbilt|7|Kentucky|10
 10/24/1946|Clemson|14|South Carolina|26
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
@@ -214,6 +217,7 @@
 11/02/1946|Iowa State|13|Kansas State|7
 11/02/1946|Oklahoma State|13|Kansas|14
 11/02/1946|Kent State|12|Kalamazoo(MI)|0
+11/02/1946|Michigan State|14|Kentucky|39
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -247,6 +251,7 @@
 11/09/1946|Oklahoma|13|Kansas|16
 11/09/1946|Kansas State|6|San Francisco|38
 11/09/1946|Kent State|7|Ohio Wesleyan|0
+11/09/1946|Kentucky|35|Marquette|7
 11/11/1946|Hawaii|7|Fresno State|2
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
 11/16/1946|Akron|6|Kent State|13
@@ -279,6 +284,7 @@
 11/16/1946|Iowa|6|Minnesota|16
 11/16/1946|Iowa State|0|Nebraska|33
 11/16/1946|Kansas|34|Kansas State|0
+11/16/1946|West Virginia|0|Kentucky|13
 11/22/1946|Brigham Young|14|Texas-El Paso|13
 11/22/1946|East Carolina|0|Lenoir-Rhyne(NC)|6
 11/22/1946|Fresno State|2|San José State|13
@@ -299,6 +305,7 @@
 11/23/1946|Illinois|20|Northwestern|0
 11/23/1946|Indiana|34|Purdue|20
 11/23/1946|Kansas State|7|New Mexico|14
+11/23/1946|Tennessee|7|Kentucky|0
 11/27/1946|Healani AC(HI)|6|Hawaii|58
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
