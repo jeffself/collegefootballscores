@@ -287,7 +287,7 @@
 11/18/1949|Fresno State|0|Pacific|45
 11/18/1949|Kent State|21|Northern Illinois|19
 11/19/1949|Akron|14|Heidelberg(OH)|34
-11/19/1949|Southern Miss|26|Alabama|34
+11/19/1949|Southern Mississippi|26|Alabama|34
 11/19/1949|Michigan State|75|Arizona|0
 11/19/1949|William & Mary|20|Arkansas|0
 11/19/1949|Eastern Illinois|13|Ball State|47
