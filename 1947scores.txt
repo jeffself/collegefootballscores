@@ -49,6 +49,7 @@
 09/27/1947|Tennessee|0|Georgia Tech|27
 09/27/1947|Saint Mary's(CA)|27|Hawaii|7
 09/27/1947|McMurry(TX)|13|Houston|14
+09/27/1947|Howard Payne(TX)|14|Louisiana Tech|0
 09/27/1947|Idaho|19|Stanford|16
 09/27/1947|Pittsburgh|0|Illinois|14
 09/27/1947|Indiana|17|Nebraska|0
@@ -122,11 +123,12 @@
 10/11/1947|South Dakota State|6|Kansas|86
 10/11/1947|Kent State|6|Wooster(OH)|13
 10/11/1947|Texas A&M|13|LSU|19
+10/11/1947|Southern Miss|7|Louisiana Tech|6
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
 10/18/1947|Tennessee|0|Alabama|10
-10/18/1947|Arizona|14|Texas-El Paso|13
+10/18/1947|Arizona|14|UTEP|13
 10/18/1947|Northern Arizona|7|Arizona State|31
 10/18/1947|Arkansas|6|Texas|21
 10/18/1947|Arkansas State|14|Washington(MO)|40
@@ -158,6 +160,7 @@
 10/18/1947|Kansas State|7|Missouri|47
 10/18/1947|Kalamazoo(MI)|0|Kent State|13
 10/18/1947|Kentucky|14|Vanderbilt|0
+10/18/1947|Louisiana Tech|30|Louisiana College|12
 10/22/1947|Olympic AC(CA)|15|Hawaii|40
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
@@ -191,6 +194,7 @@
 10/25/1947|Nebraska|14|Kansas State|7
 10/25/1947|Kentucky|7|Michigan State|6
 10/25/1947|Vanderbilt|13|LSU|19
+10/25/1947|Louisiana Tech|24|Northwestern State|0
 10/29/1947|Kaialums(HI)|0|Hawaii|65
 10/31/1947|Western Reserve|18|Akron|0
 10/31/1947|Clemson|6|Georgia|21
@@ -224,12 +228,13 @@
 11/01/1947|Kansas State|0|Kansas|55
 11/01/1947|John Carroll(OH)|7|Kent State|26
 11/01/1947|Mississippi|20|LSU|18
+11/01/1947|Louisiana-Lafayette|0|Louisiana Tech|9
 11/05/1947|Leialums(HI)|0|Hawaii|26
 11/07/1947|Ball State|7|Eastern Michigan|14
 11/07/1947|Montana|21|Idaho|0
 11/08/1947|Akron|6|Wooster(OH)|21
 11/08/1947|Arizona|28|Texas Tech|41
-11/08/1947|Arizona State|0|Texas-El Paso|21
+11/08/1947|Arizona State|0|UTEP|21
 11/08/1947|Arkansas|0|Rice|26
 11/08/1947|Pensacola NAS(FL)|6|Arkansas State|7
 11/08/1947|Army|7|Notre Dame|27
@@ -258,6 +263,7 @@
 11/08/1947|Kansas|13|Nebraska|7
 11/08/1947|Oklahoma|27|Kansas State|13
 11/08/1947|Kentucky|15|West Virginia|6
+11/08/1947|Louisiana Tech|20|SE Louisiana|18
 11/12/1947|Mickalums(HI)|13|Hawaii|33
 11/15/1947|Kent State|6|Akron|0
 11/15/1947|Georgia Tech|7|Alabama|14
@@ -291,6 +297,7 @@
 11/15/1947|Kansas|13|Oklahoma State|7
 11/15/1947|Evansville|0|Kentucky|36
 11/15/1947|Mississippi State|6|LSU|21
+11/15/1947|Louisiana Tech|13|Oklahoma City|28
 11/17/1947|Arkansas State|19|Memphis|19
 11/21/1947|Fresno State|22|Pacific|47
 11/21/1947|Kent State|0|Youngstown State|13
@@ -319,6 +326,7 @@
 11/22/1947|Missouri|14|Kansas|20
 11/22/1947|Tennessee|13|Kentucky|6
 11/27/1947|Arkansas|27|Tulsa|13
+11/27/1947|Centenary(LA)|14|Louisiana Tech|52
 11/27/1947|Miami(OH)|38|Cincinnati|7
 11/27/1947|Colorado|20|Denver|26
 11/27/1947|Troy(AL)|36|Florida State|6
