@@ -48,6 +48,7 @@
 09/28/1946|Iowa State|9|Northwestern|41
 09/28/1946|Kansas State|7|Hardin-Simmons(TX)|21
 09/28/1946|Kent State|40|Hiram(OH)|0
+09/28/1946|LSU|7|Rice|6
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/02/1946|Kaala(HI)|0|Hawaii|44
 10/04/1946|Brigham Young|13|Denver|26
@@ -86,6 +87,7 @@
 10/05/1946|Kansas State|0|Nebraska|31
 10/05/1946|Kent State|20|John Carroll(OH)|7
 10/05/1946|Kentucky|70|Xavier(OH)|0
+10/05/1946|Mississippi State|6|LSU|13
 10/09/1946|Olympic AC(CA)|0|Hawaii|27
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/11/1946|Kentucky|13|Georgia|28
@@ -121,6 +123,7 @@
 10/12/1946|Kansas|24|Iowa State|8
 10/12/1946|Missouri|26|Kansas State|0
 10/12/1946|Kent State|39|Blufton(OH)|0
+10/12/1946|Texas A&M|9|LSU|33
 10/16/1946|Lanakila(HI)|6|Hawaii|73
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
@@ -174,7 +177,7 @@
 10/26/1946|Cincinnati|18|Michigan State|7
 10/26/1946|New Mexico|13|Colorado|14
 10/26/1946|Colorado College|25|Colorado State|12
-10/26/1946|Lehigh(PA)|10|Connecticut|0
+10/26/1946|Lehigh|10|Connecticut|0
 10/26/1946|Newport News Apprentice|7|East Carolina|19
 10/26/1946|Eastern Michigan|7|Hillsdale(MI)|18
 10/26/1946|Florida|19|North Carolina|40
@@ -188,6 +191,7 @@
 10/26/1946|Oklahoma|63|Iowa State|0
 10/26/1946|Kansas|0|Tulsa|56
 10/26/1946|Kent State|12|Baldwin-Wallace(OH)|21
+10/26/1946|LSU|14|Vanderbilt|0
 11/01/1946|Hawaii|19|Pacific|13
 11/02/1946|Akron|13|Western Reserve(OH)|6
 11/02/1946|Alabama|0|Georgia|14
@@ -218,6 +222,7 @@
 11/02/1946|Oklahoma State|13|Kansas|14
 11/02/1946|Kent State|12|Kalamazoo(MI)|0
 11/02/1946|Michigan State|14|Kentucky|39
+11/02/1946|Mississippi|21|LSU|34
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -254,6 +259,7 @@
 11/09/1946|Kentucky|35|Marquette|7
 11/11/1946|Hawaii|7|Fresno State|2
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
+11/15/1946|LSU|20|Miami(FL)|7
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
@@ -306,6 +312,7 @@
 11/23/1946|Indiana|34|Purdue|20
 11/23/1946|Kansas State|7|New Mexico|14
 11/23/1946|Tennessee|7|Kentucky|0
+11/23/1946|Fordham|0|LSU|40
 11/27/1946|Healani AC(HI)|6|Hawaii|58
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
@@ -323,6 +330,7 @@
 11/30/1946|Baylor|6|Rice|38
 11/30/1946|Holy Cross|13|Boston College|6
 11/30/1946|Georgia Tech|7|Georgia|35
+11/30/1946|Tulane|27|LSU|41
 12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
 12/07/1946|Nevada|26|Hawaii|7
 12/11/1946|Fresno State|18|Wahiawa Leilehua HS Alumni(HI)|6
