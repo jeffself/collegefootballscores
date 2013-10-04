@@ -1,4 +1,5 @@
 09/19/1941|Arizona State|6|Gonzaga|0
+09/19/1941|Louisiana-Lafayette|19|SE Louisiana|7
 09/20/1941|Arkansas State|0|Missouri-Rolla|46
 09/20/1941|Saint Anselm(NH)|0|Boston College|78
 09/20/1941|Transylvania(KY)|0|Cincinnati|46
@@ -86,6 +87,7 @@
 10/10/1941|Hawaii Bears|6|Hawaii|20
 10/10/1941|Idaho|21|Gonzaga|7
 10/10/1941|Kent State|6|Case Institute of Technology(OH)|7
+10/10/1941|Millsaps(MS)|0|Louisiana-Lafayette|6
 10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
 10/11/1941|New Mexico|0|Arizona State|0
@@ -146,6 +148,7 @@
 10/18/1941|Kentucky|21|Xavier(OH)|6
 10/18/1941|Rice|0|LSU|27
 10/18/1941|Louisiana Tech|10|Northwestern State|0
+10/18/1941|Spring Hill(AL)|0|Louisiana-Lafayette|39
 10/23/1941|Clemson|14|South Carolina|18
 10/24/1941|Baldwin-Wallace(OH)|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
@@ -154,6 +157,7 @@
 10/24/1941|Central Michigan|12|Eastern Michigan|6
 10/24/1941|Norfolk NAS(VA)|0|East Carolina|30
 10/24/1941|Kent State|0|Western Reserve(OH)|28
+10/24/1941|Louisiana College|7|Louisiana-Lafayette|23
 10/25/1941|Georgia|14|Alabama|27
 10/25/1941|Arizona|20|Arizona State|7
 10/25/1941|Columbia|0|Army|13
@@ -216,6 +220,7 @@
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
 11/07/1941|Na Alii(HI)|14|Hawaii|33
+11/07/1941|Stephen F. Austin|0|Louisiana-Lafayette|25
 11/08/1941|Alabama|19|Tulane|14
 11/08/1941|Northern Arizona|0|Arizona|41
 11/08/1941|UTEP|28|Arizona State|0
@@ -247,6 +252,7 @@
 11/08/1941|Louisiana Tech|45|Louisiana College|0
 11/11/1941|Pacific|0|Fresno State|13
 11/13/1941|East Carolina|13|Belmont Abbey(NC)|0
+11/14/1941|Southern Miss|0|Louisiana-Lafayette|0
 11/15/1941|Kent State|13|Akron|41
 11/15/1941|Georgia Tech|0|Alabama|20
 11/15/1941|Arizona|14|Oklahoma State|41
@@ -303,6 +309,7 @@
 11/26/1941|Healani AC(HI)|6|Hawaii|21
 11/27/1941|Arkansas|13|Tulsa|6
 11/27/1941|Centenary(LA)|7|Louisiana Tech|39
+11/27/1941|Louisiana-Lafayette|6|Northwestern State|0
 11/28/1941|Alabama|21|Miami(FL)|7
 11/29/1941|Kansas State|21|Arizona|28
 11/29/1941|Army|6|Navy|14
