@@ -1,15 +1,16 @@
 09/15/1949|Cherry Point Marines(NC)|0|East Carolina|24
 09/16/1949|Furman|0|Georgia|25
-09/17/1949|Texas-El Paso|47|Brigham Young|6
+09/17/1949|UTEP|47|Brigham Young|6
 09/17/1949|Santa Clara|7|California|21
 09/17/1949|Nevada|41|Cincinnati|21
 09/17/1949|Presbyterian|7|Clemson|69
 09/17/1949|Colorado State|14|Colorado College|7
 09/17/1949|William & Mary|14|Houston|13
+09/17/1949|Louisiana Tech|19|Howard Payne(TX)|22
 09/17/1949|Willamette(OR)|0|Idaho|79
 09/17/1949|Dubuque(IA)|0|Iowa State|64
 09/17/1949|TCU|28|Kansas|0
-09/17/1949|Southern Mississippi|7|Kentucky|71
+09/17/1949|Southern Miss|7|Kentucky|71
 09/23/1949|Mississippi|40|Auburn|7
 09/23/1949|Oklahoma|46|Boston College|0
 09/23/1949|Pacific Fleet(CA)|27|Brigham Young|13
@@ -27,6 +28,7 @@
 09/24/1949|Saint Josephs(IN)|14|Ball State|28
 09/24/1949|South Carolina|6|Baylor|20
 09/24/1949|Rider(NJ)|14|Bowling Green|47
+09/24/1949|Louisiana Tech|18|Bradley|20
 09/24/1949|Buffalo|0|Colgate|32
 09/24/1949|Saint Mary's(CA)|7|California|29
 09/24/1949|Hardin-Simmons(TX)|21|Cincinnati|27
@@ -82,6 +84,7 @@
 10/01/1949|Iowa State|19|Kansas|6
 10/01/1949|Kentucky|47|Mississippi|0
 10/01/1949|Rice|7|LSU|14
+10/01/1949|Southwestern(TX)|0|Louisiana Tech|20
 10/07/1949|Duquesne|8|Alabama|48
 10/07/1949|Fresno State|13|Loyola Marymount(CA)|52
 10/07/1949|Hawaii|27|Denver|14
@@ -123,7 +126,7 @@
 10/14/1949|LSU|0|Georgia|7
 10/15/1949|Akron|6|Louisville|62
 10/15/1949|Tennessee|7|Alabama|7
-10/15/1949|Texas-El Paso|28|Arizona|0
+10/15/1949|UTEP|28|Arizona|0
 10/15/1949|Brigham Young|21|Arizona State|49
 10/15/1949|Texas|27|Arkansas|14
 10/15/1949|Middle Tennessee State|25|Arkansas State|12
@@ -149,6 +152,7 @@
 10/15/1949|Kansas State|21|Iowa State|25
 10/15/1949|Kansas|26|Oklahoma|48
 10/15/1949|Citadel|0|Kentucky|44
+10/15/1949|Louisiana Tech|26|Louisiana College|7
 10/20/1949|Clemson|13|South Carolina|27
 10/21/1949|Georgetown(DC)|10|Boston College|7
 10/21/1949|East Carolina|26|Newport News Apprentice|21
@@ -184,6 +188,7 @@
 10/22/1949|Kansas State|14|Memphis|21
 10/22/1949|Kentucky|7|SMU|20
 10/22/1949|North Carolina|7|LSU|13
+10/22/1949|Louisiana Tech|28|Northwestern State|21
 10/28/1949|Villanova|28|Boston College|14
 10/28/1949|Bowling Green|24|John Carroll(OH)|38
 10/28/1949|Edenton Flyers(NC)|0|East Carolina|67
@@ -219,6 +224,7 @@
 10/29/1949|Iowa State|7|Oklahoma|34
 10/29/1949|Kansas State|0|Kansas|38
 10/29/1949|Mississippi|7|LSU|34
+10/29/1949|Louisiana-Lafayette|0|Louisiana Tech|21
 11/04/1949|Eastern Michigan|7|Central Michigan|18
 11/04/1949|Moiliili Cards(HI)|0|Hawaii|34
 11/05/1949|Geneva(PA)|27|Akron|6
@@ -245,7 +251,7 @@
 11/05/1949|Florida State|6|West Alabama|13
 11/05/1949|San Diego State|18|Fresno State|7
 11/05/1949|Georgia Tech|30|Tennessee|13
-11/05/1949|Houston|14|Saint Bonaventure|20
+11/05/1949|Houston|14|St. Bonaventure|20
 11/05/1949|Oregon State|35|Idaho|25
 11/05/1949|Indiana|14|Illinois|33
 11/05/1949|Iowa|7|Minnesota|55
@@ -254,6 +260,7 @@
 11/05/1949|Kentucky|21|Xavier(OH)|7
 11/05/1949|Oklahoma|39|Kansas State|0
 11/05/1949|Vanderbilt|13|LSU|33
+11/05/1949|Louisiana Tech|20|SE Louisiana|14
 11/11/1949|Colorado State|16|Brigham Young|14
 11/11/1949|Pepperdine|7|Fresno State|20
 11/11/1949|Wahiawa Leilehua HS(HI)|6|Hawaii|76
@@ -287,13 +294,14 @@
 11/12/1949|Nebraska|7|Iowa State|0
 11/12/1949|Oklahoma State|26|Kansas State|14
 11/12/1949|Mississippi State|7|LSU|34
+11/12/1949|Southern Miss|13|Louisiana Tech|34
 11/18/1949|Missouri Valley|6|Arkansas State|7
 11/18/1949|Florida|13|Miami(FL)|28
 11/18/1949|Florida State|34|Tampa|7
 11/18/1949|Fresno State|0|Pacific|45
 11/18/1949|Kent State|21|Northern Illinois|19
 11/19/1949|Akron|14|Heidelberg(OH)|34
-11/19/1949|Southern Mississippi|26|Alabama|34
+11/19/1949|Southern Miss|26|Alabama|34
 11/19/1949|Michigan State|75|Arizona|0
 11/19/1949|William & Mary|20|Arkansas|0
 11/19/1949|Eastern Illinois|13|Ball State|47
@@ -318,6 +326,7 @@
 11/19/1949|Kansas State|27|Tulsa|48
 11/19/1949|Tennessee|6|Kentucky|0
 11/19/1949|SE Louisiana|7|LSU|48
+11/19/1949|Oklahoma City|0|Louisiana Tech|45
 11/24/1949|Union(TN)|12|Arkansas State|13
 11/24/1949|Miami(OH)|6|Cincinnati|27
 11/24/1949|San José State|43|Fresno State|7
