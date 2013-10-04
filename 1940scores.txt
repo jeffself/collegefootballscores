@@ -8,6 +8,7 @@
 09/21/1940|Luther(IA)|0|Iowa State|27
 09/21/1940|Blufton(OH)|0|Kent State|37
 09/21/1940|Baldwin-Wallace(OH)|7|Kentucky|59
+09/21/1940|Louisiana Tech|7|LSU|39
 09/27/1940|Alabama|26|Spring Hill(AL)|0
 09/27/1940|Arizona State|19|West Texas A&M|12
 09/27/1940|Samford(AL)|13|Auburn|27
@@ -37,6 +38,7 @@
 09/28/1940|Idaho|0|Oregon State|41
 09/28/1940|Emporia State(KS)|16|Kansas State|21
 09/28/1940|Assumption College(Canada)|0|Kent State|26
+09/28/1940|Mississippi|19|LSU|6
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/04/1940|Baylor|14|Denver|7
@@ -70,6 +72,7 @@
 10/05/1940|Kansas|0|Iowa State|7
 10/05/1940|Hiram(OH)|6|Kent State|19
 10/05/1940|Washington & Lee|12|Kentucky|47
+10/05/1940|Holy Cross|0|LSU|25
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -104,6 +107,7 @@
 10/12/1940|Missouri|24|Kansas State|13
 10/12/1940|Mount Union|0|Kent State|26
 10/12/1940|Kentucky|7|Vanderbilt|7
+10/12/1940|LSU|0|Rice|23
 10/18/1940|Brigham Young|20|Texas Tech|21
 10/18/1940|Fresno State|3|Pacific|0
 10/18/1940|Polar Bears(HI)|35|Hawaii|28
@@ -136,6 +140,7 @@
 10/19/1940|Nebraska|53|Kansas|2
 10/19/1940|Kansas State|0|Oklahoma|14
 10/19/1940|George Washington|0|Kentucky|24
+10/19/1940|Mercer(GA)|0|LSU|20
 10/24/1940|Clemson|21|South Carolina|13
 10/25/1940|Akron|7|Baldwin-Wallace(OH)|13
 10/25/1940|Eastern Michigan|0|Central Michigan|24
@@ -167,6 +172,7 @@
 10/26/1940|Oklahoma|20|Iowa State|7
 10/26/1940|Kansas|0|Kansas State|20
 10/26/1940|Kent State|31|Washington & Jefferson(PA)|7
+10/26/1940|Vanderbilt|0|LSU|7
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
 11/01/1940|Kansas|7|Villanova|33
 11/02/1940|Youngstown State|13|Akron|0
@@ -198,6 +204,7 @@
 11/02/1940|Indiana|6|Ohio State|21
 11/02/1940|Purdue|21|Iowa|6
 11/02/1940|Kansas State|0|Michigan State|32
+11/02/1940|LSU|0|Tennessee|28
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -228,6 +235,7 @@
 11/09/1940|Drake|6|Iowa State|7
 11/09/1940|Oklahoma|13|Kansas|0
 11/09/1940|Kansas State|13|South Carolina|20
+11/09/1940|Mississippi State|22|LSU|7
 11/11/1940|UTEP|6|Fresno State|16
 11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/15/1940|Kalamazoo(MI)|13|Eastern Michigan|3
@@ -296,6 +304,7 @@
 11/30/1940|Pittsburgh|7|Duke|12
 11/30/1940|Georgia Tech|19|Georgia|21
 11/30/1940|Kansas State|0|Nebraska|20
+11/30/1940|Tulane|0|LSU|14
 12/06/1940|Georgia|28|Miami(FL)|7
 12/07/1940|Villanova|10|Auburn|13
 12/07/1940|Texas|26|Florida|0
