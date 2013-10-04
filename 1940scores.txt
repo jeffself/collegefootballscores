@@ -1,4 +1,5 @@
 09/20/1940|Arkansas State|6|NW Mississippi JC|6
+09/20/1940|SE Louisiana|0|Louisiana-Lafayette|7
 09/21/1940|Detroit Tech|0|Akron|0
 09/21/1940|California-Davis|13|Arizona State|21
 09/21/1940|Ball State|0|Miami(OH)|0
@@ -17,6 +18,7 @@
 09/27/1940|Connecticut|10|Coast Guard|9
 09/27/1940|Iowa State|7|Denver|14
 09/27/1940|Kentucky|13|Xavier(OH)|0
+09/27/1940|Louisiana-Lafayette|6|Stephen F. Austin|0
 09/28/1940|Akron|0|Colgate|44
 09/28/1940|Northern Arizona|0|Arizona|41
 09/28/1940|Central Oklahoma|0|Arkansas|38
@@ -75,6 +77,7 @@
 10/05/1940|Hiram(OH)|6|Kent State|19
 10/05/1940|Washington & Lee|12|Kentucky|47
 10/05/1940|Holy Cross|0|LSU|25
+10/05/1940|Louisiana-Lafayette|0|Mississippi State|20
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -82,6 +85,7 @@
 10/11/1940|Florida|0|Villanova|28
 10/11/1940|Iowa State|25|Marquette|41
 10/11/1940|Western Kentucky|6|Louisiana Tech|7
+10/11/1940|Millsaps(MS)|0|Louisiana-Lafayette|0
 10/12/1940|Illinois Wesleyan|16|Akron|6
 10/12/1940|Samford(AL)|0|Alabama|31
 10/12/1940|Arizona|0|Utah|24
@@ -115,6 +119,7 @@
 10/18/1940|Fresno State|3|Pacific|0
 10/18/1940|Polar Bears(HI)|35|Hawaii|28
 10/18/1940|Kent State|13|Findlay(OH)|0
+10/18/1940|Louisiana-Lafayette|7|Spring Hill(AL)|13
 10/19/1940|Akron|7|Wayne State|7
 10/19/1940|Tennessee|27|Alabama|12
 10/19/1940|Centenary(LA)|6|Arizona|29
@@ -178,6 +183,7 @@
 10/26/1940|Kansas|0|Kansas State|20
 10/26/1940|Kent State|31|Washington & Jefferson(PA)|7
 10/26/1940|Vanderbilt|0|LSU|7
+10/26/1940|Louisiana College|0|Louisiana-Lafayette|6
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
 11/01/1940|Kansas|7|Villanova|33
 11/01/1940|Louisiana Tech|6|Louisiana-Lafayette|7
@@ -212,6 +218,7 @@
 11/02/1940|Kansas State|0|Michigan State|32
 11/02/1940|LSU|0|Tennessee|28
 11/08/1940|Arkansas State|7|Tennessee JC|14
+11/08/1940|Delta State|7|Louisiana-Lafayette|18
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
 11/09/1940|Gonzaga|7|Arizona State|7
@@ -248,6 +255,7 @@
 11/15/1940|Kalamazoo(MI)|13|Eastern Michigan|3
 11/15/1940|Healani AC(HI)|25|Hawaii|4
 11/15/1940|SE Louisiana|6|Louisiana Tech|26
+11/15/1940|Louisiana-Lafayette|14|Southern Miss|21
 11/16/1940|Alabama|14|Georgia Tech|13
 11/16/1940|Northern Colorado|0|Arizona State|41
 11/16/1940|Arkansas|0|SMU|28
@@ -303,6 +311,7 @@
 11/28/1940|Arkansas|27|Tulsa|21
 11/28/1940|Louisiana Tech|6|Centenary(LA)|0
 11/28/1940|Colorado State|0|Kansas|26
+11/28/1940|Northwestern State|7|Louisiana-Lafayette|12
 11/30/1940|Mississippi State|13|Alabama|0
 11/30/1940|Marquette|14|Arizona|17
 11/30/1940|Army|0|Navy|14
