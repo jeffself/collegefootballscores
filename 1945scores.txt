@@ -49,6 +49,7 @@
 09/29/1945|Bergstrom AAF(TX)|13|Iowa|14
 09/29/1945|Northern Iowa|13|Iowa State|48
 09/29/1945|Wichita State|6|Kansas State|13
+09/29/1945|Rice|0|LSU|42
 10/05/1945|Georgia|27|Miami(FL)|21
 10/06/1945|Alabama|26|LSU|7
 10/06/1945|TCU|14|Arkansas|27
@@ -102,6 +103,7 @@
 10/13/1945|Iowa|0|Purdue|40
 10/13/1945|Missouri|13|Iowa State|7
 10/13/1945|Kansas State|13|Marquette|55
+10/13/1945|Texas A&M|12|LSU|31
 10/19/1945|Florida|6|Miami(FL)|7
 10/20/1945|Arizona|46|San Diego State|0
 10/20/1945|Tennessee|7|Alabama|25
@@ -148,6 +150,7 @@
 10/27/1945|Iowa|0|Notre Dame|56
 10/27/1945|Kansas|13|Wichita State|0
 10/27/1945|Oklahoma|41|Kansas State|13
+10/27/1945|Vanderbilt|7|LSU|39
 11/02/1945|Clemson|6|Miami(FL)|7
 11/03/1945|Alabama|60|Kentucky|19
 11/03/1945|Texas A&M|34|Arkansas|0
@@ -171,6 +174,7 @@
 11/03/1945|Wisconsin|27|Iowa|7
 11/03/1945|Kansas State|13|Iowa State|40
 11/03/1945|Kansas|13|Nebraska|27
+11/03/1945|Mississippi|13|LSU|32
 11/09/1945|Eastern Michigan|14|Wayne State|13
 11/10/1945|Cal Poly-San Luis Obispo|6|Arizona|37
 11/10/1945|Arkansas|7|Rice|26
@@ -194,6 +198,7 @@
 11/10/1945|Kansas|0|Marquette|26
 11/10/1945|Nebraska|24|Kansas State|0
 11/10/1945|Kentucky|19|West Virginia|6
+11/10/1945|Mississippi State|27|LSU|20
 11/12/1945|Fresno State|6|Saint Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
@@ -242,6 +247,7 @@
 12/01/1945|Saint Mary's Pre-Flight(CA)|0|California|6
 12/01/1945|Wake Forest|13|Clemson|6
 12/01/1945|Georgia|33|Georgia Tech|0
+12/01/1945|LSU|33|Tulane|0
 01/01/1945|Alabama|34|Southern Cal|14
 01/01/1945|Georgia|20|Tulsa|6
 01/01/1946|Drake|13|Fresno State|12
