@@ -83,6 +83,7 @@
 10/09/1942|Illinois State|7|Eastern Michigan|14
 10/09/1942|Kansas State|0|Duquesne(PA)|33
 10/09/1942|Marshall|0|Louisiana Tech|26
+10/09/1942|SE Louisiana|13|Louisiana-Lafayette|35
 10/10/1942|Eastern Kentucky|6|Akron|0
 10/10/1942|Pensacola NAS(FL)|0|Alabama|27
 10/10/1942|Arizona|23|Arizona State|0
@@ -114,6 +115,7 @@
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
 10/16/1942|Eastern Michigan|0|Central Michigan|14
 10/16/1942|Sam Houston State|0|Louisiana Tech|46
+10/16/1942|Louisiana-Lafayette|0|Ouachita Baptist(AR)|6
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Tennessee|0|Alabama|8
 10/17/1942|Oklahoma State|6|Arizona|20
@@ -145,6 +147,7 @@
 10/17/1942|Mississippi|7|LSU|21
 10/22/1942|Clemson|18|South Carolina|6
 10/23/1942|Villanova|6|Auburn|14
+10/23/1942|Camp Beauregard(LA)|0|Louisiana-Lafayette|62
 10/24/1942|Alabama|14|Kentucky|0
 10/24/1942|Arizona|0|Marquette|39
 10/24/1942|New Mexico State|0|Arizona State|20
@@ -207,6 +210,7 @@
 10/31/1942|LSU|0|Tennessee|26
 11/06/1942|Hillsdale(MI)|13|Eastern Michigan|19
 11/06/1942|Iowa State|7|Villanova|32
+11/06/1942|Northwestern State|11|Louisiana-Lafayette|6
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -289,6 +293,7 @@
 11/21/1942|Iowa State|6|Kansas State|7
 11/21/1942|Kentucky|0|Tennessee|26
 11/21/1942|Louisiana Tech|33|Memphis|7
+11/21/1942|Louisiana-Lafayette|0|Sam Houston State|7
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Arkansas|7|Tulsa|40
 11/26/1942|Miami(OH)|12|Cincinnati|21
