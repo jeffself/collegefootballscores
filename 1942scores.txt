@@ -40,11 +40,13 @@
 09/26/1942|Kansas State|0|Texas|64
 09/26/1942|Kent State|14|Toledo|26
 09/26/1942|Texas A&M|7|LSU|16
+09/26/1942|UTEP|0|Louisiana Tech|20
 09/27/1942|Saint Mary's(CA)|0|California|6
 10/02/1942|Baylor|18|Oklahoma State|12
 10/02/1942|Wyoming|13|Brigham Young|6
-10/02/1942|Hope(MI)|9|Eastern Michigan|13
 10/02/1942|Kansas|0|Denver|17
+10/02/1942|Hope(MI)|9|Eastern Michigan|13
+10/02/1942|Waco Army Flying School(TX)|0|Louisiana Tech|45
 10/03/1942|Akron|0|Ohio|39
 10/03/1942|Mississippi State|6|Alabama|21
 10/03/1942|Utah|0|Arizona|14
@@ -80,6 +82,7 @@
 10/09/1942|Utah State|14|Colorado|31
 10/09/1942|Illinois State|7|Eastern Michigan|14
 10/09/1942|Kansas State|0|Duquesne(PA)|33
+10/09/1942|Marshall|0|Louisiana Tech|26
 10/10/1942|Eastern Kentucky|6|Akron|0
 10/10/1942|Pensacola NAS(FL)|0|Alabama|27
 10/10/1942|Arizona|23|Arizona State|0
@@ -110,6 +113,7 @@
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
 10/16/1942|Eastern Michigan|0|Central Michigan|14
+10/16/1942|Sam Houston State|0|Louisiana Tech|46
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Tennessee|0|Alabama|8
 10/17/1942|Oklahoma State|6|Arizona|20
@@ -167,10 +171,12 @@
 10/24/1942|Kansas|19|Kansas State|7
 10/24/1942|Western Reserve(OH)|28|Kent State|13
 10/24/1942|Georgia Navy Pre-Flight|0|LSU|34
+10/24/1942|Louisiana Tech|6|Northwestern State|10
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/30/1942|Wayne State|0|Central Michigan|13
 10/30/1942|Kentucky|27|George Washington|6
-10/31/1942|Baldwin-Wallace|22|Akron|0
+10/30/1942|Louisiana Tech|7|Louisiana-Lafayette|12
+10/31/1942|Baldwin-Wallace(OH)|22|Akron|0
 10/31/1942|Alabama|10|Georgia|21
 10/31/1942|Hardin-Simmons(TX)|34|Arizona|26
 10/31/1942|Arkansas|0|Texas A&M|41
@@ -232,6 +238,7 @@
 11/07/1942|Kansas State|0|Oklahoma|76
 11/07/1942|Kent State|20|Hiram(OH)|0
 11/07/1942|LSU|26|Fordham|13
+11/07/1942|SE Louisiana|14|Louisiana Tech|56
 11/11/1942|San Francisco|33|Fresno State|13
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/13/1942|Georgia|40|Tennessee-Chattanooga|0
@@ -255,13 +262,14 @@
 11/14/1942|Duke|13|North Carolina|13
 11/14/1942|Eastern Michigan|0|Albion(MI)|12
 11/14/1942|Florida|0|Miami(FL)|12
+11/14/1942|Louisiana Tech|13|Hardin-Simmons(TX)|47
 11/14/1942|Washington State|7|Idaho|0
 11/14/1942|Illinois|20|Ohio State|44
 11/14/1942|Kansas State|0|Indiana|54
 11/14/1942|Iowa|7|Minnesota|27
 11/14/1942|Kansas|13|Iowa State|20
 11/14/1942|West Virginia|7|Kentucky|0
-11/19/1942|John Carroll|0|Akron|0
+11/19/1942|John Carroll(OH)|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
 11/21/1942|Arkansas|14|Detroit|7
@@ -280,6 +288,7 @@
 11/21/1942|Indiana|20|Purdue|0
 11/21/1942|Iowa State|6|Kansas State|7
 11/21/1942|Kentucky|0|Tennessee|26
+11/21/1942|Louisiana Tech|33|Memphis|7
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Arkansas|7|Tulsa|40
 11/26/1942|Miami(OH)|12|Cincinnati|21
