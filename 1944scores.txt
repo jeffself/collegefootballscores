@@ -18,6 +18,8 @@
 09/23/1944|Indiana|18|Illinois|26
 09/23/1944|TCU|7|Kansas|0
 09/23/1944|Mississippi|7|Kentucky|27
+09/23/1944|Selman AAF(LA)|13|Louisiana Tech|6
+09/23/1944|Southwestern(TX)|26|Louisiana Tech|0
 09/29/1944|Arkansas|0|Oklahoma State|19
 09/29/1944|Samford(AL)|0|Auburn|32
 09/29/1944|Central Michigan|14|Michigan JV|13
@@ -38,6 +40,7 @@
 09/30/1944|Indiana|20|Michigan|0
 09/30/1944|Wichita State|6|Kansas State|6
 09/30/1944|Kentucky|13|Tennessee|26
+09/30/1944|Marine OCS(LA)|0|Louisiana Tech|72
 10/06/1944|Presbyterian(SC)|0|Georgia|67
 10/07/1944|Samford(AL)|7|Alabama|63
 10/07/1944|Arkansas|6|TCU|6
@@ -51,6 +54,7 @@
 10/07/1944|Middlebury(VT)|7|Connecticut|13
 10/07/1944|North Carolina Navy Pre-Flight|13|Duke|6
 10/07/1944|Jacksonville NAS(FL)|20|Florida|27
+10/07/1944|Fort Benning(GA)|33|Louisiana Tech|0
 10/07/1944|North Carolina|0|Georgia Tech|28
 10/07/1944|Purdue|35|Illinois|19
 10/07/1944|Iowa|0|Ohio State|34
@@ -113,10 +117,12 @@
 10/28/1944|Notre Dame|13|Illinois|7
 10/28/1944|Iowa|0|Indiana|32
 10/28/1944|Iowa State|14|Kansas State|0
+10/28/1944|Louisiana Tech|21|Northwestern State|7
 11/03/1944|Florida|13|Miami(FL)|0
 11/03/1944|Fresno State|0|Modesto JC(CA)|28
 11/04/1944|Georgia|14|Alabama|7
 11/04/1944|Arkansas|7|Texas A&M|6
+11/04/1944|Louisiana Tech|14|Arkansas-Monticello|20
 11/04/1944|Villanova|0|Army|83
 11/04/1944|Presbyterian(SC)|0|Auburn|57
 11/04/1944|Central Normal(IN)|25|Ball State|6
@@ -151,6 +157,7 @@
 11/11/1944|Iowa|7|Wisconsin|26
 11/11/1944|Iowa State|19|Nebraska|6
 11/11/1944|Kansas|14|Kansas State|18
+11/11/1944|Northwestern State|0|Louisiana Tech|0
 11/12/1944|Brooklyn(NY)|21|Boston College|24
 11/18/1944|Mississippi State|0|Alabama|19
 11/18/1944|Arkansas|12|SMU|20
@@ -169,6 +176,7 @@
 11/18/1944|Oklahoma|20|Kansas|0
 11/18/1944|Olathe NAS(KS)|0|Kansas State|0
 11/18/1944|West Virginia|9|Kentucky|40
+11/18/1944|Louisiana Tech|7|Louisiana-Lafayette|0
 11/23/1944|Arkansas|2|Tulsa|33
 11/23/1944|Colorado|16|Denver|14
 11/23/1944|Pacific|14|Fresno State|6
