@@ -34,6 +34,7 @@
 10/02/1943|Wisconsin|7|Iowa|5
 10/02/1943|Iowa Navy Pre-Flight|33|Iowa State|13
 10/02/1943|Washburn(KS)|7|Kansas State|13
+10/02/1943|Rice|7|LSU|20
 10/08/1943|Wake Forest|0|Georgia|7
 10/09/1943|Arkansas-Monticello|20|Arkansas|12
 10/09/1943|Temple|0|Army|51
@@ -49,6 +50,7 @@
 10/09/1943|Iowa Navy Pre-Flight|25|Iowa|0
 10/09/1943|Iowa State|13|Kansas|6
 10/09/1943|Kansas State|14|Missouri|47
+10/09/1943|Texas A&M|28|LSU|13
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|Army|52|Columbia|0
 10/16/1943|Bunker Hill NAS(IN)|13|Bowling Green|12
@@ -63,6 +65,7 @@
 10/16/1943|Nebraska|6|Iowa State|27
 10/16/1943|Washburn(KS)|0|Kansas|13
 10/16/1943|William Jewell(MO)|19|Kansas State|6
+10/16/1943|LSU Student Army Training Corps|7|LSU|28
 10/17/1943|Boston College Student Army Trg Corps|0|Boston College|7
 10/21/1943|Clemson|6|South Carolina|33
 10/23/1943|Army|39|Yale|7
@@ -90,6 +93,7 @@
 10/30/1943|Indiana|20|Ohio State|14
 10/30/1943|Iowa State|7|Oklahoma|21
 10/30/1943|Kansas State|2|Kansas|25
+10/30/1943|TCU|0|LSU|14
 10/31/1943|Brooklyn(NY)|6|Boston College|37
 11/06/1943|Arkansas|7|Rice|20
 11/06/1943|Notre Dame|26|Army|0
@@ -132,9 +136,11 @@
 11/20/1943|Iowa|33|Nebraska|13
 11/20/1943|Kansas State|0|Iowa State|48
 11/20/1943|Missouri|6|Kansas|7
+11/20/1943|LSU|0|Tulane|27
 11/25/1943|Arkansas|0|Tulsa|61
 11/25/1943|Kansas|7|Fort Riley(KS)|22
 11/27/1943|Army|0|Navy|13
 11/27/1943|Del Monte Pre-Flight(CA)|47|California|8
 11/27/1943|Georgia|0|Georgia Tech|48
 01/01/1944|Tulsa|18|Georgia Tech|20
+01/01/1944|Texas A&M|14|LSU|19
