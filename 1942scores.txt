@@ -210,7 +210,7 @@
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
-11/07/1942|Arizona State|6|Texas-El Paso|40
+11/07/1942|Arizona State|6|UTEP|40
 11/07/1942|Rice|40|Arkansas|9
 11/07/1942|Army|0|Notre Dame|13
 11/07/1942|Auburn|14|Georgia Navy Pre-Flight|41
@@ -244,7 +244,7 @@
 11/13/1942|Georgia|40|Tennessee-Chattanooga|0
 11/14/1942|Kent State|23|Akron|6
 11/14/1942|Alabama|0|Georgia Tech|7
-11/14/1942|Arizona|19|Texas-El Paso|7
+11/14/1942|Arizona|19|UTEP|7
 11/14/1942|Arizona State|14|Northern Arizona|2
 11/14/1942|Arkansas|6|SMU|14
 11/14/1942|Virginia Tech|7|Army|19

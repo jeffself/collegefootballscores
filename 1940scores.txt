@@ -153,7 +153,7 @@
 10/25/1940|Healani AC(HI)|28|Hawaii|13
 10/25/1940|Illinois Wesleyan|14|Louisiana Tech|20
 10/26/1940|Oklahoma State|0|Arizona|24
-10/26/1940|Arizona State|0|Texas-El Paso|0
+10/26/1940|Arizona State|0|UTEP|0
 10/26/1940|Arkansas|21|Mississippi|20
 10/26/1940|Austin Peay|0|Arkansas State|13
 10/26/1940|Lafayette|19|Army|0
@@ -183,7 +183,7 @@
 11/01/1940|Louisiana Tech|6|Louisiana-Lafayette|7
 11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
-11/02/1940|Arizona|20|Texas-El Paso|13
+11/02/1940|Arizona|20|UTEP|13
 11/02/1940|Arizona State|12|Northern Arizona|0
 11/02/1940|Arkansas|0|Texas A&M|17
 11/02/1940|Union(TN)|20|Arkansas State|0

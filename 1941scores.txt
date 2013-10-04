@@ -186,7 +186,7 @@
 10/31/1941|Louisiana-Lafayette|0|Louisiana Tech|12
 11/01/1941|Ohio Wesleyan|6|Akron|28
 11/01/1941|Kentucky|0|Alabama|30
-11/01/1941|Texas-El Paso|14|Arizona|33
+11/01/1941|UTEP|14|Arizona|33
 11/01/1941|Texas A&M|7|Arkansas|0
 11/01/1941|Notre Dame|0|Army|0
 11/01/1941|Auburn|0|Georgia|7
@@ -218,7 +218,7 @@
 11/07/1941|Na Alii(HI)|14|Hawaii|33
 11/08/1941|Alabama|19|Tulane|14
 11/08/1941|Northern Arizona|0|Arizona|41
-11/08/1941|Texas-El Paso|28|Arizona State|0
+11/08/1941|UTEP|28|Arizona State|0
 11/08/1941|Arkansas|12|Rice|21
 11/08/1941|Army|6|Harvard|20
 11/08/1941|Mississippi State|14|Auburn|7

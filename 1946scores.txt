@@ -96,7 +96,7 @@
 10/11/1946|Kentucky|13|Georgia|28
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
-10/12/1946|Texas-El Paso|13|Arizona|27
+10/12/1946|UTEP|13|Arizona|27
 10/12/1946|Arizona State|2|Nevada|74
 10/12/1946|Baylor|0|Arkansas|13
 10/12/1946|Arkansas State|13|Arkansas-Monticello|13
@@ -234,7 +234,7 @@
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
-11/09/1946|Texas-El Paso|34|Arizona State|20
+11/09/1946|UTEP|34|Arizona State|20
 11/09/1946|Rice|0|Arkansas|7
 11/09/1946|Henderson State|0|Arkansas State|0
 11/09/1946|Army|0|Notre Dame|0
@@ -300,7 +300,7 @@
 11/16/1946|Iowa State|0|Nebraska|33
 11/16/1946|Kansas|34|Kansas State|0
 11/16/1946|West Virginia|0|Kentucky|13
-11/22/1946|Brigham Young|14|Texas-El Paso|13
+11/22/1946|Brigham Young|14|UTEP|13
 11/22/1946|East Carolina|0|Lenoir-Rhyne(NC)|6
 11/22/1946|Fresno State|2|San José State|13
 11/22/1946|Houston|7|Texas State|21
