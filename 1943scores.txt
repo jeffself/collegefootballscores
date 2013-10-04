@@ -58,8 +58,9 @@
 10/16/1943|Salt Lake AFB(UT)|0|Colorado|14
 10/16/1943|North Carolina|7|Duke|14
 10/16/1943|Eastern Michigan|14|Wayne State(MI)|0
-10/16/1943|Georgia|7|Daniel Field(GA)|18
+10/16/1943|Fort Benning - 176th Infantry(GA)|7|Louisiana-Lafayette|20
 10/16/1943|Fort Benning - 300th Infantry(GA)|0|Georgia Tech|27
+10/16/1943|Georgia|7|Daniel Field(GA)|18
 10/16/1943|Pittsburgh|25|Illinois|33
 10/16/1943|Indiana|7|Iowa|7
 10/16/1943|Nebraska|6|Iowa State|27
@@ -81,6 +82,7 @@
 10/23/1943|Iowa State|12|Ottumwa NAS(IA)|13
 10/23/1943|Kansas|6|Nebraska|7
 10/23/1943|Oklahoma|37|Kansas State|0
+10/23/1943|Louisiana-Lafayette|27|Southwestern State(TX)|6
 10/24/1943|Camp Higham(MA)|6|Boston College|42
 10/29/1943|Samford(AL)|0|Georgia|39
 10/30/1943|Texas A&M|13|Arkansas|0
@@ -96,6 +98,7 @@
 10/30/1943|TCU|0|LSU|14
 10/31/1943|Brooklyn(NY)|6|Boston College|37
 11/06/1943|Arkansas|7|Rice|20
+11/06/1943|Louisiana-Lafayette|20|Arkansas-Monticello|20
 11/06/1943|Notre Dame|26|Army|0
 11/06/1943|Bowling Green|6|Miami(OH)|45
 11/06/1943|San Francisco|0|California|32
@@ -124,6 +127,7 @@
 11/13/1943|Iowa|14|Minnesota|33
 11/13/1943|Iowa State|20|Drake|0
 11/13/1943|Central Missouri State|12|Kansas|13
+11/13/1943|Lake Charles AAF(LA)|0|Louisiana-Lafayette|75
 11/14/1943|Boston College|6|Harvard|6
 11/19/1943|Oklahoma State|19|Arkansas|13
 11/20/1943|Brown|0|Army|59
@@ -142,5 +146,7 @@
 11/27/1943|Army|0|Navy|13
 11/27/1943|Del Monte Pre-Flight(CA)|47|California|8
 11/27/1943|Georgia|0|Georgia Tech|48
+11/27/1943|Louisiana-Lafayette|6|Randolph Field(TX)|0
+01/01/1944|Louisiana-Lafayette|24|Arkansas-Monticello|7
 01/01/1944|Tulsa|18|Georgia Tech|20
 01/01/1944|Texas A&M|14|LSU|19
