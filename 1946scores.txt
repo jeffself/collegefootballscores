@@ -13,6 +13,7 @@
 09/21/1946|North Dakota State|0|Iowa|39
 09/21/1946|TCU|0|Kansas|0
 09/21/1946|Mississippi|6|Kentucky|20
+09/21/1946|Louisiana Tech|6|Southern Miss|7
 09/22/1946|Western State(CO)|2|Brigham Young|13
 09/25/1946|Hawaiian Pine|6|Hawaii|14
 09/27/1946|Arkansas State|0|SE Missouri State|8
@@ -41,6 +42,7 @@
 09/28/1946|Mississippi|13|Florida|7
 09/28/1946|Fresno State|20|Santa Clara|7
 09/28/1946|Georgia Tech|9|Tennessee|13
+09/28/1946|Howard Payne(TX)|7|Louisiana Tech|13
 09/28/1946|Idaho|0|Stanford|45
 09/28/1946|Notre Dame|26|Illinois|6
 09/28/1946|Indiana|0|Michigan|21
@@ -88,6 +90,7 @@
 10/05/1946|Kent State|20|John Carroll(OH)|7
 10/05/1946|Kentucky|70|Xavier(OH)|0
 10/05/1946|Mississippi State|6|LSU|13
+10/05/1946|Louisiana College|6|Louisiana Tech|33
 10/09/1946|Olympic AC(CA)|0|Hawaii|27
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/11/1946|Kentucky|13|Georgia|28
@@ -105,6 +108,7 @@
 10/12/1946|Utah|35|Brigham Young|6
 10/12/1946|Buffalo|20|Hobart(NY)|7
 10/12/1946|Saint Mary's(CA)|13|California|20
+10/12/1946|Central Arkansas|0|Louisiana Tech|38
 10/12/1946|Central Michigan|60|Northern Michigan|0
 10/12/1946|Cincinnati|19|Dayton|0
 10/12/1946|Clemson|7|Wake Forest|19
@@ -157,6 +161,7 @@
 10/19/1946|Nebraska|16|Kansas|14
 10/19/1946|Kansas State|7|Oklahoma|28
 10/19/1946|Vanderbilt|7|Kentucky|10
+10/19/1946|Louisiana Tech|7|Mississippi|6
 10/24/1946|Clemson|14|South Carolina|26
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
@@ -192,6 +197,7 @@
 10/26/1946|Kansas|0|Tulsa|56
 10/26/1946|Kent State|12|Baldwin-Wallace(OH)|21
 10/26/1946|LSU|14|Vanderbilt|0
+10/26/1946|Louisiana Tech|14|Northwestern State|7
 11/01/1946|Hawaii|19|Pacific|13
 11/02/1946|Akron|13|Western Reserve(OH)|6
 11/02/1946|Alabama|0|Georgia|14
@@ -223,6 +229,8 @@
 11/02/1946|Kent State|12|Kalamazoo(MI)|0
 11/02/1946|Michigan State|14|Kentucky|39
 11/02/1946|Mississippi|21|LSU|34
+11/02/1946|Louisiana Tech|34|Louisiana-Lafayette|6
+11/08/1946|SE Louisiana|22|Louisiana Tech|14
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -260,6 +268,7 @@
 11/11/1946|Hawaii|7|Fresno State|2
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
 11/15/1946|LSU|20|Miami(FL)|7
+11/15/1946|Oklahoma City|6|Louisiana Tech|2
 11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
@@ -331,6 +340,7 @@
 11/30/1946|Holy Cross|13|Boston College|6
 11/30/1946|Georgia Tech|7|Georgia|35
 11/30/1946|Tulane|27|LSU|41
+11/30/1946|Southwestern(TX)|20|Louisiana Tech|34
 12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
 12/07/1946|Nevada|26|Hawaii|7
 12/11/1946|Fresno State|18|Wahiawa Leilehua HS Alumni(HI)|6
