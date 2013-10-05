@@ -51,10 +51,12 @@
 09/28/1946|Kansas State|7|Hardin-Simmons(TX)|21
 09/28/1946|Kent State|40|Hiram(OH)|0
 09/28/1946|LSU|7|Rice|6
+09/28/1946|Stephen F. Austin|2|Louisiana-Lafayette|13
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/02/1946|Kaala(HI)|0|Hawaii|44
 10/04/1946|Brigham Young|13|Denver|26
 10/04/1946|Eastern Michigan|0|Hope(MI)|13
+10/04/1946|Louisiana-Lafayette|13|SE Louisiana|27
 10/04/1946|Georgia|35|Temple|7
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
 10/05/1946|Alabama|14|South Carolina|6
@@ -129,6 +131,7 @@
 10/12/1946|Kent State|39|Blufton(OH)|0
 10/12/1946|Texas A&M|9|LSU|33
 10/16/1946|Lanakila(HI)|6|Hawaii|73
+10/18/1946|Louisiana-Lafayette|0|Southern Miss|6
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
 10/19/1946|Pacific|13|Arizona|47
@@ -198,6 +201,7 @@
 10/26/1946|Kent State|12|Baldwin-Wallace(OH)|21
 10/26/1946|LSU|14|Vanderbilt|0
 10/26/1946|Louisiana Tech|14|Northwestern State|7
+10/26/1946|Louisiana-Lafayette|40|Louisiana College|0
 11/01/1946|Hawaii|19|Pacific|13
 11/02/1946|Akron|13|Western Reserve(OH)|6
 11/02/1946|Alabama|0|Georgia|14
@@ -231,6 +235,7 @@
 11/02/1946|Mississippi|21|LSU|34
 11/02/1946|Louisiana Tech|34|Louisiana-Lafayette|6
 11/08/1946|SE Louisiana|22|Louisiana Tech|14
+11/08/1946|Troy(AL)|0|Louisiana-Lafayette|64
 11/09/1946|Wooster(OH)|20|Akron|26
 11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
@@ -322,6 +327,7 @@
 11/23/1946|Kansas State|7|New Mexico|14
 11/23/1946|Tennessee|7|Kentucky|0
 11/23/1946|Fordham|0|LSU|40
+11/23/1946|Louisiana-Lafayette|14|Northwestern State|0
 11/27/1946|Healani AC(HI)|6|Hawaii|58
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
@@ -332,6 +338,7 @@
 11/28/1946|Fresno State|13|Idaho|12
 11/28/1946|Sam Houston State|28|Houston|6
 11/28/1946|Kansas|20|Missouri|19
+11/29/1946|Union(TN)|0|Louisiana-Lafayette|25
 11/30/1946|Kansas State|7|Arizona|28
 11/30/1946|Mississippi State|7|Alabama|24
 11/30/1946|Army|21|Navy|18
