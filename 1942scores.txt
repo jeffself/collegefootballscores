@@ -1,3 +1,4 @@
+09/17/1942|Rio Grande(OH)|0|Louisville|25
 09/18/1942|Western Reserve(OH)|39|Akron|0
 09/18/1942|Tennessee-Chattanooga|7|Auburn|20
 09/19/1942|Franklin(IN)|0|Ball State|38
@@ -99,6 +100,7 @@
 10/10/1942|Colorado State|0|Denver|26
 10/10/1942|Wesleyan(CT)|20|Connecticut|7
 10/10/1942|Georgia Navy Pre-Flight|26|Duke|12
+10/10/1942|Louisville|20|Evansville|0
 10/10/1942|Mississippi|13|Georgia|48
 10/10/1942|Tennessee-Chattanooga|12|Georgia Tech|30
 10/10/1942|Idaho|28|Eastern Washington|7
@@ -131,15 +133,16 @@
 10/17/1942|Ohio|7|Cincinnati|26
 10/17/1942|New Mexico|0|Colorado|12
 10/17/1942|Connecticut|26|Maine|7
+10/17/1942|Davidson|0|Georgia Tech|33
+10/17/1942|DePauw(IN)|19|Louisville|6
 10/17/1942|Duke|34|Colgate|0
+10/17/1942|Drake|6|Iowa State|29
 10/17/1942|Florida|3|Villanova|13
 10/17/1942|4th Air Force(CA)|0|Fresno State|20
 10/17/1942|Tulane|0|Georgia|42
-10/17/1942|Davidson|0|Georgia Tech|33
 10/17/1942|Idaho|7|Stanford|54
 10/17/1942|Illinois|12|Iowa|7
 10/17/1942|Indiana|19|Pittsburgh|7
-10/17/1942|Drake|6|Iowa State|29
 10/17/1942|Oklahoma|25|Kansas|0
 10/17/1942|Missouri|46|Kansas State|2
 10/17/1942|Patterson Field(OH)|0|Kent State|24
@@ -169,6 +172,7 @@
 10/24/1942|Georgia Tech|21|Navy|0
 10/24/1942|Idaho|0|Oregon|28
 10/24/1942|Notre Dame|21|Illinois|14
+10/24/1942|Indiana State|25|Louisville|7
 10/24/1942|Iowa|14|Indiana|13
 10/24/1942|Iowa State|6|Missouri|45
 10/24/1942|Kansas|19|Kansas State|7
