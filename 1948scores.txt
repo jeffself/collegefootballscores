@@ -51,6 +51,7 @@
 09/25/1948|Iowa State|15|Nebraska|19
 09/25/1948|Xavier(OH)|7|Kentucky|48
 09/25/1948|Troy(AL)|19|Louisiana-Lafayette|26
+09/25/1948|Louisville|7|Memphis|13
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -86,9 +87,11 @@
 10/02/1948|Wooster(OH)|0|Kent State|39
 10/02/1948|Mississippi|20|Kentucky|7
 10/02/1948|LSU|26|Rice|13
+10/02/1948|Saint Joseph's(IN)|0|Louisville|20
 10/08/1948|Duquesne|6|Alabama|48
 10/08/1948|Waynesburg(PA)|7|Kent State|34
 10/08/1948|Louisiana-Lafayette|19|SE Louisiana|12
+10/08/1948|Louisville|26|Xavier(OH)|47
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons(TX)|14|Arizona|20
 10/09/1948|Arizona State|17|Utah State|22
@@ -197,6 +200,7 @@
 10/23/1948|LSU|7|North Carolina|34
 10/23/1948|Louisiana Tech|10|Northwestern State|7
 10/23/1948|Louisiana-Lafayette|26|Louisiana College|7
+10/23/1948|Western Kentucky|6|Louisville|19
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/29/1948|Duke JV|19|East Carolina|13
@@ -268,6 +272,7 @@
 11/06/1948|LSU|7|Vanderbilt|48
 11/06/1948|SE Louisiana|13|Louisiana Tech|19
 11/06/1948|Sam Houston State|12|Louisiana-Lafayette|12
+11/06/1948|Catawba|21|Louisville|33
 11/11/1948|Nevada|53|Fresno State|7
 11/11/1948|Wahiawa Leilehua HS(HI)|6|Hawaii|39
 11/12/1948|Kent State|31|Akron|0
@@ -304,6 +309,7 @@
 11/13/1948|Mississippi State|7|LSU|0
 11/13/1948|Louisiana Tech|6|Southern Miss|20
 11/13/1948|Pensacola NAS(FL)|6|Louisiana-Lafayette|27
+11/13/1948|Louisville|6|Evansville|18
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
 11/19/1948|Fresno State|6|San José State|41
@@ -336,6 +342,7 @@
 11/20/1948|Kansas State|6|Oklahoma State|42
 11/20/1948|Kentucky|0|Tennessee|0
 11/20/1948|Louisiana-Lafayette|28|Northwestern State|7
+11/20/1948|Bradley|14|Louisville|31
 11/24/1948|Ford Island(HI)|7|Hawaii|14
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/25/1948|Pacific|55|Fresno State|0
@@ -355,6 +362,7 @@
 11/27/1948|Florida State|20|Troy(AL)|13
 11/27/1948|Georgia Tech|13|Georgia|21
 11/27/1948|Tulane|46|LSU|0
+11/27/1948|Louisville|12|Washington(MO)|27
 12/04/1948|Auburn|0|Alabama|55
 12/04/1948|Clemson|20|Citadel|0
 12/04/1948|Tampa|12|Florida State|33
