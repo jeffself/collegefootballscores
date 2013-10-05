@@ -2,6 +2,7 @@
 09/17/1948|East Carolina|6|Cherry Point Marines(NC)|13
 09/17/1948|Cardinals(HI)|0|Hawaii|47
 09/18/1948|Abilene Christian|6|Arkansas|40
+09/18/1948|Louisiana-Lafayette|0|Austin(TX)|14
 09/18/1948|San Diego State|6|Brigham Young|14
 09/18/1948|Santa Clara|19|California|41
 09/18/1948|Ferris State(MI)|6|Central Michigan|27
@@ -49,6 +50,7 @@
 09/25/1948|Marquette|12|Iowa|14
 09/25/1948|Iowa State|15|Nebraska|19
 09/25/1948|Xavier(OH)|7|Kentucky|48
+09/25/1948|Troy(AL)|19|Louisiana-Lafayette|26
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
@@ -86,6 +88,7 @@
 10/02/1948|LSU|26|Rice|13
 10/08/1948|Duquesne|6|Alabama|48
 10/08/1948|Waynesburg(PA)|7|Kent State|34
+10/08/1948|Louisiana-Lafayette|19|SE Louisiana|12
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons(TX)|14|Arizona|20
 10/09/1948|Arizona State|17|Utah State|22
@@ -122,6 +125,7 @@
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Brigham Young|20|UTEP|34
+10/15/1948|Louisiana-Lafayette|6|Southern Miss|26
 10/16/1948|Louisville|13|Akron|0
 10/16/1948|Alabama|6|Tennessee|21
 10/16/1948|Arizona|7|Michigan State|61
@@ -192,6 +196,7 @@
 10/23/1948|Kentucky|25|Marquette|0
 10/23/1948|LSU|7|North Carolina|34
 10/23/1948|Louisiana Tech|10|Northwestern State|7
+10/23/1948|Louisiana-Lafayette|26|Louisiana College|7
 10/29/1948|Vanderbilt|47|Auburn|0
 10/29/1948|Clemson|26|Boston College|19
 10/29/1948|Duke JV|19|East Carolina|13
@@ -262,6 +267,7 @@
 11/06/1948|Villanova|13|Kentucky|13
 11/06/1948|LSU|7|Vanderbilt|48
 11/06/1948|SE Louisiana|13|Louisiana Tech|19
+11/06/1948|Sam Houston State|12|Louisiana-Lafayette|12
 11/11/1948|Nevada|53|Fresno State|7
 11/11/1948|Wahiawa Leilehua HS(HI)|6|Hawaii|39
 11/12/1948|Kent State|31|Akron|0
@@ -297,6 +303,7 @@
 11/13/1948|Kansas|20|Kansas State|14
 11/13/1948|Mississippi State|7|LSU|0
 11/13/1948|Louisiana Tech|6|Southern Miss|20
+11/13/1948|Pensacola NAS(FL)|6|Louisiana-Lafayette|27
 11/15/1948|Brigham Young|0|Colorado State|20
 11/19/1948|Arkansas State|13|Memphis|34
 11/19/1948|Fresno State|6|San José State|41
@@ -328,6 +335,7 @@
 11/20/1948|Oklahoma|60|Kansas|7
 11/20/1948|Kansas State|6|Oklahoma State|42
 11/20/1948|Kentucky|0|Tennessee|0
+11/20/1948|Louisiana-Lafayette|28|Northwestern State|7
 11/24/1948|Ford Island(HI)|7|Hawaii|14
 11/25/1948|Miami(OH)|43|Cincinnati|19
 11/25/1948|Pacific|55|Fresno State|0
