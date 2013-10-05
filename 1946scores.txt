@@ -16,6 +16,7 @@
 09/21/1946|Louisiana Tech|6|Southern Miss|7
 09/22/1946|Western State(CO)|2|Brigham Young|13
 09/25/1946|Hawaiian Pine|6|Hawaii|14
+09/26/1946|Louisville|13|Evansville|7
 09/27/1946|Arkansas State|0|SE Missouri State|8
 09/27/1946|Southern Miss|12|Auburn|13
 09/27/1946|Wake Forest|12|Boston College|6
@@ -56,8 +57,9 @@
 10/02/1946|Kaala(HI)|0|Hawaii|44
 10/04/1946|Brigham Young|13|Denver|26
 10/04/1946|Eastern Michigan|0|Hope(MI)|13
-10/04/1946|Louisiana-Lafayette|13|SE Louisiana|27
 10/04/1946|Georgia|35|Temple|7
+10/04/1946|Louisiana-Lafayette|13|SE Louisiana|27
+10/04/1946|Wittenberg(OH)|0|Louisville|19
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
 10/05/1946|Alabama|14|South Carolina|6
 10/05/1946|Arizona|7|Utah|14
@@ -96,6 +98,7 @@
 10/09/1946|Olympic AC(CA)|0|Hawaii|27
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/11/1946|Kentucky|13|Georgia|28
+10/11/1946|Louisville|20|Georgetown(KY)|0
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/12/1946|UTEP|13|Arizona|27
@@ -165,10 +168,12 @@
 10/19/1946|Kansas State|7|Oklahoma|28
 10/19/1946|Vanderbilt|7|Kentucky|10
 10/19/1946|Louisiana Tech|7|Mississippi|6
+10/19/1946|Louisville|19|Western Kentucky|20
 10/24/1946|Clemson|14|South Carolina|26
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
 10/25/1946|Brigham Young|0|San José St|14
+10/25/1946|Georgetown(KY)|0|Louisville|20
 10/26/1946|Toledo|33|Akron|13
 10/26/1946|Kentucky|7|Alabama|21
 10/26/1946|Arizona|0|Marquette|20
@@ -234,6 +239,7 @@
 11/02/1946|Michigan State|14|Kentucky|39
 11/02/1946|Mississippi|21|LSU|34
 11/02/1946|Louisiana Tech|34|Louisiana-Lafayette|6
+11/02/1946|Saint Joseph's(IN)|7|Louisville|13
 11/08/1946|SE Louisiana|22|Louisiana Tech|14
 11/08/1946|Troy(AL)|0|Louisiana-Lafayette|64
 11/09/1946|Wooster(OH)|20|Akron|26
@@ -258,6 +264,7 @@
 11/09/1946|Utah|13|Colorado State|0
 11/09/1946|Connecticut|33|Rhode Island|0
 11/09/1946|Wake Forest|0|Duke|13
+11/09/1946|Louisville|7|Eastern Kentucky|28
 11/09/1946|East Carolina|26|Atlantic Christian(NC)|6
 11/09/1946|Florida|14|Georgia|33
 11/09/1946|Navy|20|Georgia Tech|28
@@ -302,9 +309,10 @@
 11/16/1946|Portland(OR)|6|Idaho|20
 11/16/1946|Ohio State|7|Illinois|16
 11/16/1946|Iowa|6|Minnesota|16
-11/16/1946|Iowa State|0|Nebraska|33
 11/16/1946|Kansas|34|Kansas State|0
 11/16/1946|West Virginia|0|Kentucky|13
+11/16/1946|Union(TN)|0|Louisville|25
+11/16/1946|Iowa State|0|Nebraska|33
 11/22/1946|Brigham Young|14|UTEP|13
 11/22/1946|East Carolina|0|Lenoir-Rhyne(NC)|6
 11/22/1946|Fresno State|2|San José State|13
