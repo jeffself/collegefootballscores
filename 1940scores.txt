@@ -11,6 +11,7 @@
 09/21/1940|Blufton(OH)|0|Kent State|37
 09/21/1940|Baldwin-Wallace(OH)|7|Kentucky|59
 09/21/1940|Louisiana Tech|7|LSU|39
+09/21/1940|Morehead State|6|Marshall|13
 09/26/1940|Louisiana Tech|0|Ouachita Baptist(AR)|17
 09/27/1940|Alabama|26|Spring Hill(AL)|0
 09/27/1940|Arizona State|19|West Texas A&M|12
@@ -43,6 +44,7 @@
 09/28/1940|Emporia State(KS)|16|Kansas State|21
 09/28/1940|Assumption College(Canada)|0|Kent State|26
 09/28/1940|Mississippi|19|LSU|6
+09/28/1940|Virginia Tech|7|Marshall|13
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/04/1940|Baylor|14|Denver|7
@@ -80,6 +82,7 @@
 10/05/1940|Washington & Lee|12|Kentucky|47
 10/05/1940|Holy Cross|0|LSU|25
 10/05/1940|Louisiana-Lafayette|0|Mississippi State|20
+10/05/1940|Dayton|12|Marshall|25
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Wyoming|0|Brigham Young|20
@@ -118,6 +121,7 @@
 10/12/1940|Kentucky|7|Vanderbilt|7
 10/12/1940|LSU|0|Rice|23
 10/12/1940|Louisville|6|Saint Joseph's(IN)|24
+10/12/1940|Marshall|6|Toledo|7
 10/18/1940|Brigham Young|20|Texas Tech|21
 10/18/1940|Centre(KY)|28|Louisville|0
 10/18/1940|Fresno State|3|Pacific|0
@@ -154,6 +158,7 @@
 10/19/1940|George Washington|0|Kentucky|24
 10/19/1940|Mercer(GA)|0|LSU|20
 10/19/1940|Louisiana Tech|0|Northwestern State|13
+10/19/1940|Marshall|19|Wake Forest|31
 10/24/1940|Clemson|21|South Carolina|13
 10/25/1940|Akron|7|Baldwin-Wallace(OH)|13
 10/25/1940|Alfred Holbrook(OH)|7|Louisville|38
@@ -189,9 +194,11 @@
 10/26/1940|Kent State|31|Washington & Jefferson(PA)|7
 10/26/1940|Vanderbilt|0|LSU|7
 10/26/1940|Louisiana College|0|Louisiana-Lafayette|6
+10/26/1940|Scranton(PA)|6|Marshall|50
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
 11/01/1940|Kansas|7|Villanova|33
 11/01/1940|Louisiana Tech|6|Louisiana-Lafayette|7
+11/01/1940|Charleston(WV)|6|Marshall|33
 11/02/1940|Youngstown State|13|Akron|0
 11/02/1940|Alabama|25|Kentucky|0
 11/02/1940|Arizona|20|UTEP|13
@@ -225,6 +232,7 @@
 11/02/1940|LSU|0|Tennessee|28
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/08/1940|Delta State|7|Louisiana-Lafayette|18
+11/08/1940|Detroit Tech|0|Marshall|67
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
 11/09/1940|Gonzaga|7|Arizona State|7
@@ -293,6 +301,7 @@
 11/16/1940|Kent State|14|Baldwin-Wallace(OH)|7
 11/16/1940|Kentucky|7|West Virginia|9
 11/16/1940|Louisville|6|Long Island-Brooklyn|29
+11/16/1940|Xavier(OH)|0|Marshall|41
 11/21/1940|John Carroll|0|Akron|47
 11/21/1940|Arkansas|7|Fordham|27
 11/21/1940|Bowling Green|0|Wayne State|19
@@ -301,6 +310,7 @@
 11/21/1940|Colorado School of Mines|0|Fresno State|28
 11/21/1940|Idaho|6|Utah|13
 11/21/1940|Kansas|20|Missouri|45
+11/21/1940|West Virginia Wesleyan|0|Marshall|67
 11/22/1940|East Carolina|44|Newport News Apprentice|7
 11/23/1940|Vanderbilt|21|Alabama|25
 11/23/1940|New Mexico|13|Arizona|12
