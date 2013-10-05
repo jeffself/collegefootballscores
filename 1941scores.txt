@@ -7,6 +7,7 @@
 09/20/1941|Randolph-Macon(VA)|0|Florida|26
 09/20/1941|Portland(OR)|6|Hawaii|33
 09/20/1941|Louisiana Tech|0|LSU|25
+09/22/1941|Rio Grande(OH)|0|Louisville|58
 09/24/1941|Pacific|0|Hawaii|14
 09/25/1941|Texas A&M-Kingsville|35|Arizona State|7
 09/26/1941|Akron|10|Muskingum|0
@@ -66,6 +67,7 @@
 10/04/1941|Connecticut|6|Massachusetts|8
 10/04/1941|Tennessee|0|Duke|19
 10/04/1941|Eastern Michigan|0|Illinois State|0
+10/04/1941|Evansville|6|Louisville|31
 10/04/1941|Tampa|6|Florida|46
 10/04/1941|South Carolina|6|Georgia|34
 10/04/1941|Tennessee-Chattanooga|0|Georgia Tech|20
@@ -115,6 +117,7 @@
 10/11/1941|Mississippi State|0|LSU|0
 10/17/1941|Baylor|6|Villanova|14
 10/17/1941|Na Alii(HI)|6|Hawaii|19
+10/17/1941|Louisville|13|Transylvania(KY)|0
 10/18/1941|Ohio|0|Akron|0
 10/18/1941|Alabama|9|Tennessee|2
 10/18/1941|Arizona|31|New Mexico|6
@@ -150,6 +153,7 @@
 10/18/1941|Louisiana Tech|10|Northwestern State|0
 10/18/1941|Spring Hill(AL)|0|Louisiana-Lafayette|39
 10/23/1941|Clemson|14|South Carolina|18
+10/23/1941|Louisville|6|Georgetown(KY)|13
 10/24/1941|Baldwin-Wallace(OH)|14|Akron|0
 10/24/1941|Arkansas|9|Detroit|6
 10/24/1941|Arkansas State|0|Austin Peay|34
@@ -205,6 +209,7 @@
 11/01/1941|Cincinnati|0|Dayton|3
 11/01/1941|Colorado|6|Utah|46
 11/01/1941|Colorado State|6|Denver|6
+11/01/1941|Louisville|6|DePauw(IN)|13
 11/01/1941|Middlebury(VT)|0|Connecticut|7
 11/01/1941|Duke|14|Georgia Tech|0
 11/01/1941|Indiana State|14|Eastern Michigan|0
@@ -241,6 +246,7 @@
 11/08/1941|Eastern Michigan|0|Wayne State(MI)|12
 11/08/1941|Florida|3|Georgia|19
 11/08/1941|Kentucky|13|Georgia Tech|20
+11/08/1941|Louisville|21|Hanover(IN)|6
 11/08/1941|Idaho|0|Washington State|26
 11/08/1941|Iowa|21|Illinois|0
 11/08/1941|Indiana|14|Northwestern|20
@@ -282,6 +288,7 @@
 11/15/1941|Iowa State|13|Drake|14
 11/15/1941|Kansas State|16|Kansas|20
 11/15/1941|Rhodes(TN)|19|Kentucky|33
+11/15/1941|Vanderbilt|68|Louisville|0
 11/19/1941|Hawaii Bears|13|Hawaii|27
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll(OH)|12|Akron|21
