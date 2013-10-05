@@ -55,6 +55,7 @@
 09/27/1947|Indiana|17|Nebraska|0
 09/27/1947|Kent State|13|Mount Union|6
 09/27/1947|Rice|14|LSU|21
+09/27/1947|Louisiana-Lafayette|24|Stephen F. Austin|6
 10/03/1947|Baldwin-Wallace(OH)|28|Akron|0
 10/03/1947|Central Michigan|6|Northern Illinois|6
 10/03/1947|Illinois State|6|Eastern Michigan|0
@@ -89,6 +90,7 @@
 10/04/1947|New Mexico|20|Kansas State|18
 10/04/1947|Kent State|7|Miami(OH)|35
 10/04/1947|Kentucky|20|Xavier(OH)|7
+10/04/1947|SE Louisiana|7|Louisiana-Lafayette|40
 10/10/1947|Kansas State|13|Boston College|49
 10/11/1947|Akron|12|Case Institute(OH)|6
 10/11/1947|Duquesne|0|Alabama|26
@@ -124,6 +126,7 @@
 10/11/1947|Kent State|6|Wooster(OH)|13
 10/11/1947|Texas A&M|13|LSU|19
 10/11/1947|Southern Miss|7|Louisiana Tech|6
+10/11/1947|West Alabama|0|Louisiana-Lafayette|26
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -161,6 +164,7 @@
 10/18/1947|Kalamazoo(MI)|0|Kent State|13
 10/18/1947|Kentucky|14|Vanderbilt|0
 10/18/1947|Louisiana Tech|30|Louisiana College|12
+10/18/1947|Southern Miss|15|Louisiana-Lafayette|7
 10/22/1947|Olympic AC(CA)|15|Hawaii|40
 10/23/1947|Ball State|9|Anderson(IN)|0
 10/23/1947|Clemson|19|South Carolina|21
@@ -195,6 +199,7 @@
 10/25/1947|Kentucky|7|Michigan State|6
 10/25/1947|Vanderbilt|13|LSU|19
 10/25/1947|Louisiana Tech|24|Northwestern State|0
+10/25/1947|Louisiana College|7|Louisiana-Lafayette|38
 10/29/1947|Kaialums(HI)|0|Hawaii|65
 10/31/1947|Western Reserve|18|Akron|0
 10/31/1947|Clemson|6|Georgia|21
@@ -245,6 +250,7 @@
 11/08/1947|San José St|28|Brigham Young|19
 11/08/1947|St. Lawrence(NY)|7|Buffalo|50
 11/08/1947|Washington|7|California|13
+11/08/1947|Louisiana-Lafayette|21|Centenary(LA)|7
 11/08/1947|Miami(FL)|7|Cincinnati|20
 11/08/1947|Furman|7|Clemson|35
 11/08/1947|Colorado|12|Utah State|35
@@ -332,6 +338,7 @@
 11/27/1947|Troy(AL)|36|Florida State|6
 11/27/1947|Fresno State|21|San José State|20
 11/27/1947|Houston|0|Sam Houston State|23
+11/27/1947|Northwestern State|7|Louisiana-Lafayette|9
 11/29/1947|Alabama|21|Miami(FL)|6
 11/29/1947|Kansas|54|Arizona|28
 11/29/1947|Arizona State|13|Nevada|33
