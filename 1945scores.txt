@@ -24,6 +24,7 @@
 09/22/1945|Iowa State|6|Northwestern|18
 09/22/1945|TCU|18|Kansas|0
 09/22/1945|Lake Charles AAF(LA)|2|Louisiana Tech|7
+09/22/1945|Lake Charles AAF(LA)|21|Louisiana-Lafayette|7
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/28/1945|Kansas|20|Denver|19
 09/29/1945|Alabama|21|Keesler Field(MS)|0
@@ -52,6 +53,7 @@
 09/29/1945|Wichita State|6|Kansas State|13
 09/29/1945|Rice|0|LSU|42
 09/29/1945|Samford(AL)|6|Louisiana Tech|32
+09/29/1945|Louisiana-Lafayette|0|Mississippi State|31
 10/05/1945|Georgia|27|Miami(FL)|21
 10/05/1945|Louisiana Tech|14|Louisiana-Lafayette|12
 10/06/1945|Alabama|26|LSU|7
@@ -132,6 +134,7 @@
 10/20/1945|Kansas State|7|Missouri|41
 10/20/1945|Kentucky|6|Vanderbilt|19
 10/20/1945|Southwestern(TX)|14|Louisiana Tech|20
+10/20/1945|Louisiana-Lafayette|0|Northwestern State|0
 10/25/1945|Clemson|0|South Carolina|0
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
@@ -234,6 +237,7 @@
 11/22/1945|Miami(OH)|28|Cincinnati|14
 11/22/1945|Colorado|8|Denver|14
 11/22/1945|Fresno State|16|Pacific|0
+11/22/1945|Northwestern State|13|Louisiana-Lafayette|0
 11/23/1945|Arkansas|13|Tulsa|45
 11/24/1945|Pensacola NAS(FL)|6|Alabama|55
 11/24/1945|Louisiana Tech|0|Auburn|29
