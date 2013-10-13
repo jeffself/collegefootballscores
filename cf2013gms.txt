@@ -1460,7 +1460,7 @@
 28-Sep-13|Cornell|23|Yale|38
 03-Oct-13|Texas|31|Iowa St|30
 03-Oct-13|Western Kentucky|31|Louisiana-Monroe|10
-03-Oct-13|Harding|38|Southern Arkansas|14
+03-Oct-13|Harding|28|Southern Arkansas|14
 03-Oct-13|UCLA|34|Utah|27
 03-Oct-13|Delta St|14|West Alabama|48
 04-Oct-13|New Haven|21|Assumption|18
@@ -1687,7 +1687,7 @@
 05-Oct-13|SW Assem of God|21|Oklahoma Baptist|10
 05-Oct-13|Kansas St|29|Oklahoma St|33
 05-Oct-13|Liberty|17|Old Dominion|21
-05-Oct-13|Baldwin-Wallace|7|Otterbein|19
+05-Oct-13|Baldwin Wallace|7|Otterbein|19
 05-Oct-13|Dartmouth|31|Pennsylvania|37
 05-Oct-13|Avila|7|Peru St|24
 05-Oct-13|Abilene Christian|20|Pittsburg St|28
@@ -1805,3 +1805,338 @@
 05-Oct-13|Bowie St|21|Winston-Salem St|56
 05-Oct-13|Presbyterian|14|Wofford|55
 05-Oct-13|Wabash|48|Wooster|14
+06-Oct-13|Adams St|0|Chadron St|31
+10-Oct-13|San Diego St|27|Air Force|20
+10-Oct-13|Eastern Illinois|63|Austin Peay|7
+10-Oct-13|Rutgers|10|Louisville|24
+10-Oct-13|South Carolina St|44|North Carolina Central|3
+10-Oct-13|Arizona|31|Southern Cal|38
+10-Oct-13|Tennessee-Martin|28|Tennessee Tech|17
+10-Oct-13|Valdosta St|30|West Alabama|49
+11-Oct-13|Randolph-Macon|34|Catholic|10
+11-Oct-13|Temple|20|Cincinnati|38
+11-Oct-13|New Jersey|7|Kean|0
+11-Oct-13|Assumption|41|St Anselm|27
+11-Oct-13|Bridgewater St MA|29|UMass-Dartmouth|33
+11-Oct-13|Whitworth|21|Willamette|50
+12-Oct-13|Black Hills St|43|Adams St|49
+12-Oct-13|Alma|6|Adrian|41
+12-Oct-13|Prairie View A&M|42|Alabama St|48
+12-Oct-13|Trine|27|Albion|41
+12-Oct-13|Grambling St|0|Alcorn St|48
+12-Oct-13|Wooster|33|Allegheny|16
+12-Oct-13|LIU Post|0|American Int'l|21
+12-Oct-13|Eastern New Mexico|29|Angelo St|28
+12-Oct-13|Husson|35|Anna Maria|14
+12-Oct-13|Samford|34|Appalachian St|10
+12-Oct-13|Colorado|13|Arizona St|54
+12-Oct-13|South Carolina|52|Arkansas|7
+12-Oct-13|Idaho|24|Arkansas St|48
+12-Oct-13|Southern Arkansas|13|Arkansas Tech|14
+12-Oct-13|Texas Southern|41|Arkansas-Pine Bluff|28
+12-Oct-13|Eastern Michigan|25|Army|50
+12-Oct-13|Ohio Dominican|31|Ashland|19
+12-Oct-13|Western Carolina|3|Auburn|62
+12-Oct-13|Elmhurst|17|Augustana IL|28
+12-Oct-13|Florida Tech|41|Ave Maria|45
+12-Oct-13|Methodist|41|Averett|33
+12-Oct-13|Benedictine KS|62|Avila|37
+12-Oct-13|Simon Fraser|36|Azusa Pacific|44
+12-Oct-13|Ohio Northern|17|Baldwin-Wallace|38
+12-Oct-13|Kent St|24|Ball St|27
+12-Oct-13|SUNY-Maritime|30|Becker|7
+12-Oct-13|Knox|31|Beloit|21
+12-Oct-13|Mary|26|Bemidji St|17
+12-Oct-13|Aurora|23|Benedictine IL|33
+12-Oct-13|Centre|48|Berry|6
+12-Oct-13|Sterling|54|Bethel KS|9
+12-Oct-13|Lindenwood-Belleville|14|Bethel TN|20
+12-Oct-13|Millersville|7|Bloomsburg|45
+12-Oct-13|Belhaven|40|Bluefield|21
+12-Oct-13|Rose-Hulman|34|Bluffton|26
+12-Oct-13|Hamilton|21|Bowdoin|27
+12-Oct-13|Chowan|31|Bowie St|21
+12-Oct-13|Mars Hill|7|Brevard|35
+12-Oct-13|Northwestern IA|24|Briar Cliff|17
+12-Oct-13|Georgia Tech|20|Brigham Young|38
+12-Oct-13|Brown|41|Bryant|14
+12-Oct-13|Holy Cross|51|Bucknell|27
+12-Oct-13|Campbell|14|Butler|35
+12-Oct-13|Redlands|10|Cal Lutheran|7
+12-Oct-13|Weber St|0|Cal Poly SLO|47
+12-Oct-13|Clarion|7|California PA|35
+12-Oct-13|Dickinson St|7|Carroll MT|42
+12-Oct-13|Lawrence|14|Carroll WI|48
+12-Oct-13|Wheaton|28|Carthage|0
+12-Oct-13|Mount Ida|37|Castleton St|19
+12-Oct-13|Wingate|23|Catawba|22
+12-Oct-13|Nebraska-Kearney|0|Central Arkansas|31
+12-Oct-13|Evangel|14|Central Methodist|44
+12-Oct-13|Pittsburg St|31|Central Missouri|21
+12-Oct-13|Miles|21|Central St OH|25
+12-Oct-13|Dixie St|24|Central Washington|27
+12-Oct-13|Colorado St-Pueblo|51|Chadron St|42
+12-Oct-13|Glenville St|10|Charleston WV|17
+12-Oct-13|Furman|9|Chattanooga|31
+12-Oct-13|North Carolina Wesleyan|8|Christopher Newport|20
+12-Oct-13|Occidental|38|Claremont-Mudd-Scripps|30
+12-Oct-13|Boston College|14|Clemson|24
+12-Oct-13|Gardner-Webb|7|Coastal Carolina|42
+12-Oct-13|Amherst|14|Colby|10
+12-Oct-13|Stony Brook|27|Colgate|3
+12-Oct-13|Western New Mexico|17|Colorado Mesa|22
+12-Oct-13|Fort Lewis|16|Colorado Mines|51
+12-Oct-13|San José St|34|Colorado St|27
+12-Oct-13|Lehigh|24|Columbia|10
+12-Oct-13|Nebraska Wesleyan|3|Concordia NE|19
+12-Oct-13|Bethel MN|45|Concordia-Moorhead|22
+12-Oct-13|South Florida|13|Connecticut|10
+12-Oct-13|Harvard|34|Cornell|24
+12-Oct-13|Baker|39|Culver-Stockton|0
+12-Oct-13|Union KY|43|Cumberland TN|45
+12-Oct-13|Coast Guard|24|Curry|27
+12-Oct-13|Yale|13|Dartmouth|20
+12-Oct-13|Drake|27|Davidson|6
+12-Oct-13|Manchester|12|Defiance|27
+12-Oct-13|Albany NY|30|Delaware|33
+12-Oct-13|Norfolk St|7|Delaware St|14
+12-Oct-13|Oberlin|11|DePauw|45
+12-Oct-13|Dakota Wesleyan|31|Doane|20
+12-Oct-13|Trinity Bible|27|Dordt|56
+12-Oct-13|Luther|20|Dubuque|56
+12-Oct-13|Navy|7|Duke|35
+12-Oct-13|Wagner|7|Duquesne|34
+12-Oct-13|Virginia St|51|Elizabeth City St|28
+12-Oct-13|Washington and Lee|21|Emory & Henry|17
+12-Oct-13|SW Baptist|17|Emporia St|63
+12-Oct-13|West Liberty|27|Fairmont St|21
+12-Oct-13|Shaw|44|Fayetteville St|34
+12-Oct-13|Grand Valley St|44|Ferris St|54
+12-Oct-13|Worcester St|7|Fitchburg St|37
+12-Oct-13|Marshall|24|Florida Atlantic|23
+12-Oct-13|Alabama-Birmingham|27|Florida Int'l|24
+12-Oct-13|Mt St Joseph|27|Franklin|55
+12-Oct-13|McPherson|3|Friends|34
+12-Oct-13|Utica|44|Frostburg St|27
+12-Oct-13|Norwich|22|Gallaudet|30
+12-Oct-13|Edinboro|14|Gannon|55
+12-Oct-13|Fordham|34|Georgetown DC|12
+12-Oct-13|Campbellsville|14|Georgetown KY|19
+12-Oct-13|Missouri|41|Georgia|26
+12-Oct-13|The Citadel|21|Georgia Southern|28
+12-Oct-13|Troy|35|Georgia St|28
+12-Oct-13|Missouri Valley|35|Graceland|7
+12-Oct-13|Huntingdon AL|48|Greensboro|40
+12-Oct-13|Waynesburg|38|Grove City|0
+12-Oct-13|Shenandoah|29|Guilford|56
+12-Oct-13|St Thomas|20|Gustavus Adolphus|12
+12-Oct-13|Bridgewater VA|7|Hampden-Sydney|28
+12-Oct-13|North Carolina A&T|26|Hampton|31
+12-Oct-13|Anderson|23|Hanover|44
+12-Oct-13|Arkansas-Monticello|30|Harding|63
+12-Oct-13|Howard Payne|24|Hardin-Simmons|59
+12-Oct-13|St John Fisher|37|Hartwick|14
+12-Oct-13|Presentation|34|Haskell|14
+12-Oct-13|Capital|17|Heidelberg|73
+12-Oct-13|SW Oklahoma St|17|Henderson St|45
+12-Oct-13|Washington U.|45|Hendrix|41
+12-Oct-13|Wayne St MI|16|Hillsdale|35
+12-Oct-13|Memphis|15|Houston|25
+12-Oct-13|Abilene Christian|69|Houston Baptist|12
+12-Oct-13|Bethune-Cookman|27|Howard|6
+12-Oct-13|Northern Colorado|26|Idaho St|40
+12-Oct-13|Lake Forest|7|Illinois College|55
+12-Oct-13|North Park|21|Illinois Wesleyan|52
+12-Oct-13|Crown|34|Iowa Wesleyan|31
+12-Oct-13|Alfred|6|Ithaca|17
+12-Oct-13|Tennessee St|31|Jacksonville St|15
+12-Oct-13|Richmond|31|James Madison|38
+12-Oct-13|Dakota St|31|Jamestown|28
+12-Oct-13|Baylor|35|Kansas St|25
+12-Oct-13|Alabama|48|Kentucky|7
+12-Oct-13|Fort Valley St|11|Kentucky St|17
+12-Oct-13|Missouri S&T|41|Kentucky Wesleyan|21
+12-Oct-13|Hiram|16|Kenyon|20
+12-Oct-13|FDU-Florham|21|King's PA|52
+12-Oct-13|Cheyney|19|Kutztown|35
+12-Oct-13|Whittier|27|La Verne|41
+12-Oct-13|Maryville|47|LaGrange|35
+12-Oct-13|Notre Dame OH|21|Lake Erie|48
+12-Oct-13|Albany St GA|31|Lane|37
+12-Oct-13|Lycoming|7|Lebanon Valley|14
+12-Oct-13|Virginia Union|28|Lincoln PA|21
+12-Oct-13|Fort Hays St|31|Lindenwood|17
+12-Oct-13|Kentucky Christian|22|Lindsey Wilson|14
+12-Oct-13|Shippensburg|30|Lock Haven|24
+12-Oct-13|Coe|56|Loras|0
+12-Oct-13|East Texas Baptist|24|Louisiana College|31
+12-Oct-13|Florida|6|LSU|17
+12-Oct-13|Carleton|56|Macalester|17
+12-Oct-13|Greenville|55|MacMurray|30
+12-Oct-13|Walsh|38|Malone|28
+12-Oct-13|Concordia WI|70|Maranatha Baptist|14
+12-Oct-13|John Carroll|62|Marietta|7
+12-Oct-13|Eureka|50|Martin Luther|14
+12-Oct-13|Virginia|26|Maryland|27
+12-Oct-13|Miami OH|10|Massachusetts|17
+12-Oct-13|Valley City St|9|Mayville St|14
+12-Oct-13|Indianapolis|45|McKendree|7
+12-Oct-13|Valparaiso|21|Mercer|35
+12-Oct-13|New Haven|48|Merrimack|41
+12-Oct-13|Indiana|28|Michigan St|42
+12-Oct-13|Northern Michigan|7|Michigan Tech|31
+12-Oct-13|Peru St|41|MidAmerica Nazarene|38
+12-Oct-13|Williams|14|Middlebury|21
+12-Oct-13|McMurry|20|Midwestern St|66
+12-Oct-13|Augustana SD|10|Minn St-Mankato|20
+12-Oct-13|Minnesota-Duluth|69|Minn St-Moorhead|45
+12-Oct-13|Northern St SD|22|Minot St|21
+12-Oct-13|Texas A&M|41|Mississippi|38
+12-Oct-13|Bowling Green|20|Mississippi St|21
+12-Oct-13|Jackson St|26|Mississippi Valley St|17
+12-Oct-13|Northeastern St OK|10|Missouri Western|54
+12-Oct-13|Grinnell|3|Monmouth IL|65
+12-Oct-13|Cortland St|48|Montclair St|14
+12-Oct-13|Hastings|3|Morningside|44
+12-Oct-13|Rowan|21|Morrisville St|41
+12-Oct-13|Wilmington|0|Mount Union|62
+12-Oct-13|Otterbein|12|Muskingum|10
+12-Oct-13|Rhode Island|19|New Hampshire|59
+12-Oct-13|Tusculum|9|Newberry|44
+12-Oct-13|Northwestern St|21|Nicholls St|33
+12-Oct-13|Endicott|51|Nichols|7
+12-Oct-13|West Georgia|21|North Alabama|38
+12-Oct-13|Syracuse|24|North Carolina St|10
+12-Oct-13|Millikin|7|North Central|55
+12-Oct-13|Eastern Washington|35|North Dakota|14
+12-Oct-13|Missouri St|26|North Dakota St|41
+12-Oct-13|Lenoir-Rhyne|35|North Greenville|17
+12-Oct-13|Middle Tennessee St|7|North Texas|34
+12-Oct-13|Akron|20|Northern Illinois|27
+12-Oct-13|Southern Illinois|24|Northern Iowa|17
+12-Oct-13|St Scholastica|25|Northwestern MN|14
+12-Oct-13|Central Oklahoma|10|NW Missouri St|72
+12-Oct-13|Central Michigan|26|Ohio U.|23
+12-Oct-13|Texas College|0|OK Panhandle St|41
+12-Oct-13|Hope|47|Olivet|14
+12-Oct-13|Grand View|48|Olivet Nazarene|17
+12-Oct-13|St Mary KS|17|Ottawa|63
+12-Oct-13|NW Oklahoma St|21|Ouachita Baptist|45
+12-Oct-13|Bentley|56|Pace|13
+12-Oct-13|Lewis & Clark|21|Pacific Lutheran|42
+12-Oct-13|Puget Sound|14|Pacific OR|56
+12-Oct-13|Michigan|40|Penn State|43
+12-Oct-13|Alderson-Broaddus|48|Point U.|16
+12-Oct-13|Chapman|62|Pomona-Pitzer|21
+12-Oct-13|Lafayette|26|Princeton|42
+12-Oct-13|Nebraska|44|Purdue|7
+12-Oct-13|St Joseph's IN|34|Quincy|26
+12-Oct-13|Alfred St|13|Rochester|38
+12-Oct-13|Lakeland|35|Rockford|21
+12-Oct-13|Northern Arizona|39|Sacramento St|38
+12-Oct-13|Central Conn St|36|Sacred Heart|59
+12-Oct-13|Northwood|28|Saginaw Valley St|44
+12-Oct-13|Buffalo St|6|Salisbury|34
+12-Oct-13|Western New England|26|Salve Regina|47
+12-Oct-13|Lamar|3|Sam Houston St|14
+12-Oct-13|Marist|33|San Diego|35
+12-Oct-13|Florida A&M|27|Savannah St|14
+12-Oct-13|Stephen F. Austin|14|SE Louisiana St|56
+12-Oct-13|Murray St|34|SE Missouri St|37
+12-Oct-13|Mercyhurst|50|Seton Hill|19
+12-Oct-13|Rhodes|50|Sewanee|23
+12-Oct-13|Carson-Newman|45|Shorter|28
+12-Oct-13|Marian IN|27|Siena Heights|23
+12-Oct-13|Central IA|10|Simpson|14
+12-Oct-13|Winona St|45|Sioux Falls|40
+12-Oct-13|Indiana PA|16|Slippery Rock|42
+12-Oct-13|Indiana St|14|South Dakota|17
+12-Oct-13|Missouri Southern|45|South Dakota Tech|20
+12-Oct-13|Stonehill|23|Southern Conn St|21
+12-Oct-13|SE Oklahoma St|31|Southern Nazarene|14
+12-Oct-13|Alabama A&M|17|Southern U.|14
+12-Oct-13|Portland St|7|Southern Utah|17
+12-Oct-13|Warner U.|20|Southern Virginia|35
+12-Oct-13|Bethany KS|21|Southwestern KS|28
+12-Oct-13|Oklahoma Baptist|42|Southwestern TX|21
+12-Oct-13|Hobart|49|Springfield|21
+12-Oct-13|Trinity Int'l|28|St Ambrose|31
+12-Oct-13|Livingstone|14|St Augustine's|21
+12-Oct-13|Minnesota-Crookston|6|St Cloud St|55
+12-Oct-13|Robert Morris IL|25|St Francis IL|28
+12-Oct-13|St Xavier|20|St Francis IN|45
+12-Oct-13|Monmouth NJ|10|St Francis PA|28
+12-Oct-13|Augsburg|28|St John's MN|30
+12-Oct-13|RPI|13|St Lawrence|20
+12-Oct-13|Cornell IA|17|St Norbert|20
+12-Oct-13|Hamline|31|St Olaf|28
+12-Oct-13|Dayton|49|Stetson|20
+12-Oct-13|Benedict|21|Stillman|35
+12-Oct-13|Mississippi College|34|Sul Ross St|30
+12-Oct-13|Langston|41|SW Assem of God|17
+12-Oct-13|Kansas Wesleyan|28|Tabor|54
+12-Oct-13|TAMU-Commerce|41|TAMU-Kingsville|28
+12-Oct-13|West Texas A&M|27|Tarleton St|31
+12-Oct-13|Concordia MI|7|Taylor|47
+12-Oct-13|Kansas|17|TCU|27
+12-Oct-13|Oklahoma|20|Texas|36
+12-Oct-13|Austin|12|Texas Lutheran|45
+12-Oct-13|Louisiana-Monroe|21|Texas St-San Marcos|14
+12-Oct-13|Iowa St|35|Texas Tech|42
+12-Oct-13|Rice|27|Texas-San Antonio|21
+12-Oct-13|St Vincent|3|Thiel|30
+12-Oct-13|Findlay|35|Tiffin|14
+12-Oct-13|Villanova|45|Towson|35
+12-Oct-13|Millsaps|27|Trinity TX|24
+12-Oct-13|Trinity CT|43|Tufts|7
+12-Oct-13|East Carolina|33|Tulane|36
+12-Oct-13|Morehouse|10|Tuskegee|54
+12-Oct-13|Montana|42|UC-Davis|7
+12-Oct-13|California|10|UCLA|37
+12-Oct-13|UNC-Pembroke|45|UNC-Charlotte|22
+12-Oct-13|WPI|6|Union NY|35
+12-Oct-13|Hawai`i|37|UNLV|39
+12-Oct-13|Concordia-St Paul|24|Upper Iowa|28
+12-Oct-13|Concord|10|Urbana|22
+12-Oct-13|Stanford|21|Utah|27
+12-Oct-13|Boise St|34|Utah St|23
+12-Oct-13|Tulsa|34|UTEP|20
+12-Oct-13|UW-Stevens Point|23|UW-Eau Claire|17
+12-Oct-13|UW-La Crosse|6|UW-Oshkosh|30
+12-Oct-13|UW-Platteville|49|UW-River Falls|7
+12-Oct-13|UW-Stout|13|UW-Whitewater|55
+12-Oct-13|Pittsburgh|9|Virginia Tech|19
+12-Oct-13|Shepherd|42|Virginia-Wise|17
+12-Oct-13|Charleston Southern|25|VMI|17
+12-Oct-13|Ohio Wesleyan|13|Wabash|38
+12-Oct-13|Buena Vista|29|Wartburg|37
+12-Oct-13|Thomas More|21|Wash & Jeff|45
+12-Oct-13|Lincoln MO|7|Washburn|58
+12-Oct-13|Oregon|45|Washington|24
+12-Oct-13|Oregon St|52|Washington St|24
+12-Oct-13|Bacone|16|Wayland Baptist|9
+12-Oct-13|SW Minnesota St|55|Wayne St NE|16
+12-Oct-13|Edward Waters|9|Webber Int'l|49
+12-Oct-13|Virginia U-Lynchburg|0|Wesley|40
+12-Oct-13|Bates|7|Wesleyan|35
+12-Oct-13|East Stroudsburg|20|West Chester|34
+12-Oct-13|Mass Maritime|54|Western Conn St|53
+12-Oct-13|South Dakota St|38|Western Illinois|14
+12-Oct-13|Buffalo|33|Western Michigan|0
+12-Oct-13|Humboldt St|21|Western Oregon|38
+12-Oct-13|New Mexico Highlands|27|Western St CO|33
+12-Oct-13|Framingham St|17|Westfield St|15
+12-Oct-13|Minnesota-Morris|45|Westminster MO|38
+12-Oct-13|Carnegie Mellon|24|Westminster PA|27
+12-Oct-13|Pennsylvania|14|William & Mary|27
+12-Oct-13|Truman St|45|William Jewell|7
+12-Oct-13|Brockport St|55|William Paterson|34
+12-Oct-13|Waldorf|0|William Penn|65
+12-Oct-13|Johnson C. Smith|17|Winston-Salem St|44
+12-Oct-13|Northwestern|6|Wisconsin|35
+12-Oct-13|Concordia IL|13|Wisconsin Lutheran|49
+12-Oct-13|Denison|20|Wittenberg|38
+12-Oct-13|Elon|27|Wofford|31
+12-Oct-13|West Virginia St|30|WV Wesleyan|45
+12-Oct-13|New Mexico|31|Wyoming|38
+12-Oct-13|Illinois St|21|Youngstown St|59
