@@ -45,6 +45,7 @@
 09/27/1941|Holy Cross|19|LSU|13
 09/27/1941|Louisiana Tech|0|UTEP|0
 09/27/1941|Illinois Wesleyan|7|Marshall|51
+09/27/1941|Hampden-Sydney|0|Maryland|18
 10/03/1941|Bowling Green|0|Akron|8
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
@@ -82,6 +83,7 @@
 10/04/1941|Kansas State|3|Northwestern|51
 10/04/1941|Kentucky|7|Washington & Lee|0
 10/04/1941|LSU|0|Texas|34
+10/04/1941|McDaniel College(MD)|6|Maryland|6
 10/05/1941|Camp Haan(CA)|7|Fresno State|7
 10/10/1941|Western Reserve(OH)|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
@@ -192,6 +194,7 @@
 10/25/1941|West Virginia|6|Kentucky|18
 10/25/1941|Louisiana Tech|21|SE Louisiana|14
 10/25/1941|Marshall|13|Scranton|0
+10/25/1941|Maryland|6|Pennsylvania|55
 10/27/1941|Healani AC(HI)|26|Hawaii|6
 10/31/1941|Arizona State|6|Northern Colorado|0
 10/31/1941|Southern Arkansas|19|Arkansas State|0
@@ -228,6 +231,7 @@
 11/01/1941|Nebraska|6|Kansas State|12
 11/01/1941|Tennessee|13|LSU|6
 11/01/1941|Wake Forest|6|Marshall|16
+11/01/1941|Maryland|0|Rutgers|20
 11/06/1941|East Carolina|13|Bergen JC(NJ)|7
 11/07/1941|Akron|0|Youngstown State|19
 11/07/1941|Arkansas State|0|Union(TN)|70
@@ -251,6 +255,7 @@
 11/08/1941|Connecticut|0|Rhode Island|6
 11/08/1941|Duke|56|Davidson|0
 11/08/1941|Eastern Michigan|0|Wayne State(MI)|12
+11/08/1941|Maryland|0|Georgetown(DC)|26
 11/08/1941|Florida|3|Georgia|19
 11/08/1941|Kentucky|13|Georgia Tech|20
 11/08/1941|Louisville|21|Hanover(IN)|6
@@ -297,12 +302,14 @@
 11/15/1941|Kansas State|16|Kansas|20
 11/15/1941|Rhodes(TN)|19|Kentucky|33
 11/15/1941|Vanderbilt|68|Louisville|0
+11/15/1941|VMI|27|Maryland|0
 11/19/1941|Hawaii Bears|13|Hawaii|27
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll(OH)|12|Akron|21
 11/20/1941|Miami(OH)|0|Cincinnati|26
 11/20/1941|Wayne State|0|Bowling Green|19
 11/20/1941|Colorado|0|Denver|27
+11/20/1941|Washington & Lee|0|Maryland|6
 11/22/1941|Alabama|0|Vanderbilt|7
 11/22/1941|Mississippi|18|Arkansas|0
 11/22/1941|West Virginia|6|Army|7
