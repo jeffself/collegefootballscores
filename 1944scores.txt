@@ -21,12 +21,13 @@
 09/23/1944|Mississippi|7|Kentucky|27
 09/23/1944|Selman AAF(LA)|13|Louisiana Tech|6
 09/23/1944|Southwestern(TX)|26|Louisiana Tech|0
-09/29/1944|Arkansas|0|Oklahoma State|19
 09/29/1944|Samford(AL)|0|Auburn|32
-09/29/1944|Central Michigan|14|Michigan JV|13
+09/29/1944|Kansas|14|Denver|14
 09/29/1944|Wake Forest|14|Georgia|7
 09/29/1944|Gustavus Adolphus(MN)|0|Iowa State|49
-09/29/1944|Kansas|14|Denver|14
+09/29/1944|Hampden-Sydney|12|Maryland|0
+09/29/1944|Central Michigan|14|Michigan JV|13
+09/29/1944|Arkansas|0|Oklahoma State|19
 09/30/1944|Alabama|27|LSU|27
 09/30/1944|North Carolina|0|Army|46
 09/30/1944|Alma(MI)|6|Bowling Green|19
@@ -45,77 +46,79 @@
 09/30/1944|Marine OCS(LA)|0|Louisiana Tech|72
 10/06/1944|Presbyterian(SC)|0|Georgia|67
 10/07/1944|Samford(AL)|7|Alabama|63
-10/07/1944|Arkansas|6|TCU|6
 10/07/1944|Louisiana-Lafayette|6|Arkansas-Monticello|18
 10/07/1944|Brown|7|Army|59
 10/07/1944|Fort Benning - 4th Infantry|0|Auburn|7
 10/07/1944|Harvard|13|Boston College|0
 10/07/1944|Ohio Wesleyan|0|Bowling Green|41
-10/07/1944|California|6|Southern Cal|6
-10/07/1944|Central Michigan|14|Western Michigan|35
 10/07/1944|Clemson|13|North Carolina State|7
 10/07/1944|Middlebury(VT)|7|Connecticut|13
 10/07/1944|North Carolina Navy Pre-Flight|13|Duke|6
 10/07/1944|Jacksonville NAS(FL)|20|Florida|27
-10/07/1944|Fort Benning(GA)|33|Louisiana Tech|0
 10/07/1944|North Carolina|0|Georgia Tech|28
 10/07/1944|Purdue|35|Illinois|19
-10/07/1944|Iowa|0|Ohio State|34
 10/07/1944|Doane(NE)|0|Iowa State|59
-10/07/1944|Kansas|0|Tulsa|27
 10/07/1944|Missouri|33|Kansas State|0
 10/07/1944|Michigan State|2|Kentucky|0
+10/07/1944|Fort Benning(GA)|33|Louisiana Tech|0
+10/07/1944|Iowa|0|Ohio State|34
 10/07/1944|LSU|13|Rice|14
+10/07/1944|California|6|Southern Cal|6
+10/07/1944|Arkansas|6|TCU|6
+10/07/1944|Kansas|0|Tulsa|27
+10/07/1944|Maryland|0|Wake Forest|39
+10/07/1944|Central Michigan|14|Western Michigan|35
 10/13/1944|CCNY|0|Boston College|33
 10/13/1944|Kentucky|12|Georgia|13
 10/14/1944|Millsaps(MS)|0|Alabama|55
 10/14/1944|Normas NAS(OK)|27|Arkansas|7
 10/14/1944|Pittsburgh|7|Army|69
-10/14/1944|Auburn|0|Georgia Tech|27
 10/14/1944|Central Normal(IN)|13|Ball State|6
-10/14/1944|Bowling Green|20|Case Institute(OH)|18
-10/14/1944|Pacific|0|California|14
-10/14/1944|Central Michigan|25|Michigan JV|12
-10/14/1944|Colorado|26|Utah|0
 10/14/1944|Connecticut|10|Brooklyn|0
-10/14/1944|Duke|0|Navy|7
-10/14/1944|Florida|0|Tennessee|40
+10/14/1944|Pacific|0|California|14
+10/14/1944|Bowling Green|20|Case Institute(OH)|18
+10/14/1944|Auburn|0|Georgia Tech|27
 10/14/1944|Iowa|6|Illinois|40
 10/14/1944|Nebraska|0|Indiana|54
 10/14/1944|Kansas|0|Iowa State|25
-10/14/1944|Kansas State|6|Michigan State|45
 10/14/1944|Texas A&M|7|LSU|0
 10/14/1944|Louisiana-Lafayette|15|Louisiana Tech|0
+10/14/1944|West Virginia|6|Maryland|6
+10/14/1944|Kansas State|6|Michigan State|45
+10/14/1944|Central Michigan|25|Michigan JV|12
+10/14/1944|Duke|0|Navy|7
+10/14/1944|Florida|0|Tennessee|40
+10/14/1944|Colorado|26|Utah|0
 10/19/1944|South Carolina|13|Clemson|20
 10/20/1944|New York(NY)|13|Boston College|42
 10/20/1944|Daniel Field(GA)|6|Georgia|57
 10/20/1944|VMI|2|Kentucky|26
-10/21/1944|Alabama|0|Tennessee|0
 10/21/1944|Texas|19|Arkansas|0
 10/21/1944|Coast Guard|0|Army|76
-10/21/1944|Auburn|13|Tulane|16
 10/21/1944|Franklin(IN)|0|Ball State|19
 10/21/1944|Bowling Green|7|Bunker Hill NAS(IN)|27
 10/21/1944|Fleet City USNTDC(CA)|19|California|2
 10/21/1944|Colorado College|0|Colorado|28
 10/21/1944|CCNY|0|Connecticut|21
-10/21/1944|Fresno State|0|Minter Field(CA)|20
 10/21/1944|Navy|15|Georgia Tech|17
-10/21/1944|Illinois|39|Pittsburgh|5
-10/21/1944|Indiana|14|Northwestern|7
 10/21/1944|Purdue|26|Iowa|7
-10/21/1944|Iowa State|21|Missouri|21
 10/21/1944|Nebraska|0|Kansas|20
-10/21/1944|Kansas State|0|Oklahoma|68
 10/21/1944|Mississippi State|13|LSU|6
 10/21/1944|Northwestern State|7|Louisiana-Lafayette|19
+10/21/1944|Michigan State|8|Maryland|0
+10/21/1944|Fresno State|0|Minter Field(CA)|20
+10/21/1944|Iowa State|21|Missouri|21
+10/21/1944|Indiana|14|Northwestern|7
+10/21/1944|Kansas State|0|Oklahoma|68
+10/21/1944|Illinois|39|Pittsburgh|5
+10/21/1944|Alabama|0|Tennessee|0
+10/21/1944|Auburn|13|Tulane|16
 10/27/1944|Kentucky|0|Alabama|41
 10/27/1944|Georgia Navy Pre-Flight|7|Georgia Tech|13
 10/28/1944|Mississippi|18|Arkansas|26
 10/28/1944|Duke|7|Army|27
 10/28/1944|Syracuse|12|Boston College|19
 10/28/1944|Washington|33|California|7
-10/28/1944|Clemson|7|Tennessee|26
 10/28/1944|Brooklyn|0|Connecticut|15
 10/28/1944|Maryland|6|Florida|14
 10/28/1944|LSU|15|Georgia|7
@@ -123,67 +126,71 @@
 10/28/1944|Iowa|0|Indiana|32
 10/28/1944|Iowa State|14|Kansas State|0
 10/28/1944|Louisiana Tech|21|Northwestern State|7
+10/28/1944|Clemson|7|Tennessee|26
 11/03/1944|Florida|13|Miami(FL)|0
 11/03/1944|Fresno State|0|Modesto JC(CA)|28
 11/04/1944|Georgia|14|Alabama|7
-11/04/1944|Arkansas|7|Texas A&M|6
 11/04/1944|Louisiana Tech|14|Arkansas-Monticello|20
 11/04/1944|Villanova|0|Army|83
 11/04/1944|Presbyterian(SC)|0|Auburn|57
 11/04/1944|Central Normal(IN)|25|Ball State|6
 11/04/1944|Melville PT Boats(RI)|45|Boston College|0
 11/04/1944|Alameda Coast Guard(CA)|12|California|6
-11/04/1944|Clemson|7|Wake Forest|13
 11/04/1944|New Mexico|0|Colorado|39
 11/04/1944|CCNY|0|Connecticut|52
 11/04/1944|Georgia Tech|13|Duke|19
-11/04/1944|Indiana|7|Ohio State|21
 11/04/1944|Nebraska|6|Iowa|27
 11/04/1944|Oklahoma|12|Iowa State|7
 11/04/1944|Olathe NAS(KS)|14|Kansas|33
-11/04/1944|Kansas State|15|Wichita State|0
 11/04/1944|Mississippi State|26|Kentucky|0
 11/04/1944|Tennessee|13|LSU|0
 11/04/1944|Millsaps(MS)|19|Louisiana-Lafayette|0
+11/04/1944|Virginia|18|Maryland|7
+11/04/1944|Indiana|7|Ohio State|21
+11/04/1944|Arkansas|7|Texas A&M|6
+11/04/1944|Clemson|7|Wake Forest|13
+11/04/1944|Kansas State|15|Wichita State|0
 11/11/1944|Mississippi|6|Alabama|34
 11/11/1944|Rice|7|Arkansas|12
-11/11/1944|Army|59|Notre Dame|0
 11/11/1944|Mississippi State|26|Auburn|21
 11/11/1944|Earlham(IN)|7|Ball State|27
-11/11/1944|California|0|UCLA|7
 11/11/1944|VMI|12|Clemson|57
 11/11/1944|Peru State(NE)|12|Colorado|40
 11/11/1944|Norwich(VT)|0|Connecticut|14
 11/11/1944|Wake Forest|0|Duke|34
-11/11/1944|Florida|12|Georgia|38
 11/11/1944|Minter Field(CA)|13|Fresno State|0
+11/11/1944|Florida|12|Georgia|38
 11/11/1944|Tulane|7|Georgia Tech|34
-11/11/1944|Illinois|0|Michigan|14
-11/11/1944|Indiana|14|Minnesota|19
-11/11/1944|Iowa|7|Wisconsin|26
-11/11/1944|Iowa State|19|Nebraska|6
 11/11/1944|Kansas|14|Kansas State|18
 11/11/1944|Louisiana-Lafayette|24|Lake Charles AAF(LA)|0
 11/11/1944|Northwestern State|0|Louisiana Tech|0
+11/11/1944|Illinois|0|Michigan|14
+11/11/1944|Maryland|0|Michigan State|33
+11/11/1944|Indiana|14|Minnesota|19
+11/11/1944|Iowa State|19|Nebraska|6
+11/11/1944|Army|59|Notre Dame|0
+11/11/1944|California|0|UCLA|7
+11/11/1944|Iowa|7|Wisconsin|26
 11/12/1944|Brooklyn(NY)|21|Boston College|24
 11/18/1944|Mississippi State|0|Alabama|19
-11/18/1944|Arkansas|12|SMU|20
-11/18/1944|Army|62|Pennsylvania|7
-11/18/1944|Auburn|13|Georgia|49
 11/18/1944|Southern Cal|32|California|0
-11/18/1944|Clemson|20|Tulane|36
 11/18/1944|Colorado|40|Colorado College|6
-11/18/1944|Duke|34|South Carolina|7
 11/18/1944|Tonopah AAB(NV)|7|Fresno State|6
-11/18/1944|Georgia Tech|14|LSU|6
-11/18/1944|Illinois|12|Ohio State|26
+11/18/1944|Auburn|13|Georgia|49
 11/18/1944|Pittsburgh|0|Indiana|47
 11/18/1944|Minnesota|46|Iowa|0
 11/18/1944|Drake|0|Iowa State|9
 11/18/1944|Oklahoma|20|Kansas|0
 11/18/1944|Olathe NAS(KS)|0|Kansas State|0
 11/18/1944|West Virginia|9|Kentucky|40
+11/18/1944|Georgia Tech|14|LSU|6
 11/18/1944|Louisiana Tech|7|Louisiana-Lafayette|0
+11/18/1944|Illinois|12|Ohio State|26
+11/18/1944|Maryland|19|Penn State|34
+11/18/1944|Army|62|Pennsylvania|7
+11/18/1944|Arkansas|12|SMU|20
+11/18/1944|Duke|34|South Carolina|7
+11/18/1944|Clemson|20|Tulane|36
 11/23/1944|Arkansas|2|Tulsa|33
 11/23/1944|Colorado|16|Denver|14
 11/23/1944|Pacific|14|Fresno State|6
@@ -201,6 +208,7 @@
 11/25/1944|Louisiana-Lafayette|7|Northwestern State|6
 11/26/1944|Holy Cross|30|Boston College|14
 11/30/1944|Tulane|6|LSU|25
+11/30/1944|Maryland|8|VMI|6
 12/02/1944|Arkansas-Monticello|0|Arkansas|41
 12/02/1944|Navy|7|Army|23
 12/02/1944|Georgia Tech|44|Georgia|0
