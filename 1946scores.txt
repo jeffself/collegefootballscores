@@ -25,35 +25,36 @@
 09/27/1946|Houston|14|West Texas A&M|12
 09/27/1946|Kansas|21|Denver|13
 09/28/1946|Lawrence Tech(MI)|13|Akron|31
-09/28/1946|Alabama|7|Tulane|6
 09/28/1946|Arizona State|0|Arizona|67
-09/28/1946|Arkansas|21|Oklahoma State|21
-09/28/1946|Army|21|Oklahoma|7
 09/28/1946|Carterbury(IN)|6|Ball State|27
-09/28/1946|Baylor|16|TCU|19
-09/28/1946|Brigham Young|12|Montana State|13
 09/28/1946|Moravian(PA)|7|Buffalo|40
 09/28/1946|Wisconsin|28|California|7
 09/28/1946|Kentucky|26|Cincinnati|7
-09/28/1946|Colorado|0|Texas|76
-09/28/1946|Colorado State|0|Montana|28
-09/28/1946|Connecticut|0|Harvard|7
-09/28/1946|Duke|6|North Carolina State|13
-09/28/1946|Eastern Michigan|0|Illinois State|10
 09/28/1946|Mississippi|13|Florida|7
-09/28/1946|Fresno State|20|Santa Clara|7
-09/28/1946|Georgia Tech|9|Tennessee|13
-09/28/1946|Howard Payne(TX)|7|Louisiana Tech|13
-09/28/1946|Idaho|0|Stanford|45
-09/28/1946|Notre Dame|26|Illinois|6
-09/28/1946|Indiana|0|Michigan|21
-09/28/1946|Purdue|0|Iowa|16
-09/28/1946|Iowa State|9|Northwestern|41
 09/28/1946|Kansas State|7|Hardin-Simmons(TX)|21
+09/28/1946|Connecticut|0|Harvard|7
 09/28/1946|Kent State|40|Hiram(OH)|0
-09/28/1946|LSU|7|Rice|6
+09/28/1946|Notre Dame|26|Illinois|6
+09/28/1946|Eastern Michigan|0|Illinois State|10
+09/28/1946|Purdue|0|Iowa|16
+09/28/1946|Howard Payne(TX)|7|Louisiana Tech|13
 09/28/1946|Stephen F. Austin|2|Louisiana-Lafayette|13
 09/28/1946|West Virginia Wesleyan|12|Marshall|29
+09/28/1946|Bainbridge NTS(MD)|0|Maryland|54
+09/28/1946|Indiana|0|Michigan|21
+09/28/1946|Colorado State|0|Montana|28
+09/28/1946|Brigham Young|12|Montana State|13
+09/28/1946|Duke|6|North Carolina State|13
+09/28/1946|Iowa State|9|Northwestern|41
+09/28/1946|Army|21|Oklahoma|7
+09/28/1946|Arkansas|21|Oklahoma State|21
+09/28/1946|LSU|7|Rice|6
+09/28/1946|Fresno State|20|Santa Clara|7
+09/28/1946|Idaho|0|Stanford|45
+09/28/1946|Baylor|16|TCU|19
+09/28/1946|Georgia Tech|9|Tennessee|13
+09/28/1946|Colorado|0|Texas|76
+09/28/1946|Alabama|7|Tulane|6
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/02/1946|Kaala(HI)|0|Hawaii|44
 10/04/1946|Brigham Young|13|Denver|26
@@ -62,40 +63,41 @@
 10/04/1946|Louisiana-Lafayette|13|SE Louisiana|27
 10/04/1946|Wittenberg(OH)|0|Louisville|19
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
-10/05/1946|Alabama|14|South Carolina|6
-10/05/1946|Arizona|7|Utah|14
 10/05/1946|Pepperdine|12|Arizona State|13
-10/05/1946|Arkansas|34|TCU|14
-10/05/1946|Arkansas State|2|Bradley|26
 10/05/1946|Cornell|21|Army|46
 10/05/1946|Furman|6|Auburn|26
 10/05/1946|Ball State|0|Bowling Green|13
-10/05/1946|Boston College|34|Michigan State|20
-10/05/1946|Buffalo|28|RPI|13
+10/05/1946|Arkansas State|2|Bradley|26
 10/05/1946|Oregon|14|California|13
-10/05/1946|Central Michigan|20|Eastern Kentucky|7
 10/05/1946|Marshall|14|Cincinnati|39
 10/05/1946|North Carolina State|14|Clemson|7
 10/05/1946|Utah State|0|Colorado|6
-10/05/1946|Colorado State|7|Wyoming|0
 10/05/1946|Springfield(MA)|0|Connecticut|25
 10/05/1946|Tennessee|12|Duke|7
 10/05/1946|Atlantic Christian(NC)|6|East Carolina|6
-10/05/1946|Florida|13|Tulane|27
+10/05/1946|Central Michigan|20|Eastern Kentucky|7
+10/05/1946|Houston|32|Fort Hood(TX)|7
 10/05/1946|Hawaii All-Stars|6|Fresno State|13
 10/05/1946|VMI|6|Georgia Tech|32
-10/05/1946|Houston|32|Fort Hood(TX)|7
-10/05/1946|Idaho|0|Washington State|32
 10/05/1946|Purdue|7|Illinois|43
-10/05/1946|Indiana|21|Minnesota|0
-10/05/1946|Iowa|7|Michigan|14
 10/05/1946|Northern Iowa|18|Iowa State|20
-10/05/1946|Wichita State|7|Kansas|14
-10/05/1946|Kansas State|0|Nebraska|31
 10/05/1946|Kent State|20|John Carroll(OH)|7
-10/05/1946|Kentucky|70|Xavier(OH)|0
+10/05/1946|Wichita State|7|Kansas|14
 10/05/1946|Mississippi State|6|LSU|13
 10/05/1946|Louisiana College|6|Louisiana Tech|33
+10/05/1946|Richmond|37|Maryland|7
+10/05/1946|Iowa|7|Michigan|14
+10/05/1946|Boston College|34|Michigan State|20
+10/05/1946|Indiana|21|Minnesota|0
+10/05/1946|Kansas State|0|Nebraska|31
+10/05/1946|Buffalo|28|RPI|13
+10/05/1946|Alabama|14|South Carolina|6
+10/05/1946|Arkansas|34|TCU|14
+10/05/1946|Florida|13|Tulane|27
+10/05/1946|Arizona|7|Utah|14
+10/05/1946|Idaho|0|Washington State|32
+10/05/1946|Colorado State|7|Wyoming|0
+10/05/1946|Kentucky|70|Xavier(OH)|0
 10/09/1946|Olympic AC(CA)|0|Hawaii|27
 10/11/1946|Alma(MI)|0|Eastern Michigan|6
 10/11/1946|Kentucky|13|Georgia|28
@@ -103,39 +105,41 @@
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/12/1946|UTEP|13|Arizona|27
-10/12/1946|Arizona State|2|Nevada|74
 10/12/1946|Baylor|0|Arkansas|13
 10/12/1946|Arkansas State|13|Arkansas-Monticello|13
-10/12/1946|Army|20|Michigan|13
 10/12/1946|St. Louis|7|Auburn|27
 10/12/1946|Wabash(IN)|6|Ball State|0
+10/12/1946|Kent State|39|Blufton(OH)|0
 10/12/1946|Merchant Marine(NY)|7|Boston College|56
 10/12/1946|Miami(OH)|6|Bowling Green|0
 10/12/1946|Utah|35|Brigham Young|6
-10/12/1946|Buffalo|20|Hobart(NY)|7
 10/12/1946|Saint Mary's(CA)|13|California|20
-10/12/1946|Central Arkansas|0|Louisiana Tech|38
-10/12/1946|Central Michigan|60|Northern Michigan|0
 10/12/1946|Cincinnati|19|Dayton|0
-10/12/1946|Clemson|7|Wake Forest|19
-10/12/1946|Colorado|20|Wyoming|0
 10/12/1946|Colorado State|0|Denver|33
-10/12/1946|Connecticut|2|Wesleyan(CT)|7
-10/12/1946|Duke|21|Navy|6
 10/12/1946|East Carolina|6|Elon(NC)|13
-10/12/1946|Florida|0|Vanderbilt|20
-10/12/1946|Fresno State|7|Oklahoma City|46
 10/12/1946|Mississippi|7|Georgia Tech|24
 10/12/1946|Texas A&M-Kingsville|0|Houston|34
-10/12/1946|Idaho|6|Marquette|46
+10/12/1946|Buffalo|20|Hobart(NY)|7
 10/12/1946|Illinois|7|Indiana|14
 10/12/1946|Nebraska|7|Iowa|21
 10/12/1946|Kansas|24|Iowa State|8
 10/12/1946|Missouri|26|Kansas State|0
-10/12/1946|Kent State|39|Blufton(OH)|0
 10/12/1946|Texas A&M|9|LSU|33
+10/12/1946|Central Arkansas|0|Louisiana Tech|38
+10/12/1946|Idaho|6|Marquette|46
 10/12/1946|Toledo|14|Marshall|14
+10/12/1946|Army|20|Michigan|13
+10/12/1946|Duke|21|Navy|6
+10/12/1946|Arizona State|2|Nevada|74
+10/12/1946|Maryland|0|North Carolina|33
+10/12/1946|Central Michigan|60|Northern Michigan|0
+10/12/1946|Fresno State|7|Oklahoma City|46
+10/12/1946|Florida|0|Vanderbilt|20
+10/12/1946|Clemson|7|Wake Forest|19
+10/12/1946|Connecticut|2|Wesleyan(CT)|7
+10/12/1946|Colorado|20|Wyoming|0
 10/16/1946|Lanakila(HI)|6|Hawaii|73
+10/18/1946|Virginia Tech|0|Maryland|6
 10/18/1946|Louisiana-Lafayette|0|Southern Miss|6
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Alabama|0|Tennessee|12
@@ -212,138 +216,142 @@
 10/26/1946|Louisiana-Lafayette|40|Louisiana College|0
 10/26/1946|Marshall|6|Scranton|14
 11/01/1946|Hawaii|19|Pacific|13
-11/02/1946|Akron|13|Western Reserve(OH)|6
-11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Hardin-Simmons(TX)|19|Arizona|8
-11/02/1946|Arizona State|14|New Mexico State|7
-11/02/1946|Arkansas|7|Texas A&M|0
 11/02/1946|Illinois Wesleyan|0|Arkansas State|20
 11/02/1946|West Virginia|0|Army|19
 11/02/1946|Vanderbilt|19|Auburn|0
 11/02/1946|Manchester(IN)|6|Ball State|41
-11/02/1946|Boston College|72|New York(NY)|6
 11/02/1946|Oberlin(OH)|0|Bowling Green|14
 11/02/1946|Wyoming|3|Brigham Young|6
 11/02/1946|Buffalo|32|Bethany(WV)|6
 11/02/1946|Washington State|14|California|47
 11/02/1946|Marshall|34|Charleston(WV)|0
-11/02/1946|Central Michigan|21|Western Michigan|27
-11/02/1946|Cincinnati|0|Tulsa|20
-11/02/1946|Clemson|14|Virginia Tech|7
-11/02/1946|Colorado|0|Utah|7
 11/02/1946|Coast Guard|13|Connecticut|27
 11/02/1946|Georgia Tech|14|Duke|0
 11/02/1946|Albion(MI)|6|Eastern Michigan|13
 11/02/1946|Loyola Marymount(CA)|0|Fresno State|28
-11/02/1946|Idaho|0|Montana|19
+11/02/1946|Alabama|0|Georgia|14
 11/02/1946|Illinois|7|Iowa|0
 11/02/1946|Pittsburgh|6|Indiana|20
-11/02/1946|Iowa State|13|Kansas State|7
-11/02/1946|Oklahoma State|13|Kansas|14
 11/02/1946|Kent State|12|Kalamazoo(MI)|0
+11/02/1946|Oklahoma State|13|Kansas|14
+11/02/1946|Iowa State|13|Kansas State|7
 11/02/1946|Michigan State|14|Kentucky|39
 11/02/1946|Mississippi|21|LSU|34
 11/02/1946|Louisiana Tech|34|Louisiana-Lafayette|6
 11/02/1946|Saint Joseph's(IN)|7|Louisville|13
+11/02/1946|Idaho|0|Montana|19
+11/02/1946|Arizona State|14|New Mexico State|7
+11/02/1946|Boston College|72|New York(NY)|6
+11/02/1946|Arkansas|7|Texas A&M|0
+11/02/1946|Cincinnati|0|Tulsa|20
+11/02/1946|Colorado|0|Utah|7
+11/02/1946|Clemson|14|Virginia Tech|7
+11/02/1946|Central Michigan|21|Western Michigan|27
+11/02/1946|Akron|13|Western Reserve(OH)|6
+11/02/1946|Maryland|7|William & Mary|41
 11/08/1946|SE Louisiana|22|Louisiana Tech|14
 11/08/1946|Troy(AL)|0|Louisiana-Lafayette|64
 11/09/1946|Wooster(OH)|20|Akron|26
-11/09/1946|Alabama|21|LSU|31
 11/09/1946|Santa Clara|21|Arizona|21
 11/09/1946|UTEP|34|Arizona State|20
 11/09/1946|Rice|0|Arkansas|7
 11/09/1946|Henderson State|0|Arkansas State|0
-11/09/1946|Army|0|Notre Dame|0
+11/09/1946|East Carolina|26|Atlantic Christian(NC)|6
 11/09/1946|Mississippi State|33|Auburn|0
 11/09/1946|Eastern Michigan|7|Ball State|7
 11/09/1946|Texas|22|Baylor|7
 11/09/1946|Georgetown(DC)|13|Boston College|20
-11/09/1946|Bowling Green|9|St. Bonaventure|13
-11/09/1946|Brigham Young|0|Utah State|0
 11/09/1946|Alfred(NY)|12|Buffalo|20
-11/09/1946|California|0|Southern Cal|14
 11/09/1946|Great Lakes NTS(IL)|0|Central Michigan|48
 11/09/1946|Xavier(OH)|0|Cincinnati|39
-11/09/1946|Clemson|13|Tulane|54
-11/09/1946|Colorado|0|Missouri|21
 11/09/1946|Utah|13|Colorado State|0
-11/09/1946|Connecticut|33|Rhode Island|0
 11/09/1946|Wake Forest|0|Duke|13
 11/09/1946|Louisville|7|Eastern Kentucky|28
-11/09/1946|East Carolina|26|Atlantic Christian(NC)|6
 11/09/1946|Florida|14|Georgia|33
 11/09/1946|Navy|20|Georgia Tech|28
 11/09/1946|Stephen F. Austin|7|Houston|16
-11/09/1946|Idaho|0|Oregon State|34
-11/09/1946|Indiana|7|Northwestern|6
-11/09/1946|Iowa|21|Wisconsin|7
 11/09/1946|Drake|7|Iowa State|7
 11/09/1946|Oklahoma|13|Kansas|16
-11/09/1946|Kansas State|6|San Francisco|38
-11/09/1946|Kent State|7|Ohio Wesleyan|0
+11/09/1946|Alabama|21|LSU|31
 11/09/1946|Kentucky|35|Marquette|7
+11/09/1946|South Carolina|21|Maryland|17
+11/09/1946|Colorado|0|Missouri|21
 11/09/1946|Marshall|0|Murray State|19
+11/09/1946|Indiana|7|Northwestern|6
+11/09/1946|Army|0|Notre Dame|0
+11/09/1946|Kent State|7|Ohio Wesleyan|0
+11/09/1946|Idaho|0|Oregon State|34
+11/09/1946|Connecticut|33|Rhode Island|0
+11/09/1946|Bowling Green|9|St. Bonaventure|13
+11/09/1946|Kansas State|6|San Francisco|38
+11/09/1946|California|0|Southern Cal|14
+11/09/1946|Clemson|13|Tulane|54
+11/09/1946|Brigham Young|0|Utah State|0
+11/09/1946|Iowa|21|Wisconsin|7
 11/11/1946|Hawaii|7|Fresno State|2
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
 11/15/1946|LSU|20|Miami(FL)|7
 11/15/1946|Oklahoma City|6|Louisiana Tech|2
-11/16/1946|Akron|6|Kent State|13
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
 11/16/1946|Northern Arizona|13|Arizona State|13
 11/16/1946|SMU|0|Arkansas|13
-11/16/1946|Arkansas State|6|Evansville(IN)|6
-11/16/1946|Army|34|Pennsylvania|7
-11/16/1946|Auburn|0|Georgia|41
-11/16/1946|Ball State|0|Indiana State|3
-11/16/1946|Baylor|0|Tulsa|17
 11/16/1946|Tennessee|33|Boston College|13
 11/16/1946|Xavier(OH)|6|Bowling Green|33
-11/16/1946|Brigham Young|20|Colorado State|6
 11/16/1946|Buffalo|28|Carnegie Mellon|0
+11/16/1946|Brigham Young|20|Colorado State|6
 11/16/1946|Oregon State|28|California|7
 11/16/1946|Western Reserve(OH)|7|Cincinnati|34
 11/16/1946|Furman|6|Clemson|20
 11/16/1946|Denver|13|Colorado|13
-11/16/1946|Connecticut|12|New Hampshire|12
-11/16/1946|Duke|39|South Carolina|0
 11/16/1946|Western Carolina|13|East Carolina|7
+11/16/1946|Arkansas State|6|Evansville(IN)|6
 11/16/1946|Villanova|27|Florida|20
 11/16/1946|Pacific|12|Fresno State|13
+11/16/1946|Auburn|0|Georgia|41
 11/16/1946|Tulane|7|Georgia Tech|35
 11/16/1946|Noth Texas|7|Houston|3
 11/16/1946|Portland(OR)|6|Idaho|20
 11/16/1946|Ohio State|7|Illinois|16
-11/16/1946|Iowa|6|Minnesota|16
+11/16/1946|Ball State|0|Indiana State|3
 11/16/1946|Kansas|34|Kansas State|0
+11/16/1946|Akron|6|Kent State|13
 11/16/1946|West Virginia|0|Kentucky|13
 11/16/1946|Union(TN)|0|Louisville|25
-11/16/1946|Iowa State|0|Nebraska|33
 11/16/1946|Morehead State|29|Marshall|20
+11/16/1946|Washington & Lee|7|Maryland|24
+11/16/1946|Iowa|6|Minnesota|16
+11/16/1946|Iowa State|0|Nebraska|33
+11/16/1946|Connecticut|12|New Hampshire|12
+11/16/1946|Army|34|Pennsylvania|7
+11/16/1946|Duke|39|South Carolina|0
+11/16/1946|Baylor|0|Tulsa|17
 11/22/1946|Brigham Young|14|UTEP|13
 11/22/1946|East Carolina|0|Lenoir-Rhyne(NC)|6
 11/22/1946|Fresno State|2|San José State|13
 11/22/1946|Houston|7|Texas State|21
 11/23/1946|John Carroll(OH)|6|Akron|13
-11/23/1946|Alabama|7|Boston College|13
 11/23/1946|Texas Tech|16|Arizona|0
 11/23/1946|West Texas A&M|7|Arizona State|0
-11/23/1946|Arkansas State|14|Centre(KY)|0
 11/23/1946|Clemson|21|Auburn|13
 11/23/1946|SMU|35|Baylor|0
+11/23/1946|Alabama|7|Boston College|13
 11/23/1946|Johns Hopkins|0|Buffalo|36
 11/23/1946|Stanford|25|California|6
-11/23/1946|Duke|7|North Carolina|22
+11/23/1946|Arkansas State|14|Centre(KY)|0
 11/23/1946|Marshall|7|Dayton|29
 11/23/1946|North Carolina State|37|Florida|6
-11/23/1946|Georgia|48|Tennessee-Chattanooga|27
 11/23/1946|Furman|7|Georgia Tech|41
-11/23/1946|Illinois|20|Northwestern|0
-11/23/1946|Indiana|34|Purdue|20
-11/23/1946|Kansas State|7|New Mexico|14
 11/23/1946|Tennessee|7|Kentucky|0
 11/23/1946|Fordham|0|LSU|40
+11/23/1946|Maryland|14|Michigan State|26
+11/23/1946|Kansas State|7|New Mexico|14
+11/23/1946|Duke|7|North Carolina|22
+11/23/1946|Illinois|20|Northwestern|0
 11/23/1946|Louisiana-Lafayette|14|Northwestern State|0
+11/23/1946|Indiana|34|Purdue|20
+11/23/1946|Georgia|48|Tennessee-Chattanooga|27
 11/27/1946|Healani AC(HI)|6|Hawaii|58
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
@@ -365,6 +373,7 @@
 11/30/1946|Georgia Tech|7|Georgia|35
 11/30/1946|Tulane|27|LSU|41
 11/30/1946|Southwestern(TX)|20|Louisiana Tech|34
+11/30/1946|Maryland|7|North Carolina State|28
 12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
 12/07/1946|Nevada|26|Hawaii|7
 12/11/1946|Fresno State|18|Wahiawa Leilehua HS Alumni(HI)|6
