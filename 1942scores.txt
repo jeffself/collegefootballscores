@@ -81,6 +81,7 @@
 10/03/1942|Washington & Lee|0|Kentucky|53
 10/03/1942|LSU|14|Rice|27
 10/03/1942|Marshall|13|Western Kentucky|19
+10/03/1942|Lakehurst NAS(NJ)|0|Maryland|14
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
 10/09/1942|Illinois State|7|Eastern Michigan|14
@@ -114,6 +115,7 @@
 10/10/1942|Kent State|7|Miami(OH)|53
 10/10/1942|Vanderbilt|7|Kentucky|6
 10/10/1942|Mississippi State|6|LSU|16
+10/10/1942|Rutgers|13|Maryland|27
 10/11/1942|Fresno State|66|San Diego State|0
 10/16/1942|Auburn|6|Georgetown(DC)|6
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
@@ -151,6 +153,7 @@
 10/17/1942|Kentucky|21|Virginia Tech|21
 10/17/1942|Mississippi|7|LSU|21
 10/17/1942|Fort Knox(KY)|20|Marshall|6
+10/17/1942|Maryland|0|VMI|29
 10/22/1942|Clemson|18|South Carolina|6
 10/23/1942|Villanova|6|Auburn|14
 10/23/1942|Camp Beauregard(LA)|0|Louisiana-Lafayette|62
@@ -183,6 +186,7 @@
 10/24/1942|Georgia Navy Pre-Flight|0|LSU|34
 10/24/1942|Louisiana Tech|6|Northwestern State|10
 10/24/1942|Marshall|0|Toledo|7
+10/24/1942|McDaniel College(MD)|0|Maryland|51
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/30/1942|Wayne State|0|Central Michigan|13
 10/30/1942|Kentucky|27|George Washington|6
@@ -284,6 +288,7 @@
 11/14/1942|Iowa|7|Minnesota|27
 11/14/1942|Kansas|13|Iowa State|20
 11/14/1942|West Virginia|7|Kentucky|0
+11/14/1942|Maryland|27|Virginia|12
 11/19/1942|John Carroll(OH)|0|Akron|0
 11/21/1942|Vanderbilt|7|Alabama|27
 11/21/1942|Albuquerque AFB(NM)|13|Arizona State|0
@@ -305,6 +310,7 @@
 11/21/1942|Kentucky|0|Tennessee|26
 11/21/1942|Louisiana Tech|33|Memphis|7
 11/21/1942|Louisiana-Lafayette|0|Sam Houston State|7
+11/21/1942|Washington & Lee|28|Maryland|32
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Arkansas|7|Tulsa|40
 11/26/1942|Miami(OH)|12|Cincinnati|21
