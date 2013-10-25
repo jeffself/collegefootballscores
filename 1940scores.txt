@@ -1,51 +1,52 @@
-09/20/1940|Arkansas State|6|NW Mississippi JC|6
 09/20/1940|SE Louisiana|0|Louisiana-Lafayette|7
+09/20/1940|Arkansas State|6|NW Mississippi JC|6
 09/21/1940|Detroit Tech|0|Akron|0
 09/21/1940|California-Davis|13|Arizona State|21
-09/21/1940|Ball State|0|Miami(OH)|0
 09/21/1940|Centre(KY)|0|Boston College|40
 09/21/1940|Hanover(IN)|0|Cincinnati|45
-09/21/1940|Clemson|38|Presbyterian|0
 09/21/1940|Indiana State|0|Louisville|0
 09/21/1940|Luther(IA)|0|Iowa State|27
 09/21/1940|Blufton(OH)|0|Kent State|37
 09/21/1940|Baldwin-Wallace(OH)|7|Kentucky|59
 09/21/1940|Louisiana Tech|7|LSU|39
 09/21/1940|Morehead State|6|Marshall|13
+09/21/1940|Ball State|0|Miami(OH)|0
+09/21/1940|Clemson|38|Presbyterian|0
 09/26/1940|Louisiana Tech|0|Ouachita Baptist(AR)|17
-09/27/1940|Alabama|26|Spring Hill(AL)|0
-09/27/1940|Arizona State|19|West Texas A&M|12
 09/27/1940|Samford(AL)|13|Auburn|27
 09/27/1940|Ferris State(MI)|0|Central Michigan|37
 09/27/1940|Connecticut|10|Coast Guard|9
 09/27/1940|Iowa State|7|Denver|14
-09/27/1940|Kentucky|13|Xavier(OH)|0
+09/27/1940|Alabama|26|Spring Hill(AL)|0
 09/27/1940|Louisiana-Lafayette|6|Stephen F. Austin|0
-09/28/1940|Akron|0|Colgate|44
+09/27/1940|Arizona State|19|West Texas A&M|12
+09/27/1940|Kentucky|13|Xavier(OH)|0
 09/28/1940|Northern Arizona|0|Arizona|41
 09/28/1940|Central Oklahoma|0|Arkansas|38
-09/28/1940|Arkansas State|12|Missouri-Rolla|44
 09/28/1940|DeSales(OH)|0|Ball State|12
 09/28/1940|North Texas|20|Baylor|27
-09/28/1940|Boston College|27|Tulane|7
 09/28/1940|Nevada|6|Brigham Young|6
-09/28/1940|Buffalo|6|Susquehanna(PA)|20
 09/28/1940|Michigan|41|California|0
 09/28/1940|Louisville|0|Cincinnati|7
 09/28/1940|Wofford|0|Clemson|26
-09/28/1940|Colorado|7|Texas|39
+09/28/1940|Akron|0|Colgate|44
 09/28/1940|Colorado State|25|Colorado School of Mines|0
 09/28/1940|VMI|0|Duke|23
 09/28/1940|Kutztown(PA)|6|East Carolina|14
 09/28/1940|Mississippi State|25|Florida|7
 09/28/1940|Whittier(CA)|7|Fresno State|13
 09/28/1940|Oglethorpe(GA)|0|Georgia|53
-09/28/1940|Idaho|0|Oregon State|41
 09/28/1940|Emporia State(KS)|16|Kansas State|21
 09/28/1940|Assumption College(Canada)|0|Kent State|26
 09/28/1940|Mississippi|19|LSU|6
 09/28/1940|Virginia Tech|7|Marshall|13
 09/28/1940|Hampden-Sydney|7|Maryland|6
+09/28/1940|Springfield(MA)|13|Massachusetts|6
+09/28/1940|Arkansas State|12|Missouri-Rolla|44
+09/28/1940|Idaho|0|Oregon State|41
+09/28/1940|Buffalo|6|Susquehanna(PA)|20
+09/28/1940|Colorado|7|Texas|39
+09/28/1940|Boston College|27|Tulane|7
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/04/1940|Baylor|14|Denver|7
@@ -53,28 +54,18 @@
 10/04/1940|UTEP|7|Louisiana Tech|19
 10/05/1940|Mercer(GA)|0|Alabama|20
 10/05/1940|New Mexico State|0|Arizona|41
-10/05/1940|Arizona State|0|Hardin-Simmons(TX)|17
-10/05/1940|Arkansas|0|TCU|20
 10/05/1940|Williams(MA)|19|Army|20
-10/05/1940|Auburn|20|Tulane|14
 10/05/1940|Central Michigan|7|Ball State|0
 10/05/1940|Wittenberg(OH)|14|Bowling Green|0
-10/05/1940|Brigham Young|6|Utah|12
 10/05/1940|Drexel Institute(PA)|13|Buffalo|20
 10/05/1940|Saint Mary's(CA)|6|California|9
-10/05/1940|Clemson|26|North Carolina State|7
-10/05/1940|Cincinnati|0|Navy|14
 10/05/1940|Kansas State|6|Colorado|7
-10/05/1940|Colorado State|0|Wyoming|0
 10/05/1940|Massachusetts|0|Connecticut|13
-10/05/1940|Duke|0|Tennessee|13
 10/05/1940|Presbyterian JC(NC)|0|East Carolina|40
 10/05/1940|Louisville|13|Evansville|7
-10/05/1940|Florida|23|Tampa|0
 10/05/1940|UCSB|0|Fresno State|20
-10/05/1940|Georgia|33|South Carolina|2
 10/05/1940|Samford(AL)|0|Georgia Tech|27
-10/05/1940|Idaho|0|Washington|21
+10/05/1940|Arizona State|0|Hardin-Simmons(TX)|17
 10/05/1940|Bradley|0|Illinois|31
 10/05/1940|Texas|13|Indiana|6
 10/05/1940|South Dakota|0|Iowa|46
@@ -82,161 +73,175 @@
 10/05/1940|Hiram(OH)|6|Kent State|19
 10/05/1940|Washington & Lee|12|Kentucky|47
 10/05/1940|Holy Cross|0|LSU|25
-10/05/1940|Louisiana-Lafayette|0|Mississippi State|20
 10/05/1940|Dayton|12|Marshall|25
+10/05/1940|Louisiana-Lafayette|0|Mississippi State|20
+10/05/1940|Cincinnati|0|Navy|14
+10/05/1940|Clemson|26|North Carolina State|7
 10/05/1940|Maryland|0|Pennsylvania|51
-10/11/1940|Arizona State|13|New Mexico|6
-10/11/1940|Bowling Green|14|Findlay(OH)|7
+10/05/1940|Georgia|33|South Carolina|2
+10/05/1940|Arkansas|0|TCU|20
+10/05/1940|Florida|23|Tampa|0
+10/05/1940|Duke|0|Tennessee|13
+10/05/1940|Auburn|20|Tulane|14
+10/05/1940|Brigham Young|6|Utah|12
+10/05/1940|Idaho|0|Washington|21
+10/05/1940|Colorado State|0|Wyoming|0
 10/11/1940|Wyoming|0|Brigham Young|20
 10/11/1940|Eastern Michigan|0|Detroit|47
-10/11/1940|Florida|0|Villanova|28
-10/11/1940|Iowa State|25|Marquette|41
+10/11/1940|Bowling Green|14|Findlay(OH)|7
 10/11/1940|Western Kentucky|6|Louisiana Tech|7
 10/11/1940|Millsaps(MS)|0|Louisiana-Lafayette|0
+10/11/1940|Iowa State|25|Marquette|41
+10/11/1940|Arizona State|13|New Mexico|6
+10/11/1940|Florida|0|Villanova|28
 10/12/1940|Illinois Wesleyan|16|Akron|6
 10/12/1940|Samford(AL)|0|Alabama|31
-10/12/1940|Arizona|0|Utah|24
 10/12/1940|Baylor|6|Arkansas|12
-10/12/1940|Arkansas State|0|Southern Illinois|7
 10/12/1940|Cornell|45|Army|0
 10/12/1940|Mississippi State|7|Auburn|7
 10/12/1940|Temple|20|Boston College|33
-10/12/1940|Buffalo|0|Williams(MA)|27
 10/12/1940|Washington State|9|California|6
-10/12/1940|Central Michigan|6|Northern Illinois|9
 10/12/1940|Centre(KY)|0|Cincinnati|22
 10/12/1940|Wake Forest|0|Clemson|39
-10/12/1940|Colorado|26|Utah State|0
 10/12/1940|Colorado State|13|Denver|14
 10/12/1940|Wesleyan(CT)|0|Connecticut|6
-10/12/1940|East Carolina|18|Old Dominion|0
 10/12/1940|West Texas A&M|6|Fresno State|15
 10/12/1940|Mississippi|28|Georgia|14
-10/12/1940|Georgia Tech|20|Notre Dame|26
 10/12/1940|Gonzaga|25|Idaho|0
 10/12/1940|Southern California|13|Illinois|7
-10/12/1940|Indiana|7|Nebraska|13
 10/12/1940|Wisconsin|12|Iowa|30
 10/12/1940|Drake|6|Kansas|20
 10/12/1940|Missouri|24|Kansas State|13
 10/12/1940|Mount Union|0|Kent State|26
-10/12/1940|Kentucky|7|Vanderbilt|7
-10/12/1940|LSU|0|Rice|23
-10/12/1940|Louisville|6|Saint Joseph's(IN)|24
-10/12/1940|Marshall|6|Toledo|7
 10/12/1940|Virginia|19|Maryland|6
-10/18/1940|Brigham Young|20|Texas Tech|21
+10/12/1940|Indiana|7|Nebraska|13
+10/12/1940|Central Michigan|6|Northern Illinois|9
+10/12/1940|Massachusetts|0|Norwich(VT)|24
+10/12/1940|Georgia Tech|20|Notre Dame|26
+10/12/1940|East Carolina|18|Old Dominion|0
+10/12/1940|LSU|0|Rice|23
+10/12/1940|Louisville|6|St. Joseph's(IN)|24
+10/12/1940|Arkansas State|0|Southern Illinois|7
+10/12/1940|Marshall|6|Toledo|7
+10/12/1940|Arizona|0|Utah|24
+10/12/1940|Colorado|26|Utah State|0
+10/12/1940|Kentucky|7|Vanderbilt|7
+10/12/1940|Buffalo|0|Williams(MA)|27
+10/18/1940|Kent State|13|Findlay(OH)|0
+10/18/1940|Polar Bears(HI)|35|Hawaii|28
 10/18/1940|Centre(KY)|28|Louisville|0
 10/18/1940|Fresno State|3|Pacific|0
-10/18/1940|Polar Bears(HI)|35|Hawaii|28
-10/18/1940|Kent State|13|Findlay(OH)|0
 10/18/1940|Louisiana-Lafayette|7|Spring Hill(AL)|13
-10/19/1940|Akron|7|Wayne State|7
+10/18/1940|Brigham Young|20|Texas Tech|21
 10/19/1940|Tennessee|27|Alabama|12
+10/19/1940|Buffalo|0|Alfred(NY)|19
 10/19/1940|Centenary(LA)|6|Arizona|29
 10/19/1940|New Mexico State|6|Arizona State|42
 10/19/1940|Texas|21|Arkansas|0
-10/19/1940|Army|6|Harvard|6
-10/19/1940|Auburn|13|SMU|20
 10/19/1940|Ball State|6|Manchester(IN)|7
 10/19/1940|Villanova|0|Baylor|7
 10/19/1940|Idaho|0|Boston College|60
+10/19/1940|Cincinnati|0|Boston University|14
 10/19/1940|Eastern Michigan|0|Bowling Green|15
-10/19/1940|Buffalo|0|Alfred(NY)|19
-10/19/1940|UCLA|7|California|9
 10/19/1940|Central Michigan|0|Bradley|19
-10/19/1940|Cincinnati|0|Boston U|14
+10/19/1940|UCLA|7|California|9
 10/19/1940|Colorado|33|Colorado State|14
-10/19/1940|Connecticut|13|Maine|6
 10/19/1940|Duke|13|Colgate|0
-10/19/1940|East Carolina|14|Western Carolina|25
-10/19/1940|Maryland|0|Florida|19
 10/19/1940|Georgia|13|Columbia|19
+10/19/1940|Maryland|0|Florida|19
 10/19/1940|Vanderbilt|0|Georgia Tech|19
-10/19/1940|Illinois|0|Michigan|28
+10/19/1940|Army|6|Harvard|6
 10/19/1940|Iowa|6|Indiana|10
-10/19/1940|Iowa State|14|Missouri|30
 10/19/1940|Nebraska|53|Kansas|2
-10/19/1940|Kansas State|0|Oklahoma|14
 10/19/1940|George Washington|0|Kentucky|24
 10/19/1940|Mercer(GA)|0|LSU|20
+10/19/1940|Connecticut|13|Maine|6
+10/19/1940|Rhode Island|9|Massachusetts|3
+10/19/1940|Illinois|0|Michigan|28
+10/19/1940|Iowa State|14|Missouri|30
 10/19/1940|Louisiana Tech|0|Northwestern State|13
+10/19/1940|Kansas State|0|Oklahoma|14
+10/19/1940|Auburn|13|SMU|20
 10/19/1940|Marshall|19|Wake Forest|31
+10/19/1940|Akron|7|Wayne State|7
+10/19/1940|East Carolina|14|Western Carolina|25
 10/24/1940|Clemson|21|South Carolina|13
 10/25/1940|Akron|7|Baldwin-Wallace(OH)|13
-10/25/1940|Alfred Holbrook(OH)|7|Louisville|38
 10/25/1940|Eastern Michigan|0|Central Michigan|24
-10/25/1940|Fresno State|0|San Diego State|0
 10/25/1940|Kentucky|7|Georgia|7
 10/25/1940|Healani AC(HI)|28|Hawaii|13
 10/25/1940|Illinois Wesleyan|14|Louisiana Tech|20
+10/25/1940|Alfred Holbrook(OH)|7|Louisville|38
 10/25/1940|McDaniel College(MD)|0|Maryland|6
+10/25/1940|Fresno State|0|San Diego State|0
 10/26/1940|Oklahoma State|0|Arizona|24
-10/26/1940|Arizona State|0|UTEP|0
-10/26/1940|Arkansas|21|Mississippi|20
 10/26/1940|Austin Peay|0|Arkansas State|13
 10/26/1940|Lafayette|19|Army|0
-10/26/1940|Auburn|16|Georgia Tech|7
-10/26/1940|Ball State|26|Valparaiso(IN)|0
 10/26/1940|Texas A&M|14|Baylor|7
 10/26/1940|Saint Anselm(NH)|0|Boston College|55
 10/26/1940|Bowling Green|7|Capital(OH)|7
 10/26/1940|Buffalo|7|Connecticut|6
-10/26/1940|California|6|Washington|7
 10/26/1940|Dayton|7|Cincinnati|0
 10/26/1940|Wyoming|0|Colorado|62
 10/26/1940|New Mexico|6|Colorado State|7
-10/26/1940|Duke|23|Wake Forest|0
 10/26/1940|North Carolina State Freshmen|26|East Carolina|0
-10/26/1940|Florida|0|Tennessee|14
+10/26/1940|Auburn|16|Georgia Tech|7
 10/26/1940|Utah State|0|Idaho|0
 10/26/1940|Notre Dame|26|Illinois|0
-10/26/1940|Indiana|7|Northwestern|20
-10/26/1940|Iowa|6|Minnesota|34
 10/26/1940|Oklahoma|20|Iowa State|7
 10/26/1940|Kansas|0|Kansas State|20
-10/26/1940|Kent State|31|Washington & Jefferson(PA)|7
 10/26/1940|Vanderbilt|0|LSU|7
 10/26/1940|Louisiana College|0|Louisiana-Lafayette|6
 10/26/1940|Scranton(PA)|6|Marshall|50
+10/26/1940|Worcester Tech(MA)|6|Massachusetts|12
+10/26/1940|Iowa|6|Minnesota|34
+10/26/1940|Arkansas|21|Mississippi|20
+10/26/1940|Indiana|7|Northwestern|20
+10/26/1940|Florida|0|Tennessee|14
+10/26/1940|Arizona State|0|UTEP|0
+10/26/1940|Ball State|26|Valparaiso(IN)|0
+10/26/1940|Duke|23|Wake Forest|0
+10/26/1940|California|6|Washington|7
+10/26/1940|Kent State|31|Washington & Jefferson(PA)|7
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
-11/01/1940|Kansas|7|Villanova|33
 11/01/1940|Louisiana Tech|6|Louisiana-Lafayette|7
 11/01/1940|Charleston(WV)|6|Marshall|33
+11/01/1940|Kansas|7|Villanova|33
 11/02/1940|Youngstown State|13|Akron|0
-11/02/1940|Alabama|25|Kentucky|0
-11/02/1940|Arizona|20|UTEP|13
-11/02/1940|Arizona State|12|Northern Arizona|0
-11/02/1940|Arkansas|0|Texas A&M|17
+11/02/1940|Massachusetts|0|Amherst(MA)|14
 11/02/1940|Union(TN)|20|Arkansas State|0
-11/02/1940|Army|0|Notre Dame|7
-11/02/1940|Auburn|13|Georgia|14
 11/02/1940|Central Normal(IN)|2|Ball State|27
-11/02/1940|Baylor|12|TCU|14
 11/02/1940|Manhattan(NY)|0|Boston College|25
 11/02/1940|Kent State|13|Bowling Green|0
 11/02/1940|Utah State|7|Brigham Young|12
 11/02/1940|CCNY|6|Buffalo|7
 11/02/1940|Oregon State|19|California|13
-11/02/1940|Central Michigan|7|Wayne State|7
 11/02/1940|Carnegie-Mellon|6|Cincinnati|7
-11/02/1940|Clemson|0|Tulane|13
 11/02/1940|Utah|21|Colorado|13
-11/02/1940|Connecticut|7|Rutgers|45
-11/02/1940|Georgetown(KY)|19|Louisville|14
 11/02/1940|Georgia Tech|7|Duke|41
-11/02/1940|East Carolina|13|Guilford(NC)|0
 11/02/1940|Alma(MI)|7|Eastern Michigan|24
 11/02/1940|Nevada|6|Fresno State|7
 11/02/1940|Washington State|26|Idaho|0
-11/02/1940|Illinois|6|Wisconsin|13
 11/02/1940|Indiana|6|Ohio State|21
+11/02/1940|Auburn|13|Georgia|14
+11/02/1940|East Carolina|13|Guilford(NC)|0
 11/02/1940|Purdue|21|Iowa|6
+11/02/1940|Alabama|25|Kentucky|0
+11/02/1940|Georgetown(KY)|19|Louisville|14
 11/02/1940|Kansas State|0|Michigan State|32
+11/02/1940|Arizona State|12|Northern Arizona|0
+11/02/1940|Army|0|Notre Dame|7
+11/02/1940|Connecticut|7|Rutgers|45
+11/02/1940|Baylor|12|TCU|14
 11/02/1940|LSU|0|Tennessee|28
-11/08/1940|Arkansas State|7|Tennessee JC|14
+11/02/1940|Arkansas|0|Texas A&M|17
+11/02/1940|Clemson|0|Tulane|13
+11/02/1940|Arizona|20|UTEP|13
+11/02/1940|Central Michigan|7|Wayne State|7
+11/02/1940|Illinois|6|Wisconsin|13
 11/08/1940|Delta State|7|Louisiana-Lafayette|18
 11/08/1940|Detroit Tech|0|Marshall|67
+11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
 11/09/1940|Gonzaga|7|Arizona State|7
@@ -244,85 +249,86 @@
 11/09/1940|Brown|13|Army|9
 11/09/1940|Clemson|7|Auburn|21
 11/09/1940|Ball State|0|Butler|26
-11/09/1940|Baylor|0|Texas|13
-11/09/1940|Boston U|0|Boston College|21
-11/09/1940|Bowling Green|26|Wooster(OH)|14
+11/09/1940|Boston University|0|Boston College|21
 11/09/1940|Denver|9|Brigham Young|0
 11/09/1940|Hobart(NY)|19|Buffalo|7
-11/09/1940|California|20|Southern Cal|7
 11/09/1940|Eastern Kentucky|25|Central Michigan|0
-11/09/1940|Cincinnati|7|West Virginia|7
 11/09/1940|Missouri|21|Colorado|6
 11/09/1940|Utah State|12|Colorado State|13
 11/09/1940|Rhode Island|13|Connecticut|12
 11/09/1940|Davidson|13|Duke|46
 11/09/1940|Wayne State(MI)|19|Eastern Michigan|7
 11/09/1940|Georgia|13|Florida|18
-11/09/1940|Georgia Tech|7|Kentucky|26
 11/09/1940|Louisville|14|Hanover(IN)|13
-11/09/1940|Idaho|18|Montana|28
-11/09/1940|Illinois|14|Northwestern|32
 11/09/1940|Michigan State|0|Indiana|20
-11/09/1940|Iowa|6|Nebraska|14
 11/09/1940|Drake|6|Iowa State|7
 11/09/1940|Oklahoma|13|Kansas|0
-11/09/1940|Kansas State|13|South Carolina|20
+11/09/1940|Georgia Tech|7|Kentucky|26
 11/09/1940|Mississippi State|22|LSU|7
 11/09/1940|Louisiana College|0|Louisiana Tech|15
 11/09/1940|Georgetown(DC)|41|Maryland|0
+11/09/1940|Idaho|18|Montana|28
+11/09/1940|Iowa|6|Nebraska|14
+11/09/1940|Illinois|14|Northwestern|32
+11/09/1940|Kansas State|13|South Carolina|20
+11/09/1940|California|20|Southern Cal|7
+11/09/1940|Baylor|0|Texas|13
+11/09/1940|Cincinnati|7|West Virginia|7
+11/09/1940|Bowling Green|26|Wooster(OH)|14
 11/11/1940|UTEP|6|Fresno State|16
-11/15/1940|Arizona|20|Loyola Marymount(CA)|13
+11/12/1940|Massachusetts|6|Coast Guard(CT)|19
 11/15/1940|Kalamazoo(MI)|13|Eastern Michigan|3
 11/15/1940|Healani AC(HI)|25|Hawaii|4
 11/15/1940|SE Louisiana|6|Louisiana Tech|26
+11/15/1940|Arizona|20|Loyola Marymount(CA)|13
 11/15/1940|Louisiana-Lafayette|14|Southern Miss|21
-11/16/1940|Alabama|14|Georgia Tech|13
 11/16/1940|Northern Colorado|0|Arizona State|41
-11/16/1940|Arkansas|0|SMU|28
-11/16/1940|Army|0|Pennsylvania|48
 11/16/1940|LSU|21|Auburn|13
+11/16/1940|Kent State|14|Baldwin-Wallace(OH)|7
 11/16/1940|Indiana State|27|Ball State|7
 11/16/1940|Tulsa|6|Baylor|20
 11/16/1940|Georgetown(DC)|18|Boston College|19
-11/16/1940|Bowling Green|0|Eastern Kentucky|48
-11/16/1940|Brigham Young|2|Colorado|25
 11/16/1940|Wayne State|6|Buffalo|0
 11/16/1940|Oregon|6|California|14
+11/16/1940|Brigham Young|2|Colorado|25
 11/16/1940|Central Michigan|7|DeSales(OH)|0
-11/16/1940|Clemson|12|Rhodes(TN)|12
-11/16/1940|Colorado State|0|Utah|27
-11/16/1940|Connecticut|0|New Hampshire|9
-11/16/1940|Duke|3|North Carolina|6
+11/16/1940|Bowling Green|0|Eastern Kentucky|48
 11/16/1940|High Point(NC)|6|East Carolina|0
-11/16/1940|Florida|46|Miami(FL)|6
 11/16/1940|San José State|14|Fresno State|7
-11/16/1940|Georgia|13|Tulane|21
+11/16/1940|Kansas|0|George Washington|6
+11/16/1940|Alabama|14|Georgia Tech|13
 11/16/1940|Nevada|0|Idaho|6
 11/16/1940|Ohio State|14|Illinois|6
-11/16/1940|Indiana|10|Wisconsin|27
-11/16/1940|Iowa|7|Notre Dame|0
 11/16/1940|Iowa State|12|Kansas State|0
-11/16/1940|Kansas|0|George Washington|6
-11/16/1940|Kent State|14|Baldwin-Wallace(OH)|7
-11/16/1940|Kentucky|7|West Virginia|9
 11/16/1940|Louisville|6|Long Island-Brooklyn|29
 11/16/1940|Xavier(OH)|0|Marshall|41
+11/16/1940|Florida|46|Miami(FL)|6
+11/16/1940|Connecticut|0|New Hampshire|9
+11/16/1940|Duke|3|North Carolina|6
+11/16/1940|Iowa|7|Notre Dame|0
+11/16/1940|Army|0|Pennsylvania|48
+11/16/1940|Massachusetts|0|Rensselaer Tech(NY)|25
+11/16/1940|Clemson|12|Rhodes(TN)|12
+11/16/1940|Arkansas|0|SMU|28
+11/16/1940|Georgia|13|Tulane|21
+11/16/1940|Colorado State|0|Utah|27
 11/16/1940|Maryland|0|VMI|20
+11/16/1940|Kentucky|7|West Virginia|9
+11/16/1940|Indiana|10|Wisconsin|27
 11/21/1940|John Carroll|0|Akron|47
-11/21/1940|Arkansas|7|Fordham|27
-11/21/1940|Bowling Green|0|Wayne State|19
 11/21/1940|Miami(OH)|0|Cincinnati|44
 11/21/1940|Colorado|3|Denver|3
+11/21/1940|Arkansas|7|Fordham|27
 11/21/1940|Colorado School of Mines|0|Fresno State|28
-11/21/1940|Idaho|6|Utah|13
-11/21/1940|Kansas|20|Missouri|45
 11/21/1940|West Virginia Wesleyan|0|Marshall|67
 11/21/1940|Rutgers|7|Maryland|14
+11/21/1940|Kansas|20|Missouri|45
+11/21/1940|Idaho|6|Utah|13
+11/21/1940|Bowling Green|0|Wayne State|19
 11/22/1940|East Carolina|44|Newport News Apprentice|7
 11/23/1940|Vanderbilt|21|Alabama|25
 11/23/1940|New Mexico|13|Arizona|12
 11/23/1940|North Dakota|12|Arizona State|30
-11/23/1940|Army|19|Princeton|26
 11/23/1940|Auburn|7|Boston College|33
 11/23/1940|SMU|7|Baylor|4
 11/23/1940|Brigham Young|13|Colorado State|13
@@ -330,9 +336,11 @@
 11/23/1940|Clemson|13|Furman|7
 11/23/1940|Florida|16|Georgia Tech|7
 11/23/1940|Illinois|7|Iowa|18
-11/23/1940|Indiana|3|Purdue|0
 11/23/1940|Iowa State|12|Nebraska|21
+11/23/1940|Army|19|Princeton|26
+11/23/1940|Indiana|3|Purdue|0
 11/23/1940|Kentucky|0|Tennessee|33
+11/23/1940|Massachusetts|6|Tufts(MA)|19
 11/28/1940|Arkansas|27|Tulsa|21
 11/28/1940|Louisiana Tech|6|Centenary(LA)|0
 11/28/1940|Colorado State|0|Kansas|26
