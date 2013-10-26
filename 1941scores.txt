@@ -1,41 +1,37 @@
 09/19/1941|Arizona State|6|Gonzaga|0
 09/19/1941|Louisiana-Lafayette|19|SE Louisiana|7
-09/20/1941|Arkansas State|0|Missouri-Rolla|46
 09/20/1941|Saint Anselm(NH)|0|Boston College|78
 09/20/1941|Transylvania(KY)|0|Cincinnati|46
 09/20/1941|Presbyterian|12|Clemson|41
 09/20/1941|Randolph-Macon(VA)|0|Florida|26
 09/20/1941|Portland(OR)|6|Hawaii|33
 09/20/1941|Louisiana Tech|0|LSU|25
-09/20/1941|Nebraska-Omaha|6|Marshall|62
 09/22/1941|Rio Grande(OH)|0|Louisville|58
+09/20/1941|Nebraska-Omaha|6|Marshall|62
+09/20/1941|Arkansas State|0|Missouri-Rolla|46
 09/24/1941|Pacific|0|Hawaii|14
 09/25/1941|Texas A&M-Kingsville|35|Arizona State|7
-09/26/1941|Akron|10|Muskingum|0
-09/26/1941|Arkansas State|0|SE Missouri State|44
 09/26/1941|Samford(AL)|0|Auburn|13
 09/26/1941|Montana|20|Brigham Young|7
 09/26/1941|Iowa State|7|Denver|6
+09/26/1941|Akron|10|Muskingum|0
+09/26/1941|Arkansas State|0|SE Missouri State|44
 09/26/1941|Kansas|9|Temple|31
 09/27/1941|Louisiana-Lafayette|6|Alabama|47
-09/27/1941|Arizona|7|Notre Dame|38
 09/27/1941|Central Oklahoma|0|Arkansas|56
 09/27/1941|Hardin-Simmons(TX)|0|Baylor|20
-09/27/1941|Boston College|7|Tulane|21
 09/27/1941|Wooster(OH)|14|Bowling Green|14
 09/27/1941|Susquehanna(PA)|0|Buffalo|19
 09/27/1941|Saint Mary's(CA)|0|California|31
 09/27/1941|Louisville|7|Cincinnati|28
-09/27/1941|Clemson|36|VMI|7
 09/27/1941|Texas|34|Colorado|6
 09/27/1941|Colorado School of Mines|6|Colorado State|21
 09/27/1941|Coast Guard|7|Connecticut|0
 09/27/1941|Wake Forest|14|Duke|43
 09/27/1941|Tusculum(TN)|0|East Carolina|31
-09/27/1941|Eastern Michigan|0|Hope(MI)|0
-09/27/1941|Florida|0|Mississippi State|6
 09/27/1941|West Texas A&M|7|Fresno State|6
 09/27/1941|Mercer(GA)|0|Georgia|81
+09/27/1941|Eastern Michigan|0|Hope(MI)|0
 09/27/1941|Utah|26|Idaho|7
 09/27/1941|Detroit|14|Indiana|7
 09/27/1941|Drake|8|Iowa|25
@@ -43,244 +39,249 @@
 09/27/1941|Blufton(OH)|0|Kent State|58
 09/27/1941|Virginia Tech|14|Kentucky|37
 09/27/1941|Holy Cross|19|LSU|13
-09/27/1941|Louisiana Tech|0|UTEP|0
 09/27/1941|Illinois Wesleyan|7|Marshall|51
 09/27/1941|Hampden-Sydney|0|Maryland|18
+09/27/1941|Florida|0|Mississippi State|6
+09/27/1941|Arizona|7|Notre Dame|38
+09/27/1941|Massachusetts|7|Springfield(MA)|7
+09/27/1941|Boston College|7|Tulane|21
+09/27/1941|Louisiana Tech|0|UTEP|0
+09/27/1941|Clemson|36|VMI|7
 10/03/1941|Bowling Green|0|Akron|8
-10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/03/1941|Baylor|14|Denver|0
 10/03/1941|Northern Colorado|0|Brigham Young|26
 10/03/1941|Northern Michigan|0|Central Michigan|7
-10/03/1941|Idaho|7|Oregon|21
 10/03/1941|Kent State|26|Findlay(OH)|0
 10/03/1941|Southern Miss|19|Louisiana Tech|7
+10/03/1941|Idaho|7|Oregon|21
+10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/04/1941|Mississippi State|14|Alabama|0
 10/04/1941|New Mexico State|0|Arizona|47
 10/04/1941|West Texas A&M|13|Arizona State|7
 10/04/1941|TCU|9|Arkansas|0
 10/04/1941|Citadel|6|Army|19
-10/04/1941|Auburn|0|Tulane|32
-10/04/1941|Ball State|6|Northern Illinois|6
+10/04/1941|Cincinnati|13|Boston University|14
 10/04/1941|Buffalo|6|CCNY|0
-10/04/1941|Marshall|0|Dayton|7
-10/04/1941|California|6|Washington State|13
-10/04/1941|Cincinnati|13|Boston U|14
-10/04/1941|Clemson|27|North Carolina State|6
-10/04/1941|Colorado|6|Missouri|21
 10/04/1941|Wyoming|0|Colorado State|27
-10/04/1941|Connecticut|6|Massachusetts|8
+10/04/1941|Marshall|0|Dayton|7
 10/04/1941|Tennessee|0|Duke|19
-10/04/1941|Eastern Michigan|0|Illinois State|0
-10/04/1941|Evansville|6|Louisville|31
 10/04/1941|Tampa|6|Florida|46
 10/04/1941|South Carolina|6|Georgia|34
 10/04/1941|Tennessee-Chattanooga|0|Georgia Tech|20
 10/04/1941|Miami(OH)|0|Illinois|45
-10/04/1941|Indiana|6|Notre Dame|19
-10/04/1941|Iowa|0|Michigan|6
+10/04/1941|Eastern Michigan|0|Illinois State|0
 10/04/1941|Nebraska|14|Iowa State|0
 10/04/1941|Washington(MO)|6|Kansas|19
+10/04/1941|Evansville|6|Louisville|31
+10/04/1941|Iowa|0|Michigan|6
 10/04/1941|Kansas State|3|Northwestern|51
-10/04/1941|Kentucky|7|Washington & Lee|0
-10/04/1941|LSU|0|Texas|34
 10/04/1941|McDaniel College(MD)|6|Maryland|6
+10/04/1941|Connecticut|6|Massachusetts|8
+10/04/1941|Colorado|6|Missouri|21
+10/04/1941|Clemson|27|North Carolina State|6
+10/04/1941|Ball State|6|Northern Illinois|6
+10/04/1941|Indiana|6|Notre Dame|19
+10/04/1941|LSU|0|Texas|34
+10/04/1941|Auburn|0|Tulane|32
+10/04/1941|Kentucky|7|Washington & Lee|0
+10/04/1941|California|6|Washington State|13
 10/05/1941|Camp Haan(CA)|7|Fresno State|7
 10/10/1941|Western Reserve(OH)|12|Akron|6
 10/10/1941|Ball State|6|Butler|13
+10/10/1941|Kent State|6|Case Institute of Technology(OH)|7
 10/10/1941|Brigham Young|13|Denver|7
 10/10/1941|Central Michigan|0|Detroit|45
 10/10/1941|Newport News Apprentice|0|East Carolina|39
 10/10/1941|Mississippi|14|Georgia|14
 10/10/1941|Hawaii Bears|6|Hawaii|20
 10/10/1941|Idaho|21|Gonzaga|7
-10/10/1941|Kent State|6|Case Institute of Technology(OH)|7
 10/10/1941|Millsaps(MS)|0|Louisiana-Lafayette|6
 10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
 10/11/1941|New Mexico|0|Arizona State|0
-10/11/1941|Arkansas|7|Baylor|20
 10/11/1941|Southern Illinois|27|Arkansas State|0
 10/11/1941|VMI|20|Army|27
 10/11/1941|Louisiana Tech|0|Auburn|34
+10/11/1941|Arkansas|7|Baylor|20
 10/11/1941|Clemson|26|Boston College|13
-10/11/1941|Bowling Green|9|Miami(OH)|0
-10/11/1941|Buffalo|6|Drexel Institute(PA)|19
 10/11/1941|Santa Clara|13|California|0
 10/11/1941|Wayne State|0|Cincinnati|37
 10/11/1941|Utah State|7|Colorado|13
-10/11/1941|Connecticut|0|Wesleyan(CT)|7
-10/11/1941|Duke|50|Maryland|0
-10/11/1941|Eastern Michigan|0|Kalamazoo(MI)|7
+10/11/1941|Buffalo|6|Drexel Institute(PA)|19
 10/11/1941|Villanova|6|Florida|0
-10/11/1941|Fresno State|26|UCSB|0
 10/11/1941|Notre Dame|20|Georgia Tech|0
-10/11/1941|Illinois|6|Minnesota|34
 10/11/1941|TCU|20|Indiana|14
-10/11/1941|Kansas|0|Nebraska|32
-10/11/1941|Kansas State|0|Missouri|35
+10/11/1941|Eastern Michigan|0|Kalamazoo(MI)|7
 10/11/1941|Vanderbilt|39|Kentucky|15
 10/11/1941|Mississippi State|0|LSU|0
 10/11/1941|Toledo|7|Marshall|33
-10/17/1941|Baylor|6|Villanova|14
+10/11/1941|Duke|50|Maryland|0
+10/11/1941|Norwich(VT)|20|Massachusetts|0
+10/11/1941|Bowling Green|9|Miami(OH)|0
+10/11/1941|Illinois|6|Minnesota|34
+10/11/1941|Kansas State|0|Missouri|35
+10/11/1941|Kansas|0|Nebraska|32
+10/11/1941|Fresno State|26|UCSB|0
+10/11/1941|Connecticut|0|Wesleyan(CT)|7
 10/17/1941|Na Alii(HI)|6|Hawaii|19
 10/17/1941|Louisville|13|Transylvania(KY)|0
+10/17/1941|Baylor|6|Villanova|14
 10/18/1941|Ohio|0|Akron|0
-10/18/1941|Alabama|9|Tennessee|2
-10/18/1941|Arizona|31|New Mexico|6
-10/18/1941|Arizona State|19|New Mexico State|14
-10/18/1941|Arkansas|14|Texas|48
-10/18/1941|Army|20|Yale|7
 10/18/1941|SMU|20|Auburn|7
 10/18/1941|Central Michigan|7|Ball State|6
 10/18/1941|Manhattan(NY)|13|Boston College|26
-10/18/1941|Bowling Green|20|Eastern Michigan|6
-10/18/1941|Brigham Young|6|Utah|6
 10/18/1941|Washington & Jefferson(PA)|14|Buffalo|6
-10/18/1941|California|7|Oregon|19
 10/18/1941|Centre(KY)|0|Cincinnati|18
 10/18/1941|Colorado State|13|Colorado|26
+10/18/1941|Georgia|7|Columbia|3
 10/18/1941|Maine|14|Connecticut|13
 10/18/1941|Colgate|14|Duke|27
 10/18/1941|Western Carolina|6|East Carolina|19
-10/18/1941|Florida|12|Maryland|13
-10/18/1941|Fresno State|6|Nevada|3
-10/18/1941|Georgia|7|Columbia|3
-10/18/1941|Georgia Tech|7|Vanderbilt|14
-10/18/1941|Idaho|16|Utah State|0
+10/18/1941|Bowling Green|20|Eastern Michigan|6
 10/18/1941|Drake|0|Illinois|40
-10/18/1941|Indiana|21|Nebraska|13
-10/18/1941|Iowa|0|Wisconsin|23
 10/18/1941|Missouri|39|Iowa State|13
-10/18/1941|Kansas|7|Marquette|33
 10/18/1941|Oklahoma|16|Kansas State|0
 10/18/1941|West Liberty State(WV)|0|Kent State|0
-10/18/1941|Kentucky|21|Xavier(OH)|6
 10/18/1941|Rice|0|LSU|27
-10/18/1941|Louisiana Tech|10|Northwestern State|0
 10/18/1941|Spring Hill(AL)|0|Louisiana-Lafayette|39
+10/18/1941|Kansas|7|Marquette|33
 10/18/1941|Western Kentucky|7|Marshall|34
-10/23/1941|Clemson|14|South Carolina|18
+10/18/1941|Florida|12|Maryland|13
+10/18/1941|Indiana|21|Nebraska|13
+10/18/1941|Fresno State|6|Nevada|3
+10/18/1941|Arizona|31|New Mexico|6
+10/18/1941|Arizona State|19|New Mexico State|14
+10/18/1941|Louisiana Tech|10|Northwestern State|0
+10/18/1941|California|7|Oregon|19
+10/18/1941|Massachusetts|6|Rhode Island|34
+10/18/1941|Alabama|9|Tennessee|2
+10/18/1941|Arkansas|14|Texas|48
+10/18/1941|Brigham Young|6|Utah|6
+10/18/1941|Idaho|16|Utah State|0
+10/18/1941|Georgia Tech|7|Vanderbilt|14
+10/18/1941|Iowa|0|Wisconsin|23
+10/18/1941|Kentucky|21|Xavier(OH)|6
+10/18/1941|Army|20|Yale|7
 10/23/1941|Louisville|6|Georgetown(KY)|13
+10/23/1941|Clemson|14|South Carolina|18
 10/24/1941|Baldwin-Wallace(OH)|14|Akron|0
-10/24/1941|Arkansas|9|Detroit|6
 10/24/1941|Arkansas State|0|Austin Peay|34
-10/24/1941|Brigham Young|13|San Francisco|25
-10/24/1941|Central Michigan|12|Eastern Michigan|6
+10/24/1941|Arkansas|9|Detroit|6
 10/24/1941|Norfolk NAS(VA)|0|East Carolina|30
-10/24/1941|Kent State|0|Western Reserve(OH)|28
+10/24/1941|Central Michigan|12|Eastern Michigan|6
 10/24/1941|Louisiana College|7|Louisiana-Lafayette|23
+10/24/1941|Brigham Young|13|San Francisco|25
+10/24/1941|Kent State|0|Western Reserve(OH)|28
 10/25/1941|Georgia|14|Alabama|27
+10/25/1941|Buffalo|0|Alfred(NY)|14
 10/25/1941|Arizona|20|Arizona State|7
 10/25/1941|Columbia|0|Army|13
-10/25/1941|Auburn|14|Georgia Tech|28
-10/25/1941|Ball State|40|Valparaiso(IN)|0
-10/25/1941|Baylor|0|Texas A&M|48
 10/25/1941|Georgetown(DC)|6|Boston College|14
 10/25/1941|Heidelberg(OH)|6|Bowling Green|39
-10/25/1941|Buffalo|0|Alfred(NY)|14
 10/25/1941|Southern Cal|0|California|14
-10/25/1941|Cincinnati|6|Tennessee|21
 10/25/1941|Wyoming|0|Colorado|27
-10/25/1941|Colorado State|7|Utah State|6
-10/25/1941|Connecticut|25|Springfield(MA)|8
-10/25/1941|Duke|27|Pittsburgh|7
-10/25/1941|Florida|7|LSU|10
 10/25/1941|San Diego State|0|Fresno State|26
-10/25/1941|Willamette(OR)|6|Idaho|33
-10/25/1941|Illinois|14|Notre Dame|49
-10/25/1941|Indiana|25|Wisconsin|27
-10/25/1941|Iowa|6|Purdue|7
+10/25/1941|Auburn|14|Georgia Tech|28
 10/25/1941|Iowa State|0|Kansas|13
 10/25/1941|West Virginia|6|Kentucky|18
+10/25/1941|Willamette(OR)|6|Idaho|33
+10/25/1941|Florida|7|LSU|10
+10/25/1941|Massachusetts|32|Worcester Tech(MA)|0
+10/25/1941|Illinois|14|Notre Dame|49
+10/25/1941|Maryland|6|Pennsylvania|55
+10/25/1941|Duke|27|Pittsburgh|7
+10/25/1941|Iowa|6|Purdue|7
 10/25/1941|Louisiana Tech|21|SE Louisiana|14
 10/25/1941|Marshall|13|Scranton|0
-10/25/1941|Maryland|6|Pennsylvania|55
+10/25/1941|Connecticut|25|Springfield(MA)|8
+10/25/1941|Cincinnati|6|Tennessee|21
+10/25/1941|Baylor|0|Texas A&M|48
+10/25/1941|Colorado State|7|Utah State|6
+10/25/1941|Ball State|40|Valparaiso(IN)|0
+10/25/1941|Indiana|25|Wisconsin|27
 10/27/1941|Healani AC(HI)|26|Hawaii|6
-10/31/1941|Arizona State|6|Northern Colorado|0
 10/31/1941|Southern Arkansas|19|Arkansas State|0
-10/31/1941|Clemson|19|George Washington|0
 10/31/1941|East Carolina|14|Erskine(SC)|7
+10/31/1941|Clemson|19|George Washington|0
 10/31/1941|Louisiana-Lafayette|0|Louisiana Tech|12
+10/31/1941|Arizona State|6|Northern Colorado|0
 11/01/1941|Ohio Wesleyan|6|Akron|28
 11/01/1941|Kentucky|0|Alabama|30
+11/01/1941|Massachusetts|0|Amherst(MA)|20
 11/01/1941|UTEP|14|Arizona|33
 11/01/1941|Texas A&M|7|Arkansas|0
 11/01/1941|Notre Dame|0|Army|0
-11/01/1941|Auburn|0|Georgia|7
 11/01/1941|Manchester(IN)|0|Ball State|0
 11/01/1941|TCU|23|Baylor|12
 11/01/1941|Temple|0|Boston College|31
-11/01/1941|Bowling Green|12|Kent State|6
-11/01/1941|Brigham Young|28|Utah State|0
 11/01/1941|Lehigh|0|Buffalo|0
-11/01/1941|California|27|UCLA|7
-11/01/1941|Central Michigan|0|Wayne State|6
+11/01/1941|Middlebury(VT)|0|Connecticut|7
 11/01/1941|Cincinnati|0|Dayton|3
-11/01/1941|Colorado|6|Utah|46
 11/01/1941|Colorado State|6|Denver|6
 11/01/1941|Louisville|6|DePauw(IN)|13
-11/01/1941|Middlebury(VT)|0|Connecticut|7
-11/01/1941|Duke|14|Georgia Tech|0
 11/01/1941|Indiana State|14|Eastern Michigan|0
 11/01/1941|San Francisco|47|Fresno State|27
-11/01/1941|Idaho|0|Oregon State|33
+11/01/1941|Auburn|0|Georgia|7
+11/01/1941|Duke|14|Georgia Tech|0
 11/01/1941|Michigan|20|Illinois|0
 11/01/1941|Indiana|7|Iowa|13
 11/01/1941|South Dakota|0|Iowa State|27
-11/01/1941|Kansas|0|Oklahoma|38
 11/01/1941|Nebraska|6|Kansas State|12
+11/01/1941|Bowling Green|12|Kent State|6
 11/01/1941|Tennessee|13|LSU|6
 11/01/1941|Wake Forest|6|Marshall|16
+11/01/1941|Kansas|0|Oklahoma|38
+11/01/1941|Idaho|0|Oregon State|33
 11/01/1941|Maryland|0|Rutgers|20
+11/01/1941|California|27|UCLA|7
+11/01/1941|Colorado|6|Utah|46
+11/01/1941|Brigham Young|28|Utah State|0
+11/01/1941|Central Michigan|0|Wayne State|6
 11/06/1941|East Carolina|13|Bergen JC(NJ)|7
-11/07/1941|Akron|0|Youngstown State|19
-11/07/1941|Arkansas State|0|Union(TN)|70
 11/07/1941|Na Alii(HI)|14|Hawaii|33
 11/07/1941|Stephen F. Austin|0|Louisiana-Lafayette|25
-11/08/1941|Alabama|19|Tulane|14
+11/07/1941|Arkansas State|0|Union(TN)|70
+11/07/1941|Akron|0|Youngstown State|19
 11/08/1941|Northern Arizona|0|Arizona|41
 11/08/1941|UTEP|28|Arizona State|0
-11/08/1941|Arkansas|12|Rice|21
-11/08/1941|Army|6|Harvard|20
 11/08/1941|Mississippi State|14|Auburn|7
 11/08/1941|Central Normal(IN)|0|Ball State|33
-11/08/1941|Baylor|7|Texas|7
 11/08/1941|Wake Forest|6|Boston College|26
-11/08/1941|Bowling Green|13|Wittenberg(OH)|0
-11/08/1941|Brigham Young|23|Wyoming|7
-11/08/1941|Buffalo|12|Hobart(NY)|7
+11/08/1941|Massachusetts|33|Brooklyn(NY)|19
 11/08/1941|Washington|13|California|6
 11/08/1941|Grand Rapids(MI)|7|Central Michigan|6
 11/08/1941|Carnegie-Mellon|0|Cincinnati|20
-11/08/1941|Connecticut|0|Rhode Island|6
 11/08/1941|Duke|56|Davidson|0
-11/08/1941|Eastern Michigan|0|Wayne State(MI)|12
 11/08/1941|Maryland|0|Georgetown(DC)|26
 11/08/1941|Florida|3|Georgia|19
 11/08/1941|Kentucky|13|Georgia Tech|20
 11/08/1941|Louisville|21|Hanover(IN)|6
-11/08/1941|Idaho|0|Washington State|26
 11/08/1941|Iowa|21|Illinois|0
-11/08/1941|Indiana|14|Northwestern|20
-11/08/1941|Iowa State|0|Oklahoma|55
-11/08/1941|Kansas|0|West Virginia|21
+11/08/1941|Army|6|Harvard|20
+11/08/1941|Buffalo|12|Hobart(NY)|7
 11/08/1941|South Carolina|0|Kansas State|3
 11/08/1941|John Carroll(OH)|12|Kent State|0
 11/08/1941|Mississippi|13|LSU|12
 11/08/1941|Louisiana Tech|45|Louisiana College|0
 11/08/1941|Morehead State|7|Marshall|28
+11/08/1941|Indiana|14|Northwestern|20
+11/08/1941|Iowa State|0|Oklahoma|55
+11/08/1941|Connecticut|0|Rhode Island|6
+11/08/1941|Arkansas|12|Rice|21
+11/08/1941|Baylor|7|Texas|7
+11/08/1941|Alabama|19|Tulane|14
+11/08/1941|Idaho|0|Washington State|26
+11/08/1941|Eastern Michigan|0|Wayne State(MI)|12
+11/08/1941|Kansas|0|West Virginia|21
+11/08/1941|Bowling Green|13|Wittenberg(OH)|0
+11/08/1941|Brigham Young|23|Wyoming|7
 11/11/1941|Pacific|0|Fresno State|13
 11/13/1941|East Carolina|13|Belmont Abbey(NC)|0
 11/14/1941|Southern Miss|0|Louisiana-Lafayette|0
 11/15/1941|Kent State|13|Akron|41
 11/15/1941|Georgia Tech|0|Alabama|20
-11/15/1941|Arizona|14|Oklahoma State|41
 11/15/1941|Northern Arizona|0|Arizona State|33
 11/15/1941|SMU|14|Arkansas|7
-11/15/1941|Army|7|Pennsylvania|14
-11/15/1941|Auburn|7|LSU|7
-11/15/1941|Ball State|7|Indiana State|0
-11/15/1941|Baylor|13|Tulsa|20
 11/15/1941|Tennessee|14|Boston College|7
 11/15/1941|Findlay(OH)|0|Bowling Green|47
 11/15/1941|Colorado|13|Brigham Young|13
@@ -289,20 +290,26 @@
 11/15/1941|DeSales(OH)|6|Central Michigan|12
 11/15/1941|Wake Forest|0|Clemson|29
 11/15/1941|Utah|26|Colorado State|13
-11/15/1941|Connecticut|7|Rutgers|32
-11/15/1941|North Carolina|6|Duke|55
-11/15/1941|Florida|14|Miami(FL)|0
-11/15/1941|Fresno State|0|San José State|0
-11/15/1941|Centre(KY)|6|Georgia|47
-11/15/1941|Hardin-Simmons(TX)|13|Louisiana Tech|0
-11/15/1941|Montana|16|Idaho|0
-11/15/1941|Illinois|7|Ohio State|12
-11/15/1941|Minnesota|34|Iowa|13
 11/15/1941|Iowa State|13|Drake|14
+11/15/1941|North Carolina|6|Duke|55
+11/15/1941|Centre(KY)|6|Georgia|47
+11/15/1941|Montana|16|Idaho|0
+11/15/1941|Ball State|7|Indiana State|0
+11/15/1941|Minnesota|34|Iowa|13
 11/15/1941|Kansas State|16|Kansas|20
 11/15/1941|Rhodes(TN)|19|Kentucky|33
+11/15/1941|Auburn|7|LSU|7
+11/15/1941|Hardin-Simmons(TX)|13|Louisiana Tech|0
 11/15/1941|Vanderbilt|68|Louisville|0
 11/15/1941|VMI|27|Maryland|0
+11/15/1941|Tufts(MA)|14|Massachusetts|7
+11/15/1941|Florida|14|Miami(FL)|0
+11/15/1941|Illinois|7|Ohio State|12
+11/15/1941|Arizona|14|Oklahoma State|41
+11/15/1941|Army|7|Pennsylvania|14
+11/15/1941|Connecticut|7|Rutgers|32
+11/15/1941|Fresno State|0|San José State|0
+11/15/1941|Baylor|13|Tulsa|20
 11/19/1941|Hawaii Bears|13|Hawaii|27
 11/20/1941|Arizona State|26|Fresno State|7
 11/20/1941|John Carroll(OH)|12|Akron|21
@@ -315,7 +322,7 @@
 11/22/1941|West Virginia|6|Army|7
 11/22/1941|Auburn|13|Villanova|0
 11/22/1941|Baylor|0|SMU|14
-11/22/1941|Boston U|7|Boston College|19
+11/22/1941|Boston University|7|Boston College|19
 11/22/1941|Colorado State|22|Brigham Young|7
 11/22/1941|Furman|6|Clemson|34
 11/22/1941|Duke|55|North Carolina State|6
