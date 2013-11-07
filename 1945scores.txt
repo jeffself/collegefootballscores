@@ -1,17 +1,16 @@
 08/24/1945|Central Michigan|13|Alma(MI)|0
 08/31/1945|Bowling Green|15|Alma(MI)|0
 09/07/1945|Central Michigan|6|Bowling Green|19
-09/14/1945|Bowling Green|13|Baldwin-Wallace(OH)|14
 09/14/1945|Central Michigan|26|Alma(MI)|0
+09/14/1945|Bowling Green|13|Baldwin-Wallace(OH)|14
 09/15/1945|Blackland AFB(TX)|0|Baylor|40
 09/15/1945|Fresno State|6|Cal Poly-SLO|6
 09/21/1945|Samford(AL)|0|Auburn|38
-09/21/1945|Fresno State|13|Pacific|0
 09/21/1945|Mississippi|21|Kentucky|7
-09/22/1945|Arkansas|12|Barksdale AFB(LA)|6
+09/21/1945|Fresno State|13|Pacific|0
 09/22/1945|Southern Illinois|6|Arkansas State|0
+09/22/1945|Arkansas|12|Barksdale AFB(LA)|6
 09/22/1945|West Texas A&M|0|Baylor|32
-09/22/1945|Bowling Green|0|Miami(OH)|26
 09/22/1945|Saint Mary's(CA)|20|California|13
 09/22/1945|Denison(OH)|0|Cincinnati|30
 09/22/1945|Presbyterian(SC)|0|Clemson|76
@@ -20,41 +19,42 @@
 09/22/1945|Camp Blanding(FL)|2|Florida|31
 09/22/1945|Murray State|0|Georgia|49
 09/22/1945|Pittsburgh|6|Illinois|23
-09/22/1945|Indiana|13|Michigan|7
-09/22/1945|Iowa State|6|Northwestern|18
 09/22/1945|TCU|18|Kansas|0
 09/22/1945|Lake Charles AAF(LA)|2|Louisiana Tech|7
 09/22/1945|Lake Charles AAF(LA)|21|Louisiana-Lafayette|7
+09/22/1945|Bowling Green|0|Miami(OH)|26
+09/22/1945|Indiana|13|Michigan|7
+09/22/1945|Iowa State|6|Northwestern|18
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/28/1945|Kansas|20|Denver|19
 09/28/1945|Guilford|6|Maryland|60
-09/29/1945|Alabama|21|Keesler Field(MS)|0
 09/29/1945|Oklahoma State|19|Arkansas|14
 09/29/1945|Personnel District Comm.(KY)|0|Army|32
 09/29/1945|Central Normal(IN)|6|Ball State|28
 09/29/1945|TCU|7|Baylor|6
 09/29/1945|Squantum NAS(MA)|0|Boston College|13
-09/29/1945|Bowling Green|6|Ohio|0
 09/29/1945|Southern Cal|13|California|2
 09/29/1945|Western Kentucky|0|Central Michigan|6
-09/29/1945|Cincinnati|7|Kentucky|13
-09/29/1945|Clemson|0|Georgia|20
 09/29/1945|Colorado|13|Colorado College|0
 09/29/1945|Northern Colorado|0|Colorado State|33
-09/29/1945|Connecticut|46|Worcester Tech(MA)|0
 09/29/1945|Bogue Field(NC)|0|Duke|76
 09/29/1945|Mississippi|13|Florida|26
 09/29/1945|Minter Field(CA)|0|Fresno State|0
-09/29/1945|Georgia Tech|20|North Carolina|14
+09/29/1945|Clemson|0|Georgia|20
 09/29/1945|Washington State|43|Idaho|12
-09/29/1945|Illinois|0|Notre Dame|7
-09/29/1945|Indiana|7|Northwestern|7
 09/29/1945|Bergstrom AAF(TX)|13|Iowa|14
 09/29/1945|Northern Iowa|13|Iowa State|48
 09/29/1945|Wichita State|6|Kansas State|13
 09/29/1945|Rice|0|LSU|42
 09/29/1945|Samford(AL)|6|Louisiana Tech|32
+09/29/1945|Alabama|21|Keesler Field(MS)|0
+09/29/1945|Cincinnati|7|Kentucky|13
 09/29/1945|Louisiana-Lafayette|0|Mississippi State|31
+09/29/1945|Illinois|0|Notre Dame|7
+09/29/1945|Indiana|7|Northwestern|7
+09/29/1945|Bowling Green|6|Ohio|0
+09/29/1945|Georgia Tech|20|North Carolina|14
+09/29/1945|Connecticut|46|Worcester Tech(MA)|0
 10/05/1945|Georgia|27|Miami(FL)|21
 10/05/1945|Louisiana Tech|14|Louisiana-Lafayette|12
 10/06/1945|TCU|14|Arkansas|27
@@ -91,28 +91,28 @@
 10/13/1945|Northern Arizona|6|Arizona|52
 10/13/1945|South Carolina|0|Alabama|55
 10/13/1945|Arkansas|13|Baylor|23
-10/13/1945|Army|28|Michigan|7
-10/13/1945|Ball State|0|Wabash(IN)|0
 10/13/1945|Case Institute(OH)|7|Bowling Green|26
-10/13/1945|California|0|UCLA|13
-10/13/1945|Central Michigan|26|Wayne State|0
 10/13/1945|Cincinnati|19|Ohio|20
 10/13/1945|Pensacola NAS(FL)|6|Clemson|7
 10/13/1945|Colorado|21|Colorado State|6
-10/13/1945|Connecticut|0|Franklin & Marshall(PA)|19
-10/13/1945|Duke|26|Wake Forest|19
 10/13/1945|Hillsdale(MI)|0|Eastern Michigan|13
-10/13/1945|Vanderbilt|7|Florida|0
-10/13/1945|Cal Poly-SLO|0|Fresno State|24
-10/13/1945|Georgia|48|Kentucky|6
-10/13/1945|Samford(AL)|0|Georgia Tech|43
 10/13/1945|Idaho|7|Farragut Navy(ID)|18
+10/13/1945|Vanderbilt|7|Florida|0
+10/13/1945|Connecticut|0|Franklin & Marshall(PA)|19
+10/13/1945|Cal Poly-SLO|0|Fresno State|24
+10/13/1945|Samford(AL)|0|Georgia Tech|43
 10/13/1945|Nebraska|14|Indiana|54
-10/13/1945|Iowa|0|Purdue|40
 10/13/1945|Missouri|13|Iowa State|7
-10/13/1945|Kansas State|13|Marquette|55
+10/13/1945|Georgia|48|Kentucky|6
 10/13/1945|Texas A&M|12|LSU|31
+10/13/1945|Kansas State|13|Marquette|55
+10/13/1945|Army|28|Michigan|7
 10/13/1945|Louisiana Tech|21|Mississippi|26
+10/13/1945|Iowa|0|Purdue|40
+10/13/1945|California|0|UCLA|13
+10/13/1945|Ball State|0|Wabash(IN)|0
+10/13/1945|Duke|26|Wake Forest|19
+10/13/1945|Central Michigan|26|Wayne State|0
 10/19/1945|Florida|6|Miami(FL)|7
 10/20/1945|Tennessee|7|Alabama|25
 10/20/1945|Texas|34|Arkansas|7
@@ -126,6 +126,7 @@
 10/20/1945|Nebraska|7|Iowa State|27
 10/20/1945|Southwestern(TX)|14|Louisiana Tech|20
 10/20/1945|Connecticut|18|Maine|12
+10/20/1945|Brooklyn|13|Massachusetts|7
 10/20/1945|Arkansas State|0|Mississippi State JV|43
 10/20/1945|Kansas State|7|Missouri|41
 10/20/1945|Georgia Tech|6|Navy|20
@@ -143,10 +144,10 @@
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
 10/27/1945|Duke|13|Army|48
-10/27/1945|Ball State|40|Earlham(IN)|6
 10/27/1945|Nevada|6|California|19
 10/27/1945|Kentucky|7|Cincinnati|16
 10/27/1945|Utah|28|Colorado State|0
+10/27/1945|Ball State|40|Earlham(IN)|6
 10/27/1945|Louisiana-Lafayette|0|Florida|45
 10/27/1945|San Diego State|7|Fresno State|0
 10/27/1945|Auburn|7|Georgia Tech|20
@@ -159,6 +160,7 @@
 10/27/1945|Vanderbilt|7|LSU|39
 10/27/1945|Connecticut|33|Lehigh|6
 10/27/1945|Northwestern State|7|Louisiana Tech|18
+10/27/1945|Massachusetts|6|Maine|0
 10/27/1945|Boston College|20|Merchant Marine(NY)|33
 10/27/1945|Arkansas|19|Mississippi|0
 10/27/1945|Iowa|0|Notre Dame|56
@@ -186,6 +188,7 @@
 11/03/1945|Mississippi|13|LSU|32
 11/03/1945|Barksdale AFB(LA)|12|Louisiana Tech|7
 11/03/1945|William & Mary|33|Maryland|14
+11/03/1945|Maine|13|Massachusetts|14
 11/03/1945|Kansas|13|Nebraska|27
 11/03/1945|Fresno State|4|Nevada|7
 11/03/1945|Colorado|6|New Mexico|12
@@ -206,6 +209,7 @@
 11/10/1945|Connecticut|53|Maine|0
 11/10/1945|Kansas|0|Marquette|26
 11/10/1945|VMI|0|Maryland|38
+11/10/1945|Amherst(MA)|6|Massachusetts|6
 11/10/1945|Indiana|49|Minnesota|0
 11/10/1945|Louisiana Tech|7|Northwestern State|2
 11/10/1945|Army|48|Notre Dame|0
