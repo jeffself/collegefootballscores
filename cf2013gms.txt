@@ -3853,3 +3853,153 @@
 16-Nov-13|Ohio Wesleyan|27|Wooster|28
 16-Nov-13|Framingham St|36|Worcester St|0
 16-Nov-13|North Dakota St|35|Youngstown St|17
+17-Nov-13|Winona St|13|Concordia-St Paul|23
+19-Nov-13|Buffalo|44|Miami OH|7
+19-Nov-13|Kent St|44|Ohio U.|13
+20-Nov-13|Northern Illinois|35|Toledo|17
+21-Nov-13|UNLV|41|Air Force|21
+21-Nov-13|Rice|37|Alabama-Birmingham|34
+21-Nov-13|Rutgers|17|Central Florida|41
+21-Nov-13|Nicholls St|27|SE Louisiana St|52
+22-Nov-13|Navy|58|San José St|52
+23-Nov-13|Chattanooga|0|Alabama|49
+23-Nov-13|Juniata|34|Albright|45
+23-Nov-13|Florida Tech|32|Alderson-Broaddus|20
+23-Nov-13|Cortland St|14|Alfred|21
+23-Nov-13|Western Carolina|27|Appalachian St|48
+23-Nov-13|Oregon|16|Arizona|42
+23-Nov-13|Mississippi St|24|Arkansas|17
+23-Nov-13|Georgia St|33|Arkansas St|35
+23-Nov-13|Sterling|7|Baker|10
+23-Nov-13|Tabor|14|Benedictine KS|13
+23-Nov-13|St Scholastica|13|Bethel MN|70
+23-Nov-13|Florida A&M|10|Bethune-Cookman|29
+23-Nov-13|Western St CO|48|Black Hills St|50
+23-Nov-13|Waynesburg|12|Brockport St|19
+23-Nov-13|Georgetown KY|28|Carroll MT|38
+23-Nov-13|Newberry|27|Carson-Newman|37
+23-Nov-13|Sam Houston St|31|Central Arkansas|49
+23-Nov-13|Bryant|29|Central Conn St|16
+23-Nov-13|Massachusetts|0|Central Michigan|37
+23-Nov-13|Liberty|56|Charleston Southern|14
+23-Nov-13|The Citadel|6|Clemson|52
+23-Nov-13|Fordham|56|Colgate|19
+23-Nov-13|Southern Cal|47|Colorado|29
+23-Nov-13|Brown|48|Columbia|7
+23-Nov-13|St Ambrose|28|Cumberlands KY|56
+23-Nov-13|Princeton|24|Dartmouth|28
+23-Nov-13|Campbell|47|Davidson|14
+23-Nov-13|Morgan St|31|Delaware St|26
+23-Nov-13|Franklin & Marshall|38|Delaware Valley|14
+23-Nov-13|Bowling Green|58|Eastern Michigan|7
+23-Nov-13|Portland St|41|Eastern Washington|42
+23-Nov-13|Georgia Southern|26|Florida|20
+23-Nov-13|New Mexico St|10|Florida Atlantic|55
+23-Nov-13|Marshall|48|Florida Int'l|10
+23-Nov-13|Idaho|14|Florida St|80
+23-Nov-13|Washington U.|10|Franklin|17
+23-Nov-13|New Mexico|28|Fresno St|69
+23-Nov-13|Wofford|14|Furman|27
+23-Nov-13|Kentucky|17|Georgia|59
+23-Nov-13|Alabama A&M|7|Georgia Tech|66
+23-Nov-13|Saginaw Valley St|7|Grand Valley St|40
+23-Nov-13|Ottawa|13|Grand View|38
+23-Nov-13|Azusa Pacific|67|Greenville|0
+23-Nov-13|Maryville|34|Hampden-Sydney|42
+23-Nov-13|Howard|42|Hampton|39
+23-Nov-13|St Cloud St|40|Henderson St|35
+23-Nov-13|Gallaudet|7|Hobart|34
+23-Nov-13|Georgetown DC|28|Holy Cross|21
+23-Nov-13|Cincinnati|24|Houston|17
+23-Nov-13|Wartburg|41|Illinois Wesleyan|7
+23-Nov-13|Southern Illinois|31|Indiana St|9
+23-Nov-13|West Texas A&M|27|Indianapolis|14
+23-Nov-13|Michigan|21|Iowa|24
+23-Nov-13|Kansas|0|Iowa St|34
+23-Nov-13|Framingham St|17|Ithaca|20
+23-Nov-13|SE Missouri St|34|Jacksonville St|42
+23-Nov-13|St John Fisher|25|John Carroll|16
+23-Nov-13|Wesley|29|Johns Hopkins|24
+23-Nov-13|Oklahoma|41|Kansas St|31
+23-Nov-13|McNeese St|42|Lamar|38
+23-Nov-13|Lafayette|50|Lehigh|28
+23-Nov-13|Pacific Lutheran|21|Linfield|42
+23-Nov-13|Tulsa|24|Louisiana Tech|14
+23-Nov-13|Memphis|17|Louisville|24
+23-Nov-13|Texas A&M|10|LSU|34
+23-Nov-13|Redlands|7|Mary Hardin-Baylor|35
+23-Nov-13|Boston College|29|Maryland|26
+23-Nov-13|Stetson|14|Mercer|41
+23-Nov-13|Virginia|26|Miami FL|45
+23-Nov-13|Wisconsin|20|Minnesota|7
+23-Nov-13|Emporia St|13|Minnesota-Duluth|55
+23-Nov-13|Missouri|24|Mississippi|10
+23-Nov-13|Northwestern IA|13|Missouri Valley|38
+23-Nov-13|Duquesne|33|Monmouth NJ|23
+23-Nov-13|Montana|28|Montana St|14
+23-Nov-13|UNC-Charlotte|61|Morehead St|17
+23-Nov-13|Rocky Mountain|21|Morningside|40
+23-Nov-13|Wash & Jeff|20|Mount Union|34
+23-Nov-13|Salisbury|21|Muhlenberg|19
+23-Nov-13|Eastern Kentucky|27|Murray St|34
+23-Nov-13|Maine|3|New Hampshire|24
+23-Nov-13|South Carolina St|17|Norfolk St|3
+23-Nov-13|Tuskegee|27|North Alabama|30
+23-Nov-13|Old Dominion|20|North Carolina|80
+23-Nov-13|North Carolina Central|0|North Carolina A&T|28
+23-Nov-13|East Carolina|42|North Carolina St|28
+23-Nov-13|Albion|7|North Central|63
+23-Nov-13|South Dakota|0|North Dakota St|42
+23-Nov-13|Texas-San Antonio|21|North Texas|13
+23-Nov-13|Cal Poly SLO|42|Northern Colorado|14
+23-Nov-13|Western Illinois|13|Northern Iowa|28
+23-Nov-13|Michigan St|30|Northwestern|6
+23-Nov-13|Stephen F. Austin|27|Northwestern St|40
+23-Nov-13|Brigham Young|13|Notre Dame|23
+23-Nov-13|Indiana|14|Ohio State|42
+23-Nov-13|Baylor|17|Oklahoma St|49
+23-Nov-13|Washington|69|Oregon St|27
+23-Nov-13|Nebraska|23|Penn State|20
+23-Nov-13|Cornell|42|Pennsylvania|41
+23-Nov-13|Arkansas-Pine Bluff|23|Prairie View A&M|43
+23-Nov-13|Gardner-Webb|20|Presbyterian|13
+23-Nov-13|Illinois|20|Purdue|16
+23-Nov-13|William & Mary|20|Richmond|31
+23-Nov-13|Endicott|0|Rowan|24
+23-Nov-13|UC-Davis|34|Sacramento St|7
+23-Nov-13|Western Conn St|48|Salve Regina|35
+23-Nov-13|Elon|32|Samford|33
+23-Nov-13|Boise St|31|San Diego St|34
+23-Nov-13|Louisiana-Monroe|14|South Alabama|36
+23-Nov-13|Coastal Carolina|10|South Carolina|70
+23-Nov-13|SMU|16|South Florida|6
+23-Nov-13|Middle Tennessee St|42|Southern Miss|21
+23-Nov-13|Northern Arizona|20|Southern Utah|10
+23-Nov-13|Norwich|27|Springfield|28
+23-Nov-13|Faulkner|13|St Francis IN|20
+23-Nov-13|Robert Morris PA|3|St Francis PA|23
+23-Nov-13|California|13|Stanford|63
+23-Nov-13|Albany NY|3|Stony Brook|24
+23-Nov-13|Pittsburgh|17|Syracuse|16
+23-Nov-13|Connecticut|28|Temple|21
+23-Nov-13|Vanderbilt|14|Tennessee|10
+23-Nov-13|Austin Peay|0|Tennessee Tech|34
+23-Nov-13|Eastern Illinois|70|Tennessee-Martin|22
+23-Nov-13|Western Kentucky|38|Texas St-San Marcos|7
+23-Nov-13|James Madison|17|Towson|28
+23-Nov-13|UTEP|3|Tulane|45
+23-Nov-13|Arizona St|38|UCLA|33
+23-Nov-13|Colorado St|0|Utah St|13
+23-Nov-13|Concordia WI|20|UW-Platteville|54
+23-Nov-13|St Norbert|7|UW-Whitewater|31
+23-Nov-13|Delaware|34|Villanova|35
+23-Nov-13|Bucknell|35|VMI|23
+23-Nov-13|Duke|28|Wake Forest|21
+23-Nov-13|Utah|37|Washington St|49
+23-Nov-13|Idaho St|7|Weber St|32
+23-Nov-13|American Int'l|7|West Chester|38
+23-Nov-13|Slippery Rock|20|Winston-Salem St|27
+23-Nov-13|Lebanon Valley|17|Wittenberg|59
+23-Nov-13|Hawai`i|56|Wyoming|59
+23-Nov-13|Harvard|34|Yale|7
+23-Nov-13|South Dakota St|42|Youngstown St|13
