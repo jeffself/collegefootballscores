@@ -4092,3 +4092,37 @@
 30-Nov-13|Iowa St|52|West Virginia|44
 30-Nov-13|Arkansas St|31|Western Kentucky|34
 30-Nov-13|Penn State|31|Wisconsin|24
+05-Dec-13|Louisville|31|Cincinnati|24
+06-Dec-13|Northern Illinois|27|Bowling Green|47
+07-Dec-13|Stanford|38|Arizona St|14
+07-Dec-13|Missouri|42|Auburn|59
+07-Dec-13|Texas|10|Baylor|30
+07-Dec-13|North Central|41|Bethel MN|17
+07-Dec-13|Memphis|10|Connecticut|45
+07-Dec-13|Carroll MT|27|Cumberlands KY|34
+07-Dec-13|Florida St|45|Duke|7
+07-Dec-13|Tennessee St|10|Eastern Illinois|51
+07-Dec-13|South Dakota St|17|Eastern Washington|41
+07-Dec-13|Utah St|17|Fresno St|24
+07-Dec-13|West Texas A&M|28|Grand Valley St|35
+07-Dec-13|Morningside|0|Grand View|35
+07-Dec-13|North Alabama|39|Lenoir-Rhyne|42
+07-Dec-13|New Hampshire|41|Maine|27
+07-Dec-13|St John Fisher|23|Mary Hardin-Baylor|45
+07-Dec-13|Jacksonville St|31|McNeese St|10
+07-Dec-13|Coastal Carolina|42|Montana|35
+07-Dec-13|Wesley|59|Mount Union|62
+07-Dec-13|Furman|7|North Dakota St|38
+07-Dec-13|St Cloud St|21|NW Missouri St|59
+07-Dec-13|Michigan St|34|Ohio State|24
+07-Dec-13|Oklahoma|33|Oklahoma St|24
+07-Dec-13|Marshall|24|Rice|41
+07-Dec-13|South Florida|6|Rutgers|31
+07-Dec-13|Sam Houston St|29|SE Louisiana St|30
+07-Dec-13|West Chester|28|Shepherd|7
+07-Dec-13|Central Florida|17|SMU|13
+07-Dec-13|Louisiana-Lafayette|8|South Alabama|30
+07-Dec-13|Jackson St|27|Southern U.|34
+07-Dec-13|SW Minnesota St|28|Pittsburg St|90
+07-Dec-13|Fordham|28|Towson|48
+07-Dec-13|Linfield|17|UW-Whitewater|28
