@@ -4031,7 +4031,7 @@
 30-Nov-13|West Chester|40|Bloomsburg|38
 30-Nov-13|New Mexico|17|Boise St|45
 30-Nov-13|Tennessee St|31|Butler|0
-30-Nov-13|Missouri Valley|3|Carroll MT|6
+30-Nov-13|Missouri Valley|3|Carroll MT|27
 30-Nov-13|Bethune-Cookman|24|Coastal Carolina|48
 30-Nov-13|Air Force|13|Colorado St|58
 30-Nov-13|Grand Valley St|34|Colorado St-Pueblo|30
@@ -4126,3 +4126,13 @@
 07-Dec-13|SW Minnesota St|28|Pittsburg St|90
 07-Dec-13|Fordham|28|Towson|48
 07-Dec-13|Linfield|17|UW-Whitewater|28
+13-Dec-13|Towson|49|Eastern Illinois|39
+13-Dec-13|Harding|44|TAMU-Commerce|3
+14-Dec-13|Jacksonville St|24|Eastern Washington|35
+14-Dec-13|West Chester|14|Lenoir-Rhyne|42
+14-Dec-13|UW-Whitewater|16|Mary Hardin-Baylor|15
+14-Dec-13|North Central|40|Mount Union|41
+14-Dec-13|Army|7|Navy|34
+14-Dec-13|Coastal Carolina|14|North Dakota St|48
+14-Dec-13|Grand Valley St|13|NW Missouri St|27
+14-Dec-13|New Hampshire|20|SE Louisiana St|17
