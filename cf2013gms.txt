@@ -4136,3 +4136,44 @@
 14-Dec-13|Coastal Carolina|14|North Dakota St|48
 14-Dec-13|Grand Valley St|13|NW Missouri St|27
 14-Dec-13|New Hampshire|20|SE Louisiana St|17
+20-Dec-13|UW-Whitewater|52|Mount Union|14
+20-Dec-13|New Hampshire|14|North Dakota St|52
+21-Dec-13|Grand View|35|Cumberlands KY|23
+21-Dec-13|Washington St|45|Colorado St|48
+21-Dec-13|Towson|35|Eastern Washington|31
+21-Dec-13|NW Missouri St|43|Lenoir-Rhyne|28
+21-Dec-13|Buffalo|24|San Diego St|49
+21-Dec-13|Fresno St|20|Southern Cal|45
+21-Dec-13|Louisiana-Lafayette|24|Tulane|21
+23-Dec-13|Ohio U.|20|East Carolina|37
+24-Dec-13|Boise St|23|Oregon St|38
+26-Dec-13|Pittsburgh|30|Bowling Green|27
+26-Dec-13|Northern Illinois|14|Utah St|21
+27-Dec-13|Washington|31|Brigham Young|16
+27-Dec-13|Marshall|31|Maryland|20
+27-Dec-13|Syracuse|21|Minnesota|17
+28-Dec-13|Michigan|14|Kansas St|31
+28-Dec-13|Louisville|36|Miami FL|9
+28-Dec-13|Cincinnati|17|North Carolina|39
+28-Dec-13|Notre Dame|29|Rutgers|16
+30-Dec-13|Texas Tech|37|Arizona St|23
+30-Dec-13|Navy|24|Middle Tennessee St|6
+30-Dec-13|Georgia Tech|17|Mississippi|25
+30-Dec-13|Oregon|30|Texas|7
+31-Dec-13|Boston College|19|Arizona|42
+31-Dec-13|Texas A&M|52|Duke|48
+31-Dec-13|Rice|7|Mississippi St|44
+31-Dec-13|Virginia Tech|12|UCLA|42
+01-Jan-14|Central Florida|52|Baylor|42
+01-Jan-14|Nebraska|24|Georgia|19
+01-Jan-14|Iowa|14|LSU|21
+01-Jan-14|UNLV|14|North Texas|36
+01-Jan-14|Wisconsin|24|South Carolina|34
+01-Jan-14|Michigan St|24|Stanford|20
+02-Jan-14|Oklahoma|45|Alabama|31
+03-Jan-14|Ohio State|35|Clemson|40
+03-Jan-14|Missouri|41|Oklahoma St|31
+04-Jan-14|Towson|7|North Dakota St|35
+04-Jan-14|Houston|24|Vanderbilt|41
+05-Jan-14|Ball St|20|Arkansas St|23
+06-Jan-14|Florida St|34|Auburn|31
