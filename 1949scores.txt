@@ -25,6 +25,7 @@
 09/24/1949|North Texas|19|Arkansas|33
 09/24/1949|Davidson|7|Army|47
 09/24/1949|St. Josephs(IN)|14|Ball State|28
+09/24/1949|Massachusetts|19|Bates(ME)|0
 09/24/1949|South Carolina|6|Baylor|20
 09/24/1949|Rider(NJ)|14|Bowling Green|47
 09/24/1949|Louisiana Tech|18|Bradley|20
@@ -78,6 +79,7 @@
 10/01/1949|Colorado|13|Kansas State|27
 10/01/1949|Rice|7|LSU|14
 10/01/1949|Southwestern(TX)|0|Louisiana Tech|20
+10/01/1949|Norwich(VT)|0|Massachusetts|54
 10/01/1949|Arkansas State|14|Memphis NAS|20
 10/01/1949|Kentucky|47|Mississippi|0
 10/01/1949|Baylor|14|Mississippi State|6
@@ -132,6 +134,7 @@
 10/08/1949|Bowling Green|19|Toledo|20
 10/08/1949|Brigham Young|0|Utah|38
 10/08/1949|California|35|Wisconsin|20
+10/08/1949|Massachusetts|6|Worcester Tech(MA)|7
 10/08/1949|Dayton|40|Marshall|23
 10/14/1949|Mississippi|25|Boston College|25
 10/14/1949|LSU|0|Georgia|7
@@ -165,6 +168,7 @@
 10/15/1949|Connecticut|12|Maine|12
 10/15/1949|Kansas|26|Oklahoma|48
 10/15/1949|Colorado|14|Oregon|42
+10/15/1949|Rhode Island|19|Massachusetts|32
 10/15/1949|Baylor|28|Texas Tech|7
 10/15/1949|East Carolina|6|Western Carolina|19
 10/15/1949|Murray State|6|Marshall|13
@@ -195,6 +199,7 @@
 10/22/1949|Missouri|32|Iowa State|0
 10/22/1949|North Carolina|7|LSU|13
 10/22/1949|Louisiana College|0|Louisiana-Lafayette|7
+10/22/1949|Rochester(NY)|27|Massachusetts|20
 10/22/1949|Kansas State|14|Memphis|21
 10/22/1949|Idaho|47|Montana|19
 10/22/1949|Maryland|14|North Carolina State|6
@@ -245,6 +250,7 @@
 10/29/1949|Florida State|33|Stetson(FL)|14
 10/29/1949|California|35|UCLA|21
 10/29/1949|Auburn|7|Vanderbilt|26
+10/29/1949|Massachusetts|20|Vermont|12
 10/29/1949|Akron|13|Wooster(OH)|13
 10/29/1949|Brigham Young|0|Wyoming|45
 11/04/1949|Eastern Michigan|7|Central Michigan|18
@@ -280,6 +286,7 @@
 11/05/1949|Arkansas|0|Rice|14
 11/05/1949|Houston|14|St. Bonaventure|20
 11/05/1949|Louisiana Tech|20|SE Louisiana|14
+11/05/1949|Massachusetts|0|Springfield(MA)|22
 11/05/1949|Georgia Tech|30|Tennessee|13
 11/05/1949|Marshall|20|Tennessee Tech|7
 11/05/1949|Baylor|0|Texas|20
@@ -312,6 +319,7 @@
 11/12/1949|Mississippi State|7|LSU|34
 11/12/1949|Southern Miss|13|Louisiana Tech|34
 11/12/1949|Washington(MO)|12|Louisville|35
+11/12/1949|Tufts(MA)|27|Massachusetts|7
 11/12/1949|Indiana|7|Michigan|20
 11/12/1949|Bowling Green|35|Mount Union|7
 11/12/1949|Colorado|15|New Mexico|17
