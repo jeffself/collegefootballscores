@@ -52,6 +52,7 @@
 09/27/1947|Howard Payne(TX)|14|Louisiana Tech|0
 09/27/1947|Rice|14|LSU|21
 09/27/1947|Morehead State|12|Marshall|38
+09/27/1947|Bates(ME)|14|Massachusetts|6
 09/27/1947|Kent State|13|Mount Union|6
 09/27/1947|Indiana|17|Nebraska|0
 09/27/1947|Arizona State|25|New Mexico|12
@@ -72,6 +73,7 @@
 10/04/1947|Colorado|0|Army|47
 10/04/1947|Louisiana Tech|0|Auburn|14
 10/04/1947|Eastern Illinois|13|Ball State|20
+10/04/1947|Massachusetts|7|Bowdoin(ME)|6
 10/04/1947|Bowling Green|13|Dayton|20
 10/04/1947|Brigham Young|7|Wyoming|12
 10/04/1947|RPI|7|Buffalo|14
@@ -137,6 +139,7 @@
 10/11/1947|Southern Miss|7|Louisiana Tech|6
 10/11/1947|West Alabama|0|Louisiana-Lafayette|26
 10/11/1947|Canisius(NY)|25|Marshall|20
+10/11/1947|Massachusetts|33|Worcester Tech(MA)|0
 10/17/1947|LSU|14|Boston College|13
 10/17/1947|Northern Michigan|0|Central Michigan|45
 10/18/1947|Mount Union|14|Akron|19
@@ -165,6 +168,7 @@
 10/18/1947|Louisiana Tech|30|Louisiana College|12
 10/18/1947|Southern Miss|15|Louisiana-Lafayette|7
 10/18/1947|Connecticut|7|Maine|13
+10/18/1947|Rhode Island|20|Massachusetts|13
 10/18/1947|Iowa State|0|Michigan State|20
 10/18/1947|Kansas State|7|Missouri|47
 10/18/1947|Florida|7|North Carolina State|6
@@ -201,6 +205,7 @@
 10/25/1947|Vanderbilt|13|LSU|19
 10/25/1947|Louisiana College|7|Louisiana-Lafayette|38
 10/25/1947|Indiana State|0|Marshall|33
+10/25/1947|Norwich(VT)|0|Massachusetts|39
 10/25/1947|Kentucky|7|Michigan State|6
 10/25/1947|Arkansas|19|Mississippi|14
 10/25/1947|East Carolina|14|Newport News Apprentice|6
@@ -244,6 +249,7 @@
 11/01/1947|Ball State|19|Manchester(IN)|0
 11/01/1947|Saint Vincent's(PA)|6|Marshall|39
 11/01/1947|West Virginia|0|Maryland|27
+11/01/1947|Massachusetts|7|Vermont|7
 11/01/1947|Cincinnati|34|Ohio|0
 11/01/1947|Indiana|7|Ohio State|0
 11/01/1947|Idaho|7|Oregon|34
@@ -281,6 +287,7 @@
 11/08/1947|Arkansas|0|Rice|26
 11/08/1947|Bowling Green|14|St. Bonaventure|21
 11/08/1947|Louisiana Tech|20|SE Louisiana|18
+11/08/1947|Massachusetts|7|Springfield(MA)|14
 11/08/1947|Houston|14|Stephen F. Austin|25
 11/08/1947|Baylor|7|Texas|28
 11/08/1947|Arizona|28|Texas Tech|41
@@ -314,6 +321,7 @@
 11/15/1947|Evansville|0|Kentucky|36
 11/15/1947|Mississippi State|6|LSU|21
 11/15/1947|North Carolina|19|Maryland|0
+11/15/1947|Tufts(MA)|20|Massachusetts|6
 11/15/1947|Houston|0|North Texas|33
 11/15/1947|Illinois|28|Ohio State|7
 11/15/1947|Louisiana Tech|13|Oklahoma City|28
