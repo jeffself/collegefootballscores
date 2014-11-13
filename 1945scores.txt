@@ -28,6 +28,7 @@
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/28/1945|Kansas|20|Denver|19
 09/28/1945|Guilford|6|Maryland|60
+09/28/1945|Miami(FL)|27|Tennessee-Chattanooga|7
 09/29/1945|Oklahoma State|19|Arkansas|14
 09/29/1945|Personnel District Comm.(KY)|0|Army|32
 09/29/1945|Central Normal(IN)|6|Ball State|28
@@ -88,6 +89,7 @@
 10/12/1945|New York(NY)|0|Boston College|28
 10/12/1945|Washburn(KS)|0|Kansas|34
 10/12/1945|Merchant Marine(NY)|6|Maryland|22
+10/12/1945|Saint Louis(MO)|0|Miami(FL)|21
 10/13/1945|Northern Arizona|6|Arizona|52
 10/13/1945|South Carolina|0|Alabama|55
 10/13/1945|Arkansas|13|Baylor|23
@@ -141,6 +143,7 @@
 10/20/1945|Maryland|13|Virginia Tech|21
 10/20/1945|Illinois|7|Wisconsin|7
 10/25/1945|Clemson|0|South Carolina|0
+10/26/1945|Miami(OH)|13|Miami(FL)|27
 10/27/1945|Georgia|14|Alabama|28
 10/27/1945|Williams AAB(AZ)|0|Arizona|30
 10/27/1945|Duke|13|Army|48
@@ -194,6 +197,7 @@
 11/03/1945|Colorado|6|New Mexico|12
 11/03/1945|Idaho|0|Oregon State|34
 11/03/1945|Georgia|34|Tennessee-Chattanooga|7
+11/09/1945|South Carolina|13|Miami(FL)|13
 11/09/1945|Eastern Michigan|14|Wayne State|13
 11/10/1945|Cal Poly-San Luis Obispo|6|Arizona|37
 11/10/1945|Louisiana-Lafayette|0|Auburn|52
@@ -224,6 +228,7 @@
 11/12/1945|Fresno State|6|Saint Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
+11/16/1945|North Carolina St|7|Miami(FL)|21
 11/17/1945|Alabama|71|Vanderbilt|0
 11/17/1945|San Diego State|0|Arizona|28
 11/17/1945|Arkansas|0|SMU|21
@@ -249,6 +254,7 @@
 11/22/1945|Colorado|8|Denver|14
 11/22/1945|Northwestern State|13|Louisiana-Lafayette|0
 11/22/1945|Fresno State|16|Pacific|0
+11/23/1945|Michigan St|7|Miami(FL)|21
 11/23/1945|Arkansas|13|Tulsa|45
 11/24/1945|Pensacola NAS(FL)|6|Alabama|55
 11/24/1945|Louisiana Tech|0|Auburn|29
@@ -274,6 +280,7 @@
 12/01/1945|Baylor|17|Rice|14
 12/01/1945|Maryland|19|South Carolina|13
 12/01/1945|LSU|33|Tulane|0
-01/01/1945|Alabama|34|Southern Cal|14
-01/01/1945|Georgia|20|Tulsa|6
 01/01/1946|Drake|13|Fresno State|12
+01/01/1946|Holy Cross|6|Miami(FL)|13
+01/01/1946|Alabama|34|Southern Cal|14
+01/01/1946|Georgia|20|Tulsa|6

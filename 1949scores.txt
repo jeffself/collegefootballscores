@@ -61,6 +61,7 @@
 09/30/1949|Mount Union|11|Kent State|13
 09/30/1949|Murray State|14|Louisville|34
 09/30/1949|Georgetown(DC)|7|Maryland|33
+09/30/1949|Rollins(FL)|13|Miami(FL)|52
 10/01/1949|Utah|12|Arizona|12
 10/01/1949|Hardin-Simmons(TX)|34|Arizona State|13
 10/01/1949|TCU|7|Arkansas|27
@@ -143,6 +144,7 @@
 10/14/1949|Mississippi|25|Boston College|25
 10/14/1949|LSU|0|Georgia|7
 10/14/1949|Central Michigan|12|Kent State|26
+10/14/1949|Purdue|14|Miami(FL)|0
 10/14/1949|Fresno State|7|UCSB|14
 10/15/1949|Tennessee|7|Alabama|7
 10/15/1949|Buffalo|32|Alfred(NY)|6
@@ -261,6 +263,7 @@
 10/29/1949|Brigham Young|0|Wyoming|45
 11/04/1949|Eastern Michigan|7|Central Michigan|18
 11/04/1949|Moiliili Cards(HI)|0|Hawaii|34
+11/04/1949|Detroit|6|Miami(FL)|27
 11/05/1949|Geneva(PA)|27|Akron|6
 11/05/1949|New Mexico|14|Arizona|46
 11/05/1949|New Mexico State|32|Arizona State|68
@@ -304,6 +307,7 @@
 11/11/1949|Pepperdine|7|Fresno State|20
 11/11/1949|Wahiawa Leilehua HS(HI)|6|Hawaii|76
 11/11/1949|Milligan(TN)|0|Marshall|34
+11/11/1949|South Carolina|7|Miami(FL)|13
 11/12/1949|Georgia Tech|7|Alabama|20
 11/12/1949|Arizona|7|Arizona State|34
 11/12/1949|Memphis|61|Arkansas State|7

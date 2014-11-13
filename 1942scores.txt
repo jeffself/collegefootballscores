@@ -71,6 +71,7 @@
 10/03/1942|Washington & Lee|0|Kentucky|53
 10/03/1942|Marshall|13|Western Kentucky|19
 10/03/1942|Lakehurst NAS(NJ)|0|Maryland|14
+10/03/1942|Jacksonville NAS(FL)|14|Miami(FL)|0
 10/03/1942|Colorado|13|Missouri|26
 10/03/1942|Iowa State|0|Nebraska|26
 10/03/1942|Central Michigan|21|Northern Michigan|0
@@ -114,6 +115,7 @@
 10/10/1942|Vanderbilt|7|Kentucky|6
 10/10/1942|Mississippi State|6|LSU|16
 10/10/1942|Rutgers|13|Maryland|27
+10/10/1942|Tampa(FL)|6|Miami(FL)|65
 10/10/1942|Kent State|7|Miami(OH)|53
 10/10/1942|Indiana|12|Nebraska|0
 10/10/1942|Kansas|6|TCU|41
@@ -154,6 +156,7 @@
 10/17/1942|Union(TN)|39|Memphis|0
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Indiana|19|Pittsburgh|7
+10/17/1942|Miami(FL)|31|Saint Louis(MO)|6
 10/17/1942|Idaho|7|Stanford|54
 10/17/1942|Baylor|14|Texas Tech|7
 10/17/1942|Maryland|0|VMI|29
@@ -186,6 +189,7 @@
 10/24/1942|Arizona|0|Marquette|39
 10/24/1942|McDaniel College(MD)|0|Maryland|51
 10/24/1942|Worcester Tech(MA)|6|Massachusetts|18
+10/24/1942|Rollins(FL)|0|Miami(FL)|21
 10/24/1942|Arkansas|7|Mississippi|6
 10/24/1942|Iowa State|6|Missouri|45
 10/24/1942|Georgia Tech|21|Navy|0
@@ -219,6 +223,7 @@
 10/31/1942|Nebraska|14|Kansas|7
 10/31/1942|Ball State|28|Manchester(IN)|6
 10/31/1942|Florida|0|Maryland|13
+10/31/1942|Furman(SC)|13|Miami(FL)|32
 10/31/1942|Illinois|14|Michigan|28
 10/31/1942|Memphis|0|Mississippi|48
 10/31/1942|Connecticut|32|Middlebury(VT)|0
@@ -260,6 +265,7 @@
 11/07/1942|Washington(MO)|7|Kansas|19
 11/07/1942|SE Louisiana|14|Louisiana Tech|56
 11/07/1942|Clarkson(NY)|9|Massachusetts|13
+11/07/1942|North Carolina St|2|Miami(FL)|0
 11/07/1942|Indiana|7|Minnesota|0
 11/07/1942|Illinois|14|Northwestern|7
 11/07/1942|Army|0|Notre Dame|13
@@ -321,6 +327,7 @@
 11/21/1942|Great Lakes NTS(IL)|6|Illinois|0
 11/21/1942|Iowa State|6|Kansas State|7
 11/21/1942|Washington & Lee|28|Maryland|32
+11/21/1942|South Carolina|6|Miami(FL)|13
 11/21/1942|Louisiana Tech|33|Memphis|7
 11/21/1942|Indiana|20|Purdue|0
 11/21/1942|Kentucky|0|Tennessee|26
@@ -344,6 +351,7 @@
 11/28/1942|Georgia Tech|0|Georgia|34
 11/28/1942|Illinois|20|Camp Grant(IL)|0
 11/28/1942|Indiana|51|Fort Knox(KY)|0
+11/28/1942|West Virginia|13|Miami(FL)|21
 11/28/1942|Iowa|14|Michigan|28
 11/28/1942|Kansas State|19|Nebraska|0
 11/29/1942|Fresno State|27|Loyola Marymount(CA)|6

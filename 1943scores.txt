@@ -34,6 +34,7 @@
 10/02/1943|Wabash(IN)|0|Indiana|52
 10/02/1943|Wisconsin|7|Iowa|5
 10/02/1943|Iowa Navy Pre-Flight|33|Iowa State|13
+10/02/1943|Miami(FL)|6|Jacksonville NAS(FL)|0
 10/02/1943|Washburn(KS)|7|Kansas State|13
 10/02/1943|Rice|7|LSU|20
 10/02/1943|Wake Forest|7|Maryland|13
@@ -54,40 +55,42 @@
 10/09/1943|Kansas State|14|Missouri|47
 10/09/1943|Texas A&M|28|LSU|13
 10/09/1943|Richmond AAB(VA)|6|Maryland|19
-10/16/1943|Arkansas|0|Texas|34
-10/16/1943|Army|52|Columbia|0
 10/16/1943|Bunker Hill NAS(IN)|13|Bowling Green|12
-10/16/1943|California|13|UCLA|0
+10/16/1943|Army|52|Columbia|0
 10/16/1943|Salt Lake AFB(UT)|0|Colorado|14
-10/16/1943|North Carolina|7|Duke|14
-10/16/1943|Eastern Michigan|14|Wayne State(MI)|0
-10/16/1943|Fort Benning - 176th Infantry(GA)|7|Louisiana-Lafayette|20
-10/16/1943|Fort Benning - 300th Infantry(GA)|0|Georgia Tech|27
 10/16/1943|Georgia|7|Daniel Field(GA)|18
+10/16/1943|North Carolina|7|Duke|14
+10/16/1943|Fort Benning - 300th Infantry(GA)|0|Georgia Tech|27
 10/16/1943|Pittsburgh|25|Illinois|33
 10/16/1943|Indiana|7|Iowa|7
 10/16/1943|Nebraska|6|Iowa State|27
 10/16/1943|Washburn(KS)|0|Kansas|13
 10/16/1943|William Jewell(MO)|19|Kansas State|6
+10/16/1943|Fort Benning - 176th Infantry(GA)|7|Louisiana-Lafayette|20
 10/16/1943|LSU Student Army Training Corps|7|LSU|28
+10/16/1943|Camp Gordon(GA)|6|Miami(FL)|52
+10/16/1943|Arkansas|0|Texas|34
+10/16/1943|California|13|UCLA|0
+10/16/1943|Eastern Michigan|14|Wayne State(MI)|0
 10/16/1943|Maryland|2|West Virginia|6
 10/17/1943|Boston College Student Army Trg Corps|0|Boston College|7
 10/21/1943|Clemson|6|South Carolina|33
-10/23/1943|Army|39|Yale|7
 10/23/1943|Bowling Green|7|Baldwin-Wallace(OH)|7
 10/23/1943|Saint Mary's Pre-Flight(CA)|39|California|0
 10/23/1943|Colorado College|16|Colorado|6
 10/23/1943|Wayne State(MI)|0|Eastern Michigan|14
 10/23/1943|LSU|27|Georgia|6
-10/23/1943|Georgia Tech|14|Navy|28
-10/23/1943|Illinois|0|Notre Dame|47
 10/23/1943|Wisconsin|0|Indiana|34
-10/23/1943|Iowa|7|Purdue|28
-10/23/1943|Iowa State|12|Ottumwa NAS(IA)|13
-10/23/1943|Kansas|6|Nebraska|7
 10/23/1943|Oklahoma|37|Kansas State|0
-10/23/1943|Louisiana-Lafayette|27|Southwestern State(TX)|6
 10/23/1943|Penn State|45|Maryland|0
+10/23/1943|Charleston Coast Guard(SC)|6|Miami(FL)|13
+10/23/1943|Georgia Tech|14|Navy|28
+10/23/1943|Kansas|6|Nebraska|7
+10/23/1943|Illinois|0|Notre Dame|47
+10/23/1943|Iowa State|12|Ottumwa NAS(IA)|13
+10/23/1943|Iowa|7|Purdue|28
+10/23/1943|Louisiana-Lafayette|27|Southwestern State(TX)|6
+10/23/1943|Army|39|Yale|7
 10/24/1943|Camp Higham(MA)|6|Boston College|42
 10/29/1943|Samford(AL)|0|Georgia|39
 10/30/1943|Texas A&M|13|Arkansas|0
@@ -112,6 +115,7 @@
 11/06/1943|Illinois|19|Iowa|10
 11/06/1943|Missouri|25|Iowa State|7
 11/06/1943|Nebraska|13|Kansas State|7
+11/06/1943|Jacksonville NAS(FL)|20|Miami(FL)|0
 11/06/1943|Bowling Green|6|Miami(OH)|45
 11/06/1943|Indiana|6|Michigan|23
 11/06/1943|Duke|75|North Carolina State|0
@@ -140,18 +144,20 @@
 11/19/1943|Oklahoma State|19|Arkansas|13
 11/20/1943|Brown|0|Army|59
 11/20/1943|Alameda Coast Guard(CA)|7|California|0
-11/20/1943|Clemson|6|Georgia Tech|41
 11/20/1943|Colorado|0|Colorado College|6
-11/20/1943|Duke|27|North Carolina|6
-11/20/1943|Illinois|6|Northwestern|53
+11/20/1943|Clemson|6|Georgia Tech|41
 11/20/1943|Purdue|7|Indiana|0
-11/20/1943|Iowa|33|Nebraska|13
 11/20/1943|Kansas State|0|Iowa State|48
 11/20/1943|Missouri|6|Kansas|7
+11/20/1943|Presbyterian(SC)|13|Miami(FL)|32
+11/20/1943|Duke|27|North Carolina|6
+11/20/1943|Illinois|6|Northwestern|53
+11/20/1943|Iowa|33|Nebraska|13
 11/20/1943|LSU|0|Tulane|27
 11/25/1943|Kansas|7|Fort Riley(KS)|22
 11/25/1943|Arkansas|0|Tulsa|61
 11/25/1943|Maryland|21|VMI|14
+11/26/1943|Fort Benning - 300th Infantry(GA)|7|Miami(FL)|21
 11/27/1943|Army|0|Navy|13
 11/27/1943|Del Monte Pre-Flight(CA)|47|California|8
 11/27/1943|Georgia|0|Georgia Tech|48

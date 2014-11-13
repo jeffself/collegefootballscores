@@ -60,6 +60,7 @@
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Murray St|26|Memphis|14
+10/01/1948|Rollins(FL)|0|Miami(FL)|25
 10/02/1948|Vanderbilt|14|Alabama|14
 10/02/1948|Pepperdine|7|Arizona State|33
 10/02/1948|TCU|14|Arkansas|27
@@ -99,6 +100,7 @@
 10/02/1948|Connecticut|0|Yale|7
 10/08/1948|Duquesne|6|Alabama|48
 10/08/1948|Waynesburg(PA)|7|Kent State|34
+10/08/1948|Villanova|19|Miami(FL)|10
 10/08/1948|Louisiana-Lafayette|19|SE Louisiana|12
 10/08/1948|Louisville|26|Xavier(OH)|47
 10/09/1948|Akron|12|Muskingum(OH)|21
@@ -140,6 +142,7 @@
 10/09/1948|Hawaii|55|Redlands(CA)|0
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
+10/15/1948|Miami(FL)|6|Detroit|0
 10/15/1948|Marshall|0|Murray State|27
 10/15/1948|Louisiana-Lafayette|6|Southern Miss|26
 10/15/1948|Brigham Young|20|UTEP|34
@@ -305,6 +308,7 @@
 11/11/1948|Memphis NAS(TN)|14|Memphis|0
 11/12/1948|Kent State|31|Akron|0
 11/12/1948|Valparaiso(IN)|7|Eastern Michigan|26
+11/12/1948|Tennessee-Chattanooga|0|Miami(FL)|19
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
 11/13/1948|UTEP|25|Arizona|14
 11/13/1948|SMU|14|Arkansas|12
@@ -398,6 +402,7 @@
 11/27/1948|Florida State|20|Troy(AL)|13
 11/27/1948|Louisville|12|Washington(MO)|27
 11/27/1948|Maryland|14|West Virginia|16
+12/03/1948|Vanderbilt|33|Miami(FL)|6
 12/04/1948|Auburn|0|Alabama|55
 12/04/1948|Clemson|20|Citadel|0
 12/04/1948|Tampa|12|Florida State|33

@@ -54,6 +54,7 @@
 10/04/1940|Baylor|14|Denver|7
 10/04/1940|Illinois State|0|Eastern Michigan|0
 10/04/1940|UTEP|7|Louisiana Tech|19
+10/04/1940|Stetson(FL)|0|Miami(FL)|19
 10/04/1940|Memphis|13|Tennessee Tech|16
 10/05/1940|Mercer(GA)|0|Alabama|20
 10/05/1940|New Mexico State|0|Arizona|41
@@ -95,6 +96,7 @@
 10/11/1940|Western Kentucky|6|Louisiana Tech|7
 10/11/1940|Millsaps(MS)|0|Louisiana-Lafayette|0
 10/11/1940|Iowa State|25|Marquette|41
+10/11/1940|Tampa(FL)|0|Miami(FL)|27
 10/11/1940|Arizona State|13|New Mexico|6
 10/11/1940|Florida|0|Villanova|28
 10/12/1940|Illinois Wesleyan|16|Akron|6
@@ -134,6 +136,7 @@
 10/18/1940|Kent State|13|Findlay(OH)|0
 10/18/1940|Polar Bears(HI)|35|Hawaii|28
 10/18/1940|Centre(KY)|28|Louisville|0
+10/18/1940|Catholic(DC)|20|Miami(FL)|18
 10/18/1940|Fresno State|3|Pacific|0
 10/18/1940|Louisiana-Lafayette|7|Spring Hill(AL)|13
 10/18/1940|Brigham Young|20|Texas Tech|21
@@ -179,6 +182,7 @@
 10/25/1940|Illinois Wesleyan|14|Louisiana Tech|20
 10/25/1940|Alfred Holbrook(OH)|7|Louisville|38
 10/25/1940|McDaniel College(MD)|0|Maryland|6
+10/25/1940|Elon(NC)|7|Miami(FL)|31
 10/25/1940|Fresno State|0|San Diego State|0
 10/26/1940|Oklahoma State|0|Arizona|24
 10/26/1940|Austin Peay|0|Arkansas State|13
@@ -212,6 +216,7 @@
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
 11/01/1940|Louisiana Tech|6|Louisiana-Lafayette|7
 11/01/1940|Charleston(WV)|6|Marshall|33
+11/01/1940|Miami(FL)|14|Texas Tech|61
 11/01/1940|Memphis|34|Troy|7
 11/01/1940|Kansas|7|Villanova|33
 11/02/1940|Youngstown State|13|Akron|0
@@ -248,6 +253,7 @@
 11/02/1940|Illinois|6|Wisconsin|13
 11/08/1940|Delta State|7|Louisiana-Lafayette|18
 11/08/1940|Detroit Tech|0|Marshall|67
+11/08/1940|Rollins(FL)|7|Miami(FL)|0
 11/08/1940|Arkansas State|7|Tennessee JC|14
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
@@ -334,6 +340,7 @@
 11/21/1940|Kansas|20|Missouri|45
 11/21/1940|Idaho|6|Utah|13
 11/21/1940|Bowling Green|0|Wayne State|19
+11/22/1940|South Carolina|7|Miami(FL)|2
 11/22/1940|East Carolina|44|Newport News Apprentice|7
 11/23/1940|Vanderbilt|21|Alabama|25
 11/23/1940|New Mexico|13|Arizona|12
@@ -355,6 +362,7 @@
 11/28/1940|Louisiana Tech|6|Centenary(LA)|0
 11/28/1940|Colorado State|0|Kansas|26
 11/28/1940|Northwestern State|7|Louisiana-Lafayette|12
+11/29/1940|Mississippi|21|Miami(FL)|7
 11/30/1940|Mississippi State|13|Alabama|0
 11/30/1940|Marquette|14|Arizona|17
 11/30/1940|Army|0|Navy|14
