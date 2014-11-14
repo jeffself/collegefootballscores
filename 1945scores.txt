@@ -51,6 +51,7 @@
 09/29/1945|Alabama|21|Keesler Field(MS)|0
 09/29/1945|Cincinnati|7|Kentucky|13
 09/29/1945|Louisiana-Lafayette|0|Mississippi State|31
+09/29/1945|Notre Dame JV(IN)|0|Miami(OH)|13
 09/29/1945|Illinois|0|Notre Dame|7
 09/29/1945|Indiana|7|Northwestern|7
 09/29/1945|Bowling Green|6|Ohio|0
@@ -85,6 +86,7 @@
 10/06/1945|Idaho|7|Oregon|33
 10/06/1945|Arkansas State|6|Southern Illinois|6
 10/06/1945|Florida|6|Tulane|6
+10/06/1945|Miami(OH)|14|Wright Field(OH)|0
 10/11/1945|Arkansas State|18|Central Arkansas|0
 10/12/1945|New York(NY)|0|Boston College|28
 10/12/1945|Washburn(KS)|0|Kansas|34
@@ -115,6 +117,7 @@
 10/13/1945|Ball State|0|Wabash(IN)|0
 10/13/1945|Duke|26|Wake Forest|19
 10/13/1945|Central Michigan|26|Wayne State|0
+10/13/1945|Miami(OH)|21|Western Michigan|13
 10/19/1945|Florida|6|Miami(FL)|7
 10/20/1945|Tennessee|7|Alabama|25
 10/20/1945|Texas|34|Arkansas|7
@@ -129,6 +132,7 @@
 10/20/1945|Southwestern(TX)|14|Louisiana Tech|20
 10/20/1945|Connecticut|18|Maine|12
 10/20/1945|Brooklyn|13|Massachusetts|7
+10/20/1945|Ohio|0|Miami(OH)|34
 10/20/1945|Arkansas State|0|Mississippi State JV|43
 10/20/1945|Kansas State|7|Missouri|41
 10/20/1945|Georgia Tech|6|Navy|20
@@ -192,6 +196,7 @@
 11/03/1945|Barksdale AFB(LA)|12|Louisiana Tech|7
 11/03/1945|William & Mary|33|Maryland|14
 11/03/1945|Maine|13|Massachusetts|14
+11/03/1945|Central Norman(IN)|0|Miami(OH)|51
 11/03/1945|Kansas|13|Nebraska|27
 11/03/1945|Fresno State|4|Nevada|7
 11/03/1945|Colorado|6|New Mexico|12
@@ -218,6 +223,7 @@
 11/10/1945|Louisiana Tech|7|Northwestern State|2
 11/10/1945|Army|48|Notre Dame|0
 11/10/1945|Iowa State|7|Oklahoma|14
+11/10/1945|Miami(OH)|7|Purdue|21
 11/10/1945|Arkansas|7|Rice|26
 11/10/1945|California|0|Southern Cal|14
 11/10/1945|Baylor|14|Texas|21

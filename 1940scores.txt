@@ -5,10 +5,10 @@
 09/21/1940|Centre(KY)|0|Boston College|40
 09/21/1940|Hanover(IN)|0|Cincinnati|45
 09/21/1940|Luther(IA)|0|Iowa State|27
-09/21/1940|Indiana State|0|Louisville|0
 09/21/1940|Blufton(OH)|0|Kent State|37
 09/21/1940|Baldwin-Wallace(OH)|7|Kentucky|59
 09/21/1940|Louisiana Tech|7|LSU|39
+09/21/1940|Indiana State|0|Louisville|0
 09/21/1940|Morehead State|6|Marshall|13
 09/21/1940|Austin Peay|0|Memphis|40
 09/21/1940|Ball State|0|Miami(OH)|0
@@ -44,6 +44,7 @@
 09/28/1940|Hampden-Sydney|7|Maryland|6
 09/28/1940|Springfield(MA)|13|Massachusetts|6
 09/28/1940|Rhodes(TN)|34|Memphis|0
+09/28/1940|Case Institute(OH)|10|Miami(OH)|0
 09/28/1940|Arkansas State|12|Missouri-Rolla|44
 09/28/1940|Idaho|0|Oregon State|41
 09/28/1940|Buffalo|6|Susquehanna(PA)|20
@@ -81,6 +82,7 @@
 10/05/1940|Louisiana-Lafayette|0|Mississippi State|20
 10/05/1940|Cincinnati|0|Navy|14
 10/05/1940|Clemson|26|North Carolina State|7
+10/05/1940|Miami(OH)|7|Ohio Wesleyan|24
 10/05/1940|Maryland|0|Pennsylvania|51
 10/05/1940|Georgia|33|South Carolina|2
 10/05/1940|Arkansas|0|TCU|20
@@ -165,6 +167,7 @@
 10/19/1940|Connecticut|13|Maine|6
 10/19/1940|Rhode Island|9|Massachusetts|3
 10/19/1940|Louisiana College|13|Memphis|26
+10/19/1940|Dayton|28|Miami(OH)|6
 10/19/1940|Illinois|0|Michigan|28
 10/19/1940|Iowa State|14|Missouri|30
 10/19/1940|Louisiana Tech|0|Northwestern State|13
@@ -213,6 +216,7 @@
 10/26/1940|Duke|23|Wake Forest|0
 10/26/1940|California|6|Washington|7
 10/26/1940|Kent State|31|Washington & Jefferson(PA)|7
+10/26/1940|Miami(OH)|6|Western Reserve(OH)|47
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
 11/01/1940|Louisiana Tech|6|Louisiana-Lafayette|7
 11/01/1940|Charleston(WV)|6|Marshall|33
@@ -240,6 +244,7 @@
 11/02/1940|Purdue|21|Iowa|6
 11/02/1940|Alabama|25|Kentucky|0
 11/02/1940|Georgetown(KY)|19|Louisville|14
+11/02/1940|Ohio|27|Miami(OH)|0
 11/02/1940|Kansas State|0|Michigan State|32
 11/02/1940|Arizona State|12|Northern Arizona|0
 11/02/1940|Army|0|Notre Dame|7
@@ -280,6 +285,7 @@
 11/09/1940|Mississippi State|22|LSU|7
 11/09/1940|Louisiana College|0|Louisiana Tech|15
 11/09/1940|Georgetown(DC)|41|Maryland|0
+11/09/1940|Western Michigan|20|Miami(OH)|13
 11/09/1940|Idaho|18|Montana|28
 11/09/1940|Memphis|6|Murray St|35
 11/09/1940|Iowa|6|Nebraska|14
