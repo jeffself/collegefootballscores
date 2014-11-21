@@ -45,6 +45,7 @@
 09/25/1948|Morehead State|7|Marshall|19
 09/25/1948|Bates(ME)|6|Massachusetts|7
 09/25/1948|Louisville|7|Memphis|13
+09/25/1948|Michigan|13|Michigan State|7
 09/25/1948|California|21|Navy|7
 09/25/1948|Iowa State|15|Nebraska|19
 09/25/1948|Duke|0|North Carolina State|0
@@ -90,6 +91,7 @@
 10/02/1948|Houston|7|Louisiana-Lafayette|21
 10/02/1948|Saint Joseph's(IN)|0|Louisville|20
 10/02/1948|Eastern Kentucky|20|Marshall|7
+10/02/1948|Oregon|0|Michigan|14
 10/02/1948|Hawaii|21|Michigan State|68
 10/02/1948|Baylor|7|Mississippi State|7
 10/02/1948|Massachusetts|19|Norwich(VT)|27
@@ -105,23 +107,14 @@
 10/08/1948|Villanova|19|Miami(FL)|10
 10/08/1948|Louisiana-Lafayette|19|SE Louisiana|12
 10/08/1948|Louisville|26|Xavier(OH)|47
-10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|Hardin-Simmons(TX)|14|Arizona|20
-10/09/1948|Arizona State|17|Utah State|22
 10/09/1948|Baylor|23|Arkansas|7
-10/09/1948|Arkansas State|6|Kansas State|37
-10/09/1948|Army|26|Illinois|21
-10/09/1948|Auburn|9|Florida|16
 10/09/1948|Huntington(IN)|0|Ball State|53
 10/09/1948|St. Bonaventure|7|Boston College|7
-10/09/1948|Bowling Green|21|Toledo|6
 10/09/1948|Utah|30|Brigham Young|0
-10/09/1948|Buffalo|39|RPI|21
 10/09/1948|Wisconsin|14|California|40
-10/09/1948|Central Michigan|0|Western Michigan|7
-10/09/1948|Ohio|13|Cincinnati|18
-10/09/1948|Clemson|21|Mississippi State|7
 10/09/1948|Fresno State|14|Cal Poly-SLO|26
+10/09/1948|Ohio|13|Cincinnati|18
 10/09/1948|Nebraska|6|Colorado|19
 10/09/1948|Springfield(MA)|10|Connecticut|7
 10/09/1948|Marshall|0|Dayton|33
@@ -129,19 +122,30 @@
 10/09/1948|Navy|7|Duke|28
 10/09/1948|East Carolina|0|Elon(NC)|6
 10/09/1948|Northern Michigan|0|Eastern Michigan|6
+10/09/1948|Auburn|9|Florida|16
 10/09/1948|Cumberland(TN)|0|Florida State|30
 10/09/1948|Kentucky|12|Georgia|35
 10/09/1948|Washington & Lee|0|Georgia Tech|27
 10/09/1948|Louisiana Tech|33|Houston|40
 10/09/1948|Oregon|15|Idaho|8
+10/09/1948|Army|26|Illinois|21
 10/09/1948|TCU|7|Indiana|6
 10/09/1948|Kansas|20|Iowa State|7
+10/09/1948|Arkansas State|6|Kansas State|37
 10/09/1948|Texas A&M|13|LSU|14
 10/09/1948|Virginia Tech|0|Maryland|28
 10/09/1948|Worcester Tech(MA)|7|Massachusetts|26
 10/09/1948|Tampa(FL)|16|Memphis|43
+10/09/1948|Clemson|21|Mississippi State|7
+10/09/1948|Akron|12|Muskingum(OH)|21
+10/09/1948|Michigan State|7|Notre Dame|26
 10/09/1948|Iowa|14|Ohio State|7
+10/09/1948|Michigan|40|Purdue|0
+10/09/1948|Buffalo|39|RPI|21
 10/09/1948|Hawaii|55|Redlands(CA)|0
+10/09/1948|Bowling Green|21|Toledo|6
+10/09/1948|Arizona State|17|Utah State|22
+10/09/1948|Central Michigan|0|Western Michigan|7
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
 10/15/1948|Miami(FL)|6|Detroit|0
@@ -171,6 +175,7 @@
 10/16/1948|Louisiana College|7|Louisiana Tech|21
 10/16/1948|Duke|13|Maryland|12
 10/16/1948|Xavier(OH)|0|Miami(OH)|9
+10/16/1948|Northwestern|0|Michigan|28
 10/16/1948|Arizona|7|Michigan State|61
 10/16/1948|Arkansas State|7|Middle Tennessee State|14
 10/16/1948|Illinois|0|Minnesota|6
@@ -189,16 +194,15 @@
 10/22/1948|East Carolina|6|Newport News Apprentice|20
 10/22/1948|Georgia|42|Miami(FL)|21
 10/23/1948|Texas Tech|31|Arizona|0
-10/23/1948|Army|27|Cornell|6
-10/23/1948|Arkansas State|13|Delta State|13
 10/23/1948|Anderson(IN)|7|Ball State|14
-10/23/1948|Boston College|13|Mississippi|32
+10/23/1948|Army|27|Cornell|6
 10/23/1948|Texas A&M|14|Baylor|20
 10/23/1948|Baldwin-Wallace(OH)|28|Bowling Green|33
 10/23/1948|Connecticut|6|Brown|49
 10/23/1948|Cincinnati|16|Butler|7
 10/23/1948|Kansas State|7|Colorado|51
 10/23/1948|Drake|31|Colorado State|29
+10/23/1948|Arkansas State|13|Delta State|13
 10/23/1948|Massachusetts|14|Devens(MA)|20
 10/23/1948|Eastern Michigan|0|Eastern Kentucky|20
 10/23/1948|Florida|7|Georgia Tech|42
@@ -211,12 +215,15 @@
 10/23/1948|Kentucky|25|Marquette|0
 10/23/1948|George Washington|0|Maryland|47
 10/23/1948|Florida State|7|Millsaps(MS)|6
+10/23/1948|Michigan|27|Minnesota|14
+10/23/1948|Boston College|13|Mississippi|32
 10/23/1948|Alabama|10|Mississippi State|7
 10/23/1948|Iowa State|7|Missouri|49
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|LSU|7|North Carolina|34
 10/23/1948|Louisiana Tech|10|Northwestern State|7
 10/23/1948|Miami(OH)|21|Ohio|0
+10/23/1948|Michigan State|14|Penn State|14
 10/23/1948|Fresno State|13|Pepperdine|14
 10/23/1948|Indiana|14|Pittsburgh|21
 10/23/1948|Houston|7|Trinity(TX)|15
@@ -237,40 +244,41 @@
 10/30/1948|Wooster(OH)|6|Akron|20
 10/30/1948|Georgia|35|Alabama|0
 10/30/1948|Arizona State|21|Arizona|33
-10/30/1948|Arkansas|28|Texas A&M|6
-10/30/1948|Arkansas State|27|Southern Illinois|21
 10/30/1948|Virginia Tech|7|Army|49
-10/30/1948|Ball State|20|Valparaiso(IN)|0
-10/30/1948|Baylor|6|TCU|3
 10/30/1948|Bowling Green|28|Findlay(OH)|7
 10/30/1948|Marshall|6|Bradley|15
 10/30/1948|Montana|20|Brigham Young|26
-10/30/1948|Buffalo|48|Louisville|19
-10/30/1948|California|13|Southern Cal|7
 10/30/1948|Wayne State|27|Central Michigan|12
 10/30/1948|Kentucky|28|Cincinnati|7
-10/30/1948|Colorado|12|Utah|14
+10/30/1948|Buffalo|48|Louisville|19
 10/30/1948|Colorado State|33|Colorado School of Mines|0
 10/30/1948|Champlain(NY)|7|Connecticut|64
 10/30/1948|Georgia Tech|19|Duke|7
 10/30/1948|Furman|14|Florida|39
-10/30/1948|Florida State|18|Stetson(FL)|7
 10/30/1948|New Mexico|14|Fresno State|20
-10/30/1948|Houston|13|West Texas A&M|28
-10/30/1948|Idaho|14|Washington State|19
-10/30/1948|Western Michigan|28|Miami(OH)|34
-10/30/1948|Illinois|20|Michigan|28
-10/30/1948|Indiana|7|Minnesota|30
 10/30/1948|Wisconsin|13|Iowa|19
 10/30/1948|Oklahoma|33|Iowa State|6
 10/30/1948|Oklahoma State|7|Kansas|13
 10/30/1948|Missouri|49|Kansas State|7
 10/30/1948|Mississippi|49|LSU|19
 10/30/1948|Louisiana Tech|24|Louisiana-Lafayette|14
+10/30/1948|Western Michigan|28|Miami(OH)|34
+10/30/1948|Illinois|20|Michigan|28
+10/30/1948|Indiana|7|Minnesota|30
 10/30/1948|Vermont|0|Massachusetts|33
+10/30/1948|Michigan State|46|Oregon State|21
+10/30/1948|California|13|Southern Cal|7
+10/30/1948|Arkansas State|27|Southern Illinois|21
+10/30/1948|Florida State|18|Stetson(FL)|7
+10/30/1948|Baylor|6|TCU|3
+10/30/1948|Arkansas|28|Texas A&M|6
+10/30/1948|Colorado|12|Utah|14
+10/30/1948|Ball State|20|Valparaiso(IN)|0
+10/30/1948|Idaho|14|Washington State|19
+10/30/1948|Houston|13|West Texas A&M|28
 11/03/1948|Olympic AC(CA)|7|Hawaii|53
 11/05/1948|Cincinnati|6|Miami(FL)|36
-11/05/1948|Brigham Young|6|San José St|21
+11/05/1948|Brigham Young|6|San José State|21
 11/06/1948|Southern Miss|0|Alabama|27
 11/06/1948|East Carolina|0|Appalachian State|47
 11/06/1948|Rice|25|Arkansas|6
@@ -300,7 +308,9 @@
 11/06/1948|Catawba|21|Louisville|33
 11/06/1948|John Carroll(OH)|20|Marshall|0
 11/06/1948|Springfield(MA)|31|Massachusetts|0
-11/06/1948|Middle Tennessee St|0|Memphis|13
+11/06/1948|Middle Tennessee State|0|Memphis|13
+11/06/1948|Navy|0|Michigan|35
+11/06/1948|Marquette|0|Michigan State|47
 11/06/1948|Kansas State|0|Nebraska|32
 11/06/1948|Arizona|14|New Mexico|6
 11/06/1948|Arizona State|52|New Mexico State|7
@@ -378,9 +388,11 @@
 11/20/1948|Alabama|6|LSU|26
 11/20/1948|Bradley|14|Louisville|31
 11/20/1948|Vanderbilt|34|Maryland|0
+11/20/1948|Washington State|0|Michigan State|40
 11/20/1948|Duke|0|North Carolina|20
 11/20/1948|Illinois|7|Northwestern|20
 11/20/1948|Louisiana-Lafayette|28|Northwestern State|7
+11/20/1948|Michigan|13|Ohio State|3
 11/20/1948|Kansas State|6|Oklahoma State|42
 11/20/1948|Indiana|0|Purdue|39
 11/20/1948|Baylor|6|SMU|13
@@ -406,6 +418,7 @@
 11/27/1948|Boston College|21|Holy Cross|20
 11/27/1948|Tulane|46|LSU|0
 11/27/1948|Army|21|Navy|21
+11/27/1948|Michigan State|21|Santa Clara|21
 11/27/1948|Florida State|20|Troy(AL)|13
 11/27/1948|Louisville|12|Washington(MO)|27
 11/27/1948|Maryland|14|West Virginia|16

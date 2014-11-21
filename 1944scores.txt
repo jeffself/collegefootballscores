@@ -3,9 +3,10 @@
 09/09/1944|Bowling Green|7|Miami(OH)|28
 09/15/1944|Central Michigan|33|Alma(MI)|13
 09/15/1944|Washburn(KS)|0|Kansas|47
-09/16/1944|Bowling Green|13|Ohio Wesleyan|6
 09/16/1944|Illinois State|0|Illinois|79
 09/16/1944|Fort Knox(KY)|0|Indiana|72
+09/16/1944|Iowa Navy Pre-Flight|7|Michigan|12
+09/16/1944|Bowling Green|13|Ohio Wesleyan|6
 09/22/1944|LaGarde General Hospital(LA)|0|Louisiana-Lafayette|53
 09/23/1944|Arkansas|7|Missouri|6
 09/23/1944|Baldwin-Wallace(OH)|13|Bowling Green|6
@@ -13,6 +14,7 @@
 09/23/1944|Central Michigan|25|Indiana State|0
 09/23/1944|Presbyterian(SC)|0|Clemson|34
 09/23/1944|Fort Warren(WY)|7|Colorado|6
+09/23/1944|Michigan|14|Marquette|0
 09/23/1944|Connecticut|27|Norwich(VT)|0
 09/23/1944|Richmond|7|Duke|61
 09/23/1944|Mayport NAS(FL)|6|Florida|36
@@ -43,6 +45,7 @@
 09/30/1944|Marine OCS(LA)|0|Louisiana Tech|72
 09/30/1944|Keesler Field(MS)|13|Louisiana-Lafayette|0
 09/30/1944|Indiana|20|Michigan|0
+09/30/1944|Scranton(PA)|12|Michigan State|40
 09/30/1944|Western Michigan|6|Miami(OH)|32
 09/30/1944|Duke|7|Pennsylvania|18
 09/30/1944|Kentucky|13|Tennessee|26
@@ -63,6 +66,7 @@
 10/07/1944|Michigan State|2|Kentucky|0
 10/07/1944|Fort Benning(GA)|33|Louisiana Tech|0
 10/07/1944|South Carolina|0|Miami(FL)|0
+10/07/1944|Michigan|28|Minnesota|13
 10/07/1944|Clemson|13|North Carolina State|7
 10/07/1944|Iowa|0|Ohio State|34
 10/07/1944|LSU|13|Rice|14
@@ -89,6 +93,7 @@
 10/14/1944|Louisiana-Lafayette|15|Louisiana Tech|0
 10/14/1944|West Virginia|6|Maryland|6
 10/14/1944|DePauw(IN)|0|Miami(OH)|12
+10/14/1944|Northwestern|0|Michigan|27
 10/14/1944|Kansas State|6|Michigan State|45
 10/14/1944|Central Michigan|25|Michigan JV|12
 10/14/1944|Duke|0|Navy|7
@@ -114,7 +119,7 @@
 10/21/1944|Michigan State|8|Maryland|0
 10/21/1944|Fresno State|0|Minter Field(CA)|20
 10/21/1944|Iowa State|21|Missouri|21
-10/21/1944|Miami(OH)|26|Murray St|14
+10/21/1944|Miami(OH)|26|Murray State|14
 10/21/1944|Indiana|14|Northwestern|7
 10/21/1944|Kansas State|0|Oklahoma|68
 10/21/1944|Illinois|39|Pittsburgh|5
@@ -123,6 +128,7 @@
 10/27/1944|Kentucky|0|Alabama|41
 10/27/1944|Georgia Navy Pre-Flight|7|Georgia Tech|13
 10/27/1944|Wake Forest|27|Miami(FL)|0
+10/27/1944|Michigan State|32|Wayne State|0
 10/28/1944|Mississippi|18|Arkansas|26
 10/28/1944|Duke|7|Army|27
 10/28/1944|Syracuse|12|Boston College|19
@@ -133,6 +139,7 @@
 10/28/1944|Notre Dame|13|Illinois|7
 10/28/1944|Iowa|0|Indiana|32
 10/28/1944|Iowa State|14|Kansas State|0
+10/28/1944|Purdue|14|Michigan|40
 10/28/1944|Louisiana Tech|21|Northwestern State|7
 10/28/1944|Clemson|7|Tennessee|26
 11/03/1944|Florida|13|Miami(FL)|0
@@ -155,11 +162,13 @@
 11/04/1944|Tennessee|13|LSU|0
 11/04/1944|Millsaps(MS)|19|Louisiana-Lafayette|0
 11/04/1944|Virginia|18|Maryland|7
+11/04/1944|Michigan State|7|Missouri|13
 11/04/1944|Indiana|7|Ohio State|21
+11/04/1944|Michigan|41|Pennsylvania|19
 11/04/1944|Arkansas|7|Texas A&M|6
 11/04/1944|Clemson|7|Wake Forest|13
 11/04/1944|Kansas State|15|Wichita State|0
-11/10/1944|North Carolina St|28|Miami(FL)|7
+11/10/1944|North Carolina State|28|Miami(FL)|7
 11/11/1944|Mississippi|6|Alabama|34
 11/11/1944|Rice|7|Arkansas|12
 11/11/1944|Mississippi State|26|Auburn|21
@@ -198,6 +207,7 @@
 11/18/1944|West Virginia|9|Kentucky|40
 11/18/1944|Georgia Tech|14|LSU|6
 11/18/1944|Louisiana Tech|7|Louisiana-Lafayette|0
+11/18/1944|Wisconsin|0|Michigan|14
 11/18/1944|Illinois|12|Ohio State|26
 11/18/1944|Maryland|19|Penn State|34
 11/18/1944|Army|62|Pennsylvania|7
@@ -211,14 +221,15 @@
 11/24/1944|Auburn|38|Miami(FL)|19
 11/24/1944|Clemson|7|Georgia|21
 11/25/1944|Saint Mary's Pre-Flight(CA)|33|California|6
-11/25/1944|Duke|33|North Carolina|0
 11/25/1944|Notre Dame|21|Georgia Tech|0
-11/25/1944|Illinois|25|Northwestern|6
-11/25/1944|Indiana|14|Purdue|6
 11/25/1944|Iowa Navy Pre-Flight|30|Iowa|6
-11/25/1944|Kansas State|0|Nebraska|35
 11/25/1944|Tennessee|21|Kentucky|7
+11/25/1944|Kansas State|0|Nebraska|35
+11/25/1944|Duke|33|North Carolina|0
+11/25/1944|Illinois|25|Northwestern|6
 11/25/1944|Louisiana-Lafayette|7|Northwestern State|6
+11/25/1944|Michigan|14|Ohio State|18
+11/25/1944|Indiana|14|Purdue|6
 11/26/1944|Holy Cross|30|Boston College|14
 11/30/1944|Tulane|6|LSU|25
 11/30/1944|Maryland|8|VMI|6

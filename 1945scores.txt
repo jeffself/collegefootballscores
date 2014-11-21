@@ -5,6 +5,7 @@
 09/14/1945|Bowling Green|13|Baldwin-Wallace(OH)|14
 09/15/1945|Blackland AFB(TX)|0|Baylor|40
 09/15/1945|Fresno State|6|Cal Poly-SLO|6
+09/15/1945|Great Lakes NTS(IL)|2|Michigan|27
 09/21/1945|Samford(AL)|0|Auburn|38
 09/21/1945|Mississippi|21|Kentucky|7
 09/21/1945|Fresno State|13|Pacific|0
@@ -50,6 +51,7 @@
 09/29/1945|Samford(AL)|6|Louisiana Tech|32
 09/29/1945|Alabama|21|Keesler Field(MS)|0
 09/29/1945|Cincinnati|7|Kentucky|13
+09/29/1945|Michigan State|0|Michigan|40
 09/29/1945|Louisiana-Lafayette|0|Mississippi State|31
 09/29/1945|Notre Dame JV(IN)|0|Miami(OH)|13
 09/29/1945|Illinois|0|Notre Dame|7
@@ -81,6 +83,7 @@
 10/06/1945|Kentucky|6|Michigan State|7
 10/06/1945|Clemson|13|North Carolina State|0
 10/06/1945|Fresno State|19|Northern Arizona|0
+10/06/1945|Michigan|20|Northwestern|7
 10/06/1945|Bowling Green|0|Oberlin(OH)|28
 10/06/1945|Iowa|0|Ohio State|42
 10/06/1945|Idaho|7|Oregon|33
@@ -93,6 +96,7 @@
 10/12/1945|Merchant Marine(NY)|6|Maryland|22
 10/12/1945|Saint Louis(MO)|0|Miami(FL)|21
 10/13/1945|Northern Arizona|6|Arizona|52
+10/13/1945|Michigan|7|Army|28
 10/13/1945|South Carolina|0|Alabama|55
 10/13/1945|Arkansas|13|Baylor|23
 10/13/1945|Case Institute(OH)|7|Bowling Green|26
@@ -110,8 +114,8 @@
 10/13/1945|Georgia|48|Kentucky|6
 10/13/1945|Texas A&M|12|LSU|31
 10/13/1945|Kansas State|13|Marquette|55
-10/13/1945|Army|28|Michigan|7
 10/13/1945|Louisiana Tech|21|Mississippi|26
+10/13/1945|Michigan State|12|Pittsburgh|7
 10/13/1945|Iowa|0|Purdue|40
 10/13/1945|California|0|UCLA|13
 10/13/1945|Ball State|0|Wabash(IN)|0
@@ -133,6 +137,7 @@
 10/20/1945|Connecticut|18|Maine|12
 10/20/1945|Brooklyn|13|Massachusetts|7
 10/20/1945|Ohio|0|Miami(OH)|34
+10/20/1945|Wayne State|7|Michigan State|27
 10/20/1945|Arkansas State|0|Mississippi State JV|43
 10/20/1945|Kansas State|7|Missouri|41
 10/20/1945|Georgia Tech|6|Navy|20
@@ -169,6 +174,7 @@
 10/27/1945|Northwestern State|7|Louisiana Tech|18
 10/27/1945|Massachusetts|6|Maine|0
 10/27/1945|Boston College|20|Merchant Marine(NY)|33
+10/27/1945|Marquette|13|Michigan State|13
 10/27/1945|Arkansas|19|Mississippi|0
 10/27/1945|Iowa|0|Notre Dame|56
 10/27/1945|Baylor|13|Texas A&M|19
@@ -197,6 +203,8 @@
 11/03/1945|William & Mary|33|Maryland|14
 11/03/1945|Maine|13|Massachusetts|14
 11/03/1945|Central Norman(IN)|0|Miami(OH)|51
+11/03/1945|Minnesota|0|Michigan|26
+11/03/1945|Missouri|7|Michigan State|14
 11/03/1945|Kansas|13|Nebraska|27
 11/03/1945|Fresno State|4|Nevada|7
 11/03/1945|Colorado|6|New Mexico|12
@@ -219,8 +227,10 @@
 11/10/1945|Kansas|0|Marquette|26
 11/10/1945|VMI|0|Maryland|38
 11/10/1945|Amherst(MA)|6|Massachusetts|6
+11/10/1945|Great Lakes NTS(IL)|27|Michigan State|7
 11/10/1945|Indiana|49|Minnesota|0
 11/10/1945|Louisiana Tech|7|Northwestern State|2
+11/10/1945|Michigan|7|Navy|33
 11/10/1945|Army|48|Notre Dame|0
 11/10/1945|Iowa State|7|Oklahoma|14
 11/10/1945|Miami(OH)|7|Purdue|21
@@ -234,7 +244,7 @@
 11/12/1945|Fresno State|6|Saint Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
-11/16/1945|North Carolina St|7|Miami(FL)|21
+11/16/1945|North Carolina State|7|Miami(FL)|21
 11/17/1945|Alabama|71|Vanderbilt|0
 11/17/1945|San Diego State|0|Arizona|28
 11/17/1945|Arkansas|0|SMU|21
@@ -256,11 +266,13 @@
 11/17/1945|Kansas State|0|Kansas|27
 11/17/1945|Marquette|19|Kentucky|13
 11/17/1945|Louisiana-Lafayette|13|Louisiana Tech|7
+11/17/1945|Purdue|13|Michigan|27
+11/17/1945|Penn State|0|Michigan State|33
 11/22/1945|Miami(OH)|28|Cincinnati|14
 11/22/1945|Colorado|8|Denver|14
 11/22/1945|Northwestern State|13|Louisiana-Lafayette|0
 11/22/1945|Fresno State|16|Pacific|0
-11/23/1945|Michigan St|7|Miami(FL)|21
+11/23/1945|Michigan State|7|Miami(FL)|21
 11/23/1945|Arkansas|13|Tulsa|45
 11/24/1945|Pensacola NAS(FL)|6|Alabama|55
 11/24/1945|Louisiana Tech|0|Auburn|29
@@ -272,6 +284,7 @@
 11/24/1945|Tennessee|14|Kentucky|0
 11/24/1945|Florida|0|Little Creek NTB(VA)|12
 11/24/1945|Virginia|13|Maryland|19
+11/24/1945|Ohio State|3|Michigan|7
 11/24/1945|Kansas|12|Missouri|33
 11/24/1945|Iowa|6|Nebraska|13
 11/24/1945|Illinois|7|Northwestern|13
