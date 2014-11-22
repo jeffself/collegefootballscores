@@ -46,6 +46,7 @@
 09/28/1940|Springfield(MA)|13|Massachusetts|6
 09/28/1940|Rhodes(TN)|34|Memphis|0
 09/28/1940|Case Institute(OH)|10|Miami(OH)|0
+09/28/1940|Washington|14|Minnesota|19
 09/28/1940|Arkansas State|12|Missouri-Rolla|44
 09/28/1940|Idaho|0|Oregon State|41
 09/28/1940|Buffalo|6|Susquehanna(PA)|20
@@ -82,6 +83,7 @@
 10/05/1940|Holy Cross|0|LSU|25
 10/05/1940|Dayton|12|Marshall|25
 10/05/1940|Michigan State|14|Michigan|21
+10/05/1940|Nebraska|7|Minnesota|13
 10/05/1940|Louisiana-Lafayette|0|Mississippi State|20
 10/05/1940|Cincinnati|0|Navy|14
 10/05/1940|Clemson|26|North Carolina State|7
@@ -178,6 +180,7 @@
 10/19/1940|Illinois|0|Michigan|28
 10/19/1940|Iowa State|14|Missouri|30
 10/19/1940|Louisiana Tech|0|Northwestern State|13
+10/19/1940|Minnesota|13|Ohio State|7
 10/19/1940|Kansas State|0|Oklahoma|14
 10/19/1940|Auburn|13|SMU|20
 10/19/1940|Marshall|19|Wake Forest|31
@@ -257,6 +260,7 @@
 11/02/1940|Ohio|27|Miami(OH)|0
 11/02/1940|Kansas State|0|Michigan State|32
 11/02/1940|Arizona State|12|Northern Arizona|0
+11/02/1940|Minnesota|13|Northwestern|12
 11/02/1940|Army|0|Notre Dame|7
 11/02/1940|Connecticut|7|Rutgers|45
 11/02/1940|Baylor|12|TCU|14
@@ -338,6 +342,7 @@
 11/16/1940|Florida|46|Miami(FL)|6
 11/16/1940|Northwestern|13|Michigan|20
 11/16/1940|Murray State|18|Middle Tennessee State|0
+11/16/1940|Purdue|6|Minnesota|33
 11/16/1940|Memphis|7|Mississippi|38
 11/16/1940|Connecticut|0|New Hampshire|9
 11/16/1940|Duke|3|North Carolina|6
@@ -380,6 +385,7 @@
 11/23/1940|Indiana|3|Purdue|0
 11/23/1940|Kentucky|0|Tennessee|33
 11/23/1940|Massachusetts|6|Tufts(MA)|19
+11/23/1940|Minnesota|22|Wisconsin|13
 11/26/1940|Union(TN)|22|Memphis|6
 11/28/1940|Louisiana Tech|6|Centenary(LA)|0
 11/28/1940|Colorado State|0|Kansas|26
