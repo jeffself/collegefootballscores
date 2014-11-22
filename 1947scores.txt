@@ -23,7 +23,7 @@
 09/20/1947|Middle Tennessee State|13|SE Missouri State|0
 09/25/1947|Memphis|0|Middle Tennessee State|20
 09/26/1947|Eastern Michigan|0|Alma(MI)|12
-09/26/1947|Southern Miss|19|Auburn|13
+09/26/1947|Southern Mississippi|19|Auburn|13
 09/26/1947|Clemson|22|Boston College|32
 09/26/1947|Montana State|14|Brigham Young|19
 09/26/1947|Kansas|9|Denver|0
@@ -32,6 +32,7 @@
 09/26/1947|Buffalo|7|Moravian(PA)|0
 09/26/1947|Iowa|7|UCLA|22
 09/26/1947|Kansas State|6|UTEP|20
+09/26/1947|Mississippi State|19|Tennessee-Chattanooga|0
 09/27/1947|Wyoming|7|Arizona|27
 09/27/1947|North Texas|0|Arkansas|12
 09/27/1947|SE Missouri State|0|Arkansas State|25
@@ -100,6 +101,7 @@
 10/04/1947|Stanford|13|Michigan|49
 10/04/1947|Mississippi State|0|Michigan State|7
 10/04/1947|Middle Tennessee State|7|Milligan(TN)|0
+10/04/1947|South Carolina|0|Mississippi|33
 10/04/1947|Fresno State|19|Santa Clara|20
 10/04/1947|Connecticut|14|Springfield(MA)|6
 10/04/1947|Duke|19|Tennessee|7
@@ -114,7 +116,7 @@
 10/10/1947|Evansville|7|Louisville|20
 10/10/1947|Richmond|6|Maryland|18
 10/10/1947|TCU|19|Miami(FL)|6
-10/11/1947|Duquesne|0|Alabama|26
+10/11/1947|Duquesne(PA)|0|Alabama|26
 10/11/1947|Arkansas-Monticello|0|Arkansas State|28
 10/11/1947|Arizona|7|Hardin-Simmons(TX)|35
 10/11/1947|Florida|14|Auburn|20
@@ -137,7 +139,7 @@
 10/11/1947|South Dakota State|6|Kansas|86
 10/11/1947|Georgia|0|Kentucky|26
 10/11/1947|Texas A&M|13|LSU|19
-10/11/1947|Southern Miss|7|Louisiana Tech|6
+10/11/1947|Southern Mississippi|7|Louisiana Tech|6
 10/11/1947|West Alabama|0|Louisiana-Lafayette|26
 10/11/1947|Canisius(NY)|25|Marshall|20
 10/11/1947|Centenary(LA)|7|Memphis|26
@@ -148,11 +150,13 @@
 10/11/1947|Clemson|0|North Carolina State|18
 10/11/1947|Eastern Michigan|6|Northern Illinois|21
 10/11/1947|Arizona State|6|Pepperdine|27
+10/11/1947|Mississippi State|21|San Francisco|14
 10/11/1947|Houston|0|Texas A&M-Kingsville|13
-10/11/1947|Kent State|6|Wooster(OH)|13
 10/11/1947|Brigham Young|6|Utah|28
+10/11/1947|Mississippi|6|Vanderbilt|10
 10/11/1947|Michigan State|21|Washington State|7
 10/11/1947|California|48|Wisconsin|7
+10/11/1947|Kent State|6|Wooster(OH)|13
 10/11/1947|Massachusetts|33|Worcester Tech(MA)|0
 10/17/1947|Middle Tennessee State|33|Austin Peay State|0
 10/17/1947|LSU|14|Boston College|13
@@ -182,10 +186,11 @@
 10/18/1947|Pittsburgh|6|Indiana|41
 10/18/1947|Kalamazoo(MI)|0|Kent State|13
 10/18/1947|Louisiana Tech|30|Louisiana College|12
-10/18/1947|Southern Miss|15|Louisiana-Lafayette|7
+10/18/1947|Southern Mississippi|15|Louisiana-Lafayette|7
 10/18/1947|Connecticut|7|Maine|13
 10/18/1947|Rhode Island|20|Massachusetts|13
 10/18/1947|Iowa State|0|Michigan State|20
+10/18/1947|Duquesne(PA)|0|Mississippi State|34
 10/18/1947|Kansas State|7|Missouri|47
 10/18/1947|Memphis|7|Murray St|14
 10/18/1947|Florida|7|North Carolina State|6
@@ -195,6 +200,7 @@
 10/18/1947|Georgia|20|Oklahoma State|7
 10/18/1947|Arkansas|6|Texas|21
 10/18/1947|Baylor|32|Texas Tech|6
+10/18/1947|Mississippi|27|Tulane|14
 10/18/1947|Arizona|14|UTEP|13
 10/18/1947|Kentucky|14|Vanderbilt|0
 10/18/1947|Arkansas State|14|Washington(MO)|40
@@ -232,6 +238,7 @@
 10/25/1947|Michigan|13|Minnesota|6
 10/25/1947|Kentucky|7|Michigan State|6
 10/25/1947|Arkansas|19|Mississippi|14
+10/25/1947|Hardin-Simmons(TX)|7|Mississippi State|27
 10/25/1947|East Carolina|14|Newport News Apprentice|6
 10/25/1947|Indiana|6|Northwestern|7
 10/25/1947|Louisiana Tech|24|Northwestern State|0
@@ -282,6 +289,7 @@
 11/01/1947|Idaho|7|Oregon|34
 11/01/1947|Iowa|0|Purdue|21
 11/01/1947|Louisville|7|Saint Joseph's(IN)|7
+11/01/1947|Mississippi State|20|Tulane|0
 11/01/1947|California|6|UCLA|0
 11/01/1947|Auburn|0|Vanderbilt|28
 11/01/1947|Massachusetts|7|Vermont|7
@@ -302,7 +310,7 @@
 11/08/1947|Rhode Island|0|Connecticut|23
 11/08/1947|Iowa State|36|Drake|6
 11/08/1947|Missouri|28|Duke|7
-11/08/1947|Maryland|32|Duquesne|0
+11/08/1947|Maryland|32|Duquesne(PA)|0
 11/08/1947|Little Creek(VA)|31|East Carolina|7
 11/08/1947|Georgia|34|Florida|6
 11/08/1947|Western Michigan|14|Illinois|60
@@ -312,6 +320,7 @@
 11/08/1947|Indiana|0|Michigan|35
 11/08/1947|Santa Clara|0|Michigan State|28
 11/08/1947|Maryville(TN)|13|Middle Tennessee State|6
+11/08/1947|Tennessee|13|Mississippi|43
 11/08/1947|Georgia Tech|16|Navy|14
 11/08/1947|Kansas|13|Nebraska|7
 11/08/1947|Fresno State|3|New Mexico|34
@@ -346,7 +355,7 @@
 11/15/1947|New Hampshire|14|Connecticut|6
 11/15/1947|Florida State|0|Cumberland(TN)|6
 11/15/1947|South Carolina|0|Duke|0
-11/15/1947|Clemson|34|Duquesne|13
+11/15/1947|Clemson|34|Duquesne(PA)|13
 11/15/1947|Auburn|6|Georgia|28
 11/15/1947|Utah|6|Idaho|13
 11/15/1947|Marquette|6|Indiana|48
@@ -357,6 +366,7 @@
 11/15/1947|North Carolina|19|Maryland|0
 11/15/1947|Tufts(MA)|20|Massachusetts|6
 11/15/1947|Temple|6|Michigan State|14
+11/15/1947|Tennessee-Chattanooga|0|Mississippi|52
 11/15/1947|Houston|0|North Texas|33
 11/15/1947|Illinois|28|Ohio State|7
 11/15/1947|Louisiana Tech|13|Oklahoma City|28
@@ -398,6 +408,7 @@
 11/22/1947|Austin Peay|0|Memphis|40
 11/22/1947|Florida|7|Miami(FL)|6
 11/22/1947|Ohio State|0|Michigan|21
+11/22/1947|Southern Mississippi|7|Mississippi State|14
 11/22/1947|East Carolina|12|North Carolina State Freshmen|20
 11/22/1947|Brigham Young|7|San Diego State|32
 11/22/1947|California|21|Stanford|18
@@ -422,6 +433,7 @@
 11/29/1947|Boston College|6|Holy Cross|20
 11/29/1947|North Carolina State|0|Maryland|0
 11/29/1947|Alabama|21|Miami(FL)|6
+11/29/1947|Mississippi|33|Mississippi State|14
 11/29/1947|Colorado State|7|Montana|41
 11/29/1947|Army|21|Navy|0
 11/29/1947|Arizona State|13|Nevada|33
@@ -437,6 +449,7 @@
 01/01/1948|Arkansas|21|William & Mary|19
 01/01/1948|Southern Cal|0|Michigan|49
 01/01/1948|Catawba(NC)|7|Marshall|0
+01/01/1948|Mississippi|13|TCU|9
 01/01/1948|Georgia Tech|20|Kansas |14
 01/01/1948|Hawaii|33|Redlands(CA)|32
 01/01/1948|Maryland|20|Georgia|20

@@ -48,6 +48,7 @@
 09/28/1946|Memphis NAS(TN)|0|Miami(OH)|42
 09/28/1946|Indiana|0|Michigan|21
 09/28/1946|Wayne State|0|Michigan State|42
+09/28/1946|Tennessee-Chattanooga|7|Mississippi State|41
 09/28/1946|Colorado State|0|Montana|28
 09/28/1946|Brigham Young|12|Montana State|13
 09/28/1946|Duke|6|North Carolina State|13
@@ -99,6 +100,7 @@
 10/05/1946|Iowa|7|Michigan|14
 10/05/1946|Boston College|34|Michigan State|20
 10/05/1946|Indiana|21|Minnesota|0
+10/05/1946|Vanderbilt|7|Mississippi|0
 10/05/1946|Kansas State|0|Nebraska|31
 10/05/1946|Buffalo|28|RPI|13
 10/05/1946|Alabama|14|South Carolina|6
@@ -180,6 +182,7 @@
 10/19/1946|Xavier(OH)|6|Miami(OH)|28
 10/19/1946|Northwestern|14|Michigan|14
 10/19/1946|Louisiana Tech|7|Mississippi|6
+10/19/1946|San Francisco|20|Mississippi State|48
 10/19/1946|Iowa State|13|Missouri|33
 10/19/1946|Akron|7|Mount Union|12
 10/19/1946|Kansas State|7|Oklahoma|28
@@ -204,7 +207,6 @@
 10/25/1946|Brigham Young|0|San José State|14
 10/26/1946|Toledo|33|Akron|13
 10/26/1946|Kentucky|7|Alabama|21
-10/26/1946|Mississippi|9|Arkansas|7
 10/26/1946|Duke|0|Army|19
 10/26/1946|Kent State|12|Baldwin-Wallace(OH)|21
 10/26/1946|Texas A&M|17|Baylor|0
@@ -226,6 +228,7 @@
 10/26/1946|Arizona|0|Marquette|20
 10/26/1946|Illinois|13|Michigan|9
 10/26/1946|Cincinnati|18|Michigan State|7
+10/26/1946|Arkansas|7|Mississippi|9
 10/26/1946|Indiana|27|Nebraska|7
 10/26/1946|Florida|19|North Carolina|40
 10/26/1946|Louisiana Tech|14|Northwestern State|7
@@ -233,8 +236,9 @@
 10/26/1946|Miami(OH)|23|Ohio|14
 10/26/1946|Fresno State|0|San Diego State|7
 10/26/1946|Marshall|6|Scranton|14
-10/26/1946|Houston|7|UTEP|21
+10/26/1946|Mississippi State|14|Tulane|7
 10/26/1946|Kansas|0|Tulsa|56
+10/26/1946|Houston|7|UTEP|21
 10/26/1946|LSU|14|Vanderbilt|0
 10/26/1946|California|6|Washington|20
 11/01/1946|Middle Tennessee State|6|Maryville(TN)|20
@@ -267,6 +271,7 @@
 11/02/1946|Vermont|20|Massachusetts|28
 11/02/1946|Bradley|6|Miami(OH)|35
 11/02/1946|Michigan|21|Minnesota|0
+11/02/1946|Murray State|0|Mississippi State|69
 11/02/1946|Idaho|0|Montana|19
 11/02/1946|Arizona State|14|New Mexico State|7
 11/02/1946|Boston College|72|New York(NY)|6
@@ -307,6 +312,7 @@
 11/09/1946|South Carolina|21|Maryland|17
 11/09/1946|CCNY|0|Massachusetts|59
 11/09/1946|Michigan State|7|Michigan|55
+11/09/1946|Tennessee|18|Mississippi|14
 11/09/1946|Colorado|0|Missouri|21
 11/09/1946|Marshall|0|Murray State|19
 11/09/1946|Indiana|7|Northwestern|6
@@ -358,6 +364,7 @@
 11/16/1946|Wisconsin|6|Michigan|28
 11/16/1946|Marquette|0|Michigan State|20
 11/16/1946|Iowa|6|Minnesota|16
+11/16/1946|Northwestern State|0|Mississippi State|27
 11/16/1946|Iowa State|0|Nebraska|33
 11/16/1946|Connecticut|12|New Hampshire|12
 11/16/1946|Army|34|Pennsylvania|7
@@ -383,6 +390,7 @@
 11/23/1946|Tennessee|7|Kentucky|0
 11/23/1946|Fordham|0|LSU|40
 11/23/1946|Maryland|14|Michigan State|26
+11/23/1946|Mississippi State|20|Mississippi|0
 11/23/1946|Kansas State|7|New Mexico|14
 11/23/1946|Duke|7|North Carolina|22
 11/23/1946|Illinois|20|Northwestern|0

@@ -44,9 +44,10 @@
 09/30/1944|Alabama|27|LSU|27
 09/30/1944|Marine OCS(LA)|0|Louisiana Tech|72
 09/30/1944|Keesler Field(MS)|13|Louisiana-Lafayette|0
+09/30/1944|Western Michigan|6|Miami(OH)|32
 09/30/1944|Indiana|20|Michigan|0
 09/30/1944|Scranton(PA)|12|Michigan State|40
-09/30/1944|Western Michigan|6|Miami(OH)|32
+09/30/1944|Jackson AAB(MS)|0|Mississippi State|41
 09/30/1944|Duke|7|Pennsylvania|18
 09/30/1944|Kentucky|13|Tennessee|26
 10/06/1944|Presbyterian(SC)|0|Georgia|67
@@ -67,6 +68,8 @@
 10/07/1944|Fort Benning(GA)|33|Louisiana Tech|0
 10/07/1944|South Carolina|0|Miami(FL)|0
 10/07/1944|Michigan|28|Minnesota|13
+10/07/1944|Tennessee|20|Mississippi|7
+10/07/1944|Millsaps(MS)|0|Mississippi State|56
 10/07/1944|Clemson|13|North Carolina State|7
 10/07/1944|Iowa|0|Ohio State|34
 10/07/1944|LSU|13|Rice|14
@@ -96,6 +99,7 @@
 10/14/1944|Northwestern|0|Michigan|27
 10/14/1944|Kansas State|6|Michigan State|45
 10/14/1944|Central Michigan|25|Michigan JV|12
+10/14/1944|Arkansas-Monticello|20|Mississippi State|49
 10/14/1944|Duke|0|Navy|7
 10/14/1944|Florida|0|Tennessee|40
 10/14/1944|Colorado|26|Utah|0
@@ -118,6 +122,7 @@
 10/21/1944|Northwestern State|7|Louisiana-Lafayette|19
 10/21/1944|Michigan State|8|Maryland|0
 10/21/1944|Fresno State|0|Minter Field(CA)|20
+10/21/1944|Tulsa|47|Mississippi|0
 10/21/1944|Iowa State|21|Missouri|21
 10/21/1944|Miami(OH)|26|Murray State|14
 10/21/1944|Indiana|14|Northwestern|7
@@ -158,10 +163,11 @@
 11/04/1944|Nebraska|6|Iowa|27
 11/04/1944|Oklahoma|12|Iowa State|7
 11/04/1944|Olathe NAS(KS)|14|Kansas|33
-11/04/1944|Mississippi State|26|Kentucky|0
 11/04/1944|Tennessee|13|LSU|0
 11/04/1944|Millsaps(MS)|19|Louisiana-Lafayette|0
 11/04/1944|Virginia|18|Maryland|7
+11/04/1944|Jackson AAB(MS)|10|Mississippi|0
+11/04/1944|Kentucky|0|Mississippi State|26
 11/04/1944|Michigan State|7|Missouri|13
 11/04/1944|Indiana|7|Ohio State|21
 11/04/1944|Michigan|41|Pennsylvania|19
@@ -224,6 +230,7 @@
 11/25/1944|Notre Dame|21|Georgia Tech|0
 11/25/1944|Iowa Navy Pre-Flight|30|Iowa|6
 11/25/1944|Tennessee|21|Kentucky|7
+11/25/1944|Mississippi State|8|Mississippi|13
 11/25/1944|Kansas State|0|Nebraska|35
 11/25/1944|Duke|33|North Carolina|0
 11/25/1944|Illinois|25|Northwestern|6
