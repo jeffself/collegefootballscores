@@ -18,6 +18,7 @@
 09/22/1946|Western State(CO)|2|Brigham Young|13
 09/25/1946|Hawaiian Pine|6|Hawaii|14
 09/26/1946|Louisville|13|Evansville|7
+09/26/1946|Jacksonville State(AL)|0|Middle Tennessee State|21
 09/27/1946|Southern Miss|12|Auburn|13
 09/27/1946|Wake Forest|12|Boston College|6
 09/27/1946|Bowling Green|0|Central Michigan|7
@@ -62,6 +63,7 @@
 09/28/1946|Alabama|7|Tulane|6
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/02/1946|Kaala(HI)|0|Hawaii|44
+10/03/1946|Milligan(TN)|0|Middle Tennessee State|0
 10/04/1946|Brigham Young|13|Denver|26
 10/04/1946|Eastern Michigan|0|Hope(MI)|13
 10/04/1946|Wittenberg(OH)|0|Louisville|19
@@ -111,6 +113,7 @@
 10/11/1946|Kentucky|13|Georgia|28
 10/11/1946|Louisville|20|Georgetown(KY)|0
 10/11/1946|TCU|12|Miami(FL)|20
+10/11/1946|Middle Tennessee State|14|Union(TN)|7
 10/12/1946|Case Institute(OH)|0|Akron|13
 10/12/1946|Louisiana-Lafayette|0|Alabama|54
 10/12/1946|UTEP|13|Arizona|27
@@ -150,6 +153,7 @@
 10/12/1946|Massachusetts|39|Worcester Tech(MA)|0
 10/12/1946|Colorado|20|Wyoming|0
 10/16/1946|Lanakila(HI)|6|Hawaii|73
+10/17/1946|Middle Tennessee State|42|Austin Peay State|9
 10/18/1946|Virginia Tech|0|Maryland|6
 10/18/1946|Louisiana-Lafayette|0|Southern Miss|6
 10/19/1946|Pacific|13|Arizona|47
@@ -191,6 +195,7 @@
 10/19/1946|Colorado State|0|Utah State|47
 10/19/1946|Ball State|20|Valparaiso(IN)|6
 10/19/1946|Louisville|19|Western Kentucky|20
+10/24/1946|Cumberland(TN)|0|Middle Tennessee State|28
 10/24/1946|Clemson|14|South Carolina|26
 10/25/1946|Villanova|12|Boston College|14
 10/25/1946|Bowling Green|13|Canisius(NY)|7
@@ -232,6 +237,7 @@
 10/26/1946|Kansas|0|Tulsa|56
 10/26/1946|LSU|14|Vanderbilt|0
 10/26/1946|California|6|Washington|20
+11/01/1946|Middle Tennessee State|6|Maryville(TN)|20
 11/01/1946|Hawaii|19|Pacific|13
 11/01/1946|Miami(FL)|26|Villanova|21
 11/02/1946|Hardin-Simmons(TX)|19|Arizona|8
@@ -286,6 +292,7 @@
 11/09/1946|Georgetown(DC)|13|Boston College|20
 11/09/1946|Alfred(NY)|12|Buffalo|20
 11/09/1946|Great Lakes NTS(IL)|0|Central Michigan|48
+11/09/1946|Middle Tennessee State|19|Centre(KY)|18
 11/09/1946|Xavier(OH)|0|Cincinnati|39
 11/09/1946|Utah|13|Colorado State|0
 11/09/1946|Wake Forest|0|Duke|13
@@ -317,6 +324,7 @@
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
 11/15/1946|LSU|20|Miami(FL)|7
 11/15/1946|Oklahoma City|6|Louisiana Tech|2
+11/15/1946|Troy|0|Middle Tennessee State|12
 11/16/1946|Vanderbilt|7|Alabama|12
 11/16/1946|Arizona|13|New Mexico|13
 11/16/1946|Northern Arizona|13|Arizona State|13
@@ -393,6 +401,7 @@
 11/28/1946|Sam Houston State|28|Houston|6
 11/28/1946|Kansas|20|Missouri|19
 11/28/1946|Xavier(OH)|27|Marshall|21
+11/28/1946|Middle Tennessee State|7|Tennessee Tech|21
 11/29/1946|Union(TN)|0|Louisiana-Lafayette|25
 11/29/1946|Detroit|7|Miami(FL)|21
 11/30/1946|Kansas State|7|Arizona|28

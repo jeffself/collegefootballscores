@@ -48,6 +48,7 @@
 09/24/1949|Troy(AL)|25|Louisiana-Lafayette|48
 09/24/1949|Morehead State|15|Marshall|20
 09/24/1949|Michigan State|3|Michigan|7
+09/24/1949|Memphis NAS(TN)|13|Middle Tennessee State|25
 09/24/1949|Arkansas State|7|Mississippi College|18
 09/24/1949|Arizona|40|New Mexico State|7
 09/24/1949|Eastern Michigan|0|Northern Michigan|6
@@ -64,6 +65,7 @@
 09/30/1949|Murray State|14|Louisville|34
 09/30/1949|Georgetown(DC)|7|Maryland|33
 09/30/1949|Rollins(FL)|13|Miami(FL)|52
+09/30/1949|Maryville(TN)|13|Middle Tennessee State|45
 10/01/1949|Utah|12|Arizona|12
 10/01/1949|Hardin-Simmons(TX)|34|Arizona State|13
 10/01/1949|TCU|7|Arkansas|27
@@ -109,6 +111,7 @@
 10/07/1949|Duquesne|8|Alabama|48
 10/07/1949|Hawaii|27|Denver|14
 10/07/1949|Fresno State|13|Loyola Marymount(CA)|52
+10/07/1949|Union(TN)|12|Middle Tennessee State|32
 10/07/1949|Kent State|6|Ohio|34
 10/08/1949|Baldwin-Wallace(OH)|45|Akron|7
 10/08/1949|Northern Arizona|6|Arizona State|62
@@ -220,6 +223,7 @@
 10/22/1949|Ohio|0|Miami(OH)|26
 10/22/1949|Minnesota|7|Michigan|14
 10/22/1949|Penn State|0|Michigan State|24
+10/22/1949|Middle Tennessee State|19|Milligan(TN)|0
 10/22/1949|Idaho|47|Montana|19
 10/22/1949|Maryland|14|North Carolina State|6
 10/22/1949|Louisiana Tech|28|Northwestern State|21
@@ -236,6 +240,7 @@
 10/28/1949|Bowling Green|24|John Carroll(OH)|38
 10/28/1949|Edenton Flyers(NC)|0|East Carolina|67
 10/28/1949|Islanders(HI)|7|Hawaii|98
+10/28/1949|East Tennessee State|0|Middle Tennessee State|30
 10/29/1949|Texas A&M|6|Arkansas|27
 10/29/1949|VMI|14|Army|40
 10/29/1949|Valparaiso(IN)|6|Ball State|16
@@ -309,6 +314,7 @@
 11/05/1949|Notre Dame|34|Michigan State|21
 11/05/1949|Iowa|7|Minnesota|55
 11/05/1949|Kansas|27|Nebraska|13
+11/05/1949|Middle Tennessee State|55|North Alabama|17
 11/05/1949|Cincinnati|34|Ohio|13
 11/05/1949|Arkansas|0|Rice|14
 11/05/1949|Houston|14|St. Bonaventure|20
@@ -351,6 +357,7 @@
 11/12/1949|Dayton|20|Miami(OH)|53
 11/12/1949|Indiana|7|Michigan|20
 11/12/1949|Bowling Green|35|Mount Union|7
+11/12/1949|Middle Tennessee State|7|Murray State|7
 11/12/1949|Colorado|15|New Mexico|17
 11/12/1949|Houston|23|North Texas|28
 11/12/1949|Illinois|17|Ohio State|30
@@ -404,6 +411,7 @@
 11/24/1949|San José State|43|Fresno State|7
 11/24/1949|Xavier(OH)|13|Marshall|7
 11/24/1949|West Virginia|7|Maryland|47
+11/24/1949|Tennessee Tech|0|Middle Tennessee State|14
 11/24/1949|Kansas State|27|Missouri|34
 11/24/1949|Houston|35|St. Louis|0
 11/24/1949|Louisville|21|Southern Miss|26

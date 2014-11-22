@@ -58,6 +58,7 @@
 10/03/1941|Kent State|26|Findlay(OH)|0
 10/03/1941|Southern Miss|19|Louisiana Tech|7
 10/03/1941|Millsaps(MS)|6|Memphis|21
+10/03/1941|Western Kentucky|15|Middle Tennessee State|7
 10/03/1941|Idaho|7|Oregon|21
 10/03/1941|Arkansas State|0|Sunflower JC(MS)|68
 10/04/1941|Mississippi State|14|Alabama|0
@@ -103,6 +104,7 @@
 10/10/1941|Idaho|21|Gonzaga|7
 10/10/1941|Millsaps(MS)|0|Louisiana-Lafayette|6
 10/10/1941|West Alabama|0|Memphis|38
+10/10/1941|Austin Peay State|0|Middle Tennessee State|28
 10/10/1941|Miami(FL)|20|Tampa(FL)|6
 10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
@@ -135,6 +137,7 @@
 10/11/1941|Connecticut|0|Wesleyan(CT)|7
 10/17/1941|Na Alii(HI)|6|Hawaii|19
 10/17/1941|Rollins(FL)|0|Miami(FL)|21
+10/17/1941|Gordon(GA)|0|Middle Tennessee State|26
 10/17/1941|Louisville|13|Transylvania(KY)|0
 10/17/1941|Memphis|7|Union(TN)|6
 10/17/1941|Baylor|6|Villanova|14
@@ -262,6 +265,7 @@
 11/01/1941|Brigham Young|28|Utah State|0
 11/01/1941|Central Michigan|0|Wayne State|6
 11/06/1941|East Carolina|13|Bergen JC(NJ)|7
+11/07/1941|Middle Tennessee State|26|Delta State|6
 11/07/1941|Na Alii(HI)|14|Hawaii|33
 11/07/1941|Stephen F. Austin|0|Louisiana-Lafayette|25
 11/07/1941|West Virginia Wesleyan|0|Miami(FL)|34
@@ -335,6 +339,7 @@
 11/15/1941|Troy|0|Memphis|32
 11/15/1941|Florida|14|Miami(FL)|0
 11/15/1941|Temple|0|Michigan State|46
+11/15/1941|Middle Tennessee State|6|Murray State|34
 11/15/1941|Illinois|7|Ohio State|12
 11/15/1941|Arizona|14|Oklahoma State|41
 11/15/1941|Army|7|Pennsylvania|14
@@ -348,6 +353,7 @@
 11/20/1941|Wayne State|0|Bowling Green|19
 11/20/1941|Colorado|0|Denver|27
 11/20/1941|Washington & Lee|0|Maryland|6
+11/20/1941|Union(TN)|14|Middle Tennessee State|14
 11/21/1941|Memphis|26|Austin Peay|0
 11/21/1941|South Carolina|6|Miami(FL)|7
 11/22/1941|Mississippi|18|Arkansas|0
@@ -374,6 +380,7 @@
 11/27/1941|Arkansas|13|Tulsa|6
 11/27/1941|Centenary(LA)|7|Louisiana Tech|39
 11/27/1941|Louisiana-Lafayette|6|Northwestern State|0
+11/27/1941|Middle Tennessee State|0|Tennessee Tech|6
 11/28/1941|Alabama|21|Miami(FL)|7
 11/29/1941|Kansas State|21|Arizona|28
 11/29/1941|Army|6|Navy|14

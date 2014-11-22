@@ -18,6 +18,7 @@
 09/27/1940|Ferris State(MI)|0|Central Michigan|37
 09/27/1940|Connecticut|10|Coast Guard|9
 09/27/1940|Iowa State|7|Denver|14
+09/27/1940|Jacksonville State(AL)|7|Middle Tennessee State|46
 09/27/1940|Alabama|26|Spring Hill(AL)|0
 09/27/1940|Louisiana-Lafayette|6|Stephen F. Austin|0
 09/27/1940|Arizona State|19|West Texas A&M|12
@@ -56,6 +57,7 @@
 10/04/1940|Illinois State|0|Eastern Michigan|0
 10/04/1940|UTEP|7|Louisiana Tech|19
 10/04/1940|Stetson(FL)|0|Miami(FL)|19
+10/04/1940|Austin Peay State|6|Middle Tennessee State|35
 10/04/1940|Memphis|13|Tennessee Tech|16
 10/05/1940|Mercer(GA)|0|Alabama|20
 10/05/1940|New Mexico State|0|Arizona|41
@@ -142,6 +144,7 @@
 10/18/1940|Polar Bears(HI)|35|Hawaii|28
 10/18/1940|Centre(KY)|28|Louisville|0
 10/18/1940|Catholic(DC)|20|Miami(FL)|18
+10/18/1940|Cumberland(TN)|0|Middle Tennessee State|13
 10/18/1940|Fresno State|3|Pacific|0
 10/18/1940|Louisiana-Lafayette|7|Spring Hill(AL)|13
 10/18/1940|Michigan State|19|Temple|21
@@ -222,6 +225,7 @@
 10/26/1940|Duke|23|Wake Forest|0
 10/26/1940|California|6|Washington|7
 10/26/1940|Kent State|31|Washington & Jefferson(PA)|7
+10/26/1940|Middle Tennessee State|0|Western Kentucky|13
 10/26/1940|Miami(OH)|6|Western Reserve(OH)|47
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
 11/01/1940|Louisiana Tech|6|Louisiana-Lafayette|7
@@ -266,6 +270,7 @@
 11/08/1940|Detroit Tech|0|Marshall|67
 11/08/1940|Rollins(FL)|7|Miami(FL)|0
 11/08/1940|Arkansas State|7|Tennessee JC|14
+11/08/1940|Middle Tennessee State|0|Union(TN)|13
 11/09/1940|Kent State|7|Akron|23
 11/09/1940|Tulane|6|Alabama|13
 11/09/1940|Gonzaga|7|Arizona State|7
@@ -332,6 +337,7 @@
 11/16/1940|Xavier(OH)|0|Marshall|41
 11/16/1940|Florida|46|Miami(FL)|6
 11/16/1940|Northwestern|13|Michigan|20
+11/16/1940|Murray State|18|Middle Tennessee State|0
 11/16/1940|Memphis|7|Mississippi|38
 11/16/1940|Connecticut|0|New Hampshire|9
 11/16/1940|Duke|3|North Carolina|6
@@ -375,10 +381,11 @@
 11/23/1940|Kentucky|0|Tennessee|33
 11/23/1940|Massachusetts|6|Tufts(MA)|19
 11/26/1940|Union(TN)|22|Memphis|6
-11/28/1940|Arkansas|27|Tulsa|21
 11/28/1940|Louisiana Tech|6|Centenary(LA)|0
 11/28/1940|Colorado State|0|Kansas|26
 11/28/1940|Northwestern State|7|Louisiana-Lafayette|12
+11/28/1940|Tennessee Tech|0|Middle Tennessee State|6
+11/28/1940|Arkansas|27|Tulsa|21
 11/29/1940|Mississippi|21|Miami(FL)|7
 11/30/1940|Mississippi State|13|Alabama|0
 11/30/1940|Marquette|14|Arizona|17
