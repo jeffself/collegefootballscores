@@ -10,6 +10,7 @@
 09/19/1942|Kansas State|37|Kansas Wesleyan|6
 09/19/1942|Georgia|7|Kentucky|6
 09/19/1942|Northwestern State|0|LSU|40
+09/19/1942|Fort Riley(KS)|0|Missouri|31
 09/23/1942|Middle Tennessee State|21|Memphis|13
 09/25/1942|Muskingum|7|Akron|7
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
@@ -39,8 +40,10 @@
 09/26/1942|Connecticut|0|Maryland|34
 09/26/1942|Centre(KY)|6|Miami(OH)|28
 09/26/1942|Great Lakes NTS|0|Michigan|9
+09/26/1942|Pittsburgh|7|Minnesota|50
 09/26/1942|Western Kentucky|6|Mississippi|39
 09/26/1942|Union(TN)|2|Mississippi State|35
+09/26/1942|St. Louis|7|Missouri|38
 09/26/1942|Brigham Young|12|Montana|6
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Buffalo|19|Susquehanna(PA)|0
@@ -48,7 +51,7 @@
 09/26/1942|Kent State|14|Toledo|26
 09/26/1942|Clemson|0|VMI|0
 09/26/1942|Colorado State|10|Wyoming|0
-09/27/1942|Saint Mary's(CA)|0|California|6
+09/27/1942|St. Mary's(CA)|0|California|6
 10/02/1942|Wyoming|13|Brigham Young|6
 10/02/1942|Kansas|0|Denver|17
 10/02/1942|Hope(MI)|9|Eastern Michigan|13
@@ -63,7 +66,6 @@
 10/03/1942|Lafayette|0|Army|14
 10/03/1942|West Virginia|0|Boston College|33
 10/03/1942|St. Lawrence(NY)|0|Buffalo|20
-10/03/1942|Cincinnati|18|Western Reserve(OH)|7
 10/03/1942|North Carolina State|7|Clemson|6
 10/03/1942|Colorado School of Mines|0|Colorado State|27
 10/03/1942|Massachusetts|0|Connecticut|26
@@ -80,6 +82,7 @@
 10/03/1942|Jacksonville NAS(FL)|14|Miami(FL)|0
 10/03/1942|Michigan State|0|Michigan|20
 10/03/1942|Troy|0|Middle Tennessee State|20
+10/03/1942|Iowa Navy Pre-Flight|7|Minnesota|6
 10/03/1942|Colorado|13|Missouri|26
 10/03/1942|Iowa State|0|Nebraska|26
 10/03/1942|Central Michigan|21|Northern Michigan|0
@@ -93,6 +96,7 @@
 10/03/1942|Auburn|27|Tulane|13
 10/03/1942|Duke|7|Wake Forest|20
 10/03/1942|Arizona State|0|West Texas A&M|28
+10/03/1942|Cincinnati|18|Western Reserve(OH)|7
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
 10/09/1942|Kansas State|0|Duquesne(PA)|33
@@ -133,6 +137,7 @@
 10/10/1942|Brigham Young|12|Utah|7
 10/10/1942|Massachusetts|6|Vermont|13
 10/10/1942|Buffalo|7|Washington & Jefferson(PA)|13
+10/10/1942|Missouri|9|Wisconsin|17
 10/11/1942|Fresno State|66|San Diego State|0
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
 10/16/1942|Eastern Michigan|0|Central Michigan|14
@@ -168,9 +173,10 @@
 10/17/1942|Dayton|20|Miami(OH)|0
 10/17/1942|Northwestern|16|Michigan|34
 10/17/1942|Marquette|28|Michigan State|7
+10/17/1942|Minnesota|15|Nebraska|2
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Indiana|19|Pittsburgh|7
-10/17/1942|Miami(FL)|31|Saint Louis(MO)|6
+10/17/1942|Miami(FL)|31|St. Louis|6
 10/17/1942|Idaho|7|Stanford|54
 10/17/1942|Baylor|14|Texas Tech|7
 10/17/1942|Mississippi State|33|Vanderbilt|0
@@ -244,8 +250,10 @@
 10/31/1942|Furman(SC)|13|Miami(FL)|32
 10/31/1942|Ohio|39|Miami(OH)|13
 10/31/1942|Illinois|14|Michigan|28
-10/31/1942|Memphis|0|Mississippi|48
 10/31/1942|Connecticut|32|Middlebury(VT)|0
+10/31/1942|Northwestern|7|Minnesota|19
+10/31/1942|Memphis|0|Mississippi|48
+10/31/1942|Great Lakes NTS(IL)|17|Missouri|0
 10/31/1942|Idaho|21|Montana|0
 10/31/1942|Fresno State|13|Pacific|0
 10/31/1942|Army|0|Pennsylvania|19
@@ -290,6 +298,7 @@
 11/07/1942|Harvard|7|Michigan|35
 11/07/1942|Indiana|7|Minnesota|0
 11/07/1942|Vanderbilt|19|Mississippi|0
+11/07/1942|Missouri|26|Nebraska|6
 11/07/1942|Illinois|14|Northwestern|7
 11/07/1942|Army|0|Notre Dame|13
 11/07/1942|Miami(OH)|28|Ohio Wesleyan|25
@@ -321,18 +330,19 @@
 11/14/1942|Louisiana Tech|13|Hardin-Simmons(TX)|47
 11/14/1942|Washington State|7|Idaho|0
 11/14/1942|Kansas State|0|Indiana|54
-11/14/1942|Iowa|7|Minnesota|27
 11/14/1942|Kansas|13|Iowa State|20
 11/14/1942|Clemson|6|Jacksonville NAS(FL)|24
 11/14/1942|West Virginia|7|Kentucky|0
 11/14/1942|Florida|0|Miami(FL)|12
 11/14/1942|Purdue|6|Michigan State|19
+11/14/1942|Iowa|7|Minnesota|27
 11/14/1942|Tennessee|14|Mississippi|0
 11/14/1942|Duquesne(PA)|6|Mississippi State|28
 11/14/1942|Duke|13|North Carolina|13
 11/14/1942|Arizona State|14|Northern Arizona|2
 11/14/1942|Colorado State|14|Northern Colorado|6
 11/14/1942|Michigan|32|Notre Dame|20
+11/14/1942|Missouri|6|Oklahoma|6
 11/14/1942|Illinois|20|Ohio State|44
 11/14/1942|Buffalo|13|RPI|0
 11/14/1942|Arkansas|6|SMU|14
@@ -353,6 +363,7 @@
 11/21/1942|Furman|7|Clemson|12
 11/21/1942|Xavier(OH)|0|Cincinnati|9
 11/21/1942|North Carolina State|0|Duke|47
+11/21/1942|Missouri|12|Fordham|20
 11/21/1942|Auburn|27|Georgia|13
 11/21/1942|Florida|7|Georgia Tech|20
 11/21/1942|Portland(OR)|14|Idaho|20
@@ -365,8 +376,9 @@
 11/21/1942|Mississippi|13|Mississippi State|34
 11/21/1942|Michigan|7|Ohio State|21
 11/21/1942|Indiana|20|Purdue|0
-11/21/1942|Kentucky|0|Tennessee|26
 11/21/1942|Louisiana-Lafayette|0|Sam Houston State|7
+11/21/1942|Kentucky|0|Tennessee|26
+11/21/1942|Minnesota|6|Wisconsin|20
 11/26/1942|Texas Tech|13|Arizona|7
 11/26/1942|Marshall|13|Bradley|7
 11/26/1942|Miami(OH)|12|Cincinnati|21
@@ -393,8 +405,9 @@
 11/28/1942|Kansas State|19|Nebraska|0
 11/29/1942|Fresno State|27|Loyola Marymount(CA)|6
 12/05/1942|2nd Air Force(CO)|27|Arizona|13
-12/05/1942|Saint Mary's Pre-Flight(CA)|6|California|12
+12/05/1942|St. Mary's Pre-Flight(CA)|6|California|12
 12/05/1942|San Francisco|7|Mississippi State|19
+12/05/1942|Iowa Navy Pre-Flight|0|Missouri|7
 12/05/1942|Idaho|13|UCLA|40
 01/01/1943|Alabama|37|Boston College|21
 01/01/1943|Georgia|9|UCLA|0

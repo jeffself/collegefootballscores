@@ -15,6 +15,7 @@
 09/21/1946|Mississippi|6|Kentucky|20
 09/21/1946|Miami(OH)|7|Purdue|13
 09/21/1946|Louisiana Tech|6|Southern Miss|7
+09/21/1946|Missouri|0|Texas|42
 09/22/1946|Western State(CO)|2|Brigham Young|13
 09/25/1946|Hawaiian Pine|6|Hawaii|14
 09/26/1946|Louisville|13|Evansville|7
@@ -48,11 +49,13 @@
 09/28/1946|Memphis NAS(TN)|0|Miami(OH)|42
 09/28/1946|Indiana|0|Michigan|21
 09/28/1946|Wayne State|0|Michigan State|42
+09/28/1946|Nebraska|6|Minnesota|33
 09/28/1946|Tennessee-Chattanooga|7|Mississippi State|41
 09/28/1946|Colorado State|0|Montana|28
 09/28/1946|Brigham Young|12|Montana State|13
 09/28/1946|Duke|6|North Carolina State|13
 09/28/1946|Iowa State|9|Northwestern|41
+09/28/1946|Missouri|13|Ohio State|13
 09/28/1946|Army|21|Oklahoma|7
 09/28/1946|Arkansas|21|Oklahoma State|21
 09/28/1946|LSU|7|Rice|6
@@ -69,6 +72,7 @@
 10/04/1946|Eastern Michigan|0|Hope(MI)|13
 10/04/1946|Wittenberg(OH)|0|Louisville|19
 10/04/1946|North Carolina|21|Miami(FL)|0
+10/04/1946|Missouri|19|St. Louis|14
 10/04/1946|Louisiana-Lafayette|13|SE Louisiana|27
 10/04/1946|Georgia|35|Temple|7
 10/05/1946|Akron|0|Baldwin-Wallace(OH)|32
@@ -127,7 +131,7 @@
 10/12/1946|Merchant Marine(NY)|7|Boston College|56
 10/12/1946|Miami(OH)|6|Bowling Green|0
 10/12/1946|Utah|35|Brigham Young|6
-10/12/1946|Saint Mary's(CA)|13|California|20
+10/12/1946|St. Mary's(CA)|13|California|20
 10/12/1946|Cincinnati|19|Dayton|0
 10/12/1946|Colorado State|0|Denver|33
 10/12/1946|East Carolina|6|Elon(NC)|13
@@ -148,6 +152,7 @@
 10/12/1946|Arizona State|2|Nevada|74
 10/12/1946|Maryland|0|North Carolina|33
 10/12/1946|Central Michigan|60|Northern Michigan|0
+10/12/1946|Minnesota|7|Northwestern|14
 10/12/1946|Fresno State|7|Oklahoma City|46
 10/12/1946|Florida|0|Vanderbilt|20
 10/12/1946|Clemson|7|Wake Forest|19
@@ -181,6 +186,7 @@
 10/19/1946|Evansville|7|Marshall|0
 10/19/1946|Xavier(OH)|6|Miami(OH)|28
 10/19/1946|Northwestern|14|Michigan|14
+10/19/1946|Wyoming|0|Minnesota|46
 10/19/1946|Louisiana Tech|7|Mississippi|6
 10/19/1946|San Francisco|20|Mississippi State|48
 10/19/1946|Iowa State|13|Missouri|33
@@ -229,11 +235,13 @@
 10/26/1946|Illinois|13|Michigan|9
 10/26/1946|Cincinnati|18|Michigan State|7
 10/26/1946|Arkansas|7|Mississippi|9
+10/26/1946|SMU|17|Missouri|0
 10/26/1946|Indiana|27|Nebraska|7
 10/26/1946|Florida|19|North Carolina|40
 10/26/1946|Louisiana Tech|14|Northwestern State|7
 10/26/1946|Massachusetts|14|Norwich(VT)|0
 10/26/1946|Miami(OH)|23|Ohio|14
+10/26/1946|Minnesota|9|Ohio State|39
 10/26/1946|Fresno State|0|San Diego State|7
 10/26/1946|Marshall|6|Scranton|14
 10/26/1946|Mississippi State|14|Tulane|7
@@ -267,12 +275,13 @@
 11/02/1946|Michigan State|14|Kentucky|39
 11/02/1946|Mississippi|21|LSU|34
 11/02/1946|Louisiana Tech|34|Louisiana-Lafayette|6
-11/02/1946|Saint Joseph's(IN)|7|Louisville|13
+11/02/1946|St. Joseph's(IN)|7|Louisville|13
 11/02/1946|Vermont|20|Massachusetts|28
 11/02/1946|Bradley|6|Miami(OH)|35
 11/02/1946|Michigan|21|Minnesota|0
 11/02/1946|Murray State|0|Mississippi State|69
 11/02/1946|Idaho|0|Montana|19
+11/02/1946|Missouri|21|Nebraska|20
 11/02/1946|Arizona State|14|New Mexico State|7
 11/02/1946|Boston College|72|New York(NY)|6
 11/02/1946|Arkansas|7|Texas A&M|0
@@ -312,6 +321,7 @@
 11/09/1946|South Carolina|21|Maryland|17
 11/09/1946|CCNY|0|Massachusetts|59
 11/09/1946|Michigan State|7|Michigan|55
+11/09/1946|Purdue|7|Minnesota|13
 11/09/1946|Tennessee|18|Mississippi|14
 11/09/1946|Colorado|0|Missouri|21
 11/09/1946|Marshall|0|Murray State|19
@@ -367,6 +377,7 @@
 11/16/1946|Northwestern State|0|Mississippi State|27
 11/16/1946|Iowa State|0|Nebraska|33
 11/16/1946|Connecticut|12|New Hampshire|12
+11/16/1946|Missouri|6|Oklahoma|27
 11/16/1946|Army|34|Pennsylvania|7
 11/16/1946|Duke|39|South Carolina|0
 11/16/1946|Baylor|0|Tulsa|17
@@ -398,6 +409,7 @@
 11/23/1946|Michigan|58|Ohio State|6
 11/23/1946|Indiana|34|Purdue|20
 11/23/1946|Georgia|48|Tennessee-Chattanooga|27
+11/23/1946|Minnesota|6|Wisconsin|0
 11/27/1946|Healani AC(HI)|6|Hawaii|58
 11/28/1946|Arizona State|19|Wichita State|34
 11/28/1946|Arkansas|13|Tulsa|14
@@ -431,5 +443,5 @@
 01/01/1947|Cincinnati|18|Virginia Tech|6
 01/01/1947|Georgia|20|North Carolina|10
 01/01/1947|Utah|16|Hawaii|19
-01/01/1947|Saint Mary's(CA)|19|Georgia Tech|41
+01/01/1947|St. Mary's(CA)|19|Georgia Tech|41
 01/01/1947|Illinois|45|UCLA|14

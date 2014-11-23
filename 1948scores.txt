@@ -51,6 +51,7 @@
 09/25/1948|Iowa State|15|Nebraska|19
 09/25/1948|Duke|0|North Carolina State|0
 09/25/1948|Bowling Green|13|Ohio|7
+09/25/1948|Missouri|7|Ohio State|21
 09/25/1948|Fresno State|6|Portland(OR)|6
 09/25/1948|Maryland|19|Richmond|0
 09/25/1948|Ball State|0|St. Josephs(IN)|33
@@ -60,11 +61,13 @@
 09/25/1948|Idaho|6|Utah|21
 09/25/1948|Georgia Tech|13|Vanderbilt|0
 09/25/1948|Miami(OH)|14|Virginia|14
+09/25/1948|Minnesota|20|Washington|0
 09/25/1948|Indiana|35|Wisconsin|7
 10/01/1948|Pacific Fleet(CA)|9|Brigham Young|7
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Murray State|26|Memphis|14
 10/01/1948|Rollins(FL)|0|Miami(FL)|25
+10/01/1948|Missouri|60|St. Louis|7
 10/02/1948|Vanderbilt|14|Alabama|14
 10/02/1948|Pepperdine|7|Arizona State|33
 10/02/1948|TCU|14|Arkansas|27
@@ -73,7 +76,7 @@
 10/02/1948|Louisiana Tech|13|Auburn|13
 10/02/1948|Akron|0|Baldwin-Wallace(OH)|13
 10/02/1948|Hobart(NY)|0|Buffalo|39
-10/02/1948|Saint Mary's(CA)|0|California|20
+10/02/1948|St. Mary's(CA)|0|California|20
 10/02/1948|Bowling Green|13|Central Michigan|12
 10/02/1948|Xavier(OH)|13|Cincinnati|7
 10/02/1948|North Carolina State|0|Clemson|6
@@ -91,11 +94,12 @@
 10/02/1948|Wooster(OH)|0|Kent State|39
 10/02/1948|Mississippi|20|Kentucky|7
 10/02/1948|Houston|7|Louisiana-Lafayette|21
-10/02/1948|Saint Joseph's(IN)|0|Louisville|20
+10/02/1948|St. Joseph's(IN)|0|Louisville|20
 10/02/1948|Eastern Kentucky|20|Marshall|7
 10/02/1948|Middle Tennessee State|13|Maryville(TN)|12
 10/02/1948|Oregon|0|Michigan|14
 10/02/1948|Hawaii|21|Michigan State|68
+10/02/1948|Minnesota|39|Nebraska|13
 10/02/1948|Baylor|7|Mississippi State|7
 10/02/1948|Massachusetts|19|Norwich(VT)|27
 10/02/1948|LSU|26|Rice|13
@@ -142,7 +146,9 @@
 10/09/1948|Tampa(FL)|16|Memphis|43
 10/09/1948|Vanderbilt|7|Mississippi|20
 10/09/1948|Clemson|21|Mississippi State|7
+10/09/1948|SMU|14|Missouri|20
 10/09/1948|Akron|12|Muskingum(OH)|21
+10/09/1948|Minnesota|16|Northwestern|19
 10/09/1948|Michigan State|7|Notre Dame|26
 10/09/1948|Iowa|14|Ohio State|7
 10/09/1948|Michigan|40|Purdue|0
@@ -185,6 +191,7 @@
 10/16/1948|Arkansas State|7|Middle Tennessee State|14
 10/16/1948|Illinois|0|Minnesota|6
 10/16/1948|Cincinnati|0|Mississippi State|27
+10/16/1948|Missouri|35|Navy|14
 10/16/1948|Kansas State|0|Oklahoma|42
 10/16/1948|Memphis|21|Pensacola NAS(FL)|27
 10/16/1948|Massachusetts|12|Rhode Island|19
@@ -320,9 +327,11 @@
 11/06/1948|Middle Tennessee State|0|Memphis|13
 11/06/1948|Navy|0|Michigan|35
 11/06/1948|Marquette|0|Michigan State|47
+11/06/1948|Purdue|7|Minnesota|34
 11/06/1948|Kansas State|0|Nebraska|32
 11/06/1948|Arizona|14|New Mexico|6
 11/06/1948|Arizona State|52|New Mexico State|7
+11/06/1948|Missouri|7|Oklahoma|41
 11/06/1948|Connecticut|28|Rhode Island|6
 11/06/1948|Fresno State|7|San Diego State|6
 11/06/1948|Maryland|19|South Carolina|7
@@ -362,7 +371,7 @@
 11/13/1948|Mississippi State|7|LSU|0
 11/13/1948|Pensacola NAS(FL)|6|Louisiana-Lafayette|27
 11/13/1948|North Carolina|49|Maryland|20
-11/13/1948|Wichita St|16|Miami(OH)|41
+11/13/1948|Wichita State|16|Miami(OH)|41
 11/13/1948|Indiana|0|Michigan|54
 11/13/1948|Tennessee|13|Mississippi|16
 11/13/1948|Colorado|13|Missouri|27
@@ -381,7 +390,7 @@
 11/20/1948|Heidelberg(OH)|34|Akron|0
 11/20/1948|Iowa State|7|Arizona|14
 11/20/1948|Tulsa|18|Arkansas|55
-11/20/1948|Saint Mary's(CA)|7|Boston College|19
+11/20/1948|St. Mary's(CA)|7|Boston College|19
 11/20/1948|Iowa|34|Boston University|14
 11/20/1948|John Carroll(OH)|13|Bowling Green|13
 11/20/1948|Wyoming|14|Brigham Young|15
@@ -402,6 +411,7 @@
 11/20/1948|Bradley|14|Louisville|31
 11/20/1948|Vanderbilt|34|Maryland|0
 11/20/1948|Washington State|0|Michigan State|40
+11/20/1948|Missouri|33|Nebraska|6
 11/20/1948|Duke|0|North Carolina|20
 11/20/1948|Illinois|7|Northwestern|20
 11/20/1948|Louisiana-Lafayette|28|Northwestern State|7
@@ -411,6 +421,7 @@
 11/20/1948|Baylor|6|SMU|13
 11/20/1948|Kentucky|0|Tennessee|0
 11/20/1948|Idaho|7|Washington|34
+11/20/1948|Minnesota|16|Wisconsin|0
 11/20/1948|Marshall|26|Xavier(OH)|20
 11/24/1948|Ford Island(HI)|7|Hawaii|14
 11/25/1948|Miami(OH)|43|Cincinnati|19

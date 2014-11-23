@@ -12,7 +12,7 @@
 09/22/1945|Southern Illinois|6|Arkansas State|0
 09/22/1945|Arkansas|12|Barksdale AFB(LA)|6
 09/22/1945|West Texas A&M|0|Baylor|32
-09/22/1945|Saint Mary's(CA)|20|California|13
+09/22/1945|St. Mary's(CA)|20|California|13
 09/22/1945|Denison(OH)|0|Cincinnati|30
 09/22/1945|Presbyterian(SC)|0|Clemson|76
 09/22/1945|Fort Warren(WY)|6|Colorado|0
@@ -25,6 +25,7 @@
 09/22/1945|Lake Charles AAF(LA)|21|Louisiana-Lafayette|7
 09/22/1945|Bowling Green|0|Miami(OH)|26
 09/22/1945|Indiana|13|Michigan|7
+09/22/1945|Missouri|0|Minnesota|34
 09/22/1945|Iowa State|6|Northwestern|18
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/28/1945|Kansas|20|Denver|19
@@ -51,9 +52,10 @@
 09/29/1945|Samford(AL)|6|Louisiana Tech|32
 09/29/1945|Alabama|21|Keesler Field(MS)|0
 09/29/1945|Cincinnati|7|Kentucky|13
+09/29/1945|Notre Dame JV(IN)|0|Miami(OH)|13
 09/29/1945|Michigan State|0|Michigan|40
 09/29/1945|Louisiana-Lafayette|0|Mississippi State|31
-09/29/1945|Notre Dame JV(IN)|0|Miami(OH)|13
+09/29/1945|Ohio State|47|Missouri|6
 09/29/1945|Illinois|0|Notre Dame|7
 09/29/1945|Indiana|7|Northwestern|7
 09/29/1945|Bowling Green|6|Ohio|0
@@ -81,6 +83,7 @@
 10/06/1945|Alabama|26|LSU|7
 10/06/1945|Richmond|0|Maryland|21
 10/06/1945|Kentucky|6|Michigan State|7
+10/06/1945|Minnesota|61|Nebraska|7
 10/06/1945|Clemson|13|North Carolina State|0
 10/06/1945|Fresno State|19|Northern Arizona|0
 10/06/1945|Michigan|20|Northwestern|7
@@ -88,6 +91,7 @@
 10/06/1945|Iowa|0|Ohio State|42
 10/06/1945|Idaho|7|Oregon|33
 10/06/1945|Arkansas State|6|Southern Illinois|6
+10/06/1945|Missouri|10|SMU|7
 10/06/1945|Florida|6|Tulane|6
 10/06/1945|Mississippi|14|Vanderbilt|7
 10/06/1945|Miami(OH)|14|Wright Field(OH)|0
@@ -95,7 +99,7 @@
 10/12/1945|New York(NY)|0|Boston College|28
 10/12/1945|Washburn(KS)|0|Kansas|34
 10/12/1945|Merchant Marine(NY)|6|Maryland|22
-10/12/1945|Saint Louis(MO)|0|Miami(FL)|21
+10/12/1945|St. Louis|0|Miami(FL)|21
 10/13/1945|Northern Arizona|6|Arizona|52
 10/13/1945|Michigan|7|Army|28
 10/13/1945|South Carolina|0|Alabama|55
@@ -115,6 +119,7 @@
 10/13/1945|Georgia|48|Kentucky|6
 10/13/1945|Texas A&M|12|LSU|31
 10/13/1945|Kansas State|13|Marquette|55
+10/13/1945|Fort Warren(WY)|0|Minnesota|14
 10/13/1945|Louisiana Tech|21|Mississippi|26
 10/13/1945|Detroit|6|Mississippi State|41
 10/13/1945|Michigan State|12|Pittsburgh|7
@@ -140,6 +145,7 @@
 10/20/1945|Brooklyn|13|Massachusetts|7
 10/20/1945|Ohio|0|Miami(OH)|34
 10/20/1945|Wayne State|7|Michigan State|27
+10/20/1945|Northwestern|7|Minnesota|30
 10/20/1945|Maxwell Field(AL)|6|Mississippi State|16
 10/20/1945|Arkansas State|0|Mississippi State JV|43
 10/20/1945|Kansas State|7|Missouri|41
@@ -178,7 +184,9 @@
 10/27/1945|Massachusetts|6|Maine|0
 10/27/1945|Boston College|20|Merchant Marine(NY)|33
 10/27/1945|Marquette|13|Michigan State|13
+10/27/1945|Ohio State|20|Minnesota|7
 10/27/1945|Arkansas|19|Mississippi|0
+10/27/1945|Nebraska|0|Missouri|19
 10/27/1945|Iowa|0|Notre Dame|56
 10/27/1945|Baylor|13|Texas A&M|19
 10/27/1945|Maryland|13|West Virginia|13
@@ -246,7 +254,7 @@
 11/10/1945|Boston College|0|Villanova|41
 11/10/1945|Clemson|35|Virginia Tech|0
 11/10/1945|Kentucky|19|West Virginia|6
-11/12/1945|Fresno State|6|Saint Mary's(CA)|32
+11/12/1945|Fresno State|6|St. Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
 11/16/1945|North Carolina State|7|Miami(FL)|21
@@ -267,6 +275,7 @@
 11/17/1945|Purdue|13|Michigan|27
 11/17/1945|Penn State|0|Michigan State|33
 11/17/1945|Northwestern State|0|Mississippi State|54
+11/17/1945|Oklahoma|6|Missouri|14
 11/17/1945|Illinois|2|Ohio State|27
 11/17/1945|Army|61|Pennsylvania|0
 11/17/1945|Indiana|19|Pittsburgh|0
@@ -291,6 +300,7 @@
 11/24/1945|Florida|0|Little Creek NTB(VA)|12
 11/24/1945|Virginia|13|Maryland|19
 11/24/1945|Ohio State|3|Michigan|7
+11/24/1945|Wisconsin|26|Minnesota|12
 11/24/1945|Mississippi|7|Mississippi State|6
 11/24/1945|Kansas|12|Missouri|33
 11/24/1945|Iowa|6|Nebraska|13
@@ -300,7 +310,7 @@
 11/29/1945|Mississippi|6|Tennessee-Chattanooga|31
 11/30/1945|Auburn|7|Miami(FL)|33
 12/01/1945|Mississippi State|13|Alabama|55
-12/01/1945|Saint Mary's Pre-Flight(CA)|0|California|6
+12/01/1945|St. Mary's Pre-Flight(CA)|0|California|6
 12/01/1945|Wake Forest|13|Clemson|6
 12/01/1945|Georgia|33|Georgia Tech|0
 12/01/1945|Army|32|Navy|13
@@ -311,3 +321,4 @@
 01/01/1946|Holy Cross|6|Miami(FL)|13
 01/01/1946|Alabama|34|Southern Cal|14
 01/01/1946|Georgia|20|Tulsa|6
+01/01/1946|Missouri|27|Texas|40

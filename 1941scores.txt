@@ -1,6 +1,6 @@
 09/19/1941|Arizona State|6|Gonzaga|0
 09/19/1941|Louisiana-Lafayette|19|SE Louisiana|7
-09/20/1941|Saint Anselm(NH)|0|Boston College|78
+09/20/1941|St. Anselm(NH)|0|Boston College|78
 09/20/1941|Transylvania(KY)|0|Cincinnati|46
 09/20/1941|Presbyterian|12|Clemson|41
 09/20/1941|Randolph-Macon(VA)|0|Florida|26
@@ -25,7 +25,7 @@
 09/27/1941|Hardin-Simmons(TX)|0|Baylor|20
 09/27/1941|Wooster(OH)|14|Bowling Green|14
 09/27/1941|Susquehanna(PA)|0|Buffalo|19
-09/27/1941|Saint Mary's(CA)|0|California|31
+09/27/1941|St. Mary's(CA)|0|California|31
 09/27/1941|Louisville|7|Cincinnati|28
 09/27/1941|Texas|34|Colorado|6
 09/27/1941|Colorado School of Mines|6|Colorado State|21
@@ -48,6 +48,7 @@
 09/27/1941|Michigan State|7|Michigan|19
 09/27/1941|Florida|0|Mississippi State|6
 09/27/1941|Arizona|7|Notre Dame|38
+09/27/1941|Missouri|7|Ohio State|12
 09/27/1941|Massachusetts|7|Springfield(MA)|7
 09/27/1941|Boston College|7|Tulane|21
 09/27/1941|Louisiana Tech|0|UTEP|0
@@ -215,6 +216,7 @@
 10/25/1941|Ohio Wesleyan|26|Miami(OH)|6
 10/25/1941|Minnesota|7|Michigan|0
 10/25/1941|Wayne State|6|Michigan State|39
+10/25/1941|Nebraska|0|Missouri|6
 10/25/1941|Illinois|14|Notre Dame|49
 10/25/1941|Maryland|6|Pennsylvania|55
 10/25/1941|Duke|27|Pittsburgh|7
@@ -306,6 +308,7 @@
 11/08/1941|Western Reserve(OH)|28|Miami(OH)|13
 11/08/1941|Nebraska|0|Minnesota|9
 11/08/1941|Memphis|6|Murray State|31
+11/08/1941|Missouri|26|New York(NY)|0
 11/08/1941|Indiana|14|Northwestern|20
 11/08/1941|Iowa State|0|Oklahoma|55
 11/08/1941|Michigan State|0|Purdue|0
@@ -351,6 +354,7 @@
 11/15/1941|Troy|0|Memphis|32
 11/15/1941|Florida|14|Miami(FL)|0
 11/15/1941|Temple|0|Michigan State|46
+11/15/1941|Oklahoma|0|Missouri|28
 11/15/1941|Middle Tennessee State|6|Murray State|34
 11/15/1941|Illinois|7|Ohio State|12
 11/15/1941|Arizona|14|Oklahoma State|41
@@ -416,3 +420,4 @@
 01/01/1942|Alabama|29|Texas A&M|21
 01/01/1942|Duke|16|Oregon State|20
 01/01/1942|Georgia|40|TCU|26
+01/01/1942|Missouri|0|Fordham|2
