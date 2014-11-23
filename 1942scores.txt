@@ -45,6 +45,7 @@
 09/26/1942|Union(TN)|2|Mississippi State|35
 09/26/1942|St. Louis|7|Missouri|38
 09/26/1942|Brigham Young|12|Montana|6
+09/26/1942|William & Mary|3|Navy|0
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Buffalo|19|Susquehanna(PA)|0
 09/26/1942|Kansas State|0|Texas|64
@@ -84,6 +85,7 @@
 10/03/1942|Troy|0|Middle Tennessee State|20
 10/03/1942|Iowa Navy Pre-Flight|7|Minnesota|6
 10/03/1942|Colorado|13|Missouri|26
+10/03/1942|Virginia|0|Navy|35
 10/03/1942|Iowa State|0|Nebraska|26
 10/03/1942|Central Michigan|21|Northern Michigan|0
 10/03/1942|Georgia Tech|13|Notre Dame|6
@@ -132,6 +134,7 @@
 10/10/1942|Kent State|7|Miami(OH)|53
 10/10/1942|Iowa Navy Pre-Flight|26|Michigan|14
 10/10/1942|Wayne State|6|Michigan State|46
+10/10/1942|Navy|0|Princeton|10
 10/10/1942|Indiana|12|Nebraska|0
 10/10/1942|Kansas|6|TCU|41
 10/10/1942|Brigham Young|12|Utah|7
@@ -173,6 +176,7 @@
 10/17/1942|Dayton|20|Miami(OH)|0
 10/17/1942|Northwestern|16|Michigan|34
 10/17/1942|Marquette|28|Michigan State|7
+10/17/1942|Yale|6|Navy|13
 10/17/1942|Minnesota|15|Nebraska|2
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Indiana|19|Pittsburgh|7
@@ -255,6 +259,7 @@
 10/31/1942|Memphis|0|Mississippi|48
 10/31/1942|Great Lakes NTS(IL)|17|Missouri|0
 10/31/1942|Idaho|21|Montana|0
+10/31/1942|Navy|0|Notre Dame|9
 10/31/1942|Fresno State|13|Pacific|0
 10/31/1942|Army|0|Pennsylvania|19
 10/31/1942|Baylor|10|TCU|7
@@ -303,6 +308,7 @@
 11/07/1942|Army|0|Notre Dame|13
 11/07/1942|Miami(OH)|28|Ohio Wesleyan|25
 11/07/1942|Kansas State|0|Oklahoma|76
+11/07/1942|Navy|7|Pennsylvania|0
 11/07/1942|California|7|Southern Cal|21
 11/07/1942|Cincinnati|12|Tennessee|34
 11/07/1942|Mississippi State|7|Tulane|0
@@ -338,6 +344,7 @@
 11/14/1942|Iowa|7|Minnesota|27
 11/14/1942|Tennessee|14|Mississippi|0
 11/14/1942|Duquesne(PA)|6|Mississippi State|28
+11/14/1942|Columbia|9|Navy|13
 11/14/1942|Duke|13|North Carolina|13
 11/14/1942|Arizona State|14|Northern Arizona|2
 11/14/1942|Colorado State|14|Northern Colorado|6

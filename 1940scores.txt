@@ -50,6 +50,7 @@
 09/28/1940|Washington|14|Minnesota|19
 09/28/1940|St. Louis|26|Missouri|40
 09/28/1940|Arkansas State|12|Missouri-Rolla|44
+09/28/1940|William & Mary|7|Navy|19
 09/28/1940|Idaho|0|Oregon State|41
 09/28/1940|Buffalo|6|Susquehanna(PA)|20
 09/28/1940|Colorado|7|Texas|39
@@ -138,6 +139,7 @@
 10/12/1940|Massachusetts|0|Norwich(VT)|24
 10/12/1940|Georgia Tech|20|Notre Dame|26
 10/12/1940|East Carolina|18|Old Dominion|0
+10/12/1940|Navy|12|Princeton|6
 10/12/1940|LSU|0|Rice|23
 10/12/1940|Louisville|6|St. Joseph's(IN)|24
 10/12/1940|Arkansas State|0|Southern Illinois|7
@@ -185,6 +187,7 @@
 10/19/1940|Duquesne(PA)|6|Mississippi|14
 10/19/1940|Samford(AL)|7|Mississippi State|40
 10/19/1940|Iowa State|14|Missouri|30
+10/19/1940|Drake|0|Navy|19
 10/19/1940|Louisiana Tech|0|Northwestern State|13
 10/19/1940|Minnesota|13|Ohio State|7
 10/19/1940|Kansas State|0|Oklahoma|14
@@ -237,6 +240,7 @@
 10/26/1940|California|6|Washington|7
 10/26/1940|Kent State|31|Washington & Jefferson(PA)|7
 10/26/1940|Middle Tennessee State|0|Western Kentucky|13
+10/26/1940|Navy|21|Yale|0
 10/26/1940|Miami(OH)|6|Western Reserve(OH)|47
 11/01/1940|Polar Bears(HI)|20|Hawaii|21
 11/01/1940|Louisiana Tech|6|Louisiana-Lafayette|7
@@ -271,6 +275,7 @@
 11/02/1940|Arizona State|12|Northern Arizona|0
 11/02/1940|Minnesota|13|Northwestern|12
 11/02/1940|Army|0|Notre Dame|7
+11/02/1940|Navy|0|Pennsylvania|20
 11/02/1940|Mississippi State|13|Rhodes(TN)|0
 11/02/1940|Connecticut|7|Rutgers|45
 11/02/1940|Baylor|12|TCU|14
@@ -316,6 +321,7 @@
 11/09/1940|Michigan|6|Minnesota|7
 11/09/1940|Idaho|18|Montana|28
 11/09/1940|Memphis|6|Murray State|35
+11/09/1940|Notre Dame|13|Navy|7
 11/09/1940|Iowa|6|Nebraska|14
 11/09/1940|Illinois|14|Northwestern|32
 11/09/1940|Kansas State|13|South Carolina|20
@@ -339,6 +345,7 @@
 11/16/1940|Wayne State|6|Buffalo|0
 11/16/1940|Oregon|6|California|14
 11/16/1940|Brigham Young|2|Colorado|25
+11/16/1940|Navy|0|Columbia|0
 11/16/1940|Central Michigan|7|DeSales(OH)|0
 11/16/1940|Bowling Green|0|Eastern Kentucky|48
 11/16/1940|High Point(NC)|6|East Carolina|0

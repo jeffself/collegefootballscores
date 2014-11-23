@@ -51,6 +51,7 @@
 09/30/1944|Jackson AAB(MS)|0|Mississippi State|41
 09/30/1944|Nebraska|0|Minnesota|39
 09/30/1944|Missouri|0|Ohio State|54
+09/30/1944|North Carolina Navy Pre-Flight|21|Navy|14
 09/30/1944|Duke|7|Pennsylvania|18
 09/30/1944|Kentucky|13|Tennessee|26
 10/06/1944|Presbyterian(SC)|0|Georgia|67
@@ -73,6 +74,7 @@
 10/07/1944|Michigan|28|Minnesota|13
 10/07/1944|Tennessee|20|Mississippi|7
 10/07/1944|Millsaps(MS)|0|Mississippi State|56
+10/07/1944|Penn State|14|Navy|55
 10/07/1944|Clemson|13|North Carolina State|7
 10/07/1944|Iowa|0|Ohio State|34
 10/07/1944|LSU|13|Rice|14
@@ -152,6 +154,7 @@
 10/28/1944|Missouri|20|Nebraska|24
 10/28/1944|Louisiana Tech|21|Northwestern State|7
 10/28/1944|Minnesota|14|Ohio State|34
+10/28/1944|Navy|26|Pennsylvania|0
 10/28/1944|Clemson|7|Tennessee|26
 11/03/1944|Florida|13|Miami(FL)|0
 11/03/1944|Fresno State|0|Modesto JC(CA)|28
@@ -176,6 +179,7 @@
 11/04/1944|Jackson AAB(MS)|10|Mississippi|0
 11/04/1944|Kentucky|0|Mississippi State|26
 11/04/1944|Michigan State|7|Missouri|13
+11/04/1944|Notre Dame|13|Navy|32
 11/04/1944|Indiana|7|Ohio State|21
 11/04/1944|Michigan|41|Pennsylvania|19
 11/04/1944|Arkansas|7|Texas A&M|6
@@ -199,6 +203,7 @@
 11/11/1944|Illinois|0|Michigan|14
 11/11/1944|Maryland|0|Michigan State|33
 11/11/1944|Indiana|14|Minnesota|19
+11/11/1944|Cornell|0|Navy|48
 11/11/1944|Iowa State|19|Nebraska|6
 11/11/1944|Army|59|Notre Dame|0
 11/11/1944|Miami(OH)|32|Ohio Wesleyan|20
@@ -224,6 +229,7 @@
 11/18/1944|Wisconsin|0|Michigan|14
 11/18/1944|Iowa Navy Pre-Flight|51|Missouri|7
 11/18/1944|Illinois|12|Ohio State|26
+11/18/1944|Purdue|0|Navy|32
 11/18/1944|Maryland|19|Penn State|34
 11/18/1944|Army|62|Pennsylvania|7
 11/18/1944|Arkansas|12|SMU|20

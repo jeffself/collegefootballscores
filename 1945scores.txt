@@ -56,6 +56,7 @@
 09/29/1945|Michigan State|0|Michigan|40
 09/29/1945|Louisiana-Lafayette|0|Mississippi State|31
 09/29/1945|Ohio State|47|Missouri|6
+09/29/1945|Villanova|0|Navy|49
 09/29/1945|Illinois|0|Notre Dame|7
 09/29/1945|Indiana|7|Northwestern|7
 09/29/1945|Bowling Green|6|Ohio|0
@@ -122,6 +123,7 @@
 10/13/1945|Fort Warren(WY)|0|Minnesota|14
 10/13/1945|Louisiana Tech|21|Mississippi|26
 10/13/1945|Detroit|6|Mississippi State|41
+10/13/1945|Penn State|0|Navy|28
 10/13/1945|Michigan State|12|Pittsburgh|7
 10/13/1945|Iowa|0|Purdue|40
 10/13/1945|California|0|UCLA|13
@@ -188,6 +190,7 @@
 10/27/1945|Arkansas|19|Mississippi|0
 10/27/1945|Nebraska|0|Missouri|19
 10/27/1945|Iowa|0|Notre Dame|56
+10/27/1945|Navy|14|Pennsylvania|7
 10/27/1945|Baylor|13|Texas A&M|19
 10/27/1945|Maryland|13|West Virginia|13
 10/27/1945|Kansas|13|Wichita State|0
@@ -219,6 +222,7 @@
 11/03/1945|Kansas|13|Nebraska|27
 11/03/1945|Fresno State|4|Nevada|7
 11/03/1945|Colorado|6|New Mexico|12
+11/03/1945|Navy|6|Notre Dame|6
 11/03/1945|Idaho|0|Oregon State|34
 11/03/1945|Georgia|34|Tennessee-Chattanooga|7
 11/03/1945|Mississippi State|13|Tulane|14
@@ -277,6 +281,7 @@
 11/17/1945|Northwestern State|0|Mississippi State|54
 11/17/1945|Oklahoma|6|Missouri|14
 11/17/1945|Illinois|2|Ohio State|27
+11/17/1945|Wisconsin|7|Navy|36
 11/17/1945|Army|61|Pennsylvania|0
 11/17/1945|Indiana|19|Pittsburgh|0
 11/17/1945|Arkansas|0|SMU|21

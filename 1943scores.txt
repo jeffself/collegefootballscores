@@ -20,6 +20,7 @@
 09/25/1943|North Carolina|7|Georgia Tech|20
 09/25/1943|Bethany(WV)|12|Miami(OH)|34
 09/25/1943|Western Michigan|6|Michigan|57
+09/25/1943|North Carolina Navy Pre-Flight|0|Navy|31
 09/25/1943|Indiana|6|Northwestern|14
 09/25/1943|Iowa|7|Great Lakes NTS(IL)|21
 09/25/1943|Curtis Bay Coast Guard(MD)|13|Maryland|7
@@ -45,6 +46,7 @@
 10/02/1943|Rice|7|LSU|20
 10/02/1943|Wake Forest|7|Maryland|13
 10/02/1943|Nebraska|0|Minnesota|54
+10/02/1943|Cornell|7|Navy|46
 10/02/1943|Missouri|6|Ohio State|27
 10/08/1943|Wake Forest|0|Georgia|7
 10/09/1943|Central Michigan|7|Alma(MI)|0
@@ -81,6 +83,7 @@
 10/16/1943|Camp Gordon(GA)|6|Miami(FL)|52
 10/16/1943|Camp Grant(IL)|7|Minnesota|13
 10/16/1943|Iowa Navy Pre-Flight|21|Missouri|6
+10/16/1943|Penn State|6|Navy|14
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|California|13|UCLA|0
 10/16/1943|Eastern Michigan|14|Wayne State(MI)|0
@@ -118,6 +121,7 @@
 10/30/1943|TCU|0|LSU|14
 10/30/1943|Arkansas-Monticello|35|Miami(OH)|0
 10/30/1943|Nebraska|20|Missouri|54
+10/30/1943|Navy|6|Notre Dame|33
 10/30/1943|Minnesota|6|Northwestern|42
 10/30/1943|Indiana|20|Ohio State|14
 10/30/1943|Iowa State|7|Oklahoma|21
@@ -139,6 +143,7 @@
 11/06/1943|Purdue|14|Minnesota|7
 11/06/1943|Duke|75|North Carolina State|0
 11/06/1943|Kansas|13|Oklahoma|26
+11/06/1943|Navy|24|Pennsylvania|7
 11/06/1943|Arkansas|7|Rice|20
 11/06/1943|Colorado|22|Utah|19
 11/06/1943|Maryland|0|Virginia|39
@@ -147,6 +152,7 @@
 11/13/1943|Sampson NTS(NY)|7|Army|16
 11/13/1943|UCLA|6|California|13
 11/13/1943|Georgia Navy Pre-Flight|32|Clemson|6
+11/13/1943|Navy|61|Columbia|0
 11/13/1943|Iowa State|20|Drake|0
 11/13/1943|Virginia|0|Duke|49
 11/13/1943|VMI|7|Georgia|46
