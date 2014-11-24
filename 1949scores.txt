@@ -65,6 +65,7 @@
 09/24/1949|Louisville|47|Western Kentucky|7
 09/24/1949|Miami(OH)|23|Wichita State|6
 09/24/1949|Connecticut|0|Yale|26
+09/25/1949|Nevada|53|Portland|27
 09/30/1949|Wake Forest|7|Boston College|13
 09/30/1949|Mount Union|11|Kent State|13
 09/30/1949|Murray State|14|Louisville|34
@@ -116,6 +117,7 @@
 10/01/1949|Alabama|7|Vanderbilt|14
 10/01/1949|Miami(OH)|18|Virginia|21
 10/01/1949|Memphis|34|Washington(MO)|0
+10/02/1949|Nevada|14|St. Mary's(CA)|20
 10/07/1949|Duquesne(PA)|8|Alabama|48
 10/07/1949|Hawaii|27|Denver|14
 10/07/1949|Fresno State|13|Loyola Marymount(CA)|52
@@ -153,6 +155,7 @@
 10/08/1949|Oklahoma State|7|Missouri|21
 10/08/1949|Duke|14|Navy|28
 10/08/1949|Eastern Michigan|14|Northern Illinois|39
+10/08/1949|Nevada|6|Pacific|47
 10/08/1949|Boston College|14|Penn State|32
 10/08/1949|Connecticut|7|Springfield(MA)|26
 10/08/1949|Bowling Green|19|Toledo|20
@@ -196,6 +199,7 @@
 10/15/1949|Rhode Island|19|Massachusetts|32
 10/15/1949|Pensacola NAS(FL)|0|Memphis|49
 10/15/1949|William & Mary|13|Michigan State|42
+10/15/1949|Wichita State|7|Nevada|20
 10/15/1949|Michigan|20|Northwestern|21
 10/15/1949|Minnesota|27|Ohio State|0
 10/15/1949|Kansas|26|Oklahoma|48
@@ -301,6 +305,7 @@
 10/29/1949|Miami(OH)|34|Western Michigan|20
 10/29/1949|Akron|13|Wooster(OH)|13
 10/29/1949|Brigham Young|0|Wyoming|45
+10/30/1949|Nevada|13|San Francisco|41
 11/04/1949|Eastern Michigan|7|Central Michigan|18
 11/04/1949|Moiliili Cards(HI)|0|Hawaii|34
 11/04/1949|Detroit|6|Miami(FL)|27
@@ -349,9 +354,11 @@
 11/05/1949|Colorado State|21|Utah|12
 11/05/1949|Florida State|6|West Alabama|13
 11/05/1949|Kentucky|21|Xavier(OH)|7
+11/06/1949|Nevada|14|Dayton|16
 11/11/1949|Colorado State|16|Brigham Young|14
 11/11/1949|Pepperdine|7|Fresno State|20
 11/11/1949|Wahiawa Leilehua HS(HI)|6|Hawaii|76
+11/11/1949|Nevada|12|Loyola Marymount(CA)|13
 11/11/1949|Milligan(TN)|0|Marshall|34
 11/11/1949|South Carolina|7|Miami(FL)|13
 11/12/1949|Georgia Tech|7|Alabama|20
@@ -441,6 +448,7 @@
 11/24/1949|West Virginia|7|Maryland|47
 11/24/1949|Tennessee Tech|0|Middle Tennessee State|14
 11/24/1949|Kansas State|27|Missouri|34
+11/24/1949|North Texas|7|Nevada|28
 11/24/1949|Houston|35|St. Louis|0
 11/24/1949|Louisville|21|Southern Miss|26
 11/25/1949|Kentucky|21|Miami(FL)|6

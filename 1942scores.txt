@@ -46,6 +46,7 @@
 09/26/1942|St. Louis|7|Missouri|38
 09/26/1942|Brigham Young|12|Montana|6
 09/26/1942|William & Mary|3|Navy|0
+09/26/1942|Cal Poly-San Luis Obispo|0|Nevada|18
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Buffalo|19|Susquehanna(PA)|0
 09/26/1942|Kansas State|0|Texas|64
@@ -99,6 +100,7 @@
 10/03/1942|Duke|7|Wake Forest|20
 10/03/1942|Arizona State|0|West Texas A&M|28
 10/03/1942|Cincinnati|18|Western Reserve(OH)|7
+10/04/1942|Nevada|7|San Francisco|27
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
 10/09/1942|Utah State|14|Colorado|31
 10/09/1942|Kansas State|0|Duquesne(PA)|33
@@ -141,6 +143,7 @@
 10/10/1942|Massachusetts|6|Vermont|13
 10/10/1942|Buffalo|7|Washington & Jefferson(PA)|13
 10/10/1942|Missouri|9|Wisconsin|17
+10/11/1942|Nevada|6|St. Mary's(CA)|20
 10/11/1942|Fresno State|66|San Diego State|0
 10/16/1942|Fort Douglas(UT)|24|Brigham Young|13
 10/16/1942|Eastern Michigan|0|Central Michigan|14
@@ -178,6 +181,7 @@
 10/17/1942|Marquette|28|Michigan State|7
 10/17/1942|Yale|6|Navy|13
 10/17/1942|Minnesota|15|Nebraska|2
+10/17/1942|Stockton Motor Base(CA)|0|Nevada|33
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Indiana|19|Pittsburgh|7
 10/17/1942|Miami(FL)|31|St. Louis|6
@@ -221,6 +225,7 @@
 10/24/1942|Arkansas|7|Mississippi|6
 10/24/1942|Iowa State|6|Missouri|45
 10/24/1942|Georgia Tech|21|Navy|0
+10/24/1942|Santa Ana AAB(CA)|0|Nevada|3
 10/24/1942|Louisiana Tech|6|Northwestern State|10
 10/24/1942|Nebraska|7|Oklahoma|0
 10/24/1942|Idaho|0|Oregon|28
@@ -260,6 +265,7 @@
 10/31/1942|Memphis|0|Mississippi|48
 10/31/1942|Great Lakes NTS(IL)|17|Missouri|0
 10/31/1942|Idaho|21|Montana|0
+10/31/1942|New Mexico|0|Nevada|0
 10/31/1942|Navy|0|Notre Dame|9
 10/31/1942|Fresno State|13|Pacific|0
 10/31/1942|Army|0|Pennsylvania|19
@@ -318,6 +324,7 @@
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|Marshall|7|Xavier(OH)|13
 11/11/1942|San Francisco|33|Fresno State|13
+11/11/1942|California-Davis|0|Nevada|14
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/13/1942|Georgia|40|Tennessee-Chattanooga|0
 11/13/1942|Charleston(WV)|6|Marshall|0

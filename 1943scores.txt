@@ -7,6 +7,7 @@
 09/18/1943|Camp Lejeune(NC)|0|Duke|40
 09/18/1943|Iowa Navy Pre-Flight|32|Illinois|18
 09/18/1943|Miami(OH)|7|Indiana|7
+09/19/1943|Tonopah AAB(NV)|0|Nevada|34
 09/24/1943|Kansas|0|Washburn(KS)|0
 09/25/1943|Missouri-Rolla|0|Arkansas|59
 09/25/1943|Villanova|0|Army|27
@@ -21,6 +22,7 @@
 09/25/1943|Bethany(WV)|12|Miami(OH)|34
 09/25/1943|Western Michigan|6|Michigan|57
 09/25/1943|North Carolina Navy Pre-Flight|0|Navy|31
+09/25/1943|Reno AAB(NV)|0|Nevada|28
 09/25/1943|Indiana|6|Northwestern|14
 09/25/1943|Iowa|7|Great Lakes NTS(IL)|21
 09/25/1943|Curtis Bay Coast Guard(MD)|13|Maryland|7
@@ -48,6 +50,7 @@
 10/02/1943|Nebraska|0|Minnesota|54
 10/02/1943|Cornell|7|Navy|46
 10/02/1943|Missouri|6|Ohio State|27
+10/03/1943|Nevada|0|San Francisco|6
 10/08/1943|Wake Forest|0|Georgia|7
 10/09/1943|Central Michigan|7|Alma(MI)|0
 10/09/1943|Arkansas-Monticello|20|Arkansas|12
@@ -67,6 +70,7 @@
 10/09/1943|Indiana|54|Nebraska|13
 10/09/1943|Clemson|7|VMI|12
 10/09/1943|Illinois|25|Wisconsin|7
+10/10/1943|Tonopah AAB(NV)|0|Nevada|25
 10/16/1943|Bunker Hill NAS(IN)|13|Bowling Green|12
 10/16/1943|Army|52|Columbia|0
 10/16/1943|Salt Lake AFB(UT)|0|Colorado|14
@@ -86,6 +90,7 @@
 10/16/1943|Penn State|6|Navy|14
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|California|13|UCLA|0
+10/16/1943|Nevada|27|Utah|19
 10/16/1943|Eastern Michigan|14|Wayne State(MI)|0
 10/16/1943|Maryland|2|West Virginia|6
 10/16/1943|Miami(OH)|0|Western Michigan|6
@@ -110,6 +115,7 @@
 10/23/1943|Louisiana-Lafayette|27|Southwestern State(TX)|6
 10/23/1943|Army|39|Yale|7
 10/24/1943|Camp Higham(MA)|6|Boston College|42
+10/24/1943|Salt Lake AFB(UT)|0|Nevada|0
 10/29/1943|Samford(AL)|0|Georgia|39
 10/30/1943|Texas A&M|13|Arkansas|0
 10/30/1943|Alma(MI)|0|Bowling Green|24

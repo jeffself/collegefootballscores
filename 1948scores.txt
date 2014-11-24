@@ -23,6 +23,7 @@
 09/24/1948|Eastern Michigan|0|Hope(MI)|14
 09/24/1948|Kansas|40|Denver|0
 09/24/1948|Kent State|18|Mount Union|0
+09/24/1948|Nevada|39|San José State|0
 09/25/1948|San Diego State|6|Arizona|14
 09/25/1948|Western State(CO)|0|Arizona State|23
 09/25/1948|Texas A&M-Commerce|7|Arkansas|46
@@ -110,6 +111,7 @@
 10/02/1948|Miami(OH)|49|Western Reserve(OH)|0
 10/02/1948|Illinois|16|Wisconsin|20
 10/02/1948|Connecticut|0|Yale|7
+10/03/1948|Nevada|26|San Francisco|7
 10/07/1948|Middle Tennessee State|13|Union(TN)|9
 10/08/1948|Duquesne(PA)|6|Alabama|48
 10/08/1948|Waynesburg(PA)|7|Kent State|34
@@ -149,6 +151,7 @@
 10/09/1948|Clemson|21|Mississippi State|7
 10/09/1948|SMU|14|Missouri|20
 10/09/1948|Akron|12|Muskingum(OH)|21
+10/09/1948|North Texas|7|Nevada|48
 10/09/1948|Minnesota|16|Northwestern|19
 10/09/1948|Michigan State|7|Notre Dame|26
 10/09/1948|Iowa|14|Ohio State|7
@@ -203,6 +206,7 @@
 10/16/1948|Mississippi|7|Tulane|20
 10/16/1948|Kentucky|7|Vanderbilt|26
 10/16/1948|Colorado State|21|Wyoming|20
+10/17/1948|Nevada|48|St. Mary's(CA)|20
 10/21/1948|Wahiawa Leilehua HS(HI)|12|Hawaii|52
 10/21/1948|Milligan(TN)|7|Middle Tennessee State|0
 10/21/1948|Clemson|13|South Carolina|7
@@ -245,6 +249,7 @@
 10/23/1948|Indiana|14|Pittsburgh|21
 10/23/1948|Houston|7|Trinity(TX)|15
 10/23/1948|Auburn|6|Tulane|21
+10/23/1948|Nevada|65|Tulsa|14
 10/23/1948|Brigham Young|7|Utah State|20
 10/23/1948|Duke|7|Virginia Tech|0
 10/23/1948|California|21|Washington|0
@@ -286,6 +291,7 @@
 10/30/1948|Vermont|0|Massachusetts|33
 10/30/1948|Notre Dame|41|Navy|7
 10/30/1948|UCLA|27|Nebraska|15
+10/30/1948|Oklahoma City|13|Nevada|79
 10/30/1948|Michigan State|46|Oregon State|21
 10/30/1948|California|13|Southern Cal|7
 10/30/1948|Arkansas State|27|Southern Illinois|21
@@ -343,6 +349,7 @@
 11/06/1948|Army|43|Stanford|0
 11/06/1948|Mississippi|34|Tennessee-Chattanooga|7
 11/06/1948|LSU|7|Vanderbilt|48
+11/07/1948|Nevada|0|Santa Clara|14
 11/11/1948|Nevada|53|Fresno State|7
 11/11/1948|Wahiawa Leilehua HS(HI)|6|Hawaii|39
 11/11/1948|Memphis NAS(TN)|14|Memphis|0
@@ -439,6 +446,7 @@
 11/25/1948|Kansas|7|Missouri|21
 11/25/1948|Kansas State|7|St. Louis|21
 11/25/1948|Middle Tennessee State|7|Tennessee Tech|33
+11/25/1948|Nevada|42|Wichita State|12
 11/26/1948|Brigham Young|27|Arizona State|25
 11/26/1948|Kentucky|25|Miami(FL)|5
 11/27/1948|Florida|28|Alabama|34
@@ -470,3 +478,4 @@
 01/01/1949|Colorado State|20|Occidental(CA)|21
 01/01/1949|Texas|41|Georgia|28
 01/01/1949|Oregon State|47|Hawaii|27
+01/01/1949|Villanova|27|Nevada|7

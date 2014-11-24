@@ -26,6 +26,7 @@
 09/22/1945|Bowling Green|0|Miami(OH)|26
 09/22/1945|Indiana|13|Michigan|7
 09/22/1945|Missouri|0|Minnesota|34
+09/22/1945|Pocatello Marine Base(ID)|0|Nevada|65
 09/22/1945|Iowa State|6|Northwestern|18
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/28/1945|Kansas|20|Denver|19
@@ -59,9 +60,10 @@
 09/29/1945|Villanova|0|Navy|49
 09/29/1945|Oklahoma|20|Nebraska|0
 09/29/1945|Illinois|0|Notre Dame|7
+09/29/1945|Georgia Tech|20|North Carolina|14
 09/29/1945|Indiana|7|Northwestern|7
 09/29/1945|Bowling Green|6|Ohio|0
-09/29/1945|Georgia Tech|20|North Carolina|14
+09/29/1945|Nevada|33|Utah|14
 09/29/1945|Connecticut|46|Worcester Tech(MA)|0
 10/05/1945|Georgia|27|Miami(FL)|21
 10/05/1945|Louisiana Tech|14|Louisiana-Lafayette|12
@@ -97,6 +99,7 @@
 10/06/1945|Florida|6|Tulane|6
 10/06/1945|Mississippi|14|Vanderbilt|7
 10/06/1945|Miami(OH)|14|Wright Field(OH)|0
+10/07/1945|St. Mary's(CA)|39|Nevada|0
 10/11/1945|Arkansas State|18|Central Arkansas|0
 10/12/1945|New York(NY)|0|Boston College|28
 10/12/1945|Washburn(KS)|0|Kansas|34
@@ -132,6 +135,7 @@
 10/13/1945|Duke|26|Wake Forest|19
 10/13/1945|Central Michigan|26|Wayne State|0
 10/13/1945|Miami(OH)|21|Western Michigan|13
+10/14/1945|Santa Barbara MAB(CA)|12|Nevada|19
 10/19/1945|Florida|6|Miami(FL)|7
 10/20/1945|Tennessee|7|Alabama|25
 10/20/1945|Texas|34|Arkansas|7
@@ -159,6 +163,7 @@
 10/20/1945|Fresno State|0|Santa Barbara MAB(CA)|6
 10/20/1945|Baylor|7|Texas Tech|7
 10/20/1945|Auburn|20|Tulane|14
+10/20/1945|Nevada|0|Tulsa|40
 10/20/1945|Colorado State|0|Utah State|13
 10/20/1945|Kentucky|6|Vanderbilt|19
 10/20/1945|Maryland|13|Virginia Tech|21
@@ -259,6 +264,7 @@
 11/10/1945|Boston College|0|Villanova|41
 11/10/1945|Clemson|35|Virginia Tech|0
 11/10/1945|Kentucky|19|West Virginia|6
+11/11/1945|San Diego State|6|Nevada|44
 11/12/1945|Fresno State|6|St. Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
 11/16/1945|Wayne State(MI)|0|Eastern Michigan|0
@@ -290,6 +296,7 @@
 11/17/1945|Clemson|47|Tulane|20
 11/17/1945|Alabama|71|Vanderbilt|0
 11/17/1945|Idaho|0|Washington|12
+11/18/1945|Great Bend AAB(KS)|13|Nevada|26
 11/22/1945|Miami(OH)|28|Cincinnati|14
 11/22/1945|Colorado|8|Denver|14
 11/22/1945|Northwestern State|13|Louisiana-Lafayette|0
@@ -314,6 +321,7 @@
 11/24/1945|Illinois|7|Northwestern|13
 11/24/1945|Baylor|0|SMU|34
 11/25/1945|Boston College|0|Holy Cross|46
+11/25/1945|Las Vegas AAB(NV)|0|Nevada|40
 11/29/1945|Mississippi|6|Tennessee-Chattanooga|31
 11/30/1945|Auburn|7|Miami(FL)|33
 12/01/1945|Mississippi State|13|Alabama|55
