@@ -51,6 +51,7 @@
 09/24/1949|Memphis NAS(TN)|13|Middle Tennessee State|25
 09/24/1949|Washington|20|Minnesota|48
 09/24/1949|Arkansas State|7|Mississippi College|18
+09/24/1949|South Dakota|6|Nebraska|33
 09/24/1949|Arizona|40|New Mexico State|7
 09/24/1949|Eastern Michigan|0|Northern Michigan|6
 09/24/1949|Indiana|6|Notre Dame|49
@@ -199,6 +200,7 @@
 10/15/1949|Minnesota|27|Ohio State|0
 10/15/1949|Kansas|26|Oklahoma|48
 10/15/1949|Colorado|14|Oregon|42
+10/15/1949|Nebraska|7|Penn State|22
 10/15/1949|Miami(OH)|26|Pittsburgh|35
 10/15/1949|Baylor|28|Texas Tech|7
 10/15/1949|East Carolina|6|Western Carolina|19
@@ -237,6 +239,7 @@
 10/22/1949|Penn State|0|Michigan State|24
 10/22/1949|Middle Tennessee State|19|Milligan(TN)|0
 10/22/1949|Idaho|47|Montana|19
+10/22/1949|Oklahoma|48|Nebraska|0
 10/22/1949|Maryland|14|North Carolina State|6
 10/22/1949|Louisiana Tech|28|Northwestern State|21
 10/22/1949|Kansas|55|Oklahoma State|14

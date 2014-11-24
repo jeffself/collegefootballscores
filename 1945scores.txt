@@ -57,6 +57,7 @@
 09/29/1945|Louisiana-Lafayette|0|Mississippi State|31
 09/29/1945|Ohio State|47|Missouri|6
 09/29/1945|Villanova|0|Navy|49
+09/29/1945|Oklahoma|20|Nebraska|0
 09/29/1945|Illinois|0|Notre Dame|7
 09/29/1945|Indiana|7|Northwestern|7
 09/29/1945|Bowling Green|6|Ohio|0
@@ -280,6 +281,7 @@
 11/17/1945|Penn State|0|Michigan State|33
 11/17/1945|Northwestern State|0|Mississippi State|54
 11/17/1945|Oklahoma|6|Missouri|14
+11/17/1945|South Dakota|0|Nebraska|53
 11/17/1945|Illinois|2|Ohio State|27
 11/17/1945|Wisconsin|7|Navy|36
 11/17/1945|Army|61|Pennsylvania|0

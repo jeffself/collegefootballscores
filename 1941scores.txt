@@ -363,6 +363,7 @@
 11/15/1941|Temple|0|Michigan State|46
 11/15/1941|Oklahoma|0|Missouri|28
 11/15/1941|Middle Tennessee State|6|Murray State|34
+11/15/1941|Nebraska|7|Pittsburgh|14
 11/15/1941|Illinois|7|Ohio State|12
 11/15/1941|Arizona|14|Oklahoma State|41
 11/15/1941|Army|7|Pennsylvania|14
@@ -417,6 +418,7 @@
 11/29/1941|Georgia Tech|0|Georgia|21
 11/29/1941|Iowa State|13|Marquette|28
 11/29/1941|Mississippi State|6|Mississippi|0
+11/29/1941|Oklahoma|6|Nebraska|7
 11/29/1941|LSU|19|Tulane|0
 11/29/1941|Michigan State|14|West Virginia|12
 12/05/1941|VMI|7|Miami|10

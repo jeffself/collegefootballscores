@@ -413,6 +413,7 @@
 11/23/1946|Illinois|20|Northwestern|0
 11/23/1946|Louisiana-Lafayette|14|Northwestern State|0
 11/23/1946|Michigan|58|Ohio State|6
+11/23/1946|Nebraska|6|Oklahoma|27
 11/23/1946|Indiana|34|Purdue|20
 11/23/1946|Georgia|48|Tennessee-Chattanooga|27
 11/23/1946|Minnesota|6|Wisconsin|0
@@ -441,6 +442,7 @@
 11/30/1946|Southwestern(TX)|20|Louisiana Tech|34
 11/30/1946|Washington State|20|Michigan State|26
 11/30/1946|Maryland|7|North Carolina State|28
+11/30/1946|Nebraska|0|UCLA|18
 12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
 12/07/1946|Nevada|26|Hawaii|7
 12/11/1946|Fresno State|18|Wahiawa Leilehua HS Alumni(HI)|6

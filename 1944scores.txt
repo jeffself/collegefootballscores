@@ -260,6 +260,7 @@
 12/02/1944|Arkansas-Monticello|0|Arkansas|41
 12/02/1944|Navy|7|Army|23
 12/02/1944|Georgia Tech|44|Georgia|0
+12/02/1944|Nebraska|12|Oklahoma|31
 12/08/1944|Texas A&M|70|Miami(FL)|14
 01/01/1945|Alabama|26|Duke|29
 01/01/1945|Tulsa|26|Georgia Tech|12

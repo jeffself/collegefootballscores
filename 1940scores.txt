@@ -275,6 +275,7 @@
 11/02/1940|Arizona State|12|Northern Arizona|0
 11/02/1940|Minnesota|13|Northwestern|12
 11/02/1940|Army|0|Notre Dame|7
+11/02/1940|Nebraska|13|Oklahoma|0
 11/02/1940|Navy|0|Pennsylvania|20
 11/02/1940|Mississippi State|13|Rhodes(TN)|0
 11/02/1940|Connecticut|7|Rutgers|45
@@ -369,6 +370,7 @@
 11/16/1940|Iowa|7|Notre Dame|0
 11/16/1940|Missouri|0|Oklahoma|7
 11/16/1940|Army|0|Pennsylvania|48
+11/16/1940|Nebraska|9|Pittsburgh|7
 11/16/1940|Massachusetts|0|Rensselaer Tech(NY)|25
 11/16/1940|Clemson|12|Rhodes(TN)|12
 11/16/1940|Arkansas|0|SMU|28
@@ -439,3 +441,4 @@
 01/01/1941|Boston College|19|Tennessee|13
 01/01/1941|Fresno State|3|Hawaii|0
 01/01/1941|Mississippi State|14|Georgetown(DC)|7
+01/01/1941|Nebraska|13|Stanford|21

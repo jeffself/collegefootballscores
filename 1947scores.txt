@@ -203,6 +203,7 @@
 10/18/1947|Memphis|7|Murray St|14
 10/18/1947|Florida|7|North Carolina State|6
 10/18/1947|Michigan|49|Northwestern|21
+10/18/1947|Nebraska|0|Notre Dame|31
 10/18/1947|Iowa|13|Ohio State|13
 10/18/1947|Kansas|13|Oklahoma|13
 10/18/1947|Georgia|20|Oklahoma State|7
@@ -425,6 +426,7 @@
 11/22/1947|Ohio State|0|Michigan|21
 11/22/1947|Wisconsin|0|Minnesota|21
 11/22/1947|Southern Mississippi|7|Mississippi State|14
+11/22/1947|Oklahoma|14|Nebraska|13
 11/22/1947|East Carolina|12|North Carolina State Freshmen|20
 11/22/1947|Brigham Young|7|San Diego State|32
 11/22/1947|California|21|Stanford|18
@@ -452,6 +454,7 @@
 11/29/1947|Mississippi|33|Mississippi State|14
 11/29/1947|Colorado State|7|Montana|41
 11/29/1947|Army|21|Navy|0
+11/29/1947|Oregon State|27|Nebraska|6
 11/29/1947|Arizona State|13|Nevada|33
 11/29/1947|Baylor|6|Rice|34
 12/06/1947|Utah|20|Arizona|20

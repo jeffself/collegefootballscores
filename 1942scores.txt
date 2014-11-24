@@ -222,6 +222,7 @@
 10/24/1942|Iowa State|6|Missouri|45
 10/24/1942|Georgia Tech|21|Navy|0
 10/24/1942|Louisiana Tech|6|Northwestern State|10
+10/24/1942|Nebraska|7|Oklahoma|0
 10/24/1942|Idaho|0|Oregon|28
 10/24/1942|Duke|28|Pittsburgh|0
 10/24/1942|Memphis|19|Tennessee-Chattanooga|44
@@ -351,6 +352,7 @@
 11/14/1942|Michigan|32|Notre Dame|20
 11/14/1942|Missouri|6|Oklahoma|6
 11/14/1942|Illinois|20|Ohio State|44
+11/14/1942|Nebraska|0|Pittsburgh|6
 11/14/1942|Buffalo|13|RPI|0
 11/14/1942|Arkansas|6|SMU|14
 11/14/1942|Massachusetts|0|Tufts(MA)|7
@@ -375,6 +377,7 @@
 11/21/1942|Florida|7|Georgia Tech|20
 11/21/1942|Portland(OR)|14|Idaho|20
 11/21/1942|Great Lakes NTS(IL)|6|Illinois|0
+11/21/1942|Nebraska|0|Iowa Navy Pre-Flight|46
 11/21/1942|Iowa State|6|Kansas State|7
 11/21/1942|Washington & Lee|28|Maryland|32
 11/21/1942|South Carolina|6|Miami(FL)|13

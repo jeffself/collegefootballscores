@@ -193,6 +193,7 @@
 11/27/1943|Georgia|0|Georgia Tech|48
 11/27/1943|Iowa Navy Pre-Flight|32|Minnesota|0
 11/27/1943|Army|0|Navy|13
+11/27/1943|Oklahoma|26|Nebraska|7
 11/27/1943|Louisiana-Lafayette|6|Randolph Field(TX)|0
 01/01/1944|Louisiana-Lafayette|24|Arkansas-Monticello|7
 01/01/1944|Tulsa|18|Georgia Tech|20
