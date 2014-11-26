@@ -28,6 +28,7 @@
 09/22/1945|Missouri|0|Minnesota|34
 09/22/1945|Pocatello Marine Base(ID)|0|Nevada|65
 09/22/1945|Eastern New Mexico|0|New Mexico|78
+09/22/1945|Camp Lee(VA)|0|North Carolina|6
 09/22/1945|Iowa State|6|Northwestern|18
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/28/1945|Kansas|20|Denver|19
@@ -100,6 +101,7 @@
 10/06/1945|Missouri|10|SMU|7
 10/06/1945|Florida|6|Tulane|6
 10/06/1945|Mississippi|14|Vanderbilt|7
+10/06/1945|North Carolina|14|Virginia Tech|0
 10/06/1945|New Mexico|13|West Texas A&M|0
 10/06/1945|Miami(OH)|14|Wright Field(OH)|0
 10/07/1945|St. Mary's(CA)|39|Nevada|0
@@ -132,6 +134,7 @@
 10/13/1945|Louisiana Tech|21|Mississippi|26
 10/13/1945|Detroit|6|Mississippi State|41
 10/13/1945|Penn State|0|Navy|28
+10/13/1945|North Carolina|0|Pennsylvania|49
 10/13/1945|Michigan State|12|Pittsburgh|7
 10/13/1945|Iowa|0|Purdue|40
 10/13/1945|California|0|UCLA|13
@@ -161,6 +164,7 @@
 10/20/1945|Arkansas State|0|Mississippi State JV|43
 10/20/1945|Kansas State|7|Missouri|41
 10/20/1945|Georgia Tech|6|Navy|20
+10/20/1945|Cherry Point Marines(NC)|14|North Carolina|20
 10/20/1945|Louisiana-Lafayette|0|Northwestern State|0
 10/20/1945|Kansas|7|Oklahoma|39
 10/20/1945|Arizona|46|San Diego State|0
@@ -234,6 +238,7 @@
 11/03/1945|Colorado|6|New Mexico|12
 11/03/1945|Navy|6|Notre Dame|6
 11/03/1945|Idaho|0|Oregon State|34
+11/03/1945|North Carolina|6|Tennessee|20
 11/03/1945|Georgia|34|Tennessee-Chattanooga|7
 11/03/1945|Mississippi State|13|Tulane|14
 11/09/1945|South Carolina|13|Miami(FL)|13
@@ -269,6 +274,7 @@
 11/10/1945|Boston College|0|Villanova|41
 11/10/1945|Clemson|35|Virginia Tech|0
 11/10/1945|Kentucky|19|West Virginia|6
+11/10/1945|North Carolina|6|William & Mary|0
 11/11/1945|San Diego State|6|Nevada|44
 11/12/1945|Fresno State|6|St. Mary's(CA)|32
 11/16/1945|Central Arkansas|0|Arkansas State|21
@@ -295,6 +301,7 @@
 11/17/1945|South Dakota|0|Nebraska|53
 11/17/1945|Illinois|2|Ohio State|27
 11/17/1945|Wisconsin|7|Navy|36
+11/17/1945|Wake Forest|14|North Carolina|13
 11/17/1945|Army|61|Pennsylvania|0
 11/17/1945|Indiana|19|Pittsburgh|0
 11/17/1945|Arkansas|0|SMU|21
@@ -335,6 +342,7 @@
 12/01/1945|Wake Forest|13|Clemson|6
 12/01/1945|Georgia|33|Georgia Tech|0
 12/01/1945|Army|32|Navy|13
+12/01/1945|Virginia|18|North Carolina|27
 12/01/1945|Baylor|17|Rice|14
 12/01/1945|Maryland|19|South Carolina|13
 12/01/1945|LSU|33|Tulane|0

@@ -56,6 +56,7 @@
 09/28/1946|Colorado State|0|Montana|28
 09/28/1946|Brigham Young|12|Montana State|13
 09/28/1946|Villanova|0|Navy|7
+09/28/1946|Virginia Tech|14|North Carolina|14
 09/28/1946|Duke|6|North Carolina State|13
 09/28/1946|Iowa State|9|Northwestern|41
 09/28/1946|Missouri|13|Ohio State|13
@@ -304,6 +305,7 @@
 11/02/1946|UTEP|13|New Mexico|21
 11/02/1946|Arizona State|14|New Mexico State|7
 11/02/1946|Boston College|72|New York(NY)|6
+11/02/1946|North Carolina|14|Tennessee|20
 11/02/1946|Arkansas|7|Texas A&M|0
 11/02/1946|Cincinnati|0|Tulsa|20
 11/02/1946|Colorado|0|Utah|7
@@ -358,6 +360,7 @@
 11/09/1946|New Mexico State|26|Sul Ross State|25
 11/09/1946|Clemson|13|Tulane|54
 11/09/1946|Brigham Young|0|Utah State|0
+11/09/1946|North Carolina|21|William & Mary|7
 11/09/1946|Iowa|21|Wisconsin|7
 11/11/1946|Hawaii|7|Fresno State|2
 11/15/1946|Great Lakes NTS(IL)|0|Eastern Michigan|19
@@ -402,6 +405,7 @@
 11/16/1946|Iowa State|0|Nebraska|33
 11/16/1946|Connecticut|12|New Hampshire|12
 11/16/1946|Northern Colorado|7|New Mexico State|20
+11/16/1946|Wake Forest|14|North Carolina|26
 11/16/1946|Missouri|6|Oklahoma|27
 11/16/1946|Army|34|Pennsylvania|7
 11/16/1946|Duke|39|South Carolina|0
@@ -464,6 +468,7 @@
 11/30/1946|Washington State|20|Michigan State|26
 11/30/1946|Maryland|7|North Carolina State|28
 11/30/1946|Nebraska|0|UCLA|18
+11/30/1946|North Carolina|49|Virginia|14
 12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
 12/07/1946|Nevada|26|Hawaii|7
 12/11/1946|Fresno State|18|Wahiawa Leilehua HS Alumni(HI)|6

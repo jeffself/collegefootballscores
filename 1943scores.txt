@@ -51,6 +51,7 @@
 10/02/1943|Nebraska|0|Minnesota|54
 10/02/1943|Cornell|7|Navy|46
 10/02/1943|Kirkland AFB(NM)|13|New Mexico|19
+10/02/1943|Penn State|0|North Carolina|19
 10/02/1943|Missouri|6|Ohio State|27
 10/03/1943|Nevada|0|San Francisco|6
 10/08/1943|Wake Forest|0|Georgia|7
@@ -70,6 +71,7 @@
 10/09/1943|Kansas State|14|Missouri|47
 10/09/1943|Duke|13|Navy|14
 10/09/1943|Indiana|54|Nebraska|13
+10/09/1943|Jacksonville NAS(FL)|0|North Carolina|23
 10/09/1943|Clemson|7|VMI|12
 10/09/1943|Illinois|25|Wisconsin|7
 10/10/1943|Tonopah AAB(NV)|0|Nevada|25
@@ -130,8 +132,9 @@
 10/30/1943|TCU|0|LSU|14
 10/30/1943|Arkansas-Monticello|35|Miami(OH)|0
 10/30/1943|Nebraska|20|Missouri|54
-10/30/1943|Navy|6|Notre Dame|33
+10/30/1943|North Carolina State|13|North Carolina|27
 10/30/1943|Minnesota|6|Northwestern|42
+10/30/1943|Navy|6|Notre Dame|33
 10/30/1943|Indiana|20|Ohio State|14
 10/30/1943|Iowa State|7|Oklahoma|21
 10/30/1943|Army|13|Pennsylvania|13
@@ -154,6 +157,7 @@
 11/06/1943|Kansas|13|Oklahoma|26
 11/06/1943|Navy|24|Pennsylvania|7
 11/06/1943|Arkansas|7|Rice|20
+11/06/1943|North Carolina|21|South Carolina|6
 11/06/1943|Colorado|22|Utah|19
 11/06/1943|Maryland|0|Virginia|39
 11/07/1943|Rome AAB(NY)|0|Boston College|64
@@ -177,6 +181,7 @@
 11/13/1943|El Paso All-Stars(TX)|6|New Mexico State|32
 11/13/1943|Illinois|26|Ohio State|29
 11/13/1943|Bowling Green|20|Ohio Wesleyan|32
+11/13/1943|North Carolina|9|Pennsylvania|6
 11/13/1943|Arkansas|14|SMU|12
 11/13/1943|Georgia Tech|33|Tulane|0
 11/14/1943|Boston College|6|Harvard|6
@@ -208,6 +213,7 @@
 11/27/1943|Army|0|Navy|13
 11/27/1943|Oklahoma|26|Nebraska|7
 11/27/1943|Louisiana-Lafayette|6|Randolph Field(TX)|0
+11/27/1943|North Carolina|54|Virginia|7
 12/05/1943|New Mexico State|27|51th General Hospital(TX)|0
 01/01/1944|Louisiana-Lafayette|24|Arkansas-Monticello|7
 01/01/1944|Tulsa|18|Georgia Tech|20

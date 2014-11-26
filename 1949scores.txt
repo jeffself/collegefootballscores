@@ -55,6 +55,7 @@
 09/24/1949|South Dakota|6|Nebraska|33
 09/24/1949|Wyoming|41|New Mexico|14
 09/24/1949|Arizona|40|New Mexico State|7
+09/24/1949|North Carolina State|6|North Carolina|26
 09/24/1949|Eastern Michigan|0|Northern Michigan|6
 09/24/1949|Indiana|6|Notre Dame|49
 09/24/1949|Missouri|34|Ohio State|35
@@ -162,6 +163,7 @@
 10/08/1949|Nevada|6|Pacific|47
 10/08/1949|Boston College|14|Penn State|32
 10/08/1949|New Mexico|0|Rice|55
+10/08/1949|North Carolina|28|South Carolina|13
 10/08/1949|Connecticut|7|Springfield(MA)|26
 10/08/1949|Bowling Green|19|Toledo|20
 10/08/1949|Brigham Young|0|Utah|38
@@ -206,6 +208,7 @@
 10/15/1949|Pensacola NAS(FL)|0|Memphis|49
 10/15/1949|William & Mary|13|Michigan State|42
 10/15/1949|Wichita State|7|Nevada|20
+10/15/1949|Wake Forest|14|North Carolina|28
 10/15/1949|Michigan|20|Northwestern|21
 10/15/1949|Minnesota|27|Ohio State|0
 10/15/1949|Kansas|26|Oklahoma|48
@@ -305,6 +308,7 @@
 10/29/1949|Memphis|34|Murray State|6
 10/29/1949|Notre Dame|40|Navy|0
 10/29/1949|Arizona State|28|New Mexico|19
+10/29/1949|Tennessee|35|North Carolina|6
 10/29/1949|Iowa State|7|Oklahoma|34
 10/29/1949|Florida State|33|Stetson(FL)|14
 10/29/1949|Mississippi State|6|Tulane|54
@@ -362,6 +366,7 @@
 11/05/1949|Navy|21|Tulane|21
 11/05/1949|Colorado State|21|Utah|12
 11/05/1949|Florida State|6|West Alabama|13
+11/05/1949|North Carolina|20|William & Mary|14
 11/05/1949|Kentucky|21|Xavier(OH)|7
 11/06/1949|Nevada|14|Dayton|16
 11/11/1949|Colorado State|16|Brigham Young|14
@@ -404,6 +409,7 @@
 11/12/1949|Houston|23|North Texas|28
 11/12/1949|Illinois|17|Ohio State|30
 11/12/1949|Oklahoma|27|Missouri|7
+11/12/1949|North Carolina|6|Notre Dame|42
 11/12/1949|Michigan State|20|Oregon State|25
 11/12/1949|Army|14|Pennsylvania|13
 11/12/1949|Louisiana-Lafayette|28|Pensacola NAS(FL)|12
@@ -477,6 +483,7 @@
 11/26/1949|Georgia|6|Georgia Tech|7
 11/26/1949|Mississippi|26|Mississippi State|0
 11/26/1949|West Texas A&M|41|New Mexico|13
+11/26/1949|Virginia|7|North Carolina|14
 11/26/1949|Brigham Young|14|Pepperdine|28
 11/26/1949|LSU|21|Tulane|0
 12/02/1949|Fresno State|14|Hawaii|41
@@ -492,3 +499,4 @@
 01/02/1950|Stanford|74|Hawaii|20
 01/02/1950|Santa Clara|21|Kentucky|13
 01/02/1950|Oklahoma|35|LSU|0
+01/02/1950|Rice|27|North Carolina|13

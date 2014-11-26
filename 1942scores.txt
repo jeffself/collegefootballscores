@@ -50,6 +50,7 @@
 09/26/1942|William & Mary|3|Navy|0
 09/26/1942|Cal Poly-San Luis Obispo|0|Nevada|18
 09/26/1942|Northern Arizona|6|New Mexico|26
+09/26/1942|Wake Forest|0|North Carolina|6
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Buffalo|19|Susquehanna(PA)|0
 09/26/1942|Kansas State|0|Texas|64
@@ -92,6 +93,7 @@
 10/03/1942|Virginia|0|Navy|35
 10/03/1942|Iowa State|0|Nebraska|26
 10/03/1942|McMurry(TX)|12|New Mexico State|0
+10/03/1942|South Carolina|6|North Carolina|18
 10/03/1942|Central Michigan|21|Northern Michigan|0
 10/03/1942|Georgia Tech|13|Notre Dame|6
 10/03/1942|Akron|0|Ohio|39
@@ -129,6 +131,7 @@
 10/10/1942|Idaho|28|Eastern Washington|7
 10/10/1942|Louisville|20|Evansville|0
 10/10/1942|Auburn|0|Florida|6
+10/10/1942|North Carolina|0|Fordham|0
 10/10/1942|Mississippi|13|Georgia|48
 10/10/1942|Tennessee-Chattanooga|12|Georgia Tech|30
 10/10/1942|Minnesota|13|Illinois|20
@@ -188,6 +191,7 @@
 10/17/1942|Yale|6|Navy|13
 10/17/1942|Minnesota|15|Nebraska|2
 10/17/1942|Stockton Motor Base(CA)|0|Nevada|33
+10/17/1942|Dusquesne(PA)|6|North Carolina|13
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Indiana|19|Pittsburgh|7
 10/17/1942|Miami(FL)|31|St. Louis|6
@@ -239,6 +243,7 @@
 10/24/1942|Duke|28|Pittsburgh|0
 10/24/1942|Memphis|19|Tennessee-Chattanooga|44
 10/24/1942|Marshall|0|Toledo|7
+10/24/1942|North Carolina|14|Tulane|29
 10/24/1942|California|19|Washington|6
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/30/1942|Wayne State|0|Central Michigan|13
@@ -274,6 +279,7 @@
 10/31/1942|Idaho|21|Montana|0
 10/31/1942|New Mexico|0|Nevada|0
 10/31/1942|West Texas A&M|23|New Mexico State|0
+10/31/1942|North Carolina State|21|North Carolina|14
 10/31/1942|Navy|0|Notre Dame|9
 10/31/1942|Fresno State|13|Pacific|0
 10/31/1942|Army|0|Pennsylvania|19
@@ -314,11 +320,12 @@
 11/07/1942|Washington(MO)|7|Kansas|19
 11/07/1942|SE Louisiana|14|Louisiana Tech|56
 11/07/1942|Clarkson(NY)|9|Massachusetts|13
-11/07/1942|North Carolina St|2|Miami(FL)|0
+11/07/1942|North Carolina State|2|Miami(FL)|0
 11/07/1942|Harvard|7|Michigan|35
 11/07/1942|Indiana|7|Minnesota|0
 11/07/1942|Vanderbilt|19|Mississippi|0
 11/07/1942|Missouri|26|Nebraska|6
+11/07/1942|Davidson|14|North Carolina|43
 11/07/1942|Illinois|14|Northwestern|7
 11/07/1942|Army|0|Notre Dame|13
 11/07/1942|Miami(OH)|28|Ohio Wesleyan|25
@@ -406,6 +413,7 @@
 11/21/1942|Indiana|20|Purdue|0
 11/21/1942|Louisiana-Lafayette|0|Sam Houston State|7
 11/21/1942|Kentucky|0|Tennessee|26
+11/21/1942|North Carolina|28|Virginia|13
 11/21/1942|Minnesota|6|Wisconsin|20
 11/22/1942|New Mexico|14|Loyola Marymount(CA)|14
 11/26/1942|Texas Tech|13|Arizona|7

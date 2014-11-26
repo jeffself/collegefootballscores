@@ -51,6 +51,7 @@
 09/25/1948|SE Missouri State|7|Middle Tennessee State|20
 09/25/1948|California|21|Navy|7
 09/25/1948|Iowa State|15|Nebraska|19
+09/25/1948|Texas|7|North Carolina|34
 09/25/1948|Duke|0|North Carolina State|0
 09/25/1948|Bowling Green|13|Ohio|7
 09/25/1948|Missouri|7|Ohio State|21
@@ -164,6 +165,7 @@
 10/09/1948|Hawaii|55|Redlands(CA)|0
 10/09/1948|Bowling Green|21|Toledo|6
 10/09/1948|Arizona State|17|Utah State|22
+10/09/1948|North Carolina|28|Wake Forest|6
 10/09/1948|Central Michigan|0|Western Michigan|7
 10/14/1948|Central Michigan|46|Northern Michigan|14
 10/15/1948|Villanova|13|Boston College|20
@@ -202,6 +204,7 @@
 10/16/1948|Missouri|35|Navy|14
 10/16/1948|Notre Dame|44|Nebraska|13
 10/16/1948|Hardin-Simmons(TX)|28|New Mexico|19
+10/16/1948|North Carolina State|0|North Carolina|14
 10/16/1948|Kansas State|0|Oklahoma|42
 10/16/1948|Memphis|21|Pensacola NAS(FL)|27
 10/16/1948|Massachusetts|12|Rhode Island|19
@@ -305,6 +308,7 @@
 10/30/1948|Arkansas State|27|Southern Illinois|21
 10/30/1948|Florida State|18|Stetson(FL)|7
 10/30/1948|Baylor|6|TCU|3
+10/30/1948|North Carolina|14|Tennessee|7
 10/30/1948|Arkansas|28|Texas A&M|6
 10/30/1948|Mississippi State|0|Tulane|9
 10/30/1948|Colorado|12|Utah|14
@@ -350,6 +354,7 @@
 11/06/1948|Kansas State|0|Nebraska|32
 11/06/1948|Arizona|14|New Mexico|6
 11/06/1948|Arizona State|52|New Mexico State|7
+11/06/1948|William & Mary|7|North Carolina|7
 11/06/1948|Missouri|7|Oklahoma|41
 11/06/1948|Connecticut|28|Rhode Island|6
 11/06/1948|Fresno State|7|San Diego State|6
@@ -475,6 +480,7 @@
 11/27/1948|Nebraska|12|Oregon State|28
 11/27/1948|Michigan State|21|Santa Clara|21
 11/27/1948|Florida State|20|Troy(AL)|13
+11/27/1948|North Carolina|34|Virginia|12
 11/27/1948|Louisville|12|Washington(MO)|27
 11/27/1948|New Mexico|0|West Texas A&M|19
 11/27/1948|Maryland|14|West Virginia|16
@@ -493,3 +499,4 @@
 01/01/1949|Texas|41|Georgia|28
 01/01/1949|Oregon State|47|Hawaii|27
 01/01/1949|Villanova|27|Nevada|7
+01/01/1949|Oklahoma|14|North Carolina|6

@@ -27,6 +27,7 @@
 09/23/1944|Oberlin(OH)|7|Miami(OH)|13
 09/23/1944|Iowa Navy Pre-Flight|19|Minnesota|13
 09/23/1944|Arkansas|7|Missouri|6
+09/23/1944|Wake Forest|7|North Carolina|0
 09/24/1944|Nevada|20|Tonopah AAB(NV)|0
 09/29/1944|Samford(AL)|0|Auburn|32
 09/29/1944|Kansas|14|Denver|14
@@ -115,6 +116,7 @@
 10/14/1944|Missouri|27|Minnesota|39
 10/14/1944|Duke|0|Navy|7
 10/14/1944|2nd Air Force(CO)|89|New Mexico|6
+10/14/1944|Cherry Point Marines(NC)|14|North Carolina|20
 10/14/1944|Florida|0|Tennessee|40
 10/14/1944|Nevada|6|Tonopah AAB(NV)|7
 10/14/1944|Colorado|26|Utah|0
@@ -191,6 +193,7 @@
 11/04/1944|Kentucky|0|Mississippi State|26
 11/04/1944|Michigan State|7|Missouri|13
 11/04/1944|Notre Dame|13|Navy|32
+11/04/1944|South Carolina|6|North Carolina|0
 11/04/1944|Indiana|7|Ohio State|21
 11/04/1944|Michigan|41|Pennsylvania|19
 11/04/1944|Arkansas|7|Texas A&M|6
@@ -219,6 +222,7 @@
 11/11/1944|Iowa State|19|Nebraska|6
 11/11/1944|Fleet City USNTDC(CA)|19|Nevada|2
 11/11/1944|Denver|41|New Mexico|6
+11/11/1944|William & Mary|0|North Carolina|0
 11/11/1944|Army|59|Notre Dame|0
 11/11/1944|Miami(OH)|32|Ohio Wesleyan|20
 11/11/1944|Missouri|21|Oklahoma|21
@@ -250,6 +254,7 @@
 11/18/1944|Duke|34|South Carolina|7
 11/18/1944|New Mexico|7|Texas Tech|13
 11/18/1944|Clemson|20|Tulane|36
+11/18/1944|North Carolina|6|Yale|13
 11/23/1944|Arkansas|2|Tulsa|33
 11/23/1944|Colorado|16|Denver|14
 11/23/1944|Pacific|14|Fresno State|6
@@ -276,6 +281,7 @@
 12/02/1944|Navy|7|Army|23
 12/02/1944|Georgia Tech|44|Georgia|0
 12/02/1944|Nebraska|12|Oklahoma|31
+12/02/1944|North Carolina|7|Virginia|26
 12/08/1944|Texas A&M|70|Miami(FL)|14
 01/01/1945|Alabama|26|Duke|29
 01/01/1945|Tulsa|26|Georgia Tech|12
