@@ -52,6 +52,7 @@
 09/24/1949|Washington|20|Minnesota|48
 09/24/1949|Arkansas State|7|Mississippi College|18
 09/24/1949|South Dakota|6|Nebraska|33
+09/24/1949|Wyoming|41|New Mexico|14
 09/24/1949|Arizona|40|New Mexico State|7
 09/24/1949|Eastern Michigan|0|Northern Michigan|6
 09/24/1949|Indiana|6|Notre Dame|49
@@ -72,6 +73,7 @@
 09/30/1949|Georgetown(DC)|7|Maryland|33
 09/30/1949|Rollins(FL)|13|Miami(FL)|52
 09/30/1949|Maryville(TN)|13|Middle Tennessee State|45
+09/30/1949|New Mexico|14|New Mexico State|13
 10/01/1949|Utah|12|Arizona|12
 10/01/1949|Hardin-Simmons(TX)|34|Arizona State|13
 10/01/1949|TCU|7|Arkansas|27
@@ -157,6 +159,7 @@
 10/08/1949|Eastern Michigan|14|Northern Illinois|39
 10/08/1949|Nevada|6|Pacific|47
 10/08/1949|Boston College|14|Penn State|32
+10/08/1949|New Mexico|0|Rice|55
 10/08/1949|Connecticut|7|Springfield(MA)|26
 10/08/1949|Bowling Green|19|Toledo|20
 10/08/1949|Brigham Young|0|Utah|38
@@ -184,6 +187,7 @@
 10/15/1949|Vanderbilt|22|Florida|17
 10/15/1949|Erskine(SC)|7|Florida State|26
 10/15/1949|Auburn|21|Georgia Tech|35
+10/15/1949|New Mexico|7|Hardin-Simmons(TX)|34
 10/15/1949|Army|54|Harvard|14
 10/15/1949|West Texas A&M|13|Houston|14
 10/15/1949|Washington State|35|Idaho|13
@@ -255,6 +259,7 @@
 10/22/1949|Arizona|7|Texas Tech|27
 10/22/1949|Auburn|6|Tulane|14
 10/22/1949|Baylor|21|Texas A&M|0
+10/22/1949|New Mexico|0|UTEP|7
 10/22/1949|Colorado|20|Utah State|7
 10/22/1949|Arkansas|7|Vanderbilt|6
 10/28/1949|Villanova|28|Boston College|14
@@ -431,6 +436,7 @@
 11/19/1949|Wisconsin|6|Minnesota|14
 11/19/1949|Brigham Young|6|Montana|25
 11/19/1949|Colorado|14|Nebraska|25
+11/19/1949|Texas Tech|27|New Mexico|0
 11/19/1949|Colorado State|45|New Mexico State|0
 11/19/1949|Illinois|7|Northwestern|9
 11/19/1949|Iowa|7|Notre Dame|28
@@ -460,11 +466,12 @@
 11/26/1949|Clemson|20|Auburn|20
 11/26/1949|Baylor|7|Rice|21
 11/26/1949|Holy Cross|0|Boston College|76
-11/26/1949|Brigham Young|14|Pepperdine|28
 11/26/1949|Colorado State|14|Colorado|7
 11/26/1949|Troy(AL)|0|Florida State|20
 11/26/1949|Georgia|6|Georgia Tech|7
 11/26/1949|Mississippi|26|Mississippi State|0
+11/26/1949|West Texas A&M|41|New Mexico|13
+11/26/1949|Brigham Young|14|Pepperdine|28
 11/26/1949|LSU|21|Tulane|0
 12/02/1949|Fresno State|14|Hawaii|41
 12/02/1949|Maryland|13|Miami(FL)|0

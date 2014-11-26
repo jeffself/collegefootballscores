@@ -13,6 +13,7 @@
 09/21/1946|North Dakota State|0|Iowa|39
 09/21/1946|TCU|0|Kansas|0
 09/21/1946|Mississippi|6|Kentucky|20
+09/21/1946|Northern Arizona|7|New Mexico|12
 09/21/1946|Miami(OH)|7|Purdue|13
 09/21/1946|Louisiana Tech|6|Southern Miss|7
 09/21/1946|Missouri|0|Texas|42
@@ -66,6 +67,7 @@
 09/28/1946|Georgia Tech|9|Tennessee|13
 09/28/1946|Colorado|0|Texas|76
 09/28/1946|Alabama|7|Tulane|6
+09/28/1946|New Mexico|14|Utah|56
 09/29/1946|Nevada|14|San Francisco|26
 09/30/1946|East Carolina|20|Presbyterian JC(NC)|0
 10/02/1946|Kaala(HI)|0|Hawaii|44
@@ -74,6 +76,7 @@
 10/04/1946|Eastern Michigan|0|Hope(MI)|13
 10/04/1946|Wittenberg(OH)|0|Louisville|19
 10/04/1946|North Carolina|21|Miami(FL)|0
+10/04/1946|West Texas A&M|0|New Mexico|6
 10/04/1946|Missouri|19|St. Louis|14
 10/04/1946|Louisiana-Lafayette|13|SE Louisiana|27
 10/04/1946|Georgia|35|Temple|7
@@ -154,6 +157,7 @@
 10/12/1946|Mississippi State|6|Michigan State|0
 10/12/1946|Duke|21|Navy|6
 10/12/1946|Arizona State|2|Nevada|74
+10/12/1946|New Mexico|7|New Mexico State|6
 10/12/1946|Maryland|0|North Carolina|33
 10/12/1946|Central Michigan|60|Northern Michigan|0
 10/12/1946|Minnesota|7|Northwestern|14
@@ -166,6 +170,7 @@
 10/16/1946|Lanakila(HI)|6|Hawaii|73
 10/17/1946|Middle Tennessee State|42|Austin Peay State|9
 10/18/1946|Virginia Tech|0|Maryland|6
+10/18/1946|Hardin-Simmons(TX)|49|New Mexico|0
 10/18/1946|Louisiana-Lafayette|0|Southern Miss|6
 10/19/1946|Pacific|13|Arizona|47
 10/19/1946|Portland|13|Arizona State|0
@@ -292,6 +297,7 @@
 11/02/1946|Notre Dame|28|Navy|0
 11/02/1946|Missouri|21|Nebraska|20
 11/02/1946|Montana State|14|Nevada|38
+11/02/1946|UTEP|13|New Mexico|21
 11/02/1946|Arizona State|14|New Mexico State|7
 11/02/1946|Boston College|72|New York(NY)|6
 11/02/1946|Arkansas|7|Texas A&M|0
@@ -336,6 +342,7 @@
 11/09/1946|Colorado|0|Missouri|21
 11/09/1946|Marshall|0|Murray State|19
 11/09/1946|California-Santa Barbara|13|Nevada|48
+11/09/1946|Texas Tech|27|New Mexico|0
 11/09/1946|Indiana|7|Northwestern|6
 11/09/1946|Army|0|Notre Dame|0
 11/09/1946|Kent State|7|Ohio Wesleyan|0
@@ -453,6 +460,7 @@
 12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
 12/07/1946|Nevada|26|Hawaii|7
 12/11/1946|Fresno State|18|Wahiawa Leilehua HS Alumni(HI)|6
+12/22/1946|New Mexico|14|Hawaii All-Stars|19
 12/23/1946|Stanford|18|Hawaii|7
 01/01/1947|Arkansas|0|LSU|0
 01/01/1947|Cincinnati|18|Virginia Tech|6
@@ -460,3 +468,4 @@
 01/01/1947|Utah|16|Hawaii|19
 01/01/1947|St. Mary's(CA)|19|Georgia Tech|41
 01/01/1947|Illinois|45|UCLA|14
+01/01/1947|New Mexico|13|Montana State|13

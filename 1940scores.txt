@@ -56,12 +56,14 @@
 09/28/1940|Buffalo|6|Susquehanna(PA)|20
 09/28/1940|Colorado|7|Texas|39
 09/28/1940|Boston College|27|Tulane|7
+09/28/1940|New Mexico|3|Wyoming|7
 10/04/1940|Western Reserve|6|Akron|0
 10/04/1940|Sunflower JC(MS)|7|Arkansas State|7
 10/04/1940|Baylor|14|Denver|7
 10/04/1940|Illinois State|0|Eastern Michigan|0
 10/04/1940|UTEP|7|Louisiana Tech|19
 10/04/1940|Stetson(FL)|0|Miami(FL)|19
+10/04/1940|Western New Mexico|0|New Mexico|28
 10/04/1940|Austin Peay State|6|Middle Tennessee State|35
 10/04/1940|Memphis|13|Tennessee Tech|16
 10/05/1940|Mercer(GA)|0|Alabama|20
@@ -195,6 +197,7 @@
 10/19/1940|Minnesota|13|Ohio State|7
 10/19/1940|Kansas State|0|Oklahoma|14
 10/19/1940|Auburn|13|SMU|20
+10/19/1940|New Mexico|7|UTEP|9
 10/19/1940|Marshall|19|Wake Forest|31
 10/19/1940|Akron|7|Wayne State|7
 10/19/1940|East Carolina|14|Western Carolina|25
@@ -328,6 +331,7 @@
 11/09/1940|Memphis|6|Murray State|35
 11/09/1940|Notre Dame|13|Navy|7
 11/09/1940|Iowa|6|Nebraska|14
+11/09/1940|New Mexico State|6|New Mexico|39
 11/09/1940|Illinois|14|Northwestern|32
 11/09/1940|Kansas State|13|South Carolina|20
 11/09/1940|California|20|Southern Cal|7
@@ -370,6 +374,7 @@
 11/16/1940|Memphis|7|Mississippi|38
 11/16/1940|Millsaps(MS)|13|Mississippi State|46
 11/16/1940|Connecticut|0|New Hampshire|9
+11/16/1940|Northern Arizona|26|New Mexico|45
 11/16/1940|Duke|3|North Carolina|6
 11/16/1940|Iowa|7|Notre Dame|0
 11/16/1940|Missouri|0|Oklahoma|7
@@ -435,6 +440,7 @@
 11/30/1940|Kansas State|0|Nebraska|20
 11/30/1940|Tulane|0|LSU|14
 11/30/1940|Washington & Lee|7|Maryland|7
+11/30/1940|Texas Tech|14|New Mexico|19
 12/06/1940|Georgia|28|Miami(FL)|7
 12/07/1940|Villanova|10|Auburn|13
 12/07/1940|Texas|26|Florida|0

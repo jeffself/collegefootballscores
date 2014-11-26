@@ -16,6 +16,7 @@
 09/25/1943|Central Michigan|0|Alma(MI)|8
 09/25/1943|Presbyterian|13|Clemson|12
 09/25/1943|Fort Warren(WY)|0|Colorado|38
+09/25/1943|New Mexico|7|Colorado College|20
 09/25/1943|Richmond|0|Duke|61
 09/25/1943|Georgia|27|LSU|34
 09/25/1943|North Carolina|7|Georgia Tech|20
@@ -49,6 +50,7 @@
 10/02/1943|Wake Forest|7|Maryland|13
 10/02/1943|Nebraska|0|Minnesota|54
 10/02/1943|Cornell|7|Navy|46
+10/02/1943|Kirkland AFB(NM)|13|New Mexico|19
 10/02/1943|Missouri|6|Ohio State|27
 10/03/1943|Nevada|0|San Francisco|6
 10/08/1943|Wake Forest|0|Georgia|7
@@ -88,6 +90,7 @@
 10/16/1943|Camp Grant(IL)|7|Minnesota|13
 10/16/1943|Iowa Navy Pre-Flight|21|Missouri|6
 10/16/1943|Penn State|6|Navy|14
+10/16/1943|Northern Arizona|6|New Mexico|26
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|California|13|UCLA|0
 10/16/1943|Nevada|27|Utah|19
@@ -159,6 +162,7 @@
 11/13/1943|UCLA|6|California|13
 11/13/1943|Georgia Navy Pre-Flight|32|Clemson|6
 11/13/1943|Navy|61|Columbia|0
+11/13/1943|New Mexico|33|Denver|13
 11/13/1943|Iowa State|20|Drake|0
 11/13/1943|Virginia|0|Duke|49
 11/13/1943|VMI|7|Georgia|46
@@ -204,3 +208,4 @@
 01/01/1944|Louisiana-Lafayette|24|Arkansas-Monticello|7
 01/01/1944|Tulsa|18|Georgia Tech|20
 01/01/1944|Texas A&M|14|LSU|19
+01/01/1944|New Mexico|0|Southwestern(TX)|7

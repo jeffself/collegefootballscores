@@ -6,6 +6,7 @@
 09/16/1944|Illinois State|0|Illinois|79
 09/16/1944|Fort Knox(KY)|0|Indiana|72
 09/16/1944|Iowa Navy Pre-Flight|7|Michigan|12
+09/16/1944|Amarillo AAF(TX)|21|New Mexico|2
 09/16/1944|Bowling Green|13|Ohio Wesleyan|6
 09/22/1944|LaGarde General Hospital(LA)|0|Louisiana-Lafayette|53
 09/23/1944|Baldwin-Wallace(OH)|13|Bowling Green|6
@@ -14,6 +15,7 @@
 09/23/1944|Presbyterian(SC)|0|Clemson|34
 09/23/1944|Fort Warren(WY)|7|Colorado|6
 09/23/1944|Michigan|14|Marquette|0
+09/23/1944|Northern Arizona|14|New Mexico|47
 09/23/1944|Connecticut|27|Norwich(VT)|0
 09/23/1944|Richmond|7|Duke|61
 09/23/1944|Mayport NAS(FL)|6|Florida|36
@@ -51,8 +53,9 @@
 09/30/1944|Scranton(PA)|12|Michigan State|40
 09/30/1944|Jackson AAB(MS)|0|Mississippi State|41
 09/30/1944|Nebraska|0|Minnesota|39
-09/30/1944|Missouri|0|Ohio State|54
 09/30/1944|North Carolina Navy Pre-Flight|21|Navy|14
+09/30/1944|Colorado College|25|New Mexico|7
+09/30/1944|Missouri|0|Ohio State|54
 09/30/1944|Duke|7|Pennsylvania|18
 09/30/1944|Kentucky|13|Tennessee|26
 10/01/1944|Alameda Coast Guard(CA)|35|Nevada|0
@@ -78,6 +81,7 @@
 10/07/1944|Millsaps(MS)|0|Mississippi State|56
 10/07/1944|Penn State|14|Navy|55
 10/07/1944|Northern Arizona|6|Nevada|25
+10/07/1944|West Texas A&M|19|New Mexico|12
 10/07/1944|Clemson|13|North Carolina State|7
 10/07/1944|Iowa|0|Ohio State|34
 10/07/1944|LSU|13|Rice|14
@@ -110,6 +114,7 @@
 10/14/1944|Arkansas-Monticello|20|Mississippi State|49
 10/14/1944|Missouri|27|Minnesota|39
 10/14/1944|Duke|0|Navy|7
+10/14/1944|2nd Air Force(CO)|89|New Mexico|6
 10/14/1944|Florida|0|Tennessee|40
 10/14/1944|Nevada|6|Tonopah AAB(NV)|7
 10/14/1944|Colorado|26|Utah|0
@@ -213,6 +218,7 @@
 11/11/1944|Cornell|0|Navy|48
 11/11/1944|Iowa State|19|Nebraska|6
 11/11/1944|Fleet City USNTDC(CA)|19|Nevada|2
+11/11/1944|Denver|41|New Mexico|6
 11/11/1944|Army|59|Notre Dame|0
 11/11/1944|Miami(OH)|32|Ohio Wesleyan|20
 11/11/1944|Missouri|21|Oklahoma|21
@@ -242,6 +248,7 @@
 11/18/1944|Army|62|Pennsylvania|7
 11/18/1944|Arkansas|12|SMU|20
 11/18/1944|Duke|34|South Carolina|7
+11/18/1944|New Mexico|7|Texas Tech|13
 11/18/1944|Clemson|20|Tulane|36
 11/23/1944|Arkansas|2|Tulsa|33
 11/23/1944|Colorado|16|Denver|14

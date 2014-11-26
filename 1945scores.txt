@@ -27,6 +27,7 @@
 09/22/1945|Indiana|13|Michigan|7
 09/22/1945|Missouri|0|Minnesota|34
 09/22/1945|Pocatello Marine Base(ID)|0|Nevada|65
+09/22/1945|Eastern New Mexico|0|New Mexico|78
 09/22/1945|Iowa State|6|Northwestern|18
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/28/1945|Kansas|20|Denver|19
@@ -59,6 +60,7 @@
 09/29/1945|Ohio State|47|Missouri|6
 09/29/1945|Villanova|0|Navy|49
 09/29/1945|Oklahoma|20|Nebraska|0
+09/29/1945|Lubbock AAB(TX)|0|New Mexico|39
 09/29/1945|Illinois|0|Notre Dame|7
 09/29/1945|Georgia Tech|20|North Carolina|14
 09/29/1945|Indiana|7|Northwestern|7
@@ -98,6 +100,7 @@
 10/06/1945|Missouri|10|SMU|7
 10/06/1945|Florida|6|Tulane|6
 10/06/1945|Mississippi|14|Vanderbilt|7
+10/06/1945|New Mexico|13|West Texas A&M|0
 10/06/1945|Miami(OH)|14|Wright Field(OH)|0
 10/07/1945|St. Mary's(CA)|39|Nevada|0
 10/11/1945|Arkansas State|18|Central Arkansas|0
@@ -112,6 +115,7 @@
 10/13/1945|Case Institute(OH)|7|Bowling Green|26
 10/13/1945|Cincinnati|19|Ohio|20
 10/13/1945|Pensacola NAS(FL)|6|Clemson|7
+10/13/1945|New Mexico|6|Colorado College|4
 10/13/1945|Colorado|21|Colorado State|6
 10/13/1945|Hillsdale(MI)|0|Eastern Michigan|13
 10/13/1945|Idaho|7|Farragut Navy(ID)|18
@@ -252,6 +256,7 @@
 11/10/1945|Great Lakes NTS(IL)|27|Michigan State|7
 11/10/1945|Indiana|49|Minnesota|0
 11/10/1945|Tennessee|34|Mississippi|0
+11/10/1945|Utah|21|New Mexico|20
 11/10/1945|Louisiana Tech|7|Northwestern State|2
 11/10/1945|Michigan|7|Navy|33
 11/10/1945|Army|48|Notre Dame|0
@@ -318,6 +323,7 @@
 11/24/1945|Mississippi|7|Mississippi State|6
 11/24/1945|Kansas|12|Missouri|33
 11/24/1945|Iowa|6|Nebraska|13
+11/24/1945|Texas Tech|6|New Mexico|6
 11/24/1945|Illinois|7|Northwestern|13
 11/24/1945|Baylor|0|SMU|34
 11/25/1945|Boston College|0|Holy Cross|46
@@ -337,3 +343,4 @@
 01/01/1946|Alabama|34|Southern Cal|14
 01/01/1946|Georgia|20|Tulsa|6
 01/01/1946|Missouri|27|Texas|40
+01/01/1946|New Mexico|34|Denver|24

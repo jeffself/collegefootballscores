@@ -18,6 +18,7 @@
 09/26/1941|Iowa State|7|Denver|6
 09/26/1941|Mississippi|6|Georgetown(DC)|16
 09/26/1941|Akron|10|Muskingum|0
+09/26/1941|Northern Arizona|6|New Mexico|12
 09/26/1941|Arkansas State|0|SE Missouri State|44
 09/26/1941|Kansas|9|Temple|31
 09/27/1941|Louisiana-Lafayette|6|Alabama|47
@@ -89,6 +90,7 @@
 10/04/1941|Iowa|0|Michigan|6
 10/04/1941|Rhodes(TN)|0|Mississippi|27
 10/04/1941|West Virginia|0|Navy|40
+10/04/1941|UTEP|14|New Mexico|16
 10/04/1941|Kansas State|3|Northwestern|51
 10/04/1941|McDaniel College(MD)|6|Maryland|6
 10/04/1941|Connecticut|6|Massachusetts|8
@@ -204,6 +206,7 @@
 10/24/1941|Samford(AL)|0|Miami|19
 10/24/1941|Delta St|7|Memphis|23
 10/24/1941|Brigham Young|13|San Francisco|25
+10/24/1941|New Mexico|0|Texas Tech|36
 10/24/1941|Kent State|0|Western Reserve(OH)|28
 10/25/1941|Georgia|14|Alabama|27
 10/25/1941|Buffalo|0|Alfred(NY)|14
@@ -319,6 +322,7 @@
 11/08/1941|Nebraska|0|Minnesota|9
 11/08/1941|Memphis|6|Murray State|31
 11/08/1941|Notre Dame|20|Navy|13
+11/08/1941|New Mexico|28|New Mexico State|0
 11/08/1941|Missouri|26|New York(NY)|0
 11/08/1941|Indiana|14|Northwestern|20
 11/08/1941|Iowa State|0|Oklahoma|55
@@ -362,6 +366,7 @@
 11/15/1941|Auburn|7|LSU|7
 11/15/1941|Hardin-Simmons(TX)|13|Louisiana Tech|0
 11/15/1941|Vanderbilt|68|Louisville|0
+11/15/1941|New Mexico|0|Marquette|34
 11/15/1941|VMI|27|Maryland|0
 11/15/1941|Tufts(MA)|14|Massachusetts|7
 11/15/1941|Troy|0|Memphis|32
@@ -401,6 +406,7 @@
 11/22/1941|Ohio Wesyleyan|7|Michigan State|31
 11/22/1941|Wisconsin|6|Minnesota|41
 11/22/1941|Iowa|13|Nebraska|14
+11/22/1941|Loyola Marymount(CA)|7|New Mexico|3
 11/22/1941|Duke|55|North Carolina State|6
 11/22/1941|Illinois|0|Northwestern|27
 11/22/1941|Ohio State|20|Michigan|20
@@ -425,6 +431,7 @@
 11/29/1941|Iowa State|13|Marquette|28
 11/29/1941|Mississippi State|6|Mississippi|0
 11/29/1941|Oklahoma|6|Nebraska|7
+11/29/1941|Wyoming|0|New Mexico|28
 11/29/1941|LSU|19|Tulane|0
 11/29/1941|Michigan State|14|West Virginia|12
 11/30/1941|Nevada|7|Loyola Marymount(CA)|19
