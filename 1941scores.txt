@@ -150,7 +150,7 @@
 10/11/1941|Lafayette|2|Navy|41
 10/11/1941|Kansas|0|Nebraska|32
 10/11/1941|Fordham|27|North Carolina|14
-10/11/1941|Fresno State|26|UCSB|0
+10/11/1941|Fresno State|26|California-Santa Barbara|0
 10/11/1941|Connecticut|0|Wesleyan(CT)|7
 10/11/1941|New Mexico State|0|West Texas A&M|51
 10/17/1941|Na Alii(HI)|6|Hawaii|19
