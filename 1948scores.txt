@@ -14,6 +14,7 @@
 09/18/1948|Idaho|12|Oregon State|27
 09/18/1948|Northern Iowa|7|Iowa State|27
 09/18/1948|TCU|14|Kansas|13
+09/18/1948|New Mexico State|7|Northern Arizona|13
 09/18/1948|LSU|0|Texas|33
 09/22/1948|Islanders(HI)|20|Hawaii|20
 09/24/1948|Akron|14|Findlay(OH)|9
@@ -100,9 +101,10 @@
 10/02/1948|Middle Tennessee State|13|Maryville(TN)|12
 10/02/1948|Oregon|0|Michigan|14
 10/02/1948|Hawaii|21|Michigan State|68
-10/02/1948|Minnesota|39|Nebraska|13
 10/02/1948|Baylor|7|Mississippi State|7
 10/02/1948|Cornell|13|Navy|7
+10/02/1948|Minnesota|39|Nebraska|13
+10/02/1948|Fort Bliss(TX)|12|New Mexico State|33
 10/02/1948|Massachusetts|19|Norwich(VT)|27
 10/02/1948|LSU|26|Rice|13
 10/02/1948|New Mexico|0|Texas|47
@@ -203,6 +205,7 @@
 10/16/1948|Kansas State|0|Oklahoma|42
 10/16/1948|Memphis|21|Pensacola NAS(FL)|27
 10/16/1948|Massachusetts|12|Rhode Island|19
+10/16/1948|New Mexico State|12|Sul Ross State(TX)|47
 10/16/1948|Alabama|6|Tennessee|21
 10/16/1948|Arkansas|6|Texas|14
 10/16/1948|Houston|18|Texas A&M-Commerce|7
@@ -244,6 +247,7 @@
 10/23/1948|Iowa State|7|Missouri|49
 10/23/1948|Akron|0|Mount Union|19
 10/23/1948|UTEP|27|New Mexico|13
+10/23/1948|New Mexico Highlands|0|New Mexico State|26
 10/23/1948|LSU|7|North Carolina|34
 10/23/1948|Louisiana Tech|10|Northwestern State|7
 10/23/1948|Miami(OH)|21|Ohio|0
@@ -362,6 +366,7 @@
 11/12/1948|Valparaiso(IN)|7|Eastern Michigan|26
 11/12/1948|Tennessee-Chattanooga|0|Miami(FL)|19
 11/12/1948|Arizona State|12|Loyola Marymount(CA)|16
+11/12/1948|Fort Hays State(KS)|14|New Mexico State|27
 11/13/1948|UTEP|25|Arizona|14
 11/13/1948|SMU|14|Arkansas|12
 11/13/1948|William & Mary|14|Boston College|14
@@ -441,6 +446,7 @@
 11/20/1948|Kentucky|0|Tennessee|0
 11/20/1948|New Mexico|7|Texas Tech|14
 11/20/1948|Idaho|7|Washington|34
+11/20/1948|Western State(CO)|61|New Mexico State|13
 11/20/1948|Minnesota|16|Wisconsin|0
 11/20/1948|Marshall|26|Xavier(OH)|20
 11/24/1948|Ford Island(HI)|7|Hawaii|14
@@ -452,6 +458,7 @@
 11/25/1948|Kansas|7|Missouri|21
 11/25/1948|Kansas State|7|St. Louis|21
 11/25/1948|Middle Tennessee State|7|Tennessee Tech|33
+11/25/1948|New Mexico State|7|UTEP|92
 11/25/1948|Nevada|42|Wichita State|12
 11/26/1948|Brigham Young|27|Arizona State|25
 11/26/1948|Kentucky|25|Miami(FL)|5

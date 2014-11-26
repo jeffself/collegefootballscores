@@ -12,6 +12,7 @@
 09/19/1942|Northwestern State|0|LSU|40
 09/19/1942|Fort Riley(KS)|0|Missouri|31
 09/19/1942|Albuquerque AFB(NM)|6|New Mexico|7
+09/19/1942|Western New Mexico|6|New Mexico State|27
 09/23/1942|Middle Tennessee State|21|Memphis|13
 09/25/1942|Muskingum|7|Akron|7
 09/25/1942|Louisiana-Lafayette|0|Alabama|54
@@ -82,7 +83,6 @@
 10/03/1942|Fort Riley(KS)|21|Kansas State|7
 10/03/1942|Findlay(OH)|0|Kent State|6
 10/03/1942|Washington & Lee|0|Kentucky|53
-10/03/1942|Marshall|13|Western Kentucky|19
 10/03/1942|Lakehurst NAS(NJ)|0|Maryland|14
 10/03/1942|Jacksonville NAS(FL)|14|Miami(FL)|0
 10/03/1942|Michigan State|0|Michigan|20
@@ -91,6 +91,7 @@
 10/03/1942|Colorado|13|Missouri|26
 10/03/1942|Virginia|0|Navy|35
 10/03/1942|Iowa State|0|Nebraska|26
+10/03/1942|McMurry(TX)|12|New Mexico State|0
 10/03/1942|Central Michigan|21|Northern Michigan|0
 10/03/1942|Georgia Tech|13|Notre Dame|6
 10/03/1942|Akron|0|Ohio|39
@@ -102,6 +103,7 @@
 10/03/1942|Auburn|27|Tulane|13
 10/03/1942|Duke|7|Wake Forest|20
 10/03/1942|Arizona State|0|West Texas A&M|28
+10/03/1942|Marshall|13|Western Kentucky|19
 10/03/1942|Cincinnati|18|Western Reserve(OH)|7
 10/04/1942|Nevada|7|San Francisco|27
 10/09/1942|Grand Rapids(MI)|2|Central Michigan|6
@@ -271,6 +273,7 @@
 10/31/1942|Great Lakes NTS(IL)|17|Missouri|0
 10/31/1942|Idaho|21|Montana|0
 10/31/1942|New Mexico|0|Nevada|0
+10/31/1942|West Texas A&M|23|New Mexico State|0
 10/31/1942|Navy|0|Notre Dame|9
 10/31/1942|Fresno State|13|Pacific|0
 10/31/1942|Army|0|Pennsylvania|19
@@ -359,6 +362,7 @@
 11/14/1942|Duquesne(PA)|6|Mississippi State|28
 11/14/1942|Columbia|9|Navy|13
 11/14/1942|West Texas A&M|13|New Mexico|7
+11/14/1942|Albuquerque AFB(NM)|13|New Mexico State|0
 11/14/1942|Duke|13|North Carolina|13
 11/14/1942|Arizona State|14|Northern Arizona|2
 11/14/1942|Colorado State|14|Northern Colorado|6
@@ -397,6 +401,7 @@
 11/21/1942|West Virginia|0|Michigan State|7
 11/21/1942|Louisiana Tech|33|Memphis|7
 11/21/1942|Mississippi|13|Mississippi State|34
+11/21/1942|New Mexico State|0|Northern Arizona|3
 11/21/1942|Michigan|7|Ohio State|21
 11/21/1942|Indiana|20|Purdue|0
 11/21/1942|Louisiana-Lafayette|0|Sam Houston State|7
@@ -412,6 +417,7 @@
 11/26/1942|Tennessee Tech|25|Middle Tennessee State|6
 11/26/1942|Kansas|13|Missouri|42
 11/26/1942|Arkansas|7|Tulsa|40
+11/26/1942|New Mexico State|6|UTEP|61
 11/26/1942|Idaho|7|Utah|13
 11/28/1942|Georgia Navy Pre-Flight|35|Alabama|19
 11/28/1942|Arizona State|7|New Mexico|35

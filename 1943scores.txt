@@ -174,6 +174,7 @@
 11/13/1943|Wisconsin|0|Michigan|27
 11/13/1943|Iowa|14|Minnesota|33
 11/13/1943|Oklahoma|20|Missouri|13
+11/13/1943|El Paso All-Stars(TX)|6|New Mexico State|32
 11/13/1943|Illinois|26|Ohio State|29
 11/13/1943|Bowling Green|20|Ohio Wesleyan|32
 11/13/1943|Arkansas|14|SMU|12
@@ -189,12 +190,14 @@
 11/20/1943|Missouri|6|Kansas|7
 11/20/1943|Presbyterian(SC)|13|Miami(FL)|32
 11/20/1943|Ohio State|7|Michigan|45
+11/20/1943|Fort Bliss(TX)|14|New Mexico State|21
 11/20/1943|Duke|27|North Carolina|6
 11/20/1943|Illinois|6|Northwestern|53
 11/20/1943|Iowa|33|Nebraska|13
 11/20/1943|LSU|0|Tulane|27
 11/20/1943|Wisconsin|13|Minnesota|25
 11/25/1943|Kansas|7|Fort Riley(KS)|22
+11/25/1943|51th General Hospital(TX)|0|New Mexico State|27
 11/25/1943|Arkansas|0|Tulsa|61
 11/25/1943|Maryland|21|VMI|14
 11/25/1943|Miami(OH)|52|Xavier(OH)|7
@@ -205,6 +208,7 @@
 11/27/1943|Army|0|Navy|13
 11/27/1943|Oklahoma|26|Nebraska|7
 11/27/1943|Louisiana-Lafayette|6|Randolph Field(TX)|0
+12/05/1943|New Mexico State|27|51th General Hospital(TX)|0
 01/01/1944|Louisiana-Lafayette|24|Arkansas-Monticello|7
 01/01/1944|Tulsa|18|Georgia Tech|20
 01/01/1944|Texas A&M|14|LSU|19

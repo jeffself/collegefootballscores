@@ -22,6 +22,7 @@
 09/20/1947|Steubenville(OH)|6|Marshall|60
 09/20/1947|St. Louis|0|Missouri|19
 09/20/1947|Northern Arizona|0|Nevada|50
+09/20/1947|McMurry(TX)|22|New Mexico State|7
 09/20/1947|Middle Tennessee State|13|SE Missouri State|0
 09/25/1947|Memphis|0|Middle Tennessee State|20
 09/26/1947|Eastern Michigan|0|Alma(MI)|12
@@ -32,6 +33,7 @@
 09/26/1947|Wittenberg(OH)|3|Louisville|40
 09/26/1947|Baylor|18|Miami(FL)|7
 09/26/1947|Buffalo|7|Moravian(PA)|0
+09/26/1947|New Mexico State|13|Northern Colorado|14
 09/26/1947|Iowa|7|UCLA|22
 09/26/1947|Kansas State|6|UTEP|20
 09/26/1947|Mississippi State|19|Tennessee-Chattanooga|0
@@ -119,6 +121,7 @@
 10/04/1947|Kentucky|20|Xavier(OH)|7
 10/04/1947|Alabama|7|Vanderbilt|14
 10/04/1947|Arkansas State|14|Western Kentucky|14
+10/04/1947|New Mexico State|48|Western New Mexico|0
 10/04/1947|Brigham Young|7|Wyoming|12
 10/09/1947|Union(TN)|6|Middle Tennessee State|19
 10/10/1947|Kansas State|13|Boston College|49
@@ -207,6 +210,7 @@
 10/18/1947|Duquesne(PA)|0|Mississippi State|34
 10/18/1947|Kansas State|7|Missouri|47
 10/18/1947|Memphis|7|Murray St|14
+10/18/1947|Sul Ross State|14|New Mexico State|27
 10/18/1947|Florida|7|North Carolina State|6
 10/18/1947|Michigan|49|Northwestern|21
 10/18/1947|Nebraska|0|Notre Dame|31
@@ -230,6 +234,7 @@
 10/24/1947|Hillsdale(MI)|15|Eastern Michigan|2
 10/24/1947|Western Kentucky|13|Louisville|19
 10/24/1947|George Washington(DC)|7|Miami(FL)|28
+10/24/1947|West Texas A&M|34|New Mexico State|7
 10/24/1947|Central Michigan|7|Youngstown State|13
 10/25/1947|New Mexico|12|Arizona|22
 10/25/1947|Central Arkansas|0|Arkansas State|0
@@ -349,6 +354,7 @@
 11/08/1947|Georgia Tech|16|Navy|14
 11/08/1947|Kansas|13|Nebraska|7
 11/08/1947|Fresno State|3|New Mexico|34
+11/08/1947|New Mexico State|26|Northern Arizona|6
 11/08/1947|Army|7|Notre Dame|27
 11/08/1947|Arkansas|0|Rice|26
 11/08/1947|Bowling Green|14|St. Bonaventure|21
@@ -444,6 +450,7 @@
 11/22/1947|East Carolina|12|North Carolina State Freshmen|20
 11/22/1947|Brigham Young|7|San Diego State|32
 11/22/1947|California|21|Stanford|18
+11/22/1947|New Mexico State|0|UTEP|26
 11/22/1947|Georgia|27|Tennessee-Chattanooga|0
 11/22/1947|Maryland|20|Vanderbilt|6
 11/22/1947|Arizona State|7|West Texas A&M|35
