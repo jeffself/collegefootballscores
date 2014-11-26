@@ -55,7 +55,7 @@
 09/25/1948|Duke|0|North Carolina State|0
 09/25/1948|Bowling Green|13|Ohio|7
 09/25/1948|Missouri|7|Ohio State|21
-09/25/1948|Fresno State|6|Portland(OR)|6
+09/25/1948|Fresno State|6|Portland|6
 09/25/1948|Maryland|19|Richmond|0
 09/25/1948|Ball State|0|St. Josephs(IN)|33
 09/25/1948|Mississippi State|21|Tennessee|6
@@ -391,7 +391,7 @@
 11/13/1948|Ball State|10|Indiana State|7
 11/13/1948|Florida|15|Kentucky|34
 11/13/1948|North Texas|6|Houston|8
-11/13/1948|Portland(OR)|0|Idaho|28
+11/13/1948|Portland|0|Idaho|28
 11/13/1948|Ohio State|34|Illinois|7
 11/13/1948|Minnesota|28|Iowa|21
 11/13/1948|Michigan State|48|Iowa State|7

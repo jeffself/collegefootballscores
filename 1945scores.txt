@@ -243,7 +243,7 @@
 11/03/1945|Mississippi State|13|Tulane|14
 11/09/1945|South Carolina|13|Miami(FL)|13
 11/09/1945|Eastern Michigan|14|Wayne State|13
-11/10/1945|Cal Poly-San Luis Obispo|6|Arizona|37
+11/10/1945|Cal Poly-SLO|6|Arizona|37
 11/10/1945|Louisiana-Lafayette|0|Auburn|52
 11/10/1945|Utah State|7|Colorado|14
 11/10/1945|Colorado State|12|Denver|35

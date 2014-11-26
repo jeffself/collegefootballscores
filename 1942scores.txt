@@ -48,7 +48,7 @@
 09/26/1942|St. Louis|7|Missouri|38
 09/26/1942|Brigham Young|12|Montana|6
 09/26/1942|William & Mary|3|Navy|0
-09/26/1942|Cal Poly-San Luis Obispo|0|Nevada|18
+09/26/1942|Cal Poly-SLO|0|Nevada|18
 09/26/1942|Northern Arizona|6|New Mexico|26
 09/26/1942|Wake Forest|0|North Carolina|6
 09/26/1942|Arizona State|6|San Francisco|54
@@ -399,7 +399,7 @@
 11/21/1942|Missouri|12|Fordham|20
 11/21/1942|Auburn|27|Georgia|13
 11/21/1942|Florida|7|Georgia Tech|20
-11/21/1942|Portland(OR)|14|Idaho|20
+11/21/1942|Portland|14|Idaho|20
 11/21/1942|Great Lakes NTS(IL)|6|Illinois|0
 11/21/1942|Nebraska|0|Iowa Navy Pre-Flight|46
 11/21/1942|Iowa State|6|Kansas State|7

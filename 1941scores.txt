@@ -4,7 +4,7 @@
 09/20/1941|Transylvania(KY)|0|Cincinnati|46
 09/20/1941|Presbyterian|12|Clemson|41
 09/20/1941|Randolph-Macon(VA)|0|Florida|26
-09/20/1941|Portland(OR)|6|Hawaii|33
+09/20/1941|Portland|6|Hawaii|33
 09/20/1941|Louisiana Tech|0|LSU|25
 09/20/1941|Hanover(IN)|0|Miami(OH)|53
 09/20/1941|Lenoir-Rhyne(NC)|6|North Carolina|42
@@ -51,7 +51,7 @@
 09/27/1941|Michigan State|7|Michigan|19
 09/27/1941|Florida|0|Mississippi State|6
 09/27/1941|William & Mary|0|Navy|34
-09/27/1941|Cal Poly-San Luis Obispo|0|Nevada|32
+09/27/1941|Cal Poly-SLO|0|Nevada|32
 09/27/1941|South Carolina|13|North Carolina|7
 09/27/1941|Arizona|7|Notre Dame|38
 09/27/1941|Missouri|7|Ohio State|12
