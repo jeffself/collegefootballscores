@@ -91,6 +91,7 @@
 10/04/1947|St. Bonaventure|14|Cincinnati|20
 10/04/1947|Wake Forest|16|Clemson|14
 10/04/1947|Utah State|26|Colorado State|13
+10/04/1947|North Carolina State|14|Davidson|0
 10/04/1947|Bowling Green|13|Dayton|20
 10/04/1947|Louisville|37|DePauw(IN)|0
 10/04/1947|Marshall|7|Eastern Kentucky|6
@@ -312,6 +313,7 @@
 11/01/1947|Pittsburgh|0|Minnesota|29
 11/01/1947|Nebraska|6|Missouri|47
 11/01/1947|Tennessee|6|North Carolina|20
+11/01/1947|Tennessee-Chattanooga|0|North Carolina State|21
 11/01/1947|Navy|0|Notre Dame|27
 11/01/1947|Cincinnati|34|Ohio|0
 11/01/1947|Indiana|7|Ohio State|0
@@ -404,6 +406,7 @@
 11/15/1947|Temple|6|Michigan State|14
 11/15/1947|Tennessee-Chattanooga|0|Mississippi|52
 11/15/1947|Oklahoma|21|Missouri|12
+11/15/1947|Wake Forest|0|North Carolina State|20
 11/15/1947|Houston|0|North Texas|33
 11/15/1947|Illinois|28|Ohio State|7
 11/15/1947|Louisiana Tech|13|Oklahoma City|28
@@ -458,6 +461,7 @@
 11/22/1947|New Mexico State|0|UTEP|26
 11/22/1947|Georgia|27|Tennessee-Chattanooga|0
 11/22/1947|Maryland|20|Vanderbilt|6
+11/22/1947|North Carolina State|7|Virginia|2
 11/22/1947|Arizona State|7|West Texas A&M|35
 11/22/1947|Bowling Green|0|William & Mary|20
 11/27/1947|Arkansas|27|Tulsa|13

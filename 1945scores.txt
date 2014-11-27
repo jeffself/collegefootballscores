@@ -29,6 +29,7 @@
 09/22/1945|Pocatello Marine Base(ID)|0|Nevada|65
 09/22/1945|Eastern New Mexico|0|New Mexico|78
 09/22/1945|Camp Lee(VA)|0|North Carolina|6
+09/22/1945|Milligan(TN)|12|North Carolina State|47
 09/22/1945|Iowa State|6|Northwestern|18
 09/28/1945|Maxwell Field(AL)|7|Auburn|0
 09/28/1945|Kansas|20|Denver|19
@@ -67,6 +68,7 @@
 09/29/1945|Indiana|7|Northwestern|7
 09/29/1945|Bowling Green|6|Ohio|0
 09/29/1945|Nevada|33|Utah|14
+09/29/1945|North Carolina State|6|Virginia|26
 09/29/1945|Connecticut|46|Worcester Tech(MA)|0
 10/05/1945|Georgia|27|Miami(FL)|21
 10/05/1945|Louisiana Tech|14|Louisiana-Lafayette|12
@@ -134,6 +136,7 @@
 10/13/1945|Louisiana Tech|21|Mississippi|26
 10/13/1945|Detroit|6|Mississippi State|41
 10/13/1945|Penn State|0|Navy|28
+10/13/1945|VMI|21|North Carolina State|14
 10/13/1945|North Carolina|0|Pennsylvania|49
 10/13/1945|Michigan State|12|Pittsburgh|7
 10/13/1945|Iowa|0|Purdue|40
@@ -165,6 +168,7 @@
 10/20/1945|Kansas State|7|Missouri|41
 10/20/1945|Georgia Tech|6|Navy|20
 10/20/1945|Cherry Point Marines(NC)|14|North Carolina|20
+10/20/1945|Wake Forest|19|North Carolina State|18
 10/20/1945|Louisiana-Lafayette|0|Northwestern State|0
 10/20/1945|Kansas|7|Oklahoma|39
 10/20/1945|Arizona|46|San Diego State|0
@@ -203,6 +207,7 @@
 10/27/1945|Ohio State|20|Minnesota|7
 10/27/1945|Arkansas|19|Mississippi|0
 10/27/1945|Nebraska|0|Missouri|19
+10/27/1945|William & Mary|6|North Carolina State|20
 10/27/1945|Iowa|0|Notre Dame|56
 10/27/1945|Navy|14|Pennsylvania|7
 10/27/1945|Baylor|13|Texas A&M|19
@@ -236,6 +241,7 @@
 11/03/1945|Kansas|13|Nebraska|27
 11/03/1945|Fresno State|4|Nevada|7
 11/03/1945|Colorado|6|New Mexico|12
+11/03/1945|Virginia Tech|0|North Carolina State|6
 11/03/1945|Navy|6|Notre Dame|6
 11/03/1945|Idaho|0|Oregon State|34
 11/03/1945|North Carolina|6|Tennessee|20

@@ -4,6 +4,7 @@
 09/19/1942|Franklin(IN)|0|Ball State|38
 09/19/1942|Blackland AFB(TX)|0|Baylor|68
 09/19/1942|Presbyterian(SC)|13|Clemson|32
+09/19/1942|North Carolina State|0|Davidson|0
 09/19/1942|Florida|7|Jacksonville NAS(FL)|20
 09/19/1942|Washington(MO)|7|Iowa|26
 09/19/1942|Iowa Navy Pre-Flight|61|Kansas|0
@@ -51,6 +52,7 @@
 09/26/1942|Cal Poly-SLO|0|Nevada|18
 09/26/1942|Northern Arizona|6|New Mexico|26
 09/26/1942|Wake Forest|0|North Carolina|6
+09/26/1942|Richmond|0|North Carolina State|13
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Buffalo|19|Susquehanna(PA)|0
 09/26/1942|Kansas State|0|Texas|64
@@ -146,6 +148,7 @@
 10/10/1942|Wayne State|6|Michigan State|46
 10/10/1942|Indiana|12|Nebraska|0
 10/10/1942|New Mexico State|0|New Mexico|32
+10/10/1942|North Carolina Navy Pre-Flight|19|North Carolina State|7
 10/10/1942|Navy|0|Princeton|10
 10/10/1942|Kansas|6|TCU|41
 10/10/1942|Brigham Young|12|Utah|7
@@ -192,6 +195,7 @@
 10/17/1942|Minnesota|15|Nebraska|2
 10/17/1942|Stockton Motor Base(CA)|0|Nevada|33
 10/17/1942|Dusquesne(PA)|6|North Carolina|13
+10/17/1942|Wake Forest|0|North Carolina State|0
 10/17/1942|Akron|7|Ohio Wesleyan|19
 10/17/1942|Indiana|19|Pittsburgh|7
 10/17/1942|Miami(FL)|31|St. Louis|6
@@ -219,6 +223,7 @@
 10/24/1942|Mississippi State|26|Florida|12
 10/24/1942|Fort Ord(CA)|0|Fresno State|80
 10/24/1942|Army|14|Harvard|0
+10/24/1942|North Carolina State|0|Holy Cross|28
 10/24/1942|Notre Dame|21|Illinois|14
 10/24/1942|Iowa|14|Indiana|13
 10/24/1942|Kansas|19|Kansas State|7
@@ -371,6 +376,7 @@
 11/14/1942|West Texas A&M|13|New Mexico|7
 11/14/1942|Albuquerque AFB(NM)|13|New Mexico State|0
 11/14/1942|Duke|13|North Carolina|13
+11/14/1942|Georgetown(DC)|28|North Carolina State|20
 11/14/1942|Arizona State|14|Northern Arizona|2
 11/14/1942|Colorado State|14|Northern Colorado|6
 11/14/1942|Michigan|32|Notre Dame|20

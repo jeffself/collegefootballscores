@@ -16,6 +16,7 @@
 09/23/1944|Fort Warren(WY)|7|Colorado|6
 09/23/1944|Michigan|14|Marquette|0
 09/23/1944|Northern Arizona|14|New Mexico|47
+09/23/1944|Milligan(TN)|7|North Carolina State|27
 09/23/1944|Connecticut|27|Norwich(VT)|0
 09/23/1944|Richmond|7|Duke|61
 09/23/1944|Mayport NAS(FL)|6|Florida|36
@@ -59,6 +60,7 @@
 09/30/1944|Missouri|0|Ohio State|54
 09/30/1944|Duke|7|Pennsylvania|18
 09/30/1944|Kentucky|13|Tennessee|26
+09/30/1944|North Carolina State|13|Virginia|0
 10/01/1944|Alameda Coast Guard(CA)|35|Nevada|0
 10/06/1944|Presbyterian(SC)|0|Georgia|67
 10/07/1944|Samford(AL)|7|Alabama|63
@@ -117,6 +119,7 @@
 10/14/1944|Duke|0|Navy|7
 10/14/1944|2nd Air Force(CO)|89|New Mexico|6
 10/14/1944|Cherry Point Marines(NC)|14|North Carolina|20
+10/14/1944|Catawba|7|North Carolina State|12
 10/14/1944|Florida|0|Tennessee|40
 10/14/1944|Nevada|6|Tonopah AAB(NV)|7
 10/14/1944|Colorado|26|Utah|0
@@ -142,6 +145,7 @@
 10/21/1944|Tulsa|47|Mississippi|0
 10/21/1944|Iowa State|21|Missouri|21
 10/21/1944|Miami(OH)|26|Murray State|14
+10/21/1944|Wake Forest|21|North Carolina State|7
 10/21/1944|Indiana|14|Northwestern|7
 10/21/1944|Kansas State|0|Oklahoma|68
 10/21/1944|Illinois|39|Pittsburgh|5
@@ -165,6 +169,7 @@
 10/28/1944|Purdue|14|Michigan|40
 10/28/1944|Missouri|20|Nebraska|24
 10/28/1944|Utah|19|Nevada|14
+10/28/1944|William & Mary|2|North Carolina State|19
 10/28/1944|Louisiana Tech|21|Northwestern State|7
 10/28/1944|Minnesota|14|Ohio State|34
 10/28/1944|Navy|26|Pennsylvania|0
@@ -197,6 +202,7 @@
 11/04/1944|Indiana|7|Ohio State|21
 11/04/1944|Michigan|41|Pennsylvania|19
 11/04/1944|Arkansas|7|Texas A&M|6
+11/04/1944|North Carolina State|21|VMI|6
 11/04/1944|Clemson|7|Wake Forest|13
 11/04/1944|Kansas State|15|Wichita State|0
 11/05/1944|Nevada|12|Edmonton AAB(AB)|0
@@ -250,6 +256,7 @@
 11/18/1944|Purdue|0|Navy|32
 11/18/1944|Maryland|19|Penn State|34
 11/18/1944|Army|62|Pennsylvania|7
+11/18/1944|North Carolina State|39|Richmond|0
 11/18/1944|Arkansas|12|SMU|20
 11/18/1944|Duke|34|South Carolina|7
 11/18/1944|New Mexico|7|Texas Tech|13

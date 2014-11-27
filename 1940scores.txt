@@ -1,6 +1,7 @@
 09/20/1940|SE Louisiana|0|Louisiana-Lafayette|7
 09/20/1940|Arkansas State|6|NW Mississippi JC|6
 09/20/1940|Western New Mexico|0|New Mexico State|12
+09/20/1940|North Carolina State|16|William & Mary|0
 09/21/1940|Detroit Tech|0|Akron|0
 09/21/1940|California-Davis|13|Arizona State|21
 09/21/1940|Centre(KY)|0|Boston College|40
@@ -56,6 +57,7 @@
 09/28/1940|Arkansas State|12|Missouri-Rolla|44
 09/28/1940|William & Mary|7|Navy|19
 09/28/1940|Wake Forest|12|North Carolina|0
+09/28/1940|Davidson|0|North Carolina State|34
 09/28/1940|Idaho|0|Oregon State|41
 09/28/1940|Buffalo|6|Susquehanna(PA)|20
 09/28/1940|Colorado|7|Texas|39
@@ -77,6 +79,7 @@
 10/05/1940|Wittenberg(OH)|14|Bowling Green|0
 10/05/1940|Drexel Institute(PA)|13|Buffalo|20
 10/05/1940|St. Mary's(CA)|6|California|9
+10/05/1940|North Carolina State|7|Clemson|26
 10/05/1940|Kansas State|6|Colorado|7
 10/05/1940|Massachusetts|0|Connecticut|13
 10/05/1940|North Carolina|27|Davidson|7
@@ -97,7 +100,6 @@
 10/05/1940|Nebraska|7|Minnesota|13
 10/05/1940|Louisiana-Lafayette|0|Mississippi State|20
 10/05/1940|Cincinnati|0|Navy|14
-10/05/1940|Clemson|26|North Carolina State|7
 10/05/1940|Miami(OH)|7|Ohio Wesleyan|24
 10/05/1940|Maryland|0|Pennsylvania|51
 10/05/1940|Missouri|13|Pittsburgh|19
@@ -289,6 +291,7 @@
 11/02/1940|Kansas State|0|Michigan State|32
 11/02/1940|New York(NY)|0|Missouri|33
 11/02/1940|Bradley|14|New Mexico State|7
+11/02/1940|Furman|20|North Carolina State|6
 11/02/1940|Arizona State|12|Northern Arizona|0
 11/02/1940|Minnesota|13|Northwestern|12
 11/02/1940|Army|0|Notre Dame|7
@@ -343,6 +346,7 @@
 11/09/1940|Notre Dame|13|Navy|7
 11/09/1940|Iowa|6|Nebraska|14
 11/09/1940|New Mexico State|6|New Mexico|39
+11/09/1940|Wake Forest|20|North Carolina State|14
 11/09/1940|Illinois|14|Northwestern|32
 11/09/1940|North Carolina|13|Richmond|14
 11/09/1940|Kansas State|13|South Carolina|20
@@ -365,6 +369,7 @@
 11/16/1940|Georgetown(DC)|18|Boston College|19
 11/16/1940|Wayne State|6|Buffalo|0
 11/16/1940|Oregon|6|California|14
+11/16/1940|North Carolina State|20|Citadel|14
 11/16/1940|Brigham Young|2|Colorado|25
 11/16/1940|Navy|0|Columbia|0
 11/16/1940|Central Michigan|7|DeSales(OH)|0
@@ -419,7 +424,7 @@
 11/23/1940|Auburn|7|Boston College|33
 11/23/1940|SMU|7|Baylor|4
 11/23/1940|Brigham Young|13|Colorado State|13
-11/23/1940|North Carolina State|6|Duke|43
+11/23/1940|North Carolina State|6|Duke|42
 11/23/1940|Clemson|13|Furman|7
 11/23/1940|Florida|16|Georgia Tech|7
 11/23/1940|Illinois|7|Iowa|18

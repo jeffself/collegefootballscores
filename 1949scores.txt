@@ -159,6 +159,7 @@
 10/08/1949|Oklahoma State|7|Missouri|21
 10/08/1949|Duke|14|Navy|28
 10/08/1949|New Mexico Military Institute|28|New Mexico State|45
+10/08/1949|Davidson|20|North Carolina State|14
 10/08/1949|Eastern Michigan|14|Northern Illinois|39
 10/08/1949|Nevada|6|Pacific|47
 10/08/1949|Boston College|14|Penn State|32
@@ -315,6 +316,7 @@
 10/29/1949|California|35|UCLA|21
 10/29/1949|Auburn|7|Vanderbilt|26
 10/29/1949|Massachusetts|20|Vermont|12
+10/29/1949|North Carolina State|14|Virginia Tech|13
 10/29/1949|Miami(OH)|34|Western Michigan|20
 10/29/1949|Akron|13|Wooster(OH)|13
 10/29/1949|Brigham Young|0|Wyoming|45
@@ -355,6 +357,7 @@
 11/05/1949|Tennessee-Chattanooga|27|Mississippi|47
 11/05/1949|Kansas|27|Nebraska|13
 11/05/1949|Middle Tennessee State|55|North Alabama|17
+11/05/1949|Richmond|6|North Carolina State|20
 11/05/1949|Cincinnati|34|Ohio|13
 11/05/1949|Arkansas|0|Rice|14
 11/05/1949|Houston|14|St. Bonaventure|20
@@ -406,6 +409,7 @@
 11/12/1949|Columbia|0|Navy|34
 11/12/1949|Colorado|15|New Mexico|17
 11/12/1949|Northern Arizona|0|New Mexico State|35
+11/12/1949|Wake Forest|14|North Carolina State|27
 11/12/1949|Houston|23|North Texas|28
 11/12/1949|Illinois|17|Ohio State|30
 11/12/1949|Oklahoma|27|Missouri|7
@@ -458,6 +462,7 @@
 11/19/1949|Kansas State|27|Tulsa|48
 11/19/1949|Memphis|35|Union(TN)|0
 11/19/1949|Marshall|6|Vanderbilt|27
+11/19/1949|North Carolina State|21|Villanova|45
 11/24/1949|Union(TN)|12|Arkansas State|13
 11/24/1949|Miami(OH)|6|Cincinnati|27
 11/24/1949|San José State|43|Fresno State|7
@@ -486,6 +491,7 @@
 11/26/1949|Virginia|7|North Carolina|14
 11/26/1949|Brigham Young|14|Pepperdine|28
 11/26/1949|LSU|21|Tulane|0
+11/26/1949|North Carolina State|7|William & Mary|33
 12/02/1949|Fresno State|14|Hawaii|41
 12/02/1949|Maryland|13|Miami(FL)|0
 12/03/1949|Auburn|14|Alabama|13

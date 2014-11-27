@@ -24,6 +24,7 @@
 09/25/1943|Western Michigan|6|Michigan|57
 09/25/1943|North Carolina Navy Pre-Flight|0|Navy|31
 09/25/1943|Reno AAB(NV)|0|Nevada|28
+09/25/1943|Newport News Apprentice|0|North Carolina State|18
 09/25/1943|Indiana|6|Northwestern|14
 09/25/1943|Iowa|7|Great Lakes NTS(IL)|21
 09/25/1943|Curtis Bay Coast Guard(MD)|13|Maryland|7
@@ -60,6 +61,7 @@
 10/09/1943|Temple|0|Army|51
 10/09/1943|Patterson Field(OH)|0|Bowling Green|31
 10/09/1943|Pacific|12|California|6
+10/09/1943|North Carolina State|0|Camp Davis(NC)|27
 10/09/1943|Utah|0|Colorado|35
 10/09/1943|Georgia Navy Pre-Flight|7|Georgia Tech|35
 10/09/1943|Iowa Navy Pre-Flight|25|Iowa|0
@@ -93,6 +95,7 @@
 10/16/1943|Iowa Navy Pre-Flight|21|Missouri|6
 10/16/1943|Penn State|6|Navy|14
 10/16/1943|Northern Arizona|6|New Mexico|26
+10/16/1943|Wake Forest|54|North Carolina State|6
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|California|13|UCLA|0
 10/16/1943|Nevada|27|Utah|19
@@ -114,6 +117,7 @@
 10/23/1943|Minnesota|6|Michigan|49
 10/23/1943|Georgia Tech|14|Navy|28
 10/23/1943|Kansas|6|Nebraska|7
+10/23/1943|Greenville AAB(SC)|6|North Carolina State|7
 10/23/1943|Illinois|0|Notre Dame|47
 10/23/1943|Iowa State|12|Ottumwa NAS(IA)|13
 10/23/1943|Iowa|7|Purdue|28
@@ -166,6 +170,7 @@
 11/13/1943|UCLA|6|California|13
 11/13/1943|Georgia Navy Pre-Flight|32|Clemson|6
 11/13/1943|Navy|61|Columbia|0
+11/13/1943|North Carolina State|20|Davidson|0
 11/13/1943|New Mexico|33|Denver|13
 11/13/1943|Iowa State|20|Drake|0
 11/13/1943|Virginia|0|Duke|49
@@ -203,6 +208,7 @@
 11/20/1943|Wisconsin|13|Minnesota|25
 11/25/1943|Kansas|7|Fort Riley(KS)|22
 11/25/1943|51th General Hospital(TX)|0|New Mexico State|27
+11/25/1943|North Carolina Navy Pre-Flight|19|North Carolina State|7
 11/25/1943|Arkansas|0|Tulsa|61
 11/25/1943|Maryland|21|VMI|14
 11/25/1943|Miami(OH)|52|Xavier(OH)|7
