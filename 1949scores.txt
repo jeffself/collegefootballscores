@@ -1,3 +1,4 @@
+09/10/1949|North Texas|34|Howard Payne(TX)|14
 09/15/1949|Cherry Point Marines(NC)|0|East Carolina|24
 09/16/1949|Furman|0|Georgia|25
 09/16/1949|Mississippi|40|Memphis|7
@@ -6,6 +7,7 @@
 09/17/1949|Nevada|41|Cincinnati|21
 09/17/1949|Presbyterian|7|Clemson|69
 09/17/1949|Colorado State|14|Colorado College|7
+09/17/1949|North Texas|7|Hardin-Simmons(TX)|13
 09/17/1949|William & Mary|14|Houston|13
 09/17/1949|Louisiana Tech|19|Howard Payne(TX)|22
 09/17/1949|Willamette(OR)|0|Idaho|79
@@ -22,7 +24,7 @@
 09/23/1949|Tennessee-Chattanooga|6|Georgia|42
 09/23/1949|Moiliili Cards(HI)|6|Hawaii|59
 09/23/1949|Western Reserve(OH)|23|Kent State|20
-09/23/1949|Memphis|70|Tampa(FL)|6
+09/23/1949|Memphis|70|Tampa|6
 09/24/1949|Findlay(OH)|0|Akron|34
 09/24/1949|Tulane|28|Alabama|14
 09/24/1949|North Texas|19|Arkansas|33
@@ -39,7 +41,7 @@
 09/24/1949|Colorado State|14|Denver|13
 09/24/1949|Richmond|0|Duke|67
 09/24/1949|Lenoir-Rhyne(NC)|21|East Carolina|20
-09/24/1949|Citadel(SC)|0|Florida|13
+09/24/1949|Citadel|0|Florida|13
 09/24/1949|Cal Poly-SLO|7|Fresno State|20
 09/24/1949|Vanderbilt|7|Georgia Tech|12
 09/24/1949|Iowa State|20|Illinois|20
@@ -76,6 +78,7 @@
 09/30/1949|Rollins(FL)|13|Miami(FL)|52
 09/30/1949|Maryville(TN)|13|Middle Tennessee State|45
 09/30/1949|New Mexico|14|New Mexico State|13
+09/30/1949|North Texas|26|Oklahoma City|7
 10/01/1949|Utah|12|Arizona|12
 10/01/1949|Hardin-Simmons(TX)|34|Arizona State|13
 10/01/1949|TCU|7|Arkansas|27
@@ -160,6 +163,7 @@
 10/08/1949|Duke|14|Navy|28
 10/08/1949|New Mexico Military Institute|28|New Mexico State|45
 10/08/1949|Davidson|20|North Carolina State|14
+10/08/1949|Midwestern State(TX)|20|North Texas|17
 10/08/1949|Eastern Michigan|14|Northern Illinois|39
 10/08/1949|Nevada|6|Pacific|47
 10/08/1949|Boston College|14|Penn State|32
@@ -176,7 +180,7 @@
 10/14/1949|LSU|0|Georgia|7
 10/14/1949|Central Michigan|12|Kent State|26
 10/14/1949|Purdue|14|Miami(FL)|0
-10/14/1949|Fresno State|7|UCSB|14
+10/14/1949|Fresno State|7|California-Santa Barbara|14
 10/15/1949|Tennessee|7|Alabama|7
 10/15/1949|Buffalo|32|Alfred(NY)|6
 10/15/1949|UTEP|28|Arizona|0
@@ -210,6 +214,7 @@
 10/15/1949|William & Mary|13|Michigan State|42
 10/15/1949|Wichita State|7|Nevada|20
 10/15/1949|Wake Forest|14|North Carolina|28
+10/15/1949|Stephen F. Austin|6|North Texas|25
 10/15/1949|Michigan|20|Northwestern|21
 10/15/1949|Minnesota|27|Ohio State|0
 10/15/1949|Kansas|26|Oklahoma|48
@@ -262,6 +267,7 @@
 10/22/1949|Navy|7|Pennsylvania|28
 10/22/1949|Illinois|19|Purdue|0
 10/22/1949|Kentucky|7|SMU|20
+10/22/1949|North Texas|41|Sam Houston State|14
 10/22/1949|Florida State|6|Sewanee(TN)|0
 10/22/1949|Mississippi|27|TCU|33
 10/22/1949|Arizona|7|Texas Tech|27
@@ -292,7 +298,7 @@
 10/29/1949|Alabama|14|Georgia|7
 10/29/1949|Duke|27|Georgia Tech|14
 10/29/1949|Midwestern State(TX)|33|Houston|21
-10/29/1949|Portland(OR)|21|Idaho|49
+10/29/1949|Portland|21|Idaho|49
 10/29/1949|Michigan|13|Illinois|0
 10/29/1949|Wisconsin|30|Indiana|14
 10/29/1949|Oregon|31|Iowa|34
@@ -310,6 +316,7 @@
 10/29/1949|Notre Dame|40|Navy|0
 10/29/1949|Arizona State|28|New Mexico|19
 10/29/1949|Tennessee|35|North Carolina|6
+10/29/1949|Texas State|7|North Texas|41
 10/29/1949|Iowa State|7|Oklahoma|34
 10/29/1949|Florida State|33|Stetson(FL)|14
 10/29/1949|Mississippi State|6|Tulane|54
@@ -367,6 +374,7 @@
 11/05/1949|Marshall|20|Tennessee Tech|7
 11/05/1949|Baylor|0|Texas|20
 11/05/1949|Navy|21|Tulane|21
+11/05/1949|North Texas|32|Trinity(TX)|21
 11/05/1949|Colorado State|21|Utah|12
 11/05/1949|Florida State|6|West Alabama|13
 11/05/1949|North Carolina|20|William & Mary|14
@@ -459,6 +467,7 @@
 11/19/1949|Buffalo|20|Ohio|7
 11/19/1949|California|33|Stanford|14
 11/19/1949|Baylor|35|SMU|26
+11/19/1949|North Texas|59|TAMU-Commerce|6
 11/19/1949|Kansas State|27|Tulsa|48
 11/19/1949|Memphis|35|Union(TN)|0
 11/19/1949|Marshall|6|Vanderbilt|27

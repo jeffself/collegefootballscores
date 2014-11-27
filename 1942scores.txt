@@ -1,6 +1,7 @@
 09/17/1942|Rio Grande(OH)|0|Louisville|25
 09/18/1942|Western Reserve(OH)|39|Akron|0
 09/18/1942|Tennessee-Chattanooga|7|Auburn|20
+09/18/1942|North Texas|0|Howard Payne(TX)|14
 09/19/1942|Franklin(IN)|0|Ball State|38
 09/19/1942|Blackland AFB(TX)|0|Baylor|68
 09/19/1942|Presbyterian(SC)|13|Clemson|32
@@ -53,6 +54,7 @@
 09/26/1942|Northern Arizona|6|New Mexico|26
 09/26/1942|Wake Forest|0|North Carolina|6
 09/26/1942|Richmond|0|North Carolina State|13
+09/26/1942|North Texas|7|SMU|26
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Buffalo|19|Susquehanna(PA)|0
 09/26/1942|Kansas State|0|Texas|64
@@ -81,6 +83,7 @@
 10/03/1942|Miami(OH)|7|Dartmouth|58
 10/03/1942|Occidental(CA)|6|Fresno State|53
 10/03/1942|Furman|7|Georgia|40
+10/03/1942|North Texas|0|Hardin-Simmons(TX)|34
 10/03/1942|Butler|0|Illinois|67
 10/03/1942|Great Lakes NTS(IL)|25|Iowa|0
 10/03/1942|Fort Riley(KS)|21|Kansas State|7
@@ -149,6 +152,7 @@
 10/10/1942|Indiana|12|Nebraska|0
 10/10/1942|New Mexico State|0|New Mexico|32
 10/10/1942|North Carolina Navy Pre-Flight|19|North Carolina State|7
+10/10/1942|Fort Hood(TX)|0|North Texas|47
 10/10/1942|Navy|0|Princeton|10
 10/10/1942|Kansas|6|TCU|41
 10/10/1942|Brigham Young|12|Utah|7
@@ -246,6 +250,7 @@
 10/24/1942|Nebraska|7|Oklahoma|0
 10/24/1942|Idaho|0|Oregon|28
 10/24/1942|Duke|28|Pittsburgh|0
+10/24/1942|North Texas|20|Sam Houston State|21
 10/24/1942|Memphis|19|Tennessee-Chattanooga|44
 10/24/1942|Marshall|0|Toledo|7
 10/24/1942|North Carolina|14|Tulane|29
@@ -254,6 +259,7 @@
 10/30/1942|Wayne State|0|Central Michigan|13
 10/30/1942|Kentucky|27|George Washington|6
 10/30/1942|Louisiana Tech|7|Louisiana-Lafayette|12
+10/30/1942|Texas State|6|North Texas|10
 10/31/1942|Baldwin-Wallace(OH)|22|Akron|0
 10/31/1942|Massachusetts|0|Amherst(MA)|43
 10/31/1942|Hardin-Simmons(TX)|34|Arizona|26
@@ -299,6 +305,7 @@
 11/05/1942|Murray State|0|Memphis|21
 11/06/1942|Hillsdale(MI)|13|Eastern Michigan|19
 11/06/1942|Northwestern State|11|Louisiana-Lafayette|6
+11/06/1942|Austin(TX)|12|North Texas|32
 11/06/1942|Iowa State|7|Villanova|32
 11/07/1942|South Carolina|0|Alabama|29
 11/07/1942|New Mexico|13|Arizona|14
@@ -350,6 +357,7 @@
 11/13/1942|Charleston(WV)|6|Marshall|0
 11/13/1942|Murray State|14|Middle Tennessee State|14
 11/13/1942|Memphis|14|SE Louisiana|38
+11/13/1942|North Texas|7|TAMU-Commerce|16
 11/14/1942|Kent State|23|Akron|6
 11/14/1942|Eastern Michigan|0|Albion(MI)|12
 11/14/1942|Virginia Tech|7|Army|19

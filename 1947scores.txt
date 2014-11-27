@@ -1,3 +1,4 @@
+09/13/1947|North Texas|27|Midwestern State(TX)|6
 09/17/1947|Moiliili Bears(HI)|6|Hawaii|18
 09/19/1947|Niagara(NY)|14|Buffalo|27
 09/19/1947|Central Michigan|14|Detroit|34
@@ -23,6 +24,7 @@
 09/20/1947|St. Louis|0|Missouri|19
 09/20/1947|Northern Arizona|0|Nevada|50
 09/20/1947|McMurry(TX)|22|New Mexico State|7
+09/20/1947|Brooke Army Medical Center(TX)|0|North Texas|44
 09/20/1947|Middle Tennessee State|13|SE Missouri State|0
 09/25/1947|Memphis|0|Middle Tennessee State|20
 09/26/1947|Eastern Michigan|0|Alma(MI)|12
@@ -215,6 +217,7 @@
 10/18/1947|Memphis|7|Murray St|14
 10/18/1947|Sul Ross State|14|New Mexico State|27
 10/18/1947|Florida|7|North Carolina State|6
+10/18/1947|Stephen F. Austin|7|North Texas|13
 10/18/1947|Michigan|49|Northwestern|21
 10/18/1947|Nebraska|0|Notre Dame|31
 10/18/1947|Iowa|13|Ohio State|13
@@ -239,6 +242,7 @@
 10/24/1947|Western Kentucky|13|Louisville|19
 10/24/1947|George Washington(DC)|7|Miami(FL)|28
 10/24/1947|West Texas A&M|34|New Mexico State|7
+10/24/1947|North Texas|27|Sam Houston State|0
 10/24/1947|Central Michigan|7|Youngstown State|13
 10/25/1947|New Mexico|12|Arizona|22
 10/25/1947|Central Arkansas|0|Arkansas State|0
@@ -314,6 +318,7 @@
 11/01/1947|Nebraska|6|Missouri|47
 11/01/1947|Tennessee|6|North Carolina|20
 11/01/1947|Tennessee-Chattanooga|0|North Carolina State|21
+11/01/1947|Texas State|7|North Texas|27
 11/01/1947|Navy|0|Notre Dame|27
 11/01/1947|Cincinnati|34|Ohio|0
 11/01/1947|Indiana|7|Ohio State|0
@@ -332,6 +337,7 @@
 11/07/1947|Montana|21|Idaho|0
 11/07/1947|Eastern Kentucky|13|Louisville|14
 11/07/1947|Memphis NAS(TN)|0|Memphis|58
+11/07/1947|North Texas|33|Trinity(TX)|7
 11/08/1947|Pensacola NAS(FL)|6|Arkansas State|7
 11/08/1947|Mississippi State|14|Auburn|0
 11/08/1947|Wake Forest|14|Boston College|13
@@ -459,6 +465,7 @@
 11/22/1947|Brigham Young|7|San Diego State|32
 11/22/1947|California|21|Stanford|18
 11/22/1947|New Mexico State|0|UTEP|26
+11/22/1947|North Texas|12|TAMU-Commerce|6
 11/22/1947|Georgia|27|Tennessee-Chattanooga|0
 11/22/1947|Maryland|20|Vanderbilt|6
 11/22/1947|North Carolina State|7|Virginia|2
@@ -474,6 +481,7 @@
 11/27/1947|Fresno State|21|San José State|20
 11/27/1947|Houston|0|Sam Houston State|23
 11/27/1947|Northwestern State|7|Louisiana-Lafayette|9
+11/27/1947|North Texas|14|Tennessee-Chattanooga|7
 11/29/1947|Kansas|54|Arizona|28
 11/29/1947|Kansas State|7|Florida|25
 11/29/1947|Georgia|0|Georgia Tech|7

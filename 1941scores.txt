@@ -57,6 +57,7 @@
 09/27/1941|South Carolina|13|North Carolina|7
 09/27/1941|Arizona|7|Notre Dame|38
 09/27/1941|Missouri|7|Ohio State|12
+09/27/1941|North Texas|0|SMU|54
 09/27/1941|Massachusetts|7|Springfield(MA)|7
 09/27/1941|Boston College|7|Tulane|21
 09/27/1941|Louisiana Tech|0|UTEP|0
@@ -88,6 +89,7 @@
 10/04/1941|Tampa|6|Florida|46
 10/04/1941|South Carolina|6|Georgia|34
 10/04/1941|Tennessee-Chattanooga|0|Georgia Tech|20
+10/04/1941|North Texas|7|Hardin-Simmons(TX)|3
 10/04/1941|Miami(OH)|0|Illinois|45
 10/04/1941|Eastern Michigan|0|Illinois State|0
 10/04/1941|Nebraska|14|Iowa State|0
@@ -122,6 +124,7 @@
 10/10/1941|Millsaps(MS)|0|Louisiana-Lafayette|6
 10/10/1941|West Alabama|0|Memphis|38
 10/10/1941|Austin Peay State|0|Middle Tennessee State|28
+10/10/1941|Arkansas-Monticello|0|North Texas|60
 10/10/1941|Miami|20|Tampa(FL)|6
 10/11/1941|Samford(AL)|0|Alabama|61
 10/11/1941|Nevada|7|Arizona|26
@@ -159,6 +162,7 @@
 10/17/1941|Na Alii(HI)|6|Hawaii|19
 10/17/1941|Rollins(FL)|0|Miami|21
 10/17/1941|Gordon(GA)|0|Middle Tennessee State|26
+10/17/1941|North Texas|28|Stephen F. Austin|0
 10/17/1941|Louisville|13|Transylvania(KY)|0
 10/17/1941|Memphis|7|Union(TN)|6
 10/17/1941|Baylor|6|Villanova|14
@@ -242,6 +246,7 @@
 10/25/1941|Nebraska|0|Missouri|6
 10/25/1941|California-Santa Barbara|0|Nevada|7
 10/25/1941|Newberry(SC)|0|North Carolina State|44
+10/25/1941|Sam Houston State|0|North Texas|19
 10/25/1941|Illinois|14|Notre Dame|49
 10/25/1941|Maryland|6|Pennsylvania|55
 10/25/1941|Duke|27|Pittsburgh|7
@@ -265,6 +270,7 @@
 10/31/1941|Louisiana-Lafayette|0|Louisiana Tech|12
 10/31/1941|Texas Tech|0|Miami|6
 10/31/1941|Arizona State|6|Northern Colorado|0
+10/31/1941|North Texas|10|Texas State|6
 11/01/1941|Ohio Wesleyan|6|Akron|28
 11/01/1941|Kentucky|0|Alabama|30
 11/01/1941|Massachusetts|0|Amherst(MA)|20
@@ -311,6 +317,7 @@
 11/07/1941|Na Alii(HI)|14|Hawaii|33
 11/07/1941|Stephen F. Austin|0|Louisiana-Lafayette|25
 11/07/1941|West Virginia Wesleyan|0|Miami|34
+11/07/1941|Austin(TX)|6|North Texas|26
 11/07/1941|Arkansas State|0|Union(TN)|70
 11/07/1941|Akron|0|Youngstown State|19
 11/08/1941|Northern Arizona|0|Arizona|41
@@ -394,6 +401,7 @@
 11/15/1941|Temple|0|Michigan State|46
 11/15/1941|Oklahoma|0|Missouri|28
 11/15/1941|Middle Tennessee State|6|Murray State|34
+11/15/1941|TAMU-Commerce|8|North Texas|15
 11/15/1941|Nebraska|7|Pittsburgh|14
 11/15/1941|Illinois|7|Ohio State|12
 11/15/1941|Arizona|14|Oklahoma State|41

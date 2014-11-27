@@ -1,6 +1,7 @@
 09/07/1948|Kauai Broncos|0|Hawaii|20
 09/17/1948|East Carolina|6|Cherry Point Marines(NC)|13
 09/17/1948|Cardinals(HI)|0|Hawaii|47
+09/17/1948|North Texas|6|Oklahoma City|14
 09/18/1948|Abilene Christian|6|Arkansas|40
 09/18/1948|Louisiana-Lafayette|0|Austin(TX)|14
 09/18/1948|San Diego State|6|Brigham Young|14
@@ -53,6 +54,7 @@
 09/25/1948|Iowa State|15|Nebraska|19
 09/25/1948|Texas|7|North Carolina|34
 09/25/1948|Duke|0|North Carolina State|0
+09/25/1948|Randolph Field(TX)|0|North Texas|86
 09/25/1948|Bowling Green|13|Ohio|7
 09/25/1948|Missouri|7|Ohio State|21
 09/25/1948|Fresno State|6|Portland|6
@@ -112,6 +114,7 @@
 10/02/1948|Idaho|12|UCLA|28
 10/02/1948|Arizona|14|Utah|47
 10/02/1948|Colorado State|9|Utah State|7
+10/02/1948|North Texas|20|West Texas A&M|7
 10/02/1948|Miami(OH)|49|Western Reserve(OH)|0
 10/02/1948|Illinois|16|Wisconsin|20
 10/02/1948|Connecticut|0|Yale|7
@@ -209,6 +212,7 @@
 10/16/1948|Kansas State|0|Oklahoma|42
 10/16/1948|Memphis|21|Pensacola NAS(FL)|27
 10/16/1948|Massachusetts|12|Rhode Island|19
+10/16/1948|North Texas|19|Stephen F. Austin|6
 10/16/1948|New Mexico State|12|Sul Ross State(TX)|47
 10/16/1948|Alabama|6|Tennessee|21
 10/16/1948|Arkansas|6|Texas|14
@@ -253,6 +257,7 @@
 10/23/1948|UTEP|27|New Mexico|13
 10/23/1948|New Mexico Highlands|0|New Mexico State|26
 10/23/1948|LSU|7|North Carolina|34
+10/23/1948|Sam Houston State|7|North Texas|37
 10/23/1948|Louisiana Tech|10|Northwestern State|7
 10/23/1948|Miami(OH)|21|Ohio|0
 10/23/1948|Michigan State|14|Penn State|14
@@ -312,6 +317,7 @@
 10/30/1948|Baylor|6|TCU|3
 10/30/1948|North Carolina|14|Tennessee|7
 10/30/1948|Arkansas|28|Texas A&M|6
+10/30/1948|North Texas|14|Texas State|24
 10/30/1948|Mississippi State|0|Tulane|9
 10/30/1948|Colorado|12|Utah|14
 10/30/1948|Ball State|20|Valparaiso(IN)|0
@@ -365,6 +371,7 @@
 11/06/1948|Maryland|19|South Carolina|7
 11/06/1948|Army|43|Stanford|0
 11/06/1948|Mississippi|34|Tennessee-Chattanooga|7
+11/06/1948|North Texas|27|Trinity(TX)|12
 11/06/1948|LSU|7|Vanderbilt|48
 11/07/1948|Nevada|0|Santa Clara|14
 11/11/1948|Nevada|53|Fresno State|7
@@ -447,6 +454,7 @@
 11/20/1948|Washington State|0|Michigan State|40
 11/20/1948|Missouri|33|Nebraska|6
 11/20/1948|Duke|0|North Carolina|20
+11/20/1948|TAMU-Commerce|7|North Texas|27
 11/20/1948|Illinois|7|Northwestern|20
 11/20/1948|Louisiana-Lafayette|28|Northwestern State|7
 11/20/1948|Michigan|13|Ohio State|3
