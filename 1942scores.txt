@@ -54,6 +54,7 @@
 09/26/1942|Northern Arizona|6|New Mexico|26
 09/26/1942|Wake Forest|0|North Carolina|6
 09/26/1942|Richmond|0|North Carolina State|13
+09/26/1942|UW-Whitewater|0|Northern Illinois|13
 09/26/1942|North Texas|7|SMU|26
 09/26/1942|Arizona State|6|San Francisco|54
 09/26/1942|Buffalo|19|Susquehanna(PA)|0
@@ -77,6 +78,7 @@
 10/03/1942|Lafayette|0|Army|14
 10/03/1942|West Virginia|0|Boston College|33
 10/03/1942|St. Lawrence(NY)|0|Buffalo|20
+10/03/1942|Northern Illinois|0|Camp Grant(IL)|41
 10/03/1942|North Carolina State|7|Clemson|6
 10/03/1942|Colorado School of Mines|0|Colorado State|27
 10/03/1942|Massachusetts|0|Connecticut|26
@@ -153,6 +155,7 @@
 10/10/1942|New Mexico State|0|New Mexico|32
 10/10/1942|North Carolina Navy Pre-Flight|19|North Carolina State|7
 10/10/1942|Fort Hood(TX)|0|North Texas|47
+10/10/1942|Western Illinois|14|Northern Illinois|14
 10/10/1942|Navy|0|Princeton|10
 10/10/1942|Kansas|6|TCU|41
 10/10/1942|Brigham Young|12|Utah|7
@@ -254,6 +257,7 @@
 10/24/1942|Memphis|19|Tennessee-Chattanooga|44
 10/24/1942|Marshall|0|Toledo|7
 10/24/1942|North Carolina|14|Tulane|29
+10/24/1942|Northern Illinois|7|UW-Stevens Point|0
 10/24/1942|California|19|Washington|6
 10/30/1942|Santa Ana AAB(CA)|40|Arizona State|0
 10/30/1942|Wayne State|0|Central Michigan|13
@@ -291,6 +295,7 @@
 10/31/1942|New Mexico|0|Nevada|0
 10/31/1942|West Texas A&M|23|New Mexico State|0
 10/31/1942|North Carolina State|21|North Carolina|14
+10/31/1942|Southern Illinois|7|Northern Illinois|34
 10/31/1942|Navy|0|Notre Dame|9
 10/31/1942|Fresno State|13|Pacific|0
 10/31/1942|Army|0|Pennsylvania|19
@@ -351,6 +356,7 @@
 11/07/1942|Akron|6|Wayne State|28
 11/07/1942|Marshall|7|Xavier(OH)|13
 11/11/1942|San Francisco|33|Fresno State|13
+11/11/1942|Northern Illinois|6|Illinois State|6
 11/11/1942|California-Davis|0|Nevada|14
 11/13/1942|Bowling Green|0|Findlay(OH)|0
 11/13/1942|Georgia|40|Tennessee-Chattanooga|0
@@ -387,6 +393,7 @@
 11/14/1942|Georgetown(DC)|28|North Carolina State|20
 11/14/1942|Arizona State|14|Northern Arizona|2
 11/14/1942|Colorado State|14|Northern Colorado|6
+11/14/1942|Eastern Illinois|0|Northern Illinois|1
 11/14/1942|Michigan|32|Notre Dame|20
 11/14/1942|Missouri|6|Oklahoma|6
 11/14/1942|Illinois|20|Ohio State|44

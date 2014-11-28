@@ -15,6 +15,7 @@
 09/21/1946|Mississippi|6|Kentucky|20
 09/21/1946|Northern Arizona|7|New Mexico|12
 09/21/1946|Western New Mexico|0|New Mexico State|37
+09/21/1946|Aurora Clippers(IL)|0|Northern Illinois|20
 09/21/1946|Miami(OH)|7|Purdue|13
 09/21/1946|Louisiana Tech|6|Southern Miss|7
 09/21/1946|Missouri|0|Texas|42
@@ -39,6 +40,7 @@
 09/28/1946|Moravian(PA)|7|Buffalo|40
 09/28/1946|Wisconsin|28|California|7
 09/28/1946|Kentucky|26|Cincinnati|7
+09/28/1946|Northern Illinois|49|Elmhurst(IL)|6
 09/28/1946|Mississippi|13|Florida|7
 09/28/1946|Kansas State|7|Hardin-Simmons(TX)|21
 09/28/1946|Connecticut|0|Harvard|7
@@ -83,6 +85,7 @@
 10/04/1946|Wittenberg(OH)|0|Louisville|19
 10/04/1946|North Carolina|21|Miami(FL)|0
 10/04/1946|West Texas A&M|0|New Mexico|6
+10/04/1946|Eastern Illinois|0|Northern Illinois|26
 10/04/1946|Missouri|19|St. Louis|14
 10/04/1946|Louisiana-Lafayette|13|SE Louisiana|27
 10/04/1946|Georgia|35|Temple|7
@@ -167,6 +170,7 @@
 10/12/1946|New Mexico|7|New Mexico State|6
 10/12/1946|Maryland|0|North Carolina|33
 10/12/1946|Brooke Army Medical Center(TX)|7|North Texas|23
+10/12/1946|Wheaton(IL)|0|Northern Illinois|20
 10/12/1946|Central Michigan|60|Northern Michigan|0
 10/12/1946|Minnesota|7|Northwestern|14
 10/12/1946|Fresno State|7|Oklahoma City|46
@@ -208,6 +212,7 @@
 10/19/1946|San Francisco|20|Mississippi State|48
 10/19/1946|Iowa State|13|Missouri|33
 10/19/1946|Akron|7|Mount Union|12
+10/19/1946|Illinois Wesleyan|0|Northern Illinois|20
 10/19/1946|Kansas State|7|Oklahoma|28
 10/19/1946|North Carolina|21|Navy|14
 10/19/1946|New Mexico State|6|Northern Arizona|14
@@ -321,6 +326,7 @@
 11/02/1946|Colorado|0|Utah|7
 11/02/1946|North Carolina State|49|VMI|7
 11/02/1946|Clemson|14|Virginia Tech|7
+11/02/1946|Northern Illinois|14|Western Illinois|13
 11/02/1946|Central Michigan|21|Western Michigan|27
 11/02/1946|Akron|13|Western Reserve(OH)|6
 11/02/1946|Maryland|7|William & Mary|41
@@ -361,6 +367,7 @@
 11/09/1946|California-Santa Barbara|13|Nevada|48
 11/09/1946|Texas Tech|27|New Mexico|0
 11/09/1946|McMurry(TX)|7|North Texas|7
+11/09/1946|Illinois State|3|Northern Illinois|14
 11/09/1946|Indiana|7|Northwestern|6
 11/09/1946|Army|0|Notre Dame|0
 11/09/1946|Kent State|7|Ohio Wesleyan|0
@@ -423,6 +430,7 @@
 11/16/1946|Missouri|6|Oklahoma|27
 11/16/1946|Army|34|Pennsylvania|7
 11/16/1946|Duke|39|South Carolina|0
+11/16/1946|Northern Illinois|10|Southern Illinois|0
 11/16/1946|Baylor|0|Tulsa|17
 11/22/1946|Brigham Young|14|UTEP|13
 11/22/1946|East Carolina|0|Lenoir-Rhyne(NC)|6
@@ -449,6 +457,7 @@
 11/23/1946|Kansas State|7|New Mexico|14
 11/23/1946|Duke|7|North Carolina|22
 11/23/1946|TAMU-Commerce|7|North Texas|47
+11/23/1946|Millikin(IL)|0|Northern Illinois|20
 11/23/1946|Illinois|20|Northwestern|0
 11/23/1946|Louisiana-Lafayette|14|Northwestern State|0
 11/23/1946|Michigan|58|Ohio State|6
@@ -457,18 +466,19 @@
 11/23/1946|Georgia|48|Tennessee-Chattanooga|27
 11/23/1946|Minnesota|6|Wisconsin|0
 11/27/1946|Healani AC(HI)|6|Hawaii|58
-11/28/1946|Arizona State|19|Wichita State|34
-11/28/1946|Arkansas|13|Tulsa|14
 11/28/1946|Arkansas State|30|Central Arkansas|12
 11/28/1946|Miami(OH)|7|Cincinnati|13
 11/28/1946|Colorado State|0|Colorado|18
+11/28/1946|Northern Illinois|7|Evansville|19
 11/28/1946|East Carolina|53|Fort Bragg(NC)|0
 11/28/1946|Fresno State|13|Idaho|12
 11/28/1946|Sam Houston State|28|Houston|6
 11/28/1946|Kansas|20|Missouri|19
 11/28/1946|Xavier(OH)|27|Marshall|21
 11/28/1946|Middle Tennessee State|7|Tennessee Tech|21
+11/28/1946|Arkansas|13|Tulsa|14
 11/28/1946|New Mexico State|14|UTEP|7
+11/28/1946|Arizona State|19|Wichita State|34
 11/29/1946|Union(TN)|0|Louisiana-Lafayette|25
 11/29/1946|Detroit|7|Miami(FL)|21
 11/30/1946|Kansas State|7|Arizona|28

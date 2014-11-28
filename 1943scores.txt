@@ -74,6 +74,7 @@
 10/09/1943|Duke|13|Navy|14
 10/09/1943|Indiana|54|Nebraska|13
 10/09/1943|Jacksonville NAS(FL)|0|North Carolina|23
+10/09/1943|Wheaton(IL)|0|Northern Illinois|0
 10/09/1943|Clemson|7|VMI|12
 10/09/1943|Illinois|25|Wisconsin|7
 10/10/1943|Tonopah AAB(NV)|0|Nevada|25
@@ -101,6 +102,7 @@
 10/16/1943|Nevada|27|Utah|19
 10/16/1943|Eastern Michigan|14|Wayne State(MI)|0
 10/16/1943|Maryland|2|West Virginia|6
+10/16/1943|Northern Illinois|33|Western Illinois|14
 10/16/1943|Miami(OH)|0|Western Michigan|6
 10/17/1943|Boston College Student Army Trg Corps|0|Boston College|7
 10/21/1943|Clemson|6|South Carolina|33
@@ -118,6 +120,7 @@
 10/23/1943|Georgia Tech|14|Navy|28
 10/23/1943|Kansas|6|Nebraska|7
 10/23/1943|Greenville AAB(SC)|6|North Carolina State|7
+10/23/1943|Wilson JC(IL)|12|Northern Illinois|39
 10/23/1943|Illinois|0|Notre Dame|47
 10/23/1943|Iowa State|12|Ottumwa NAS(IA)|13
 10/23/1943|Iowa|7|Purdue|28
@@ -143,6 +146,7 @@
 10/30/1943|Iowa State|7|Oklahoma|21
 10/30/1943|Army|13|Pennsylvania|13
 10/30/1943|California|0|Southern California|13
+10/30/1943|Northern Illinois|13|Wheaton(IL)|20
 10/31/1943|Brooklyn(NY)|6|Boston College|37
 11/06/1943|Louisiana-Lafayette|20|Arkansas-Monticello|20
 11/06/1943|Notre Dame|26|Army|0
@@ -158,6 +162,7 @@
 11/06/1943|Indiana|6|Michigan|23
 11/06/1943|Purdue|14|Minnesota|7
 11/06/1943|Duke|75|North Carolina State|0
+11/06/1943|Concordia(IL)|0|Northern Illinois|12
 11/06/1943|Kansas|13|Oklahoma|26
 11/06/1943|Navy|24|Pennsylvania|7
 11/06/1943|Arkansas|7|Rice|20
@@ -184,6 +189,7 @@
 11/13/1943|Iowa|14|Minnesota|33
 11/13/1943|Oklahoma|20|Missouri|13
 11/13/1943|El Paso All-Stars(TX)|6|New Mexico State|32
+11/13/1943|Elmhurst(IL)|7|Northern Illinois|20
 11/13/1943|Illinois|26|Ohio State|29
 11/13/1943|Bowling Green|20|Ohio Wesleyan|32
 11/13/1943|North Carolina|9|Pennsylvania|6

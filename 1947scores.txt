@@ -3,6 +3,7 @@
 09/19/1947|Niagara(NY)|14|Buffalo|27
 09/19/1947|Central Michigan|14|Detroit|34
 09/19/1947|Furman|7|Georgia|13
+09/19/1947|Aurora Clippers(IL)|6|Northern Illinois|6
 09/20/1947|Southern Mississippi|7|Alabama|34
 09/20/1947|Cal Poly-SLO|6|Arizona State|33
 09/20/1947|Northwestern State|0|Arkansas|64
@@ -36,6 +37,7 @@
 09/26/1947|Baylor|18|Miami(FL)|7
 09/26/1947|Buffalo|7|Moravian(PA)|0
 09/26/1947|New Mexico State|13|Northern Colorado|14
+09/26/1947|Northern Illinois|7|St. Ambrose(IA)|20
 09/26/1947|Iowa|7|UCLA|22
 09/26/1947|Kansas State|6|UTEP|20
 09/26/1947|Mississippi State|19|Tennessee-Chattanooga|0
@@ -205,6 +207,7 @@
 10/18/1947|Texas A&M-Commerce|33|Houston|7
 10/18/1947|Portland|14|Idaho|20
 10/18/1947|Minnesota|13|Illinois|40
+10/18/1947|Northern Illinois|7|Illinois State|7
 10/18/1947|Pittsburgh|6|Indiana|41
 10/18/1947|Kalamazoo(MI)|0|Kent State|13
 10/18/1947|Louisiana Tech|30|Louisiana College|12
@@ -275,6 +278,7 @@
 10/25/1947|Iowa|0|Notre Dame|21
 10/25/1947|Navy|0|Pennsylvania|21
 10/25/1947|Illinois|7|Purdue|14
+10/25/1947|Northern Illinois|0|Southern Illinois|20
 10/25/1947|Baylor|0|Texas A&M|24
 10/25/1947|Akron|7|Toledo|38
 10/25/1947|Auburn|0|Tulane|40
@@ -319,6 +323,7 @@
 11/01/1947|Tennessee|6|North Carolina|20
 11/01/1947|Tennessee-Chattanooga|0|North Carolina State|21
 11/01/1947|Texas State|7|North Texas|27
+11/01/1947|Western Illinois|0|Northern Illinois|33
 11/01/1947|Navy|0|Notre Dame|27
 11/01/1947|Cincinnati|34|Ohio|0
 11/01/1947|Indiana|7|Ohio State|0
@@ -368,6 +373,7 @@
 11/08/1947|Fresno State|3|New Mexico|34
 11/08/1947|North Carolina State|6|North Carolina|41
 11/08/1947|New Mexico State|26|Northern Arizona|6
+11/08/1947|Eastern Illinois|6|Northern Illinois|25
 11/08/1947|Army|7|Notre Dame|27
 11/08/1947|Arkansas|0|Rice|26
 11/08/1947|Bowling Green|14|St. Bonaventure|21
@@ -462,6 +468,7 @@
 11/22/1947|Oklahoma|14|Nebraska|13
 11/22/1947|Texas Tech|26|New Mexico|20
 11/22/1947|East Carolina|12|North Carolina State Freshmen|20
+11/22/1947|Millikin(IL)|6|Northern Illinois|26
 11/22/1947|Brigham Young|7|San Diego State|32
 11/22/1947|California|21|Stanford|18
 11/22/1947|New Mexico State|0|UTEP|26
@@ -483,6 +490,7 @@
 11/27/1947|Northwestern State|7|Louisiana-Lafayette|9
 11/27/1947|North Texas|14|Tennessee-Chattanooga|7
 11/29/1947|Kansas|54|Arizona|28
+11/29/1947|Northern Illinois|0|Evansville|20
 11/29/1947|Kansas State|7|Florida|25
 11/29/1947|Georgia|0|Georgia Tech|7
 11/29/1947|Michigan State|58|Hawaii|19

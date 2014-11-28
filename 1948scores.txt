@@ -1,6 +1,7 @@
 09/07/1948|Kauai Broncos|0|Hawaii|20
 09/17/1948|East Carolina|6|Cherry Point Marines(NC)|13
 09/17/1948|Cardinals(HI)|0|Hawaii|47
+09/17/1948|Aurora Clippers(IL)|12|Northern Illinois|25
 09/17/1948|North Texas|6|Oklahoma City|14
 09/18/1948|Abilene Christian|6|Arkansas|40
 09/18/1948|Louisiana-Lafayette|0|Austin(TX)|14
@@ -26,6 +27,7 @@
 09/24/1948|Kansas|40|Denver|0
 09/24/1948|Kent State|18|Mount Union|0
 09/24/1948|Nevada|39|San José State|0
+09/24/1948|Northern Illinois|30|Washburn(KS)|26
 09/25/1948|San Diego State|6|Arizona|14
 09/25/1948|Western State(CO)|0|Arizona State|23
 09/25/1948|Texas A&M-Commerce|7|Arkansas|46
@@ -72,6 +74,7 @@
 10/01/1948|Boston College|13|Georgetown(DC)|6
 10/01/1948|Murray State|26|Memphis|14
 10/01/1948|Rollins(FL)|0|Miami(FL)|25
+10/01/1948|St. Ambrose(IL)|16|Northern Illinois|13
 10/01/1948|Missouri|60|St. Louis|7
 10/02/1948|Vanderbilt|14|Alabama|14
 10/02/1948|Pepperdine|7|Arizona State|33
@@ -161,6 +164,7 @@
 10/09/1948|Akron|12|Muskingum(OH)|21
 10/09/1948|North Texas|7|Nevada|48
 10/09/1948|New Mexico State|0|New Mexico|61
+10/09/1948|Illinois State|14|Northern Illinois|12
 10/09/1948|Minnesota|16|Northwestern|19
 10/09/1948|Michigan State|7|Notre Dame|26
 10/09/1948|Iowa|14|Ohio State|7
@@ -188,6 +192,7 @@
 10/16/1948|Kent State|28|Central Michigan|0
 10/16/1948|Maine|6|Connecticut|34
 10/16/1948|Western Carolina|39|East Carolina|0
+10/16/1948|Eastern Illinois|15|Northern Illinois|6
 10/16/1948|Florida State|6|Erskine(SC)|14
 10/16/1948|Rollins(FL)|12|Florida|41
 10/16/1948|UCSB|7|Fresno State|28
@@ -258,6 +263,7 @@
 10/23/1948|New Mexico Highlands|0|New Mexico State|26
 10/23/1948|LSU|7|North Carolina|34
 10/23/1948|Sam Houston State|7|North Texas|37
+10/23/1948|Southern Illinois|7|Northern Illinois|25
 10/23/1948|Louisiana Tech|10|Northwestern State|7
 10/23/1948|Miami(OH)|21|Ohio|0
 10/23/1948|Michigan State|14|Penn State|14
@@ -327,6 +333,7 @@
 11/03/1948|Olympic AC(CA)|7|Hawaii|53
 11/05/1948|Cincinnati|6|Miami(FL)|36
 11/05/1948|Brigham Young|6|San José State|21
+11/05/1948|Western Illinois|0|Northern Illinois|18
 11/06/1948|Southern Miss|0|Alabama|27
 11/06/1948|East Carolina|0|Appalachian State|47
 11/06/1948|Rice|25|Arkansas|6
@@ -415,6 +422,7 @@
 11/13/1948|Tennessee|13|Mississippi|16
 11/13/1948|Colorado|13|Missouri|27
 11/13/1948|Connecticut|7|New Hampshire|20
+11/13/1948|UW-Stevens Point|13|Northern Illinois|28
 11/13/1948|Arkansas State|6|Northwestern State|41
 11/13/1948|Nebraska|14|Oklahoma|41
 11/13/1948|Army|26|Pennsylvania|20
@@ -426,6 +434,7 @@
 11/15/1948|Brigham Young|0|Colorado State|20
 11/16/1948|North Carolina State|20|Duquesne(PA)|6
 11/18/1948|Cumberland(TN)|0|Middle Tennessee State|13
+11/19/1948|Eastern Kentucky|32|Northern Illinois|7
 11/19/1948|Arkansas State|13|Memphis|34
 11/19/1948|Fresno State|6|San José State|41
 11/20/1948|Heidelberg(OH)|34|Akron|0

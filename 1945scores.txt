@@ -105,6 +105,7 @@
 10/06/1945|Mississippi|14|Vanderbilt|7
 10/06/1945|North Carolina|14|Virginia Tech|0
 10/06/1945|New Mexico|13|West Texas A&M|0
+10/06/1945|Northern Illinois|7|Wheaton(IL)|0
 10/06/1945|Miami(OH)|14|Wright Field(OH)|0
 10/07/1945|St. Mary's(CA)|39|Nevada|0
 10/11/1945|Arkansas State|18|Central Arkansas|0
@@ -137,6 +138,7 @@
 10/13/1945|Detroit|6|Mississippi State|41
 10/13/1945|Penn State|0|Navy|28
 10/13/1945|VMI|21|North Carolina State|14
+10/13/1945|Western Illinois|6|Northern Illinois|13
 10/13/1945|North Carolina|0|Pennsylvania|49
 10/13/1945|Michigan State|12|Pittsburgh|7
 10/13/1945|Iowa|0|Purdue|40
@@ -155,6 +157,7 @@
 10/20/1945|Colorado College|0|Colorado|31
 10/20/1945|LSU|32|Georgia|0
 10/20/1945|Montana|0|Idaho|46
+10/20/1945|Northern Illinois|0|Illinois Wesleyan|13
 10/20/1945|Indiana|52|Iowa|20
 10/20/1945|Nebraska|7|Iowa State|27
 10/20/1945|Southwestern(TX)|14|Louisiana Tech|20
@@ -196,6 +199,7 @@
 10/27/1945|Eastern Michigan|6|Hillsdale(MI)|0
 10/27/1945|Washington State|21|Idaho|0
 10/27/1945|Michigan|19|Illinois|0
+10/27/1945|Northern Illinois|7|Illinois State|19
 10/27/1945|Tulsa|2|Indiana|7
 10/27/1945|Oklahoma|41|Kansas State|13
 10/27/1945|Vanderbilt|7|LSU|39
@@ -242,6 +246,7 @@
 11/03/1945|Fresno State|4|Nevada|7
 11/03/1945|Colorado|6|New Mexico|12
 11/03/1945|Virginia Tech|0|North Carolina State|6
+11/03/1945|Elmhurst(IL)|0|Northern Illinois|59
 11/03/1945|Navy|6|Notre Dame|6
 11/03/1945|Idaho|0|Oregon State|34
 11/03/1945|North Carolina|6|Tennessee|20
@@ -270,6 +275,7 @@
 11/10/1945|Utah|21|New Mexico|20
 11/10/1945|Louisiana Tech|7|Northwestern State|2
 11/10/1945|Michigan|7|Navy|33
+11/10/1945|Southern Illinois|7|Northern Illinois|13
 11/10/1945|Army|48|Notre Dame|0
 11/10/1945|Iowa State|7|Oklahoma|14
 11/10/1945|Miami(OH)|7|Purdue|21
@@ -293,6 +299,7 @@
 11/17/1945|Fresno State|13|Camp Beale(CA)|21
 11/17/1945|Boston U|0|Connecticut|54
 11/17/1945|Iowa State|8|Drake|6
+11/17/1945|Northern Illinois|14|Eastern Illinois|19
 11/17/1945|Presbyterian(SC)|0|Florida|41
 11/17/1945|Auburn|0|Georgia|35
 11/17/1945|LSU|9|Georgia Tech|7

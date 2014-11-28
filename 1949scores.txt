@@ -2,6 +2,7 @@
 09/15/1949|Cherry Point Marines(NC)|0|East Carolina|24
 09/16/1949|Furman|0|Georgia|25
 09/16/1949|Mississippi|40|Memphis|7
+09/16/1949|Aurora Clippers(IL)|0|Northern Illinois|21
 09/17/1949|UTEP|47|Brigham Young|6
 09/17/1949|Santa Clara|7|California|21
 09/17/1949|Nevada|41|Cincinnati|21
@@ -24,6 +25,7 @@
 09/23/1949|Tennessee-Chattanooga|6|Georgia|42
 09/23/1949|Moiliili Cards(HI)|6|Hawaii|59
 09/23/1949|Western Reserve(OH)|23|Kent State|20
+09/23/1949|Washburn(KS)|27|Northern Illinois|40
 09/23/1949|Memphis|70|Tampa|6
 09/24/1949|Findlay(OH)|0|Akron|34
 09/24/1949|Tulane|28|Alabama|14
@@ -106,6 +108,7 @@
 10/01/1949|Baylor|14|Mississippi State|6
 10/01/1949|Princeton|7|Navy|28
 10/01/1949|Minnesota|28|Nebraska|6
+10/01/1949|Northern Illinois|27|Nebraska-Omaha|8
 10/01/1949|Georgia|14|North Carolina|21
 10/01/1949|Clemson|7|North Carolina State|6
 10/01/1949|Indiana|7|Ohio State|46
@@ -215,6 +218,7 @@
 10/15/1949|Wichita State|7|Nevada|20
 10/15/1949|Wake Forest|14|North Carolina|28
 10/15/1949|Stephen F. Austin|6|North Texas|25
+10/15/1949|Western Illinois|27|Northern Illinois|6
 10/15/1949|Michigan|20|Northwestern|21
 10/15/1949|Minnesota|27|Ohio State|0
 10/15/1949|Kansas|26|Oklahoma|48
@@ -247,6 +251,7 @@
 10/22/1949|Georgia Tech|43|Florida|14
 10/22/1949|Nevada|34|Fresno State|13
 10/22/1949|Hardin-Simmons(TX)|27|Houston|27
+10/22/1949|Northern Illinois|47|Illinois Wesleyan|25
 10/22/1949|Pittsburgh|14|Indiana|48
 10/22/1949|Northwestern|21|Iowa|28
 10/22/1949|Missouri|32|Iowa State|0
@@ -318,6 +323,7 @@
 10/29/1949|Tennessee|35|North Carolina|6
 10/29/1949|Texas State|7|North Texas|41
 10/29/1949|Iowa State|7|Oklahoma|34
+10/29/1949|Northern Illinois|20|Southern Illinois|7
 10/29/1949|Florida State|33|Stetson(FL)|14
 10/29/1949|Mississippi State|6|Tulane|54
 10/29/1949|California|35|UCLA|21
@@ -351,6 +357,7 @@
 11/05/1949|Florida|28|Georgia|7
 11/05/1949|Oregon State|35|Idaho|25
 11/05/1949|Indiana|14|Illinois|33
+11/05/1949|Northern Illinois|14|Illinois State|14
 11/05/1949|Oklahoma|39|Kansas State|0
 11/05/1949|Vanderbilt|13|LSU|33
 11/05/1949|Arkansas State|6|Henderson State|28
@@ -418,6 +425,7 @@
 11/12/1949|Colorado|15|New Mexico|17
 11/12/1949|Northern Arizona|0|New Mexico State|35
 11/12/1949|Wake Forest|14|North Carolina State|27
+11/12/1949|Eastern Illinois|14|Northern Illinois|40
 11/12/1949|Houston|23|North Texas|28
 11/12/1949|Illinois|17|Ohio State|30
 11/12/1949|Oklahoma|27|Missouri|7

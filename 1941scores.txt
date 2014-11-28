@@ -61,6 +61,7 @@
 09/27/1941|Massachusetts|7|Springfield(MA)|7
 09/27/1941|Boston College|7|Tulane|21
 09/27/1941|Louisiana Tech|0|UTEP|0
+09/27/1941|Northern Illinois|14|UW-Whitewater|0
 09/27/1941|Clemson|36|VMI|7
 09/27/1941|Minnesota|14|Washington|6
 09/27/1941|New Mexico State|7|Western New Mexico|6
@@ -135,6 +136,7 @@
 10/11/1941|Arkansas|7|Baylor|20
 10/11/1941|Clemson|26|Boston College|13
 10/11/1941|Santa Clara|13|California|0
+10/11/1941|Fresno State|26|California-Santa Barbara|0
 10/11/1941|Wayne State|0|Cincinnati|37
 10/11/1941|Utah State|7|Colorado|13
 10/11/1941|Buffalo|6|Drexel Institute(PA)|19
@@ -156,7 +158,7 @@
 10/11/1941|Lafayette|2|Navy|41
 10/11/1941|Kansas|0|Nebraska|32
 10/11/1941|Fordham|27|North Carolina|14
-10/11/1941|Fresno State|26|California-Santa Barbara|0
+10/11/1941|Illinois State|0|Northern Illinois|6
 10/11/1941|Connecticut|0|Wesleyan(CT)|7
 10/11/1941|New Mexico State|0|West Texas A&M|51
 10/17/1941|Na Alii(HI)|6|Hawaii|19
@@ -196,6 +198,7 @@
 10/18/1941|Arizona|31|New Mexico|6
 10/18/1941|Arizona State|19|New Mexico State|14
 10/18/1941|Wake Forest|7|North Carolina State|0
+10/18/1941|Wheaton(IL)|0|Northern Illinois|24
 10/18/1941|Michigan|14|Northwestern|7
 10/18/1941|Louisiana Tech|10|Northwestern State|0
 10/18/1941|California|7|Oregon|19
@@ -257,6 +260,7 @@
 10/25/1941|Cincinnati|6|Tennessee|21
 10/25/1941|Baylor|0|Texas A&M|48
 10/25/1941|Mississippi|20|Tulane|13
+10/25/1941|Northern Illinois|33|UW-Oshkosh|6
 10/25/1941|Colorado State|7|Utah State|6
 10/25/1941|Ball State|40|Valparaiso(IN)|0
 10/25/1941|North Carolina|0|Wake Forest|13
@@ -308,6 +312,7 @@
 11/01/1941|Navy|13|Pennsylvania|6
 11/01/1941|Mississippi State|20|Rhodes(TN)|6
 11/01/1941|Maryland|0|Rutgers|20
+11/01/1941|Northern Illinois|7|Southern Illinois|13
 11/01/1941|California|27|UCLA|7
 11/01/1941|Colorado|6|Utah|46
 11/01/1941|Brigham Young|28|Utah State|0
@@ -349,6 +354,7 @@
 11/08/1941|New Mexico|28|New Mexico State|0
 11/08/1941|Missouri|26|New York(NY)|0
 11/08/1941|Virginia Tech|14|North Carolina State|13
+11/08/1941|UW-Stevens Point|12|Northern Illinois|32
 11/08/1941|Indiana|14|Northwestern|20
 11/08/1941|Iowa State|0|Oklahoma|55
 11/08/1941|Michigan State|0|Purdue|0
@@ -383,6 +389,7 @@
 11/15/1941|Iowa State|13|Drake|14
 11/15/1941|North Carolina|0|Duke|20
 11/15/1941|Mississippi State|0|Duquesne(PA)|16
+11/15/1941|Northern Illinois|19|Eastern Illinois|0
 11/15/1941|North Carolina State|7|Georgetown(DC)|20
 11/15/1941|Centre(KY)|6|Georgia|47
 11/15/1941|Montana|16|Idaho|0
@@ -418,6 +425,7 @@
 11/20/1941|Washington & Lee|0|Maryland|6
 11/20/1941|Union(TN)|14|Middle Tennessee State|14
 11/20/1941|Virginia|28|North Carolina|7
+11/20/1941|Northern Illinois|25|Western Illinois|7
 11/21/1941|Memphis|26|Austin Peay|0
 11/21/1941|South Carolina|6|Miami|7
 11/22/1941|Mississippi|18|Arkansas|0
