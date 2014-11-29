@@ -29,13 +29,14 @@
 09/25/1943|Iowa|7|Great Lakes NTS(IL)|21
 09/25/1943|Curtis Bay Coast Guard(MD)|13|Maryland|7
 09/25/1943|Missouri|13|Minnesota|26
+09/25/1943|Notre Dame|41|Pittsburgh|0
 10/01/1943|Tennessee Tech|0|Georgia|67
 10/01/1943|Kansas|6|Denver|19
 10/01/1943|Miami(OH)|60|Xavier(OH)|6
 10/02/1943|TCU|13|Arkansas|0
 10/02/1943|Colgate|0|Army|42
 10/02/1943|Central Michigan|0|Bowling Green|36
-10/02/1943|Southern Cal|7|California|0
+10/02/1943|Southern California|7|California|0
 10/02/1943|North Carolina State|7|Clemson|19
 10/02/1943|Lowry AFB(CO)|6|Colorado|19
 10/02/1943|North Carolina Navy Pre-Flight|0|Duke|42
@@ -97,6 +98,7 @@
 10/16/1943|Penn State|6|Navy|14
 10/16/1943|Northern Arizona|6|New Mexico|26
 10/16/1943|Wake Forest|54|North Carolina State|6
+10/16/1943|Great Lakes NTS(IL)|0|Northwestern|13
 10/16/1943|Arkansas|0|Texas|34
 10/16/1943|California|13|UCLA|0
 10/16/1943|Nevada|27|Utah|19
@@ -104,6 +106,7 @@
 10/16/1943|Maryland|2|West Virginia|6
 10/16/1943|Northern Illinois|33|Western Illinois|14
 10/16/1943|Miami(OH)|0|Western Michigan|6
+10/16/1943|Notre Dame|50|Wisconsin|0
 10/17/1943|Boston College Student Army Trg Corps|0|Boston College|7
 10/21/1943|Clemson|6|South Carolina|33
 10/23/1943|Bowling Green|7|Baldwin-Wallace(OH)|7
@@ -122,6 +125,7 @@
 10/23/1943|Greenville AAB(SC)|6|North Carolina State|7
 10/23/1943|Wilson JC(IL)|12|Northern Illinois|39
 10/23/1943|Illinois|0|Notre Dame|47
+10/23/1943|Northwestern|13|Ohio State|0
 10/23/1943|Iowa State|12|Ottumwa NAS(IA)|13
 10/23/1943|Iowa|7|Purdue|28
 10/23/1943|Louisiana-Lafayette|27|Southwestern State(TX)|6
@@ -169,6 +173,7 @@
 11/06/1943|North Carolina|21|South Carolina|6
 11/06/1943|Colorado|22|Utah|19
 11/06/1943|Maryland|0|Virginia|39
+11/06/1943|Northwestern|41|Wisconsin|0
 11/07/1943|Rome AAB(NY)|0|Boston College|64
 11/12/1943|Washburn(KS)|13|Kansas State|6
 11/13/1943|Sampson NTS(NY)|7|Army|16
@@ -190,6 +195,7 @@
 11/13/1943|Oklahoma|20|Missouri|13
 11/13/1943|El Paso All-Stars(TX)|6|New Mexico State|32
 11/13/1943|Elmhurst(IL)|7|Northern Illinois|20
+11/13/1943|Notre Dame|25|Northwestern|6
 11/13/1943|Illinois|26|Ohio State|29
 11/13/1943|Bowling Green|20|Ohio Wesleyan|32
 11/13/1943|North Carolina|9|Pennsylvania|6
@@ -210,11 +216,13 @@
 11/20/1943|Duke|27|North Carolina|6
 11/20/1943|Illinois|6|Northwestern|53
 11/20/1943|Iowa|33|Nebraska|13
+11/20/1943|Iowa Navy Pre-Flight|13|Notre Dame|14
 11/20/1943|LSU|0|Tulane|27
 11/20/1943|Wisconsin|13|Minnesota|25
 11/25/1943|Kansas|7|Fort Riley(KS)|22
 11/25/1943|51th General Hospital(TX)|0|New Mexico State|27
 11/25/1943|North Carolina Navy Pre-Flight|19|North Carolina State|7
+11/25/1943|Great Lakes NTS(IL)|19|Notre Dame|14
 11/25/1943|Arkansas|0|Tulsa|61
 11/25/1943|Maryland|21|VMI|14
 11/25/1943|Miami(OH)|52|Xavier(OH)|7

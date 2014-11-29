@@ -122,6 +122,8 @@
 10/05/1946|Vanderbilt|7|Mississippi|0
 10/05/1946|Kansas State|0|Nebraska|31
 10/05/1946|Santa Clara|7|Nevada|33
+10/05/1946|Wisconsin|0|Northwestern|28
+10/05/1946|Pittsburgh|0|Notre Dame|33
 10/05/1946|Buffalo|28|RPI|13
 10/05/1946|Alabama|14|South Carolina|6
 10/05/1946|Arkansas|34|TCU|14
@@ -173,6 +175,7 @@
 10/12/1946|Wheaton(IL)|0|Northern Illinois|20
 10/12/1946|Central Michigan|60|Northern Michigan|0
 10/12/1946|Minnesota|7|Northwestern|14
+10/12/1946|Purdue|6|Notre Dame|49
 10/12/1946|Fresno State|7|Oklahoma City|46
 10/12/1946|Florida|0|Vanderbilt|20
 10/12/1946|Clemson|7|Wake Forest|19
@@ -266,6 +269,7 @@
 10/26/1946|Indiana|27|Nebraska|7
 10/26/1946|Florida|19|North Carolina|40
 10/26/1946|Sam Houston State|12|North Texas|0
+10/26/1946|Pacific|13|Northwestern|26
 10/26/1946|Louisiana Tech|14|Northwestern State|7
 10/26/1946|Massachusetts|14|Norwich(VT)|0
 10/26/1946|Miami(OH)|23|Ohio|14
@@ -320,6 +324,7 @@
 11/02/1946|UTEP|13|New Mexico|21
 11/02/1946|Arizona State|14|New Mexico State|7
 11/02/1946|Boston College|72|New York(NY)|6
+11/02/1946|Ohio State|39|Northwestern|27
 11/02/1946|North Carolina|14|Tennessee|20
 11/02/1946|Arkansas|7|Texas A&M|0
 11/02/1946|Cincinnati|0|Tulsa|20
@@ -375,7 +380,7 @@
 11/09/1946|Connecticut|33|Rhode Island|0
 11/09/1946|Bowling Green|9|St. Bonaventure|13
 11/09/1946|Kansas State|6|San Francisco|38
-11/09/1946|California|0|Southern Cal|14
+11/09/1946|California|0|Southern California|14
 11/09/1946|New Mexico State|26|Sul Ross State|25
 11/09/1946|Clemson|13|Tulane|54
 11/09/1946|Brigham Young|0|Utah State|0
@@ -427,6 +432,7 @@
 11/16/1946|Northern Colorado|7|New Mexico State|20
 11/16/1946|Wake Forest|14|North Carolina|26
 11/16/1946|Virginia|7|North Carolina State|27
+11/16/1946|Northwestern|0|Notre Dame|27
 11/16/1946|Missouri|6|Oklahoma|27
 11/16/1946|Army|34|Pennsylvania|7
 11/16/1946|Duke|39|South Carolina|0
@@ -464,6 +470,7 @@
 11/23/1946|Nebraska|6|Oklahoma|27
 11/23/1946|Indiana|34|Purdue|20
 11/23/1946|Georgia|48|Tennessee-Chattanooga|27
+11/23/1946|Notre Dame|41|Tulane|0
 11/23/1946|Minnesota|6|Wisconsin|0
 11/27/1946|Healani AC(HI)|6|Hawaii|58
 11/28/1946|Arkansas State|30|Central Arkansas|12
@@ -492,6 +499,7 @@
 11/30/1946|Southwestern(TX)|20|Louisiana Tech|34
 11/30/1946|Washington State|20|Michigan State|26
 11/30/1946|Maryland|7|North Carolina State|28
+11/30/1946|Southern California|6|Notre Dame|26
 11/30/1946|Nebraska|0|UCLA|18
 11/30/1946|North Carolina|49|Virginia|14
 12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
