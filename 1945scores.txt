@@ -19,6 +19,7 @@
 09/22/1945|South Carolina|0|Duke|60
 09/22/1945|Camp Blanding(FL)|2|Florida|31
 09/22/1945|Murray State|0|Georgia|49
+09/22/1945|Oklahoma|21|Hondo AAF(TX)|6
 09/22/1945|Pittsburgh|6|Illinois|23
 09/22/1945|TCU|18|Kansas|0
 09/22/1945|Lake Charles AAF(LA)|2|Louisiana Tech|7
@@ -99,6 +100,7 @@
 10/06/1945|Bowling Green|0|Oberlin(OH)|28
 10/06/1945|Western Michigan|21|Ohio|20
 10/06/1945|Iowa|0|Ohio State|42
+10/06/1945|Texas A&M|19|Oklahoma|14
 10/06/1945|Idaho|7|Oregon|33
 10/06/1945|Arkansas State|6|Southern Illinois|6
 10/06/1945|Missouri|10|SMU|7
@@ -142,6 +144,7 @@
 10/13/1945|Western Illinois|6|Northern Illinois|13
 10/13/1945|Dartmouth|0|Notre Dame|34
 10/13/1945|Wisconsin|0|Ohio State|12
+10/13/1945|Texas|12|Oklahoma|7
 10/13/1945|North Carolina|0|Pennsylvania|49
 10/13/1945|Michigan State|12|Pittsburgh|7
 10/13/1945|Iowa|0|Purdue|40
@@ -256,6 +259,7 @@
 11/03/1945|Navy|6|Notre Dame|6
 11/03/1945|Murray State|19|Ohio|13
 11/03/1945|Northwestern|14|Ohio State|16
+11/03/1945|TCU|13|Oklahoma|7
 11/03/1945|Idaho|0|Oregon State|34
 11/03/1945|North Carolina|6|Tennessee|20
 11/03/1945|Georgia|34|Tennessee-Chattanooga|7
@@ -358,6 +362,7 @@
 11/24/1945|Iowa|6|Nebraska|13
 11/24/1945|Texas Tech|6|New Mexico|6
 11/24/1945|Illinois|7|Northwestern|13
+11/24/1945|Oklahoma State|47|Oklahoma|0
 11/24/1945|Baylor|0|SMU|34
 11/24/1945|Notre Dame|32|Tulane|6
 11/25/1945|Boston College|0|Holy Cross|46

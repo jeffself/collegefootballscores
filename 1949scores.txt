@@ -115,6 +115,7 @@
 10/01/1949|Clemson|7|North Carolina State|6
 10/01/1949|Pittsburgh|16|Northwestern|7
 10/01/1949|Indiana|7|Ohio State|46
+10/01/1949|Texas A&M|13|Oklahoma|33
 10/01/1949|California|41|Oregon State|0
 10/01/1949|Cincinnati|7|Pacific|34
 10/01/1949|Iowa|21|Purdue|7
@@ -181,6 +182,7 @@
 10/08/1949|North Carolina|28|South Carolina|13
 10/08/1949|Ohio State|13|Southern California|13
 10/08/1949|Connecticut|7|Springfield(MA)|26
+10/08/1949|Oklahoma|20|Texas|14
 10/08/1949|Bowling Green|19|Toledo|20
 10/08/1949|Brigham Young|0|Utah|38
 10/08/1949|Mississippi|27|Vanderbilt|28
@@ -488,6 +490,7 @@
 11/19/1949|Iowa|7|Notre Dame|28
 11/19/1949|Buffalo|20|Ohio|7
 11/19/1949|Connecticut|12|Ohio Wesleyan|43
+11/19/1949|Santa Clara|21|Oklahoma|28
 11/19/1949|California|33|Stanford|14
 11/19/1949|Baylor|35|SMU|26
 11/19/1949|North Texas|59|TAMU-Commerce|6
@@ -522,6 +525,7 @@
 11/26/1949|West Texas A&M|41|New Mexico|13
 11/26/1949|Virginia|7|North Carolina|14
 11/26/1949|Southern California|0|Notre Dame|32
+11/26/1949|Oklahoma State|0|Oklahoma|41
 11/26/1949|Brigham Young|14|Pepperdine|28
 11/26/1949|LSU|21|Tulane|0
 11/26/1949|North Carolina State|7|William & Mary|33

@@ -61,6 +61,7 @@
 09/30/1944|Colorado College|25|New Mexico|7
 09/30/1944|Wisconsin|7|Northwestern|6
 09/30/1944|Missouri|0|Ohio State|54
+09/30/1944|Norman NAS(OK)|28|Oklahoma|14
 09/30/1944|Duke|7|Pennsylvania|18
 09/30/1944|Notre Dame|58|Pittsburgh|0
 09/30/1944|Kentucky|13|Tennessee|26
@@ -94,6 +95,7 @@
 10/07/1944|Great Lakes NTS(IL)|25|Northwestern|0
 10/07/1944|Tulane|0|Notre Dame|26
 10/07/1944|Iowa|0|Ohio State|34
+10/07/1944|Texas A&M|14|Oklahoma|21
 10/07/1944|LSU|13|Rice|14
 10/07/1944|Miami(OH)|19|Rochester(NY)|7
 10/07/1944|California|6|Southern California|6
@@ -129,6 +131,7 @@
 10/14/1944|Cherry Point Marines(NC)|14|North Carolina|20
 10/14/1944|Catawba|7|North Carolina State|12
 10/14/1944|Elmhurst(IL)|12|Northern Illinois|25
+10/14/1944|Texas|20|Oklahoma|0
 10/14/1944|Florida|0|Tennessee|40
 10/14/1944|Nevada|6|Tonopah AAB(NV)|7
 10/14/1944|Colorado|26|Utah|0
@@ -186,6 +189,7 @@
 10/28/1944|William & Mary|2|North Carolina State|19
 10/28/1944|Louisiana Tech|21|Northwestern State|7
 10/28/1944|Minnesota|14|Ohio State|34
+10/28/1944|TCU|19|Oklahoma|34
 10/28/1944|Navy|26|Pennsylvania|0
 10/28/1944|Clemson|7|Tennessee|26
 11/03/1944|Florida|13|Miami(FL)|0
@@ -297,6 +301,7 @@
 11/25/1944|Illinois|25|Northwestern|6
 11/25/1944|Louisiana-Lafayette|7|Northwestern State|6
 11/25/1944|Michigan|14|Ohio State|18
+11/25/1944|Oklahoma State|28|Oklahoma|6
 11/25/1944|Indiana|14|Purdue|6
 11/25/1944|Minnesota|28|Wisconsin|26
 11/26/1944|Holy Cross|30|Boston College|14

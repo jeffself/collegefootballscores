@@ -109,6 +109,7 @@
 10/05/1940|Butler|7|Ohio|7
 10/05/1940|Purdue|14|Ohio State|17
 10/05/1940|Miami(OH)|7|Ohio Wesleyan|24
+10/05/1940|Oklahoma State|27|Oklahoma|29
 10/05/1940|Maryland|0|Pennsylvania|51
 10/05/1940|Missouri|13|Pittsburgh|19
 10/05/1940|Mississippi|27|Rhodes(TN)|6
@@ -163,6 +164,7 @@
 10/12/1940|Ohio State|3|Northwestern|6
 10/12/1940|Massachusetts|0|Norwich(VT)|24
 10/12/1940|Georgia Tech|20|Notre Dame|26
+10/12/1940|Texas|19|Oklahoma|16
 10/12/1940|East Carolina|18|Old Dominion|0
 10/12/1940|Navy|12|Princeton|6
 10/12/1940|LSU|0|Rice|23
@@ -466,6 +468,7 @@
 11/23/1940|Redlands(CA)|14|New Mexico State|25
 11/23/1940|Notre Dame|0|Northwestern|20
 11/23/1940|Michigan|40|Ohio State|0
+11/23/1940|Temple|6|Oklahoma|9
 11/23/1940|Army|19|Princeton|26
 11/23/1940|Indiana|3|Purdue|0
 11/23/1940|Kentucky|0|Tennessee|33
@@ -493,6 +496,7 @@
 11/30/1940|Tulane|0|LSU|14
 11/30/1940|Washington & Lee|7|Maryland|7
 11/30/1940|Texas Tech|14|New Mexico|19
+11/30/1940|Oklahoma|13|Santa Clara|33
 11/30/1940|New Mexico State|26|UTEP|40
 12/06/1940|Georgia|28|Miami(FL)|7
 12/07/1940|Villanova|10|Auburn|13

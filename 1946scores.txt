@@ -125,6 +125,7 @@
 10/05/1946|Santa Clara|7|Nevada|33
 10/05/1946|Wisconsin|0|Northwestern|28
 10/05/1946|Pittsburgh|0|Notre Dame|33
+10/05/1946|Texas A&M|7|Oklahoma|10
 10/05/1946|Buffalo|28|RPI|13
 10/05/1946|Alabama|14|South Carolina|6
 10/05/1946|Ohio State|21|Southern California|0
@@ -180,6 +181,7 @@
 10/12/1946|Minnesota|7|Northwestern|14
 10/12/1946|Purdue|6|Notre Dame|49
 10/12/1946|Muskingum(OH)|0|Ohio|38
+10/12/1946|Texas|20|Oklahoma|13
 10/12/1946|Fresno State|7|Oklahoma City|46
 10/12/1946|Florida|0|Vanderbilt|20
 10/12/1946|Clemson|7|Wake Forest|19
@@ -332,6 +334,7 @@
 11/02/1946|Boston College|72|New York(NY)|6
 11/02/1946|Ohio State|39|Northwestern|27
 11/02/1946|Ohio|49|Ohio Wesleyan|7
+11/02/1946|Oklahoma|14|TCU|12
 11/02/1946|North Carolina|14|Tennessee|20
 11/02/1946|Arkansas|7|Texas A&M|0
 11/02/1946|Cincinnati|0|Tulsa|20
@@ -511,6 +514,7 @@
 11/30/1946|Washington State|20|Michigan State|26
 11/30/1946|Maryland|7|North Carolina State|28
 11/30/1946|Southern California|6|Notre Dame|26
+11/30/1946|Oklahoma|73|Oklahoma State|12
 11/30/1946|Nebraska|0|UCLA|18
 11/30/1946|North Carolina|49|Virginia|14
 12/05/1946|Fresno State|41|Moiliili Bears(HI)|0
