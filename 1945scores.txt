@@ -97,6 +97,7 @@
 10/06/1945|Fresno State|19|Northern Arizona|0
 10/06/1945|Michigan|20|Northwestern|7
 10/06/1945|Bowling Green|0|Oberlin(OH)|28
+10/06/1945|Western Michigan|21|Ohio|20
 10/06/1945|Iowa|0|Ohio State|42
 10/06/1945|Idaho|7|Oregon|33
 10/06/1945|Arkansas State|6|Southern Illinois|6
@@ -140,6 +141,7 @@
 10/13/1945|VMI|21|North Carolina State|14
 10/13/1945|Western Illinois|6|Northern Illinois|13
 10/13/1945|Dartmouth|0|Notre Dame|34
+10/13/1945|Wisconsin|0|Ohio State|12
 10/13/1945|North Carolina|0|Pennsylvania|49
 10/13/1945|Michigan State|12|Pittsburgh|7
 10/13/1945|Iowa|0|Purdue|40
@@ -174,6 +176,7 @@
 10/20/1945|Cherry Point Marines(NC)|14|North Carolina|20
 10/20/1945|Wake Forest|19|North Carolina State|18
 10/20/1945|Louisiana-Lafayette|0|Northwestern State|0
+10/20/1945|Purdue|35|Ohio State|13
 10/20/1945|Kansas|7|Oklahoma|39
 10/20/1945|Notre Dame|39|Pittsburgh|9
 10/20/1945|Arizona|46|San Diego State|0
@@ -251,6 +254,7 @@
 11/03/1945|Virginia Tech|0|North Carolina State|6
 11/03/1945|Elmhurst(IL)|0|Northern Illinois|59
 11/03/1945|Navy|6|Notre Dame|6
+11/03/1945|Murray State|19|Ohio|13
 11/03/1945|Northwestern|14|Ohio State|16
 11/03/1945|Idaho|0|Oregon State|34
 11/03/1945|North Carolina|6|Tennessee|20
@@ -260,6 +264,7 @@
 11/09/1945|Eastern Michigan|14|Wayne State|13
 11/10/1945|Cal Poly-SLO|6|Arizona|37
 11/10/1945|Louisiana-Lafayette|0|Auburn|52
+11/10/1945|Ohio|33|Baldwin-Wallace(OH)|7
 11/10/1945|Utah State|7|Colorado|14
 11/10/1945|Colorado State|12|Denver|35
 11/10/1945|Cincinnati|0|Detroit|20
@@ -282,6 +287,7 @@
 11/10/1945|Southern Illinois|7|Northern Illinois|13
 11/10/1945|Army|48|Notre Dame|0
 11/10/1945|Iowa State|7|Oklahoma|14
+11/10/1945|Ohio State|14|Pittsburgh|0
 11/10/1945|Miami(OH)|7|Purdue|21
 11/10/1945|Arkansas|7|Rice|26
 11/10/1945|California|0|Southern California|14
@@ -327,6 +333,7 @@
 11/17/1945|Clemson|47|Tulane|20
 11/17/1945|Alabama|71|Vanderbilt|0
 11/17/1945|Idaho|0|Washington|12
+11/17/1945|Ohio|14|West Virginia|0
 11/18/1945|Great Bend AAB(KS)|13|Nevada|26
 11/22/1945|Miami(OH)|28|Cincinnati|14
 11/22/1945|Colorado|8|Denver|14

@@ -72,6 +72,7 @@
 09/27/1947|Arizona State|25|New Mexico|12
 09/27/1947|Georgia|7|North Carolina|14
 09/27/1947|Vanderbilt|3|Northwestern|0
+09/27/1947|Ohio Northern|0|Ohio|34
 09/27/1947|Missouri|7|Ohio State|13
 09/27/1947|Maryland|19|South Carolina|13
 09/27/1947|Idaho|19|Stanford|16
@@ -118,8 +119,10 @@
 10/04/1947|Columbia|13|Navy|6
 10/04/1947|Minnesota|28|Nebraska|13
 10/04/1947|UCLA|26|Northwestern|27
+10/04/1947|Butler|7|Ohio|14
 10/04/1947|Nevada|13|Oregon|6
 10/04/1947|Notre Dame|40|Pittsburgh|6
+10/04/1947|Ohio State|20|Purdue|24
 10/04/1947|Missouri|19|SMU|35
 10/04/1947|Fresno State|19|Santa Clara|20
 10/04/1947|Connecticut|14|Springfield(MA)|6
@@ -174,6 +177,7 @@
 10/11/1947|Wake Forest|19|North Carolina|7
 10/11/1947|Clemson|0|North Carolina State|18
 10/11/1947|Eastern Michigan|6|Northern Illinois|21
+10/11/1947|Southern California|32|Ohio State|0
 10/11/1947|Arizona State|6|Pepperdine|27
 10/11/1947|Notre Dame|22|Purdue|7
 10/11/1947|Mississippi State|21|San Francisco|14
@@ -181,6 +185,7 @@
 10/11/1947|Brigham Young|6|Utah|28
 10/11/1947|Mississippi|6|Vanderbilt|10
 10/11/1947|Michigan State|21|Washington State|7
+10/11/1947|Ohio|7|Western Reserve(OH)|20
 10/11/1947|California|48|Wisconsin|7
 10/11/1947|Kent State|6|Wooster(OH)|13
 10/11/1947|Massachusetts|33|Worcester Tech(MA)|0
@@ -281,6 +286,7 @@
 10/25/1947|Louisiana Tech|24|Northwestern State|0
 10/25/1947|Iowa|0|Notre Dame|21
 10/25/1947|Navy|0|Pennsylvania|21
+10/25/1947|Ohio State|0|Pittsburgh|12
 10/25/1947|Illinois|7|Purdue|14
 10/25/1947|Northern Illinois|0|Southern Illinois|20
 10/25/1947|Baylor|0|Texas A&M|24
@@ -380,6 +386,7 @@
 11/08/1947|New Mexico State|26|Northern Arizona|6
 11/08/1947|Eastern Illinois|6|Northern Illinois|25
 11/08/1947|Army|7|Notre Dame|27
+11/08/1947|Ohio Wesleyan|7|Ohio|7
 11/08/1947|Northwestern|6|Ohio State|7
 11/08/1947|Arkansas|0|Rice|26
 11/08/1947|Bowling Green|14|St. Bonaventure|21
@@ -410,6 +417,7 @@
 11/15/1947|Wyoming|6|Colorado|21
 11/15/1947|New Hampshire|14|Connecticut|6
 11/15/1947|Florida State|0|Cumberland(TN)|6
+11/15/1947|Ohio|6|Dayton|18
 11/15/1947|South Carolina|0|Duke|0
 11/15/1947|Clemson|34|Duquesne(PA)|13
 11/15/1947|Auburn|6|Georgia|28
@@ -477,6 +485,7 @@
 11/22/1947|East Carolina|12|North Carolina State Freshmen|20
 11/22/1947|Millikin(IL)|6|Northern Illinois|26
 11/22/1947|Tulane|6|Notre Dame|59
+11/22/1947|Xavier(OH)|7|Ohio|12
 11/22/1947|Brigham Young|7|San Diego State|32
 11/22/1947|California|21|Stanford|18
 11/22/1947|New Mexico State|0|UTEP|26

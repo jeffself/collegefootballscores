@@ -60,6 +60,8 @@
 09/28/1940|Wake Forest|12|North Carolina|0
 09/28/1940|Davidson|0|North Carolina State|34
 09/28/1940|UW-Whitewater|6|Northern Illinois|7
+09/28/1940|Youngstown State|0|Ohio|13
+09/28/1940|Pittsburgh|7|Ohio State|30
 09/28/1940|Idaho|0|Oregon State|41
 09/28/1940|Buffalo|6|Susquehanna(PA)|20
 09/28/1940|Colorado|7|Texas|39
@@ -104,6 +106,8 @@
 10/05/1940|Louisiana-Lafayette|0|Mississippi State|20
 10/05/1940|Cincinnati|0|Navy|14
 10/05/1940|Pacific|7|Notre Dame|25
+10/05/1940|Butler|7|Ohio|7
+10/05/1940|Purdue|14|Ohio State|17
 10/05/1940|Miami(OH)|7|Ohio Wesleyan|24
 10/05/1940|Maryland|0|Pennsylvania|51
 10/05/1940|Missouri|13|Pittsburgh|19
@@ -151,6 +155,7 @@
 10/12/1940|Virginia|19|Maryland|6
 10/12/1940|Middle Tennessee State|7|Memphis|14
 10/12/1940|Purdue|7|Michigan State|20
+10/12/1940|Western Michigan|7|Ohio|20
 10/12/1940|Indiana|7|Nebraska|13
 10/12/1940|Idaho State|0|Nevada|62
 10/12/1940|Central Michigan|6|Northern Illinois|9
@@ -213,6 +218,7 @@
 10/19/1940|North Carolina|13|North Carolina State|7
 10/19/1940|Louisiana Tech|0|Northwestern State|13
 10/19/1940|Carnegie Mellon|0|Notre Dame|61
+10/19/1940|Furman|6|Ohio|15
 10/19/1940|Minnesota|13|Ohio State|7
 10/19/1940|Kansas State|0|Oklahoma|14
 10/19/1940|Auburn|13|SMU|20
@@ -244,6 +250,7 @@
 10/26/1940|Dayton|7|Cincinnati|0
 10/26/1940|Wyoming|0|Colorado|62
 10/26/1940|New Mexico|6|Colorado State|7
+10/26/1940|Ohio State|7|Cornell|21
 10/26/1940|North Carolina State Freshmen|26|East Carolina|0
 10/26/1940|Auburn|16|Georgia Tech|7
 10/26/1940|Utah State|0|Idaho|0
@@ -263,6 +270,7 @@
 10/26/1940|Tulane|14|North Carolina|13
 10/26/1940|Mississippi State|26|North Carolina State|10
 10/26/1940|Indiana|7|Northwestern|20
+10/26/1940|Ohio|0|Ohio Wesleyan|0
 10/26/1940|North Texas|7|Sam Houston State|6
 10/26/1940|Florida|0|Tennessee|14
 10/26/1940|Arizona State|0|UTEP|0
@@ -371,6 +379,7 @@
 11/09/1940|California|20|Southern California|7
 11/09/1940|Baylor|0|Texas|13
 11/09/1940|Cincinnati|7|West Virginia|7
+11/09/1940|Ohio|0|Western Reserve(OH)|6
 11/09/1940|Bowling Green|26|Wooster(OH)|14
 11/11/1940|UTEP|6|Fresno State|16
 11/12/1940|Massachusetts|6|Coast Guard(CT)|19
@@ -390,6 +399,7 @@
 11/16/1940|North Carolina State|20|Citadel|14
 11/16/1940|Brigham Young|2|Colorado|25
 11/16/1940|Navy|0|Columbia|0
+11/16/1940|Ohio|7|Dayton|0
 11/16/1940|Central Michigan|7|DeSales(OH)|0
 11/16/1940|Bowling Green|0|Eastern Kentucky|48
 11/16/1940|High Point(NC)|6|East Carolina|0
@@ -437,6 +447,7 @@
 11/21/1940|Nevada|6|Pacific|24
 11/21/1940|Idaho|6|Utah|13
 11/21/1940|Bowling Green|0|Wayne State|19
+11/21/1940|Ohio|0|Xavier(OH)|6
 11/22/1940|South Carolina|7|Miami(FL)|2
 11/22/1940|East Carolina|44|Newport News Apprentice|7
 11/23/1940|Vanderbilt|21|Alabama|25

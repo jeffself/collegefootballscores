@@ -132,6 +132,7 @@
 10/14/1944|Florida|0|Tennessee|40
 10/14/1944|Nevada|6|Tonopah AAB(NV)|7
 10/14/1944|Colorado|26|Utah|0
+10/14/1944|Ohio State|20|Wisconsin|7
 10/19/1944|South Carolina|13|Clemson|20
 10/20/1944|New York(NY)|13|Boston College|42
 10/20/1944|Daniel Field(GA)|6|Georgia|57
@@ -157,6 +158,7 @@
 10/21/1944|Wake Forest|21|North Carolina State|7
 10/21/1944|Indiana|14|Northwestern|7
 10/21/1944|Wisconsin|13|Notre Dame|28
+10/21/1944|Great Lakes NTS(IL)|6|Ohio State|26
 10/21/1944|Kansas State|0|Oklahoma|68
 10/21/1944|Illinois|39|Pittsburgh|5
 10/21/1944|Alabama|0|Tennessee|0
@@ -245,6 +247,7 @@
 11/11/1944|William & Mary|0|North Carolina|0
 11/11/1944|Purdue|27|Northwestern|7
 11/11/1944|Army|59|Notre Dame|0
+11/11/1944|Pittsburgh|19|Ohio State|54
 11/11/1944|Miami(OH)|32|Ohio Wesleyan|20
 11/11/1944|Missouri|21|Oklahoma|21
 11/11/1944|California|0|UCLA|7
