@@ -68,8 +68,10 @@
 09/29/1945|Georgia Tech|20|North Carolina|14
 09/29/1945|Indiana|7|Northwestern|7
 09/29/1945|Bowling Green|6|Ohio|0
+09/29/1945|Camp Beale(CA)|14|Oregon State|14
 09/29/1945|Nevada|33|Utah|14
 09/29/1945|North Carolina State|6|Virginia|26
+09/29/1945|Oregon|6|Washington|20
 09/29/1945|Connecticut|46|Worcester Tech(MA)|0
 10/05/1945|Georgia|27|Miami(FL)|21
 10/05/1945|Louisiana Tech|14|Louisiana-Lafayette|12
@@ -82,6 +84,7 @@
 10/06/1945|DePauw(IN)|0|Cincinnati|7
 10/06/1945|Utah|13|Colorado|18
 10/06/1945|Middlebury(VT)|6|Connecticut|28
+10/06/1945|Oklahoma State|31|Denver|7
 10/06/1945|Navy|21|Duke|0
 10/06/1945|Central Michigan|14|Eastern Kentucky|7
 10/06/1945|Albion(MI)|0|Eastern Michigan|6
@@ -107,6 +110,7 @@
 10/06/1945|Florida|6|Tulane|6
 10/06/1945|Mississippi|14|Vanderbilt|7
 10/06/1945|North Carolina|14|Virginia Tech|0
+10/06/1945|Oregon State|0|Washington State|33
 10/06/1945|New Mexico|13|West Texas A&M|0
 10/06/1945|Northern Illinois|7|Wheaton(IL)|0
 10/06/1945|Miami(OH)|14|Wright Field(OH)|0
@@ -116,6 +120,7 @@
 10/12/1945|Washburn(KS)|0|Kansas|34
 10/12/1945|Merchant Marine(NY)|6|Maryland|22
 10/12/1945|St. Louis|0|Miami(FL)|21
+10/12/1945|SMU|12|Oklahoma State|26
 10/13/1945|Northern Arizona|6|Arizona|52
 10/13/1945|Michigan|7|Army|28
 10/13/1945|South Carolina|0|Alabama|55
@@ -145,6 +150,7 @@
 10/13/1945|Dartmouth|0|Notre Dame|34
 10/13/1945|Wisconsin|0|Ohio State|12
 10/13/1945|Texas|12|Oklahoma|7
+10/13/1945|Oregon|6|Oregon State|19
 10/13/1945|North Carolina|0|Pennsylvania|49
 10/13/1945|Michigan State|12|Pittsburgh|7
 10/13/1945|Iowa|0|Purdue|40
@@ -181,12 +187,15 @@
 10/20/1945|Louisiana-Lafayette|0|Northwestern State|0
 10/20/1945|Purdue|35|Ohio State|13
 10/20/1945|Kansas|7|Oklahoma|39
+10/20/1945|Washington State|13|Oregon|26
+10/20/1945|Washington|13|Oregon State|0
 10/20/1945|Notre Dame|39|Pittsburgh|9
 10/20/1945|Arizona|46|San Diego State|0
 10/20/1945|Fresno State|0|Santa Barbara MAB(CA)|6
 10/20/1945|Baylor|7|Texas Tech|7
 10/20/1945|Auburn|20|Tulane|14
 10/20/1945|Nevada|0|Tulsa|40
+10/20/1945|Oklahoma State|46|Utah|6
 10/20/1945|Colorado State|0|Utah State|13
 10/20/1945|Kentucky|6|Vanderbilt|19
 10/20/1945|Maryland|13|Virginia Tech|21
@@ -223,7 +232,9 @@
 10/27/1945|Purdue|14|Northwestern|26
 10/27/1945|Iowa|0|Notre Dame|56
 10/27/1945|Navy|14|Pennsylvania|7
+10/27/1945|Oklahoma State|25|TCU|12
 10/27/1945|Baylor|13|Texas A&M|19
+10/27/1945|Oregon|0|UCLA|12
 10/27/1945|Maryland|13|West Virginia|13
 10/27/1945|Kansas|13|Wichita State|0
 11/02/1945|Clemson|6|Miami(FL)|7
@@ -260,6 +271,7 @@
 11/03/1945|Murray State|19|Ohio|13
 11/03/1945|Northwestern|14|Ohio State|16
 11/03/1945|TCU|13|Oklahoma|7
+11/03/1945|Washington|7|Oregon|0
 11/03/1945|Idaho|0|Oregon State|34
 11/03/1945|North Carolina|6|Tennessee|20
 11/03/1945|Georgia|34|Tennessee-Chattanooga|7
@@ -291,6 +303,7 @@
 11/10/1945|Southern Illinois|7|Northern Illinois|13
 11/10/1945|Army|48|Notre Dame|0
 11/10/1945|Iowa State|7|Oklahoma|14
+11/10/1945|Tulsa|6|Oklahoma State|12
 11/10/1945|Ohio State|14|Pittsburgh|0
 11/10/1945|Miami(OH)|7|Purdue|21
 11/10/1945|Arkansas|7|Rice|26
@@ -299,6 +312,8 @@
 11/10/1945|Georgia Tech|41|Tulane|7
 11/10/1945|Boston College|0|Villanova|41
 11/10/1945|Clemson|35|Virginia Tech|0
+11/10/1945|Oregon State|7|Washington|6
+11/10/1945|Oregon|13|Washington State|20
 11/10/1945|Kentucky|19|West Virginia|6
 11/10/1945|North Carolina|6|William & Mary|0
 11/10/1945|Northwestern|28|Wisconsin|14
@@ -331,6 +346,8 @@
 11/17/1945|Wisconsin|7|Navy|36
 11/17/1945|Wake Forest|14|North Carolina|13
 11/17/1945|Notre Dame|34|Northwestern|7
+11/17/1945|Texas Tech|6|Oklahoma State|46
+11/17/1945|Washington State|13|Oregon State|6
 11/17/1945|Army|61|Pennsylvania|0
 11/17/1945|Indiana|19|Pittsburgh|0
 11/17/1945|Arkansas|0|SMU|21
@@ -364,6 +381,7 @@
 11/24/1945|Illinois|7|Northwestern|13
 11/24/1945|Oklahoma State|47|Oklahoma|0
 11/24/1945|Baylor|0|SMU|34
+11/24/1945|Oregon State|7|Southern California|34
 11/24/1945|Notre Dame|32|Tulane|6
 11/25/1945|Boston College|0|Holy Cross|46
 11/25/1945|Las Vegas AAB(NV)|0|Nevada|40
@@ -376,6 +394,7 @@
 12/01/1945|Army|32|Navy|13
 12/01/1945|Virginia|18|North Carolina|27
 12/01/1945|Great Lakes NTS(IL)|39|Notre Dame|7
+12/01/1945|Oregon|12|Oregon State|13
 12/01/1945|Baylor|17|Rice|14
 12/01/1945|Maryland|19|South Carolina|13
 12/01/1945|LSU|33|Tulane|0
@@ -385,3 +404,4 @@
 01/01/1946|Georgia|20|Tulsa|6
 01/01/1946|Missouri|27|Texas|40
 01/01/1946|New Mexico|34|Denver|24
+01/01/1946|Oklahoma State|33|St. Mary's(CA)|13
